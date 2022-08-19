@@ -1,17 +1,16 @@
-# Reset and base styles
+/* Reset and base styles */
 body {
     margin: 0;
     padding: 0 10px;
-    color: #000000;
+    color: #000;
     font-family: Verdana,Tahoma,Arial,Helvetica,Sans-serif,sans-serif;
-    border-left: 10px solid #cc9966;
-    border-right: 10px solid #cc9966;
 }
+*, *::before, *::after { box-sizing: border-box; }
 
 /* Link colors */
-a { color: #0033CC; }
-a:visited { color: #990099; }
-a:active { color: #FF0000; }
+a,
+a:visited,
+a:active { color: #00e; }
 
 img { border: 0; }
 
@@ -26,14 +25,14 @@ p { text-align: justify; }
 .valign-middle { vertical-align: middle; }
 
 /* Background colors */
-.bg-cccc99 { background-color: #cccc99; }
-.bg-cccccc { background-color: #cccccc; }
-.bg-ccccff { background-color: #ccccff; }
-.bg-ccff99 { background-color: #ccff99; }
-.bg-ccffff { background-color: #ccffff; }
-.bg-ffcc66 { background-color: #ffcc66; }
-.bg-ffcc99 { background-color: #ffcc99; }
-.bg-ffff99 { background-color: #ffff99; }
+.bg-1 { background-color: #cccc99; }
+.bg-2 { background-color: #cccccc; }
+.bg-3 { background-color: #ccccff; }
+.bg-4 { background-color: #ccff99; }
+.bg-5 { background-color: #ccffff; }
+.bg-6 { background-color: #ffcc66; }
+.bg-7 { background-color: #ffcc99; }
+.bg-8 { background-color: #ffff99; }
 
 /* Font size classes */
 .font-size-large { font-size: large; }
@@ -41,13 +40,27 @@ p { text-align: justify; }
 .font-size-small { font-size: small; }
 
 /* Layout */
-.header { position: relative; padding: 10px 0; }
-.header-img { position: absolute; left: 0; }
-.header-nav { position: absolute; right: 0; font-size: small; }
-.header-nav a { display: block; }
-.main { width: 600px; margin: 0 auto; }
-.sidebar { width: 200px; margin: 0 auto; }
-.spacer { height: 50vh; }
+.page-layout,
+.site-header { display: grid; grid-template-columns: 148px minmax(0, 600px) 200px; gap: 14px; max-width: 990px; margin: 0 auto; align-items: stretch; }
+.site-header { align-items: start; min-height: 124px; }
+.site-header > :first-child { min-height: 1px; }
+.site-header .header { grid-column: 2; }
+.site-header .header-image { grid-column: 3; }
+.left-sidebar { padding-top: 10px;}
+.left-sidebar p { margin: 0 0 1em; text-align: left; }
+.content-column { min-width: 0; padding: 10px; border-left: 5px solid #cc9966; border-right: 5px solid #cc9966; }
+.header { display: grid; grid-template-columns: auto 1fr; align-items: start; gap: 0 1em; padding: 10px; border-left: 5px solid #cc9966; border-right: 5px solid #cc9966; }
+.header-img { flex: 0 0 auto; }
+.header-nav { text-align: right;white-space: nowrap; }
+.header-nav a { display: inline; }
+.site-title { grid-column: 1 / -1; text-align: center; font-family: Verdana,Tahoma,Arial,Helvetica,Sans-serif,sans-serif; }
+.page-title { margin: 0 0 1em; text-align: left; }
+.content-column .post-title { text-align: left; }
+.post-date { margin: 0 0 1em; }
+.right-sidebar { padding-top: 10px; }
+.right-sidebar img { display: block; max-width: 100%; height: auto; margin: 0 auto; }
+.right-sidebar .portrait-name { text-align: left; }
+.spacer { height: 25vh; }
 
 h1 { text-align: center; font-size: large; margin: 0; }
 h2 { text-align: center; font-size: large; margin: 0; }
@@ -55,9 +68,21 @@ time { display: block; text-align: center; font-style: italic; }
 
 .footer-nav { text-align: center; }
 
-.sidebar img { display: block; margin: 0 auto; max-width: 100%; }
-.sidebar .peter-soul { text-align: center; }
+.right-sidebar .portrait-name p { text-align: center; }
 
-/* Table fallback */
-table { border: 0; border-collapse: collapse; padding: 0; margin: 0; }
-td, th { vertical-align: top; text-align: left; }
+@media (max-width: 900px) {
+    .page-layout,
+    .site-header { grid-template-columns: 120px minmax(0, 1fr); }
+    .right-sidebar { display: none; }
+    .site-header .header-image { display: none; }
+}
+
+@media (max-width: 600px) {
+    body { padding: 0 5px; }
+    .page-layout,
+    .site-header { display: block; }
+    .site-header > :first-child { display: none; }
+    .left-sidebar { display: flex; flex-wrap: wrap; gap: 0 1em; }
+    .left-sidebar p { margin-bottom: .5em; }
+    .content-column { padding: 5px 0; }
+}
