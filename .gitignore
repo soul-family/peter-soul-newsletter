@@ -1,0 +1,29 @@
+# Local History
+.lh/
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor files
+*.swp
+*.swo
+*~
+
+
+# Temp folders
+_temp/
+.temp/
+temp/
+.git-rewrite/
+
+# Build outputs and caches
+build/
+.cache/
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+debug*
