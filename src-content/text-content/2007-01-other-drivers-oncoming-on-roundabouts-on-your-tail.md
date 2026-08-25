@@ -1,0 +1,28 @@
+_January 2007_  
+
+# Other drivers ' oncoming, on roundabouts, on your tail
+
+
+It seems to me that while you are driving, you make and then break many a partnership. I don't mean your relationship with the occupant of the passenger seat (because naturally you should try to keep on good terms with your partner, observer or whoever is beside you). No, I'm thinking of encounters with all the other drivers on the road. Perhaps 'partnership' isn't the exact word, but you do share an aim with each of these people (if only briefly), which is to guide your vehicles along either the same piece of tarmac or adjacent pieces, making good progress but avoiding any impact - or even the worry that one might happen.
+
+Often the first and main task is to guess quickly what the other driver is thinking and is likely to do. This is not easy, or at least I don't find it easy. I suppose you need to be expert in car-body language! Anyway, let's take a look at some situations in which you meet your partners in this 'dance of driving' and you want to avoid treading on each other's feet. (Then with luck I shall remember better what to do myself, next time.)
+
+Here's a simple example: when turning left into any road that's not so wide, do you check whether there's traffic coming from the left, and if there is, do you make a point of taking the corner slowly and tightly? That way, the approaching driver won't suddenly start worrying about whether your offside wing may cross the centre line as you swing round.
+
+I don't want this column to seem like a lecture ... but when there's a low sun behind you, are you ready for an oncoming driver to make a sudden swerve, or maybe fail to notice your indicator, because of difficulty in seeing your car and other things? And sun or no sun, do you find (like I do) that when a bicycle is approaching in the distance, a vehicle will nearly always appear behind it and swing out to pass? Be prepared!
+
+And then if there are pedestrians ahead (especially children) on the opposite footpath, remember too that they might just cause an oncoming vehicle to swerve out. As I said last year, drivers and pedestrians alike seem quite blind to the dangers of having to pass so close to each other, as if the kerb has some magical protective property.
+
+I've also mentioned previously the stalemate you get at mini-roundabouts when three drivers all want to bear right but feel they have to give way (to the right). If you arrive last of the three, you can often prevent the stalemate by not stopping but slowly driving on through - watching the other two vehicles for movement, of course. The other drivers ought to realize that this is how everyone will get going again soonest. Paradoxically, three-way flow of traffic around a mini-roundabout is most efficient when everyone is giving way to the left rather than the right but, needless to say, you won't find this rule of the road in the Highway Code.
+
+Something else worth thinking about as you approach any small roundabout is lines of sight. Suppose there's another car coming from the right, at about the same distance from it as you are: you ought to give way, yes? Not necessarily! If you see that the driver's own view to the right happens to be blocked (eg, by a wall) then you can expect the car to slow right down at the line, giving you enough time to proceed without getting in its way. But before you do this, check that the other driver really is braking, in case he or she is reckoning (just as you are) that there's no need to give way to any traffic coming from the next direction...
+
+Let's head for the open road: like you, when I catch up with a vehicle I try to keep to what I judge to be a safe separation, depending on its speed and the road conditions. Yet after a minute or so, I notice that I've crept closer. It's as if familiarity breeds not contempt but a more relaxed view of whether the driver may slam on the brakes. It takes some mental effort to drop back again.
+
+Now for a most unenjoyable road-partnership: the encounter with a tailgater. You will have your own views on this, so forgive me for coming out with mine. They're based on simple logic: just as the minimum safe *separation* is linked to speed (see the paragraph above), so your maximum safe *speed* depends on the gap behind you - plus the fact that you are being distracted by what is in your rear-view mirror. So if the gap is small, you ought to slow down (very gradually) or else try to widen it.
+
+There are, I think, three different types of tailgater. One group seems to catch up with you by accident, and can't make the effort to drop back (again see above). If you put your foot down for about a second to increase the gap to a safe size, with luck your follower will then stay clear. I'm assuming you're not restricted by the speed limit, or by another vehicle ahead. If you are, first reduce your speed gently by about 5 mph and then hit the pedal.
+
+The second group is more persistent but will realize, after two or three of these bursts of acceleration, what you are doing and why. They should then keep their distance. If, however, you're being pursued by a serious tailgater there's little option but to find a layby or similar, and let the problem vanish in the distance!
+
+You do have to admire the reactions of tailgaters and (some of) their skills. Even so, it's often possible to accelerate away just when they least expect it. If you are being chased as you move off from a junction, try accelerating in two stages. And remember, the chances of an impact from any one offender are really very small indeed, so don't let the worry distract you from driving safely yourself.

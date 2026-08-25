@@ -1,0 +1,32 @@
+_April 2016_  
+
+# All reversed: road-sign, eye-test results, cholesterol trend, NZ road rule
+
+
+This month I have some short stories to recount. Some of you [in the Thames Valley Group] will know where Littlewick Green is, even if you've never turned off the A4 Bath Road to visit this idyllic little village (just west of Maidenhead). In fact, two parallel roads lead off into it, meeting on the far side of the green: Jubilee Road and Coronation Road. One is marked on the main road by a single sign pointing to the village, the other by a pair of back-to-back signs.
+
+Except that the other day when I drove that way (which I don't do very often) I observed that the twin signs were pointing north instead of south, in other words away from the village and into the A4 roadside hedge! Stranger still, Google Street View later showed me what I didn't notice at the time, namely that the signs are mounted on two poles, rather than a single one which would have made it (relatively) easy for someone to swing the signs round.
+
+Can it be that the villagers, anticipating the tourist season, wanted to deter passing motorists from taking a diversion around the green (or at least, from doing it in both directions)? If so, they must have come out at dead of night with spanner and screwdriver to detach and reverse the signs - no doubt relying on the inertia of the local council in detecting the deed, and of local drivers in reporting it. But you know me by now: I did report it. I wonder if this will spark a right royal battle between village and council...?
+
+Now to a serious topic: since 2010, apparently, opticians have been required to use - on behalf of the DVLA - a specific model of vision-analyser for testing the eyesight of drivers who have been diagnosed with such problems as glaucoma. But a few months ago, it was reported that this model had been giving incorrect results, consistently recording eyesight as worse than it was. And some 600 people had been identified as possibly having been wrongly told not to drive.
+
+Of these 600, it seems that 180 had (at the time of the reports) applied to be retested, and that the pass rate was about 80%! But that's just the 'good' news. About 190 replied to the DVLA *not* wanting to reapply for the licence, and 230 did not even respond. All these people must have been put to great inconvenience, in having to sell their cars and find alternative means of transport. And how many of them cannot now face the cost and stress of reapplying and then (with luck) resuming driving? Yet the chances of anyone getting compensated for the error seem slim.
+
+It all came to light after the DVLA had signed an exclusive contract with Specsavers to do this critical eye-testing: their accumulated data from many branches soon revealed the problem. But again, that's just the good news. The drawback is that not everyone is within easy reach of a branch! For example, in Scotland, there's at least one town where residents could previously have taken the test at a local optician if required, but must now make something like a eight-hour round trip to the nearest Specsavers. And all so that the DVLA can save a little money in administering the tests...
+
+Last July I said that my GP had offered me statins to lower my cholesterol level. It was 5.7, and I don't know if the figure had actually been rising, or if it was static and the 'goalpost' had been falling (with age), but I was now in the high-risk category. I volunteered instead to improve my diet and take more exercise. The GP looked dubious, but said: OK, let's give it three months, and see.
+
+So I reduced my intake of 'fatty' things by around half (giving up only chips totally, not that I ate them often anyway), and set out to walk a couple of miles briskly every day - well, nearly every day. I measured my speed to be 4+ mph, if that gives you an indication of the briskness. And at the end of the three months, not only had I lost most of the weight I recently put on (around the tum) but also my cholesterol reading was down to 4.6!
+
+Not another word from my GP about statins, either. The beauty of it is that if I want to indulge in some naughty foodstuff, or else if I'm feeling lazy, I can tell myself that it's probably the *other* factor that is doing me good, really. And there's also leeway for me to 'improve' a little further under both headings later, if necessary.
+
+I must say that the feeling of being extra walking-fit, at my age, is most satisfying. (It also means that when Mrs S and I are out walking together, we must clasp hands even more tightly, otherwise our different natural walking speeds would cause us to part company rapidly indeed.) But why not, you might ask, try cycling or jogging to raise my fitness further?
+
+Well, on a bike I think I would have to exceed the 30 mph limit, in order to exert myself even as much as when I walk - and also I would be free-wheeling for half the time, probably. As for jogging, I doubt if I could keep going for long enough to do any good! Anyway, I hope all this has been some encouragement to any readers who find themselves in a similar situation.
+
+In January, my VW Golf (2010 vintage, 43K on the clock) passed its MOT as usual, but with a warning note: rust on the front discs was causing the pads to develop grooves, and both the pads and the discs would need to be replaced soon. But why was this not happening at the rear ones? And isn't it mainly the result of my driving style, thinking ahead so as to minimize use of the brakes? It seems to me that the fuel I've been saving by doing so will be far outweighed by the cost of having the new brake components fitted...
+
+Finally, news from New Zealand (and no, it didn't arrive on April 1st): visitors to this country can now take a test on a driving simulator. It includes such hazards as bright sunlight and cows wandering across the road. If you accept the test, and then pass it, you will be able to hire your car at a discounted rate.
+
+It's all in response to a spate of accidents caused by foreigners, many of whom apparently are tourists from China who are accustomed to driving on the right in LHD cars. To us Brits, however, the vehicles and the rules of the road should seem familiar enough, down under: even the strange rule that you must give way when turning left has been reversed!

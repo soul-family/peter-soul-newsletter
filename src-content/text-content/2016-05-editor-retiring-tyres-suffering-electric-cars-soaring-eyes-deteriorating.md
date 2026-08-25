@@ -1,0 +1,32 @@
+_May 2016_  
+
+# Editor retiring, tyres suffering, electric cars soaring, eyes deteriorating
+
+
+Dear Mr Editor [of the newsletter of the Thames Valley Group of Advanced Motorists] or, as I usually address you in my covering email when submitting this column, Hello Richard:
+
+I know you have two more issues to publish before you relinquish the editor's chair, after ten years in it, but I thought I would get my thanks in early - and they apply equally to your predecessor, Dave. It was nearly 14 years ago that I submitted a column to him, explaining how cat's-eyes work. My thought was to write a regular 'physics' page, even though I only had a handful of further ideas for topics in mind at the time. (Unfortunately I didn't get the description of a cat's-eye quite right, as I eventually realized and admitted on this page in 2013!)
+
+To my great surprise, I am now writing column No 139. Of course, I haven't been able to come up with all that number of different areas of physics-with-motoring-connections to discuss. So in addition to those that I could think of, I've written about any subjects that I felt might be of interest, while trying to apply to them the logical(?) way of thinking that I believe I acquired during my education as a physicist, long ago... or maybe my thought-processes have always been slightly unusual, and it was this that made physics (and maths) attractive to me in the first place.
+
+Anyway, you (Messrs Editors) gave me the opportunity and the incentive to explore and research all sorts of topics, in order to write about them and explain them here. But for this, I wouldn't know as much as I do about - to mention just a few examples - obscure road signs and markings, road-traffic regulations, the workings of the eyes and the brain, and how fuel is supplied to the pumps.
+
+Nor would it have occurred to me to watch Jeremy Clarkson in *Top Gear*, as he drove at fult tilt from Land's End to Lowestoft on the shortest night of the year, between sunset and sunrise: the fun was in analysing how the filming was done (even taking into account the phase of the moon), and wondering how it was that he emerged from his vehicle, in the Suffolk dawn, without a hint of stiffness or tiredness or needing a pee!
+
+I trust that a new editor has been or will be found for this newsletter. I know from experience (of editing a residents' newsletter for eight years) that it's a rewarding and satisfying job, with the advantage in this case that if there's space needing to be filled, the IAM seems to be a never-ending source of news and reports. As for me, I shall try to keep supplying my two-pages'-worth...
+
+I have a page left to fill now, so let me start by mentioning that Mrs S and I are just back from our regular visit to the S of France, where I observed the standard of driving to be just as variable, still, as in the home country! But often what dismays me the most (probably because of the physicist in me) is something that motorists everywhere do when they are *not* driving - that's to say, not moving.
+
+At speed, we depend for our lives on the extraordinary grip that's being exerted on the road, at any time, by a small area of each tyre. But many drivers, when they come to a halt and then realize that the front wheels are pointing in the wrong direction for the next manoeuvre, simply spin the steering-wheel (which they can do only because they are being aided by the engine-driven power-steering), thus overloading the linkage and dragging the front tyres round, as if their grip on the road had suddenly evaporated. As I've said previously, I can feel their pain. Though I cannot imagine how much cumulative damage is being done to the steering mechanism and to the tyres.
+
+Last month, you (Mr Editor) reported Tesla's unveiling of their Model 3: "A more modestly priced, all-electric car ... put your deposit down now, but expect a wait until late next year," you said. Well, my information is that "late next year" represents only the expected launch date for this car, and that already 400,000 orders (worldwide) have been placed. So the wait is likely to extend some way beyond 2017!
+
+I've heard about other concerns too: firstly, Tesla service-centres are few and far between in this country (there are just four, according to the website, with two more "coming soon"). And independent servicing outfits will have little incentive, it seems, to train their mechanics in the special techniques and precautions required in working on electric cars. Hence government intervention and support may be needed, to ensure a sufficient supply of expertise.
+
+Secondly, the insurance companies could take some persuading to bring electrics down from their present position at or near the top of the insurance-rating table. Vehicles that are complex or expensive to repair are not favoured by insurers...
+
+Still, the arrival of the Model 3 with its 200+ mile range, six-second acceleration (0-60), high-tech features, nearly-all-glass roof, and an interior predicted to "feel like a spaceship", can only give sales of electrically powered cars a further boost (and I gather that the rate of growth is already such that 16 times as many were registered in the first three months of this year as in the whole of 2013). More and more, then, pedestrians will have to keep a watch for vehicles bearing silently down on them as they cross the road. Not to mention needing to avoid charging-cables crossing the pavement!
+
+There was a long discussion recently in *Advanced Driving* magazine, under the heading *Are older drivers more dangerous?* My first thought was: More dangerous than what (or whom) - than younger drivers? Or than older ones used to be? Or simply more dangerous because of their increasing numbers? The discussion usefully explored all three aspects, though one point stood out (for me, at least), namely that eyesight worsens with age.
+
+It is astonishing that regular eye-examinations for drivers are not compulsory here, as they are in many other EU countries. And your eyesight can easily deteriorate significantly without your being at all aware of it. It's worth knowing too that conditions such as diabetes, hypertension, high cholesterol level and sometimes even cancer can be detected by an opthalmologist. So the serious message (and I'm not particularly addressing you now, Mr Editor!) is: get your eyes tested...

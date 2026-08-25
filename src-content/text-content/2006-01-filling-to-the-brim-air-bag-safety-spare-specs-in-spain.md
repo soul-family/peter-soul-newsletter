@@ -1,0 +1,24 @@
+_January 2006_  
+
+# Filling to the brim, air-bag safety, spare specs in Spain
+
+
+The new year seems to be a good time to clear my mind of puzzles that were troubling me in the old one, by writing them down. First let's look at the tax-disc question raised by a reader in November (reacting to my column the month before): surely it's OK to change to the new disc some time before the end of the month in which the old one expires? I emailed the DVLA, who advised that you must display the current tax disc at all times when your car is on the road. If you don't, the police may pounce.
+
+So I still think that relicensing (early) and then displaying both discs until the following month is the safest strategy. The DVLA also said helpfully that they themselves will allow late renewal up to 14th of the next month, before prosecuting you (though this doesn't quite fit with the story I reported in October). But they admit this is no protection if the old disc comes within sight of the police meanwhile.
+
+Here's another question I'm now able to answer: if I were to fill the fuel tank to the top each time instead of half-filling it (as I usually do), how much would it cost me to cart the extra load of petrol around? Let's say I shall be putting in 40 litres instead of 20: this means that the car will be carrying ten litres more on average (not twenty as you might think), which will weigh about seven kilograms.
+
+The next part of the calculation relies on a test I read about, in which adding a 300 kg load to a car was found to raise its fuel consumption by 9% (I can't remember which model it was, but never mind). From this I estimate that my 7 kg of petrol will increase consumption by 0.2%. The resulting extra cost turns out to be equivalent to less than 8p per tank-full. This is rather less than I expected and a small price to pay for halving the number of times I shall be stopping for petrol in future!
+
+Next a double puzzle: why are steering wheels made of materials that have such variable frictional properties (in my experience anyway) - ranging from sticky when your hands are damp, to slippery when they are cold or you're wearing woolly gloves? And yet, how is it that the cheap slip-on wheel-cover I bought a few years ago manages to provide an almost constant amount of grip whatever the state of my hands (or gloves)? It's a minor miracle of physics.
+
+Talking of steering wheels: when an air-bag is triggered into action by a collision, it expands in a twentieth of a second or less and then immediately starts deflating in order that you will hit a relatively soft surface. But how far out from the centre of the steering wheel does the driver's air-bag expand, initially? Because if you habitually sit with your face or torso at this distance (or less) then the air-bag will hit you instead of the other way round, and at that moment it will be a dangerously hard and fast-moving surface.
+
+I have seen this critical distance estimated at 30 cm, but does the figure apply to all cars? From my chin (in its usual driving postion) to the wheel of my Corolla is about 40 cm, so I'm probably safe enough - but drivers who sit closer because of having shorter legs are possibly not. My owner's manual says only that you should sit as far back from the steering wheel as possible (and wear a seat-belt, of course). I almost prefer some other advice I saw, which was that the safest place to be is in the rear of the car.
+
+If a shop can afford to shout Buy One, Get One Free, why can't it sell the single item at half the price instead? I ask because Boots sells its single-use cameras for £5.99, accompanied by the BOGOF offer. Supposing you have two cars in the family, this enables you to buy a camera to keep in each car very cheaply, ready for the day when you might be involved in an accident and need some photographic evidence. If you run just one car then I would suggest you find a friend and BOGOF together.
+
+You would have to pay out again of course for developing the vital images if needed, but that too would be money well spent. I know that most mobile phones newer than mine contain a camera - but I suspect you would not obtain as good a print from them, especially after dark.
+
+The final puzzle comes from the book *Driving Abroad*, which states that if you need glasses for driving, then in Spain it is a legal requirement that you carry a spare pair in the car (a sensible thing to do anyway, of course). But let's say you damage the specs you are wearing, and so you put the others on. Now you have no usable spare pair to satisfy the regulations and more importantly *la* *policia* if you are stopped! Is it acceptable to wave the broken specs at them? If not, then it seems to me that you really need to have two spare pairs on board to start with. The moral is: never throw an old pair of glasses away...

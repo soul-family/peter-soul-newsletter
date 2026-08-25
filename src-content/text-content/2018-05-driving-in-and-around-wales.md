@@ -1,0 +1,32 @@
+_May 2018_  
+
+# Driving in and around Wales
+
+
+I am having to start composing this column (with some difficulty, given the surroundings!) having arrived at the furthest corner of North Wales, on a big island: Anglesey. At any rate, it has twice the area of the Isle of Wight, though with barely half the population, which would explain the relatively traffic-free roads. Better still is the near-absence of potholes (this seemed to apply across N Wales too, as we drove).
+
+Here in a large holiday home above a beautiful bay are all the eight descendants of my late parents, along with spouses - in total, 13 (plus a 'bump', and a dog, easing any superstitious minds). The weather maps for the coming week show Anglesey to be in a microclimate, giving us fine weather while most of the mainland is to be rained on...
+
+Our journey here (for Mrs S and me) was not uneventful: as we neared Oxford, in the centre lane of a congested M40, brake and hazard lights lit up ahead, and then suddenly a large flattish object appeared in our path. Driving over it seemed the best course, and at first I thought I had left it behind, from what I could see in the rear-view mirror. But I soon realized that something was caught underneath. Luckily I was able to escape the flow on to the hard shoulder.
+
+By reversing a few feet (illegally!) I managed to release the object, which turned out to be a large, severely battered rucksack, with much still inside. We loaded it on board, set off again and turned off the motorway for lunch as planned. I phoned Thames Valley Police, who recommended handing the item in at the nearest police station.
+
+This was in Bicester, and here the officer on duty put on rubber gloves, produced a large pair of tongs, and proceeded to fish out the contents. The sorriest-looking of these was a small laptop, now lap-shaped instead of flat. But nothing offered any obvious identification, so our man handed me a receipt and said I could have everything (though I assume not the tech stuff, because of data protection) in six weeks if it was still unclaimed. I tried to look appreciative.
+
+What annoys me most, now, about this episode is that although my dashcam must have captured it, I didn't think to save the recording (which was therefore quite soon overwritten). I would like to have checked my memory of what happened so quickly: how did the drivers ahead react to the hazard? Was I too close to the vehicle directly in front? Did the rucksack really appear flat enough to be driven over? I shall never know! Next time I must remember to keep the evidence...
+
+Mentioning such evidence - and being in Wales - reminds me of Operation Snap. This is a scheme that was started by N Wales Police 18 months ago, and now covers the whole of the Principality, by which anyone can submit camera footage online of another driver's moving-traffic offence, such as crossing a double white line, jumping a red light or using a mobile phone (bad parking is excluded, and also collisions for some reason), and can expect the police at least to assess it and maybe take action.
+
+Previously, for the police to receive and make use of filmed evidence from members of the public was a long and complex business (as it presumably still is elsewhere in the UK, where such film is accepted at all). I've seen a check-list of 28 actions to be taken! But with Operation Snap, half of these are eliminated just by the simple sending in of the recording. It's then reviewed, and immediate decisions can be taken about whether an offence has clearly been committed and, if so, whether to prosecute the offender, fire off a warning letter, or just let the matter drop.
+
+What do you need to do to report a misdemeanour you've just seen (on a Welsh road)? First make sure your recording - in a dashcam or a cycle-helmet camera or whatever - is preserved, and that you can read the registration number of the offending vehicle. Then go to https://gosafesnap.wales for further instructions. These include confirming the details of what happened, stating if you are willing to attend court if necessary - and *not *editing or changing the recording at all.
+
+In fact, we're told that less than 2% of these reports result in a court case: offenders are more likely to be given a fixed penalty or offered an education course. And in any case, the main objective is not achieve prosecutions but to improve road safety by influencing driving behaviour, as everyone becomes more aware that an offence is likely to be caught on camera. You are warned, though, that your own driving will be also be scrutinized. So don't (for example) break the speed limit in order to catch up with someone who you saw breaking it first!
+
+Recently I've seen more news, good and bad, on this idea of influencing behaviour: the good news is that a Croatia-based insurance company studied the effect of giving drivers a smartphone app that generated a safety score for them, based on various aspects of their driving - acceleration, braking, cornering, even their speeding. The more frequent users of the app increased their score by an average of nearly 40%, in a year. Whatever this may mean exactly, it's clear that being monitored encouraged the users to improve their standard of driving.
+
+Bad results, however, come from watching films featuring 'extreme driving'. It's not easy to measure the direct effect of violent or explicit films on behaviour, but a researcher at Harvard Medical School hit on the idea of correlating online speeding-ticket records (across a particular county in a US state) with the times and locations of the release of films in the *Fast and Furious* series, over a period of five years.
+
+What the movies did (in districts around the cinemas), curiously, was to boost the average speed shown on tickets but not the quantity of them. This suggests that existing speeders sped faster, but the films didn't inspire additional ones. Which is half-good news for everyone, I guess, if it extends to other film genres: it implies that you may safely watch *Murder on the Orient Express* and not become murderous yourself.
+
+Lastly, I regret to say that dashcams do catch cyclists out sometimes: last month, in Nottingham after dark, one of them was seen to lay down in the road alongside his bicycle, in front of an approaching car (which stopped in time). When told by the driver that he was on camera, he promptly got up and scooted. If this was some attempted insurance scam, it was a risky one!
