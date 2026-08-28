@@ -18,6 +18,9 @@ _temp/
 temp/
 .git-rewrite/
 
+.doc
+src-prep-last/
+
 # Build outputs and caches
 build/
 .cache/

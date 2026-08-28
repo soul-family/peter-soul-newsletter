@@ -125,6 +125,8 @@ Every AI interaction must log to `.ai-activity/` folder:
 | Date-Aware GitHub Backup | `.skills/date-aware-backup/skill.md` | Derives original publish/update dates from filenames and filesystem timestamps, then creates backdated Git commits for a static HTML site archive. |
 | Commit Prep Verifier | `.skills/commit-prep-verifier/skill.md` | Validates `src-preps/` folder structure, checks for duplicate/missing files, and verifies file Created/Modified/Accessed dates before migration. |
 | AI Transparency | `.skills/ai-transparency/skill.md` | Logs AI interactions, preserves planning artifacts, and maintains a clear audit trail of decisions, sources, and tools used. |
+| Commit Preparation Steps | `.skills/commit-preparation-to-staged/skill.md` | Moves prep folder content to root, stages files, and commits with backdated author/date. |
+| Date-Aware Pre-Commit | `.skills/date-aware-pre-commit-from-prep-folder/skill.md` | Sets file/folder timestamps for backdated commits; rules for new files, modified folders, and asset folders. |
 
 ### Skill Usage
 When a task matches a skill description, load the skill file and follow its workflow. Do not improvise beyond the skill's defined steps unless the user explicitly requests deviation.
