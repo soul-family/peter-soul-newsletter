@@ -44,12 +44,12 @@ Concepts and ideas without actionable tasks. No T-numbers assigned. Items may be
 - Add AI transparency logging for generated code, decisions, and prompts.
 - Adopt open-source-friendly workflows and document licensing.
 - Integrate tooling and automation to speed implementation while tracking changes.
-- Define git migration preparation folders under `/src-preps`, with subfolders for each commit (`commit0`, `commit1`, ...), including files added or changed per commit.
-- Create `commit0` prep containing README and a CC licence file that allows non-commercial sharing with attribution.
-- Identify the initial post and align the initial commit date for `src` files, referenced non-newletter pages, images, never-referenced `src` pages, and archive links to the date of the initial  post.
-- Read `src-prep-last` folder to verify final content version and compare with commit preparations.
-- Plan commit sequence for newletter posts, starting with initial newletter archive content and then adding subsequent posts plus newly referenced non-newletter files and assets.
-- Ensure all newletter posts have publishing dates and that each commit includes the newletter post content, updated newletter archive file, and any newly referenced assets.
+- Define git migration preparation folders under `/src-preps`, with subfolders for each commit (`commit0`, `commit1`, ...), including files added or changed per commit. *(Completed as part of v1 migration; prep folders removed, process documented in git history)*
+- Create `commit0` prep containing README and a CC licence file that allows non-commercial sharing with attribution. *(Completed as part of v1 migration)*
+- Identify the initial post and align the initial commit date for `src` files, referenced non-newletter pages, images, never-referenced `src` pages, and archive links to the date of the initial  post. *(Completed as part of v1 migration)*
+- Read `src-prep-last` folder to verify final content version and compare with commit preparations. *(Completed as part of v1 migration; folder removed, verification in git history)*
+- Plan commit sequence for newletter posts, starting with initial newletter archive content and then adding subsequent posts plus newly referenced non-newletter files and assets. *(Completed as part of v1 migration)*
+- Ensure all newletter posts have publishing dates and that each commit includes the newletter post content, updated newletter archive file, and any newly referenced assets. *(Completed as part of v1 migration)*
 
 ## Newsletter Columns
 

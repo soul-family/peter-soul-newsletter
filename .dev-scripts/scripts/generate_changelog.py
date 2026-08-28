@@ -1,14 +1,13 @@
 #!/usr/bin/env python3
 """
-generate_changelog.py — build CHANGELOG.md from .changelog/ folder.
+generate_changelog.py — update CHANGELOG.md from .changelog/ folder.
 
 Reads:
   - .changelog/unreleased.md
-  - .changelog/v1.0.0.md
 
-Writes:
-  - CHANGELOG.md (unreleased first, then v1.0.0)
-  - Empties .changelog/unreleased.md after successful generation
+Updates:
+  - Prepends unreleased entries to CHANGELOG.md
+  - Empties .changelog/unreleased.md after successful update
 """
 
 import sys
@@ -18,7 +17,6 @@ BASE = Path(__file__).resolve().parent.parent.parent
 CHANGELOG_DIR = BASE / '.changelog'
 CHANGELOG_MD = BASE / 'CHANGELOG.md'
 UNRELEASED_MD = CHANGELOG_DIR / 'unreleased.md'
-V1_MD = CHANGELOG_DIR / 'v1.0.0.md'
 
 
 def read_file(path):
@@ -29,13 +27,13 @@ def read_file(path):
 
 def main():
     unreleased = read_file(UNRELEASED_MD)
-    v1 = read_file(V1_MD)
+    existing = read_file(CHANGELOG_MD)
 
     parts = []
     if unreleased.strip():
         parts.append(unreleased.strip())
-    if v1.strip():
-        parts.append(v1.strip())
+    if existing.strip():
+        parts.append(existing.strip())
 
     output = '\n\n'.join(parts)
     if not output:

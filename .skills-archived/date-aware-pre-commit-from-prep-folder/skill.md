@@ -1,3 +1,5 @@
+> **Archived**: This skill was used for v1 backup preparation and is preserved for historical reference. The v1 migration is complete.
+
 The prompt now includes all preparation steps in order:
 
 1. Determine backdated commit date

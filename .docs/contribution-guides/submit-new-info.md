@@ -143,7 +143,7 @@ When submitting information about blog posts:
 Correction to July 2002 post
 
 ## Where
-july_2002.html, third paragraph
+`2002/july/index.html`, third paragraph
 
 ## Information
 The post mentions "the 1998 meeting" but it should be "the 1999 meeting"

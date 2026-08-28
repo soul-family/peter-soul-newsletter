@@ -1,3 +1,5 @@
+> **Archived**: This skill was used for v1 backup preparation and is preserved for historical reference. The v1 migration is complete.
+
 # Commit Prep Verifier Skill
 
 ## Goal
@@ -39,14 +41,13 @@ Generate a table:
 
 | Commit | Files | Date Range | Issues |
 |--------|-------|------------|--------|
-| commit0 | README.md, LICENSE | N/A | — |
+| commit0 | README and LICENSE | N/A | — |
 | commit1 | index.html, assets/... | 2002-07-01 | None |
 | ... | ... | ... | ... |
 
-## Python Script
-Run: `python .dev-scripts/scripts/verify_preps.py <preps-directory>`
+## Verification Script
 
-Output: `VERIFIED` or list of issues with file paths and reasons.
+Run the pre-commit audit tool to verify preparation folder structure, file dates, and completeness before migration.
 
 ## Common Issues
 - **Future dates**: File **Modified** > today — ask user if intentional

@@ -12,7 +12,7 @@ Ensure consistent AI transparency throughout the project by logging interactions
 
 ## Prerequisites
 - `.ai-activity/` directory exists with required log files
-- `.skills/` directory exists for skill definitions
+- `.skills/` directory exists for active skill definitions
 
 ## Logging Rules
 
@@ -50,17 +50,20 @@ One row per interaction:
 - Link to detailed entries in INTERACTIONS.md if needed
 
 ## Planning Preservation
-- Original planning documents must preserve in `.dev-scripts/` or `_temp/` folders
-- No planning artifact should discard; move to archive if no longer active
-- All intermediate scripts and calculation code must preserve in `.dev-scripts/`
-- Use file naming that preserves chronology: `planning-original.md`, `date_mapper_v2.py`
+- Planning documents preserve in version control, not in local folders
+- No planning artifact should discard; intermediate files are in git history
+- All intermediate scripts and calculation code are preserved in git history
+- Use file naming that preserves chronology: `planning-original.md`, `date-mapping-v2`
 
 ## Skill Organization
-- Skills are stored in `.skills/` directory
+- Active skills stored in `.skills/` directory
+- Archived skills stored in `.skills-archived/` directory
 - Each skill has a clear Goal, When to Use, Prerequisites, and workflow steps
 - Skills are loaded at the start of matching tasks
 
 ## Migration Transparency
+
+The v1 backup migration is complete. All decisions, intermediate files, and scripts are preserved in git history and documented in the AI activity logs. The following phases document the completed v1 migration process:
 
 ### Consulting Phase
 - Document site structure analysis in INTERACTIONS.md
@@ -76,7 +79,7 @@ One row per interaction:
 
 ### Execution Phase
 - Log all file operations in INTERACTIONS.md
-- Preserve intermediate scripts in `.dev-scripts/`
+- Preserve intermediate scripts in version control (git history)
 - Run verification and log results
 - Document any issues or deviations from the plan
 
@@ -84,13 +87,13 @@ One row per interaction:
 
 ### Temporary Files
 - Active planning files may reside in `_temp/` during development
-- Completed planning artifacts should move to `.dev-scripts/` for preservation
+- Completed planning artifacts are logged in AI activity and changelog; intermediate code is preserved in git history
 - Never delete planning artifacts without explicit user instruction
 
 ### Reusable Code
-- All Python scripts for date mapping, prep verification, and git migration go in `.dev-scripts/`
+- Essential scripts go in the `.dev-scripts/` folder
 - Scripts must document with usage instructions
-- Intermediate calculation scripts must preserve even if superseded
+- Intermediate calculation scripts are preserved in git history
 
 ## Verification Standards
 
@@ -99,7 +102,6 @@ One row per interaction:
 - [ ] SOURCES.md reflects all consulted sources
 - [ ] TOOLS.md updated with tools used
 - [ ] SESSIONS.md updated with outcome
-- [ ] Planning artifacts preserved in `.dev-scripts/` or `_temp/`
 - [ ] No intermediate code deleted without review
 
 ### Audit Trail

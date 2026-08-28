@@ -1,4 +1,37 @@
+All notable changes to this project are documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/),
+and this project adheres to [Semantic Versioning](https://semver.org/).
+
 ## [unreleased]
+
+### Changed
+- Updated AI transparency skill to reflect archived skills and simplified workflow
+- Updated documentation to remove v1 prep folder references and reflect v1.5 URL structure
+- Filled in research log with actual project state and key findings
+- Updated task management guide and tools log for current project state
+
+### Removed
+- v1 migration preparation folders and intermediate files
+- Python cache directories from dev-scripts
+- Obsolete gitignore entries for v1 migration temp folders
+
+## [v1.5.0]
+
+### Added
+- HTML5 doctype and modern markup standards
+- Column post titles to each page
+
+### Changed
+- Archive modernized to HTML5 doctype
+- Table-based layouts converted to div-based structure
+- Styling extracted using CSS3 variables
+- Contact info with obfuscated email
+- Column URL structure restructured for better navigation
+- Documentation organized into topic-based folders
+
+### Archived
+- Commit prep verifier, date-aware backup, commit preparation, and date-aware pre-commit skills moved from `.skills/` to `.skills-archived/` (v1 migration complete)
 
 ## [v1.0.0]
 

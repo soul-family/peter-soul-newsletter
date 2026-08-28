@@ -54,3 +54,7 @@ Version 1 represents the original published website as authored by Peter Soul be
 - Character preservation: apostrophes, hyphens, and special characters maintained exactly as authored
 - Blog columns created using [NetObjects Fusion 7 for Windows](https://en.wikipedia.org/wiki/NetObjects_Fusion), a WYSIWYG web editor that generated the original table-based layouts and navigation structure
 - Family trees created using [GenoPro](https://en.wikipedia.org/wiki/GenoPro), a genealogy software application that produced the family tree diagrams and data embedded in the HTML pages
+
+## Preserved Skills
+
+AI-skills documenting the backup, migration, and preservation workflow are preserved in `.skills/` (active) and `.skills-archived/` (archived commit prep verification, date-aware backup, commit preparation to staged, and date-aware pre-commit) are archived as v1 migration is complete.

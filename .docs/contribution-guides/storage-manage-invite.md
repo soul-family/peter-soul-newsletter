@@ -110,18 +110,17 @@ Or use the repository search bar:
 ### Key Directories
 
 - `content/` — Main website content
-- `content/columns/` — Blog posts organized by date
+- `content/columns/` — Blog posts organized by date (e.g., `2002/july/index.html`)
 - `assets/` — Images, CSS, and other assets
-- `src-prep-last/` — Latest version of original site files
-- `src-preps/` — Commit preparation folders with backdated history
+- See git commit history for original site files and preparation folders (v1 migration artifacts removed)
 
 ### Reading Blog Posts
 
-Blog posts are organized by month and year:
+Blog posts are organized by year/month folders:
 
-- `july_2002.html` — July 2002 post
-- `september_2002.html` — September 2002 post
-- And so on through `march_2019.html`
+- `2002/july/index.html` — July 2002 post
+- `2002/september/index.html` — September 2002 post
+- And so on through `2019/march/index.html`
 
 Each post file contains the full HTML of that month's column.
 

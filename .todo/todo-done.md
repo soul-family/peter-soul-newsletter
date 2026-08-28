@@ -52,3 +52,23 @@ Completed work from the todo-next.md file.
 - T-7: Separate each family tree into its own folder with index pages
 - T-8: Create credits pages for family tree attribution
 - T-9: Move family tree files into dedicated commit preparation folders
+
+## v1.5.0 Modernisation
+
+- T-38: Update to modern HTML standards
+- T-42: Modernise table-based layout structure
+- T-43: Update contact information for the archives
+- T-44: Remove outdated email assets and references
+- T-45: Improve file structure
+- T-46: Create archive guides
+- T-47: Create management guides
+- T-48: Add updates and report files
+- T-52: Review and update newsletter post metadata and dates for consistency.
+- T-53: Convert newsletter content to Markdown for v2 static site generation.
+- T-66: Encode pages to UTF-8
+- T-67: Convert to HTML5, replace table layouts with div-based structure
+- T-68: Extract styling using CSS3 variables
+- T-69: Remove duplicate images
+- T-71: Add captions under all images with rights info
+- T-73: Consistency URLs for columns (`july_2003.html` -> `2003/july/` with `index.html`)
+- T-74: Add column post title to each page

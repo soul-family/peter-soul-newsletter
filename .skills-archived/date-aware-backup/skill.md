@@ -1,3 +1,5 @@
+> **Archived**: This skill was used for v1 backup preparation and is preserved for historical reference. The v1 migration is complete.
+
 # Date-Aware GitHub Backup Skill
 
 ## Goal
@@ -20,12 +22,12 @@ Back up local files to GitHub using backdated Git commits reflecting original pu
 Move a static website archive to GitHub with backdated Git commits matching original publish dates, using preparation folders for review.
 
 ### Workflow
-1. **Map dates** — run `date_mapper.py` to classify files and derive candidate commit dates
+1. **Map dates** — classify files and derive candidate commit dates
 2. **Build prep folders** — create `src-preps/commit0/` to `commitN/` with files staged per commit
-3. **Verify** — run `verify_preps.py` to check structure, duplicates, and date anomalies
+3. **Verify** — check prep folder structure, duplicates, and date anomalies
 4. **Review** — user inspects prep folders
-5. **Commit** — run `git_migrator.py` to execute backdated commits in chronological order
-6. **Push** — `git push origin main`
+5. **Commit** — execute backdated commits in chronological order
+6. **Push** — push to origin
 
 ### Output Structure
 - `commit0/` — README, LICENSE, `.version`

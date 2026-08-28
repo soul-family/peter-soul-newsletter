@@ -2,7 +2,7 @@
 
 ## Overview
 
-Version 2 is the updated archive state prepared in 2026 for modern deployment on GitHub Pages.
+Version 2 is the updated archive state prepared in 2026. v1.0.0 preserves the original website as published (2002–2019) with backdated Git timestamps. v1.5.0 modernizes the markup with HTML5 doctype, CSS3 variables, and UTF-8 encoding while preserving original content and design.
 
 ## Version History
 
@@ -12,15 +12,36 @@ Version 2 is the updated archive state prepared in 2026 for modern deployment on
 - Links rewrite to relative paths
 - Author text and encoding preserve exactly as published
 
-### v1.1.0 — Preservation Complete
+### v1.5.0 — Compatibility updates
 - All original content, encoding, grammar, and wording intact
 - Only file paths and links update for viewability
 - HTML files annotate with latest update dates
 - Asset deduplication applies across commits
+- HTML5 doctype and modern markup standards
+- Page-type templates for static pages and blog posts
+- CSS3 variables for consistent styling
+- UTF-8 encoding applied to all content pages
+- Contact page updated with archive contact link
+- Original email asset (`a_pscouk.gif`) removed
+- Image optimization: original print-ready, web PNG variants
+- Column URL consistency: `july_2003.html` → `2003/july/` with `index.html`
+- Column post titles added to each page
+- Sticky sidebar navigation and footer positioning
 
+### Skills
 
+AI-skills are preserved in `.skills/` (active) and `.skills-archived/` (archived):
 
-### v2.0.0 — Motor Modernization (later, on command)
+**Active:**
+- **ai-transparency** — logging and source preservation requirements for AI-assisted work
+
+**Archived** (v1 migration complete):
+- **commit-prep-verifier** — validated preparation folder structure and file dates before migration
+- **commit-preparation-to-staged** — moved prep folder content to root and committed with backdated author/date
+- **date-aware-backup** — derived original publish dates from filenames and created backdated Git commits
+- **date-aware-pre-commit-from-prep-folder** — set file/folder timestamps for backdated commits
+
+### v2.0.0 — Modernization (planned)
 - Doctype update and code consolidation
 - Internal markup and assets modernize
 - User-facing view and style remain identical to v1.1.0
@@ -41,7 +62,8 @@ Version 2 is the updated archive state prepared in 2026 for modern deployment on
 
 ## Technical Improvements
 
-- All files encode from cp1252/latin-1 to Windows-1252 byte encoding with ISO-8859-1 charset declarations
+- All files encode to UTF-8
+- HTML5 doctype with div-based layouts and CSS3 variables
 - Responsive layout and accessibility enhancements
 - Schema metadata and authorship markup
 - Sitemap support

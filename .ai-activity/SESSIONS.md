@@ -50,3 +50,75 @@
 | Source | Type | Reliability |
 |--------|------|-------------|
 | src-prep-last/html/*.html | Local source files | High |
+
+## Sessions Summary
+
+### Session: v1.5.0 Markup Modernization
+
+**Task:** Modernize the archive markup with HTML5 doctype, CSS3 variables, and UTF-8 encoding while preserving original content and design.
+
+**Decisions/Notes:**
+
+- Use CSS3 variables for consistent theming across pages
+- Structure column URLs as year/month folders with index pages for clean navigation
+- Keep original images in print-ready format; optimize web versions as PNG
+- Preserve original design and layout in rendered output
+
+**Outcome:** Archive markup modernized with HTML5, CSS3 variables, and responsive sticky sidebar navigation. Original content, encoding, and design preserved.
+
+### Session: Skills Preservation and Dev-Scripts Cleanup
+
+**Task:** Preserve AI-skills in a dedicated skills folder, remove v1 preparation scripts, and update documentation.
+
+**Decisions/Notes:**
+
+- Five skills preserved: AI transparency, commit prep verifier, date-aware backup, commit preparation, and date-aware pre-commit
+- Distribute skill content into changelog, reports, and migration guide
+- Remove v1 preparation scripts (date mapping, URL scanning, link categorization, prep verification)
+- Retain only essential dev tools: task management, changelog generation, and pre-commit audit
+- Update pre-commit audit to remove v1 prep checks (file dates, encoding, hrefs)
+
+**Outcome:** Skills preserved as reusable documentation; development scripts streamlined; all documentation updated. All pre-commit audit checks pass.
+
+### Session: Skills Archiving
+
+**Task:** Archive v1 preparation skills to archived folder, keeping only ai-transparency as active.
+
+**Decisions/Notes:**
+
+- Four v1 preparation skills archived: commit prep verifier, date-aware backup, commit preparation, date-aware pre-commit
+- Active skills folder retains only ai-transparency for ongoing AI-assisted work
+- All references across reports, migration guide, agent instructions, and changelog updated
+- Archived skills retain an archived note in their headers
+
+**Outcome:** Skill organization reflects completed migration: active skill for current work, archived skills for historical reference.
+
+### Session: v1 Migration Intermediate File Cleanup
+
+**Task:** Remove remaining v1 migration intermediate files and obsolete gitignore entries, keeping only changelog, logs, todo, and active history.
+
+**Decisions/Notes:**
+
+- Remove preparation folders and intermediate working directories used during v1 backup migration
+- Remove temporary folders used for file processing
+- Remove Python cache directories from dev-scripts
+- Remove obsolete gitignore entries for v1 migration temp folders
+- Update root changelog with semver link and cleanup entry
+- Do not recreate v1 migration artifacts; v2 will use a simplified preparation approach
+
+**Outcome:** Project cleaned of v1 migration intermediates. Active content (archive, changelogs, logs, todos, documentation, skills) retained. All pre-commit audit checks pass.
+
+### Session: Documentation and Skill Optimization
+
+**Task:** Optimize AI transparency skill, documentation, and configuration for the post-v1.5 project state.
+
+**Decisions/Notes:**
+
+- v1 migration is complete and logged; ai-transparency skill updated to reflect this
+- Archived skills moved to `.skills-archived/` with archived notes
+- Documentation updated to remove references to deleted v1 prep directories and outdated URL formats
+- Root changelog updated with semver link (Keep a Changelog + Semantic Versioning)
+- Research log filled in with actual project state and key findings
+- Tools log updated to reference both active and archived skills folders
+
+**Outcome:** All project documentation, skills, and logs optimized for post-v1.5 state. Pre-commit audit passes.

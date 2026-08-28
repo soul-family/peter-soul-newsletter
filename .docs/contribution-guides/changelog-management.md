@@ -7,18 +7,17 @@ The changelog records all notable changes to the project. Each version entry is 
 ## File
 
 - `CHANGELOG.md` at repository root
-- `.changelog/` folder contains individual version files
+- `.changelog/` folder contains the unreleased changelog entries
 
 ## Changelog Folder Structure
 
-The `.changelog/` folder contains one file per version:
+The `.changelog/` folder contains one file:
 
-- `.changelog/v1.0.0.md` — Released version entries
 - `.changelog/unreleased.md` — Unreleased changes
 
 ## Generating CHANGELOG.md
 
-Run the changelog generator to build `CHANGELOG.md` from `.changelog/`:
+Run the changelog generator to update `CHANGELOG.md` from `.changelog/`:
 
 ```bash
 python .dev-scripts/scripts/generate_changelog.py
@@ -26,8 +25,8 @@ python .dev-scripts/scripts/generate_changelog.py
 
 This command:
 1. Reads `.changelog/unreleased.md`
-2. Write/Update `CHANGELOG.md` with `[unreleased]` first, then next minor version eg. `[v1.1.0]` unless explicitly asked for major version eg. then `[v2.0.0]`.
-4. Empties `.changelog/unreleased.md` after successful changelog file update.
+2. Prepends entries to `CHANGELOG.md` with `[unreleased]` first, then next minor version eg. `[v1.1.0]` unless explicitly asked for major version eg. then `[v2.0.0]`.
+3. Empties `.changelog/unreleased.md` after successful changelog file update.
 
 ## Rules
 
@@ -61,12 +60,3 @@ This command:
 ### Security
 - Security-related changes
 ```
-
-## Rules
-
-- Keep entries goal-focused: describe what changed, not why it changed
-- Do not mention specific file paths, environment details, or OS-specific references
-- Group related changes under the same heading
-- Use present tense: "Add", "Change", "Fix"
-- One version per section; reverse chronological order
-- Version headers must be exactly `## [X.Y.Z]` with no additional title or description after the version number

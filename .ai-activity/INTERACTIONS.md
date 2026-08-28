@@ -104,3 +104,127 @@
 5. Update backup guide with preparation section
 
 **Result:** All todo files and migration guides reflect the current project state.
+
+## Interaction: v1.5.0 markup modernization
+
+**Time:** 2026-08-28
+
+**Task:** Modernize the archive markup with HTML5 doctype, CSS3 variables, and UTF-8 encoding while preserving original content and design.
+
+**Actions:**
+
+1. Convert all HTML pages to HTML5 doctype
+2. Replace table-based layouts with div-based structure
+3. Extract styling using CSS3 variables
+4. Apply UTF-8 encoding to all content pages
+5. Update contact page with archive contact link
+6. Remove original email asset and all references
+7. Optimize images for web while keeping originals in print-ready format
+8. Fix column URL consistency (restructure to year/month folder pattern with index pages)
+9. Add column post titles to each page
+10. Make left sidebar navigation sticky; mobile layout places sidebar on top
+11. Make right sidebar sticky; on mobile, appears after content
+12. Ensure page footer appears at bottom on all screen sizes
+
+**Result:** Archive markup modernized with HTML5, CSS3 variables, and responsive navigation. Original content and design preserved.
+
+## Interaction: Skills preservation
+
+**Time:** 2026-08-28
+
+**Task:** Document and preserve AI-skills in a dedicated skills folder, referencing them across changelog, reports, and migration guide.
+
+**Actions:**
+
+1. Created skill definitions for AI transparency, commit prep verification, date-aware backup, commit preparation, and date-aware pre-commit
+2. Organized all skill files into the skills folder
+3. Added skill references to the v1.5.0 changelog entry
+4. Added a "Preserved Skills" section to both project reports
+5. Added a "Preserved Skills" section to the migration guide
+
+**Result:** All AI skills preserved as reusable documentation for future migration cycles.
+
+## Interaction: Dev-scripts cleanup
+
+**Time:** 2026-08-28
+
+**Task:** Remove v1 preparation scripts no longer needed after migration, retaining task management, changelog generation, and pre-commit audit tools.
+
+**Actions:**
+
+1. Identified v1 preparation scripts no longer needed (date mapping, URL scanning, link categorization, prep verification)
+2. Removed utility modules used only by removed scripts
+3. Removed debug scripts and test directories
+4. Updated pre-commit audit to remove v1 prep checks (file dates, encoding, hrefs)
+5. Verified audit passes after cleanup
+
+**Result:** Development scripts streamlined to essential tools: task management, changelog generation, and pre-commit audit.
+
+## Interaction: Changelog and documentation updates
+
+**Time:** 2026-08-28
+
+**Task:** Prepare changelog v1.5.0 with completed work, update reports and migration guide, and update AI transparency logs.
+
+**Actions:**
+
+1. Added changelog entries for HTML5, CSS3 variables, UTF-8 encoding, image optimization, URL consistency, sticky sidebars, and preserved skills
+2. Generated changelog from entries
+3. Updated version history in both reports to include v1.5.0
+4. Updated migration guide Current State with v1.5.0 completion
+5. Moved completed v1.5 tasks from active todo list to done list
+6. Updated next task number on active todo list
+
+**Result:** Changelog, reports, migration guide, and todo files all reflect v1.5.0 completion with skills documented.
+
+## Interaction: Skills archiving
+
+**Time:** 2026-08-28
+
+**Task:** Archive v1 preparation skills to `.skills-archived/`, keeping only ai-transparency as active.
+
+**Actions:**
+
+1. Identify four v1 preparation skills (commit prep verifier, date-aware backup, commit preparation, date-aware pre-commit) as complete and no longer active
+2. Move skill files from the skills folder to the archived skills folder
+3. Add archived note to each skill file header
+4. Update all references in reports, migration guide, agent instructions, changelog, and AI activity logs
+5. Update skill status documentation to distinguish active from archived skills
+
+**Result:** Active skills folder contains only ai-transparency; v1 preparation skills preserved in archived folder for historical reference.
+
+## Interaction: v1 migration intermediate file cleanup
+
+**Time:** 2026-08-28
+
+**Task:** Remove remaining v1 migration intermediate files and obsolete gitignore entries, keeping only changelog, logs, todo, and active history.
+
+**Actions:**
+
+1. Removed preparation folder and reference directories used during v1 backup migration
+2. Removed temporary working folders used for intermediate file processing
+3. Removed Python cache directories from dev-scripts
+4. Removed obsolete gitignore entries for v1 migration temp folders
+5. Updated root changelog with semver link and cleanup entry
+6. Regenerated changelog from entries
+
+**Result:** Project cleaned of v1 migration intermediate files. Active content (archive, changelogs, logs, todos, documentation, skills) retained.
+
+## Interaction: Documentation and skill optimization
+
+**Time:** 2026-08-28
+
+**Task:** Optimize AI transparency skill, documentation, and configuration for the post-v1.5 project state.
+
+**Actions:**
+
+1. Updated AI transparency skill to note v1 migration completion and git history preservation
+2. Cleaned up migration transparency section to reference completed v1 migration
+3. Updated documentation to remove outdated blog post URL references (changed to year/month format)
+4. Updated documentation to remove references to deleted v1 preparation directories
+5. Updated tools log to reference archived skills alongside active skills
+6. Updated research log with actual project state and key findings
+7. Updated agent instructions to reflect active vs archived skill status
+8. Added semver link to root changelog
+
+**Result:** All documentation, skills, and logs optimized for post-v1.5 project state. Pre-commit audit passes.

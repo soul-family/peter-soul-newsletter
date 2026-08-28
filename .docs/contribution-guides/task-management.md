@@ -8,7 +8,7 @@ Tasks are tracked using numbered files in the `.todo/` directory. This guide def
 
 | File | Purpose |
 |------|---------|
-| `todo-next.md` | Active v1 tasks with T-numbers |
+| `todo-next.md` | Active tasks with T-numbers |
 | `todo-done.md` | Completed tasks with T-numbers |
 | `todo-future.md` | Concepts and v2+ tasks without actionable T-numbers |
 | `todo-ignore.md` | Deprecated or excluded items (no T-numbers) |
@@ -47,7 +47,7 @@ Tasks are grouped by conceptual phase. The set of active phases may grow or shri
 | Planning | Content capture, structure extraction, inventory, AI artifacts |
 | Skills & Tools | AI activity, skills folder, verification, scripts, guidance |
 | File & Folder Planning | Research, sitemap, schema, routing, prep folders, commits |
-| v1 Migration | Capture, extraction, inventory, AI artifacts, HTML5 update, PHP templates |
+| v1 Migration | Capture, extraction, inventory, AI artifacts, HTML5 update |
 | v1 Family Trees | Separate family trees into folders, credits page, commit0-familytree prep |
 | Execution | Documentation, guidance, deployment, legal, retention |
 | Future | v2+ research, deployment, family tree Mermaid conversion |

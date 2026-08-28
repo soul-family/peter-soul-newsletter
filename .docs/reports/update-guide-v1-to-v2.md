@@ -9,14 +9,16 @@ This document describes the full migration process from local backup to GitHub w
 As of the latest work, the following complete:
 
 - **v1.0.0 backup**: Original content preserve with backdated Git timestamps
-- **v1.1.0 compatibility**: Doctype update and path restructuring
+- **v1.5.0 markup modernization**: Doctype update and path restructuring, CSS3 variables, page templates, UTF-8 encoding, image optimization, column URL consistency, sticky sidebars, footer positioning, and AI skills preserved in `.skills/`
 - **v2.1.0 archive separation & privacy**: Family trees separate, emails remove, meta dates backdate, progressive index pages create
 - **v2.2.0 link management & documentation**: Shared link utilities create and test, URL references fix across all prep commits, guides reorganize into topic folders, personal data checks add to audit
 - **Prep folders**: 167 column commits (`commit1` to `commit167`) plus `commit0-familytree`
 - **Metadata**: All files and folders backdate to blog post creation dates (created, modified, accessed)
 - **Index pages**: Each commit's `content/columns/index.html` and `content/index.html` list only posts available at that commit date
 
-## v1.0.0 Backup Notes
+## v1.0.0 Migration notes
+
+> **Note:** The v1 migration preparation process described below is complete. Preparation folders and reference directories have been removed from the working tree. All intermediate files, scripts, and planning artifacts are preserved in Git history and documented in the AI activity logs.
 
 ### Commit Preparation Process
 The commit preparation process involves creating sequential staging folders (`commit0`, `commit1`, etc.) in `src-preps/`, where each folder contains only the files added in that commit. File and directory metadata (created, modified, accessed) is backdated to each blog post's publication date. Prep folders are verified before migration to ensure completeness and correct dates.
@@ -30,7 +32,7 @@ The commit preparation process involves creating sequential staging folders (`co
 
 - Git installed and configured
 - GitHub repository created
-- `.skills/date-aware-backup/skill.md` skill available
+- `.skills-archived/date-aware-backup/skill.md` skill available (archived, v1 migration complete)
 
 ## Migration Phases
 
@@ -94,7 +96,6 @@ The commit preparation process involves creating sequential staging folders (`co
 ### Phase 6: Execution
 
 - Update archive to HTML5 doctype and modern markup standards.
-- Introduce PHP template includes for shared header and footer to deduplicate HTML across pages.
 - Create page-type templates: one for static pages, one for blog posts.
 - Add per-page template details support (page background image, sidebar image assets, etc.).
 - Preserve original table structure and HTML layout in rendered output.
@@ -138,9 +139,8 @@ Each archive has its own repository, task tracking, and documentation.
 - Only file paths and links updated for viewability
 - No visible changes to content or layout
 
-### v1.5.0 — Template Modernization
+### v1.5.0 — Markup Modernization
 - HTML5 doctype and modern markup standards
-- PHP template includes for shared header and footer
 - Page-type templates for static pages and blog posts
 - Contact page updated with archive contact link
 - Original email asset removed
@@ -166,9 +166,11 @@ Each archive has its own repository, task tracking, and documentation.
 - Each commit's `content/columns/index.html` and `content/index.html` list only posts available at that commit date
 - Restored Windows-1252 byte encoding while preserving ISO-8859-1 charset declarations
 - Fixed year header filtering to remove orphaned year sections with no posts
-- Script: `.dev-scripts/scripts/fix_index_pages.py`
+- Progressive index page generation handled via prep folder verification process
 
 ## Folder Structure
+
+> **Note:** The `src-preps/` folder structure below represents the v1 migration preparation process. These folders have been removed from the working tree after migration was complete and verified.
 
 ```
 src-preps/
@@ -215,10 +217,23 @@ All files and folders inside each `src-preps/commitN` folder are backdated to th
 fsutil behavior set disablelastaccess 1
 ```
 
-**Script:** `.dev-scripts/scripts/update_commit_dates.py` sets all three timestamps using the Windows API (`SetFileTime`) on Windows, and `os.utime()` on other platforms.
+**Script:** Date backdating handled via the date-aware backup skill and commit preparation process defined in `.skills-archived/date-aware-backup/skill.md`.
 
 ## Output
 
 - Git history spanning 2002–2026
 - Backdated commits matching original publish dates
 - HTML files annotated with latest update dates
+
+## Preserved Skills
+
+AI-skills are preserved in `.skills/` (active) and `.skills-archived/` (archived):
+
+**Active:**
+- **ai-transparency** — logging and source preservation requirements for AI-assisted work
+
+**Archived** (v1 migration complete):
+- **commit-prep-verifier** — validated preparation folder structure and file dates before migration
+- **commit-preparation-to-staged** — moved prep folder content to root and committed with backdated author/date
+- **date-aware-backup** — derived original publish dates from filenames and created backdated Git commits
+- **date-aware-pre-commit-from-prep-folder** — set file/folder timestamps for backdated commits
