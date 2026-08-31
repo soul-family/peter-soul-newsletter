@@ -22,32 +22,32 @@ Ensure consistent AI transparency throughout the project by logging interactions
 - **Avoid background noise**: do not log routine operations unless they affect project state or decisions
 - **Structured format**: use consistent markdown tables and bullet formats for readability in long logs
 
-### INTERACTIONS.md
+### interactions.md
 Log per task or per significant change:
 - Task description
 - Decisions made (bulleted, concise)
 - Files modified (paths only, no OS-specific details)
 - Outcome or next step
 
-### SOURCES.md
+### sources.md
 Log per research action:
 - Source description
 - Purpose or what was extracted
 - Reliability rating (High/Medium/Low)
 - Keep entries grouped by research session
 
-### TOOLS.md
+### tools.md
 Log per operation type:
 - Tool category (file browser, text editor, version control, terminal)
 - Purpose
 - Keep generic; do not log exact command paths or OS-specific shell details
 
-### SESSIONS.md
+### sessions.md
 One row per interaction:
 - Date
 - Session ID
 - Outcome summary (1 line)
-- Link to detailed entries in INTERACTIONS.md if needed
+- Link to detailed entries in interactions.md if needed
 
 ## Planning Preservation
 - Planning documents preserve in version control, not in local folders
@@ -66,7 +66,7 @@ One row per interaction:
 The v1 backup migration is complete. All decisions, intermediate files, and scripts are preserved in git history and documented in the AI activity logs. The following phases document the completed v1 migration process:
 
 ### Consulting Phase
-- Document site structure analysis in INTERACTIONS.md
+- Document site structure analysis in interactions.md
 - Log earliest content date and batch upload date detection
 - Record cross-reference findings (blog posts linking to individual pages)
 - Capture user preferences: commit granularity, license type, day/time recovery needs
@@ -75,10 +75,10 @@ The v1 backup migration is complete. All decisions, intermediate files, and scri
 - Create plan document outlining migration strategy
 - Define preparation folder structure for user review
 - Choose skills and reusable scripts
-- Log all planning decisions in INTERACTIONS.md
+- Log all planning decisions in interactions.md
 
 ### Execution Phase
-- Log all file operations in INTERACTIONS.md
+- Log all file operations in interactions.md
 - Preserve intermediate scripts in version control (git history)
 - Run verification and log results
 - Document any issues or deviations from the plan
@@ -98,10 +98,10 @@ The v1 backup migration is complete. All decisions, intermediate files, and scri
 ## Verification Standards
 
 ### Transparency Checklist
-- [ ] INTERACTIONS.md updated with current task
-- [ ] SOURCES.md reflects all consulted sources
-- [ ] TOOLS.md updated with tools used
-- [ ] SESSIONS.md updated with outcome
+- [ ] interactions.md updated with current task
+- [ ] sources.md reflects all consulted sources
+- [ ] tools.md updated with tools used
+- [ ] sessions.md updated with outcome
 - [ ] No intermediate code deleted without review
 
 ### Audit Trail

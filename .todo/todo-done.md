@@ -4,7 +4,7 @@ Completed work from the todo-next.md file.
 
 ## Consulting
 
-- T-1:  confirm migration consent
+- T-1: Confirm migration consent
 - T-2: Establish hosting and preservation on GitHub
 - T-3: Define archive purpose, audience, and success criteria
 - T-4: Create GitHub organisation for Soul Family with separate repositories
@@ -43,7 +43,7 @@ Completed work from the todo-next.md file.
 - T-58: Remove empty notes page from archive and all references
 - T-59: Update family tree index links to trailing-slash URLs
 - T-60: Set all prep commit file meta dates to corresponding newsletter post creation dates
-- T-61: Set commit0-familytree meta dates to first column post date.
+- T-61: Set commit0-famtree meta dates to first column post date.
 - T-62: Fix progressive index pages encoding and filtering for all prep commits
 - T-63: Verify index pages are created for all 167 column commits
 
@@ -72,3 +72,32 @@ Completed work from the todo-next.md file.
 - T-71: Add captions under all images with rights info
 - T-73: Consistency URLs for columns (`july_2003.html` -> `2003/july/` with `index.html`)
 - T-74: Add column post title to each page
+
+## AI Tooling and Dev Guide Updates
+
+- T-80: Remove GitHub CLI section from GitHub dev guide; add commit metadata documentation
+- T-81: Merge duplicate troubleshooting content into Kilo dev guide; remove obsolete project guide
+- T-83: Rename uppercase filenames in ai-logs to lowercase
+- T-84: Write readme content for all `.ai-activity` subdirectories
+- T-85: Update all path references for folder restructure across skills, guides, and audit script
+- T-86: Create ai-sessions-backup script with CLI args and JSON config loading
+- T-87: Add session-ids and paths-to-replace JSON config files to ai-assistant folder
+- T-88: Create ai-session-backup skill definition in `.skills/`
+- T-89: Create skills-guide with skill calling syntax, inputs, and benefits
+- T-90: Back up Kilo sessions as anonymized SQLite databases
+- T-91: Separate ai-transparency skill from ai-session-backup skill
+- T-92: Add session database folders to gitignore
+- T-93: Add co-developer support (kilo-code, opencode, github-copilot) to session backup script
+- T-94: Add current session auto-discovery flag
+- T-95: Simplify paths-to-replace JSON to human-friendly bare root paths
+- T-96: Move session databases to shared co-developer directory under `.ai-activity/`
+- T-97: Generate per-session stats JSON files with message counts, parts, and tokens
+- T-98: Add tiered word-count user input time calculation
+- T-79: Document session stats units and time calculation methodology
+- T-78: Create AI development project totals report in `.ai-activity/ai-analysis/`
+- T-77: Create human-readable statistics report in `_docs/reports/statistics/`
+- T-75: Update changelog-management guide to describe unreleased.md workflow
+- T-99: Document data-aware backup v1 commit preparation process and issues (missed links, index.html restructuring, farewell text relocation)
+- T-100: Separate famtree content from newsletter columns data into distinct commit streams
+- T-50: Add page footer fixed to bottom of viewport across all screen sizes
+- T-82: Keep original images in print-ready format alongside web-optimized versions

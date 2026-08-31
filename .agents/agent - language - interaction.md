@@ -84,11 +84,11 @@ Every AI interaction should preserve, organize, and spread knowledge — never l
 ## AI Interaction Transparency
 
 ### Mandatory Logging
-Every AI interaction must log to `.ai-activity/` folder:
-- **INTERACTIONS.md** — Task details, files modified, decisions made
-- **SOURCES.md** — All sources consulted during research
-- **TOOLS.md** — Tools and techniques used
-- **SESSIONS.md** — Session summaries with outcomes
+Every AI interaction must log to `.ai-activity/ai-logs/` folder:
+- **interactions.md** (`.ai-activity/ai-logs/interactions.md`) — Task details, decisions made, role-based changes
+- **sources.md** (`.ai-activity/ai-logs/sources.md`) — All sources consulted during research
+- **tools.md** (`.ai-activity/ai-logs/tools.md`) — Tools and techniques used
+- **sessions.md** (`.ai-activity/ai-logs/sessions.md`) — Session summaries with outcomes
 
 ### Granularity Rules
 - **One event per entry**: each decision, file modification, or milestone gets its own entry
@@ -99,9 +99,9 @@ Every AI interaction must log to `.ai-activity/` folder:
 ### When to Log
 | Phase | Action |
 |-------|--------|
-| Session Start | Review previous session in SESSIONS.md |
-| During Research | Log queries to TOOLS.md, sources to SOURCES.md |
-| During Work | Log file changes to INTERACTIONS.md |
+| Session Start | Review previous session in sessions.md |
+| During Research | Log queries to tools.md, sources to sources.md |
+| During Work | Log file changes to interactions.md |
 | Session End | Update all files with session summary |
 
 ### Format Standards
@@ -113,8 +113,9 @@ Every AI interaction must log to `.ai-activity/` folder:
 
 ### Skill Reference
 - Skill: `.skills/ai-transparency/skill.md`
-- Database: `.ai-activity/` folder
+- Database: `.ai-activity/ai-logs/` folder
 - Run at beginning of every AI interaction
+- Full guide: `_docs/dev-guides/skills-guide.md`
 
 ## Skills
 
@@ -123,6 +124,8 @@ Every AI interaction must log to `.ai-activity/` folder:
 | Skill | Path | Description |
 |-------|------|-------------|
 | AI Transparency | `.skills/ai-transparency/skill.md` | Logs AI interactions, preserves planning artifacts, and maintains a clear audit trail of decisions, sources, and tools used. |
+| AI Session Backup | `.skills/ai-session-backup/skill.md` | Exports Kilo session data from the local SQLite database into project-specific backup databases with local paths anonymized to _www_. |
+| AI Analysis | `.skills/ai-analysis/skill.md` | Analyzes individual Kilo session transcripts for user behaviour, AI behaviour, and improvement opportunities. |
 | Date-Aware GitHub Backup | `.skills-archived/date-aware-backup/skill.md` | Derives original publish/update dates from filenames and filesystem timestamps, then creates backdated Git commits for a static HTML site archive. |
 | Commit Prep Verifier | `.skills-archived/commit-prep-verifier/skill.md` | Validates preparation folder structure, checks for duplicate/missing files, and verifies file Created/Modified/Accessed dates before migration. |
 | Commit Preparation Steps | `.skills-archived/commit-preparation-to-staged/skill.md` | Moves prep folder content to root, stages files, and commits with backdated author/date. |

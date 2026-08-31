@@ -1,16 +1,13 @@
 # Local History
 .lh/
-
 # OS files
 Thumbs.db
 Desktop.ini
 .DS_Store
-
 # Editor files
 *.swp
 *.swo
 *~
-
 
 # Temp folders
 _temp/
@@ -18,12 +15,12 @@ _temp/
 temp/
 .git-rewrite/
 
+_ai_session/
 # Build outputs and caches
 build/
 .cache/
 __pycache__/
 *.pyc
-
 # Logs
 *.log
 debug*

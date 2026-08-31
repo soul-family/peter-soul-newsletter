@@ -1,0 +1,126 @@
+{
+  "database": "website-sessions.db",
+  "generated_at": "2026-08-31T23:35:33.918478",
+  "totals": {
+    "sessions": 3,
+    "messages": 7901,
+    "parts": 30776,
+    "thinking_length": 8233910,
+    "user_requests": 475,
+    "tokens_input": 72667828,
+    "tokens_output": 2034301,
+    "tokens_reasoning": 1958916,
+    "total_duration_seconds": 267861,
+    "total_duration_human": "74h 24m",
+    "total_ai_processing_seconds": 233481,
+    "total_ai_processing_human": "64h 51m",
+    "total_user_input_seconds": 34380,
+    "total_user_input_human": "9h 33m",
+    "total_user_input_words": 15648,
+    "user_input_tier_distribution": {
+      "1-9": 121,
+      "10-49": 278,
+      "50-199": 65,
+      "200-499": 10,
+      "500+": 1
+    }
+  },
+  "sessions": [
+    {
+      "id": "ses_04a4573acffeBzvWZ5C3A41mp6",
+      "directory": "C:/_www_",
+      "created": "2026-07-31 02:12",
+      "updated": "2026-08-31 23:19",
+      "message_count": 7872,
+      "part_count": 30558,
+      "user_request_count": 473,
+      "thinking_length": 8200317,
+      "tokens_input": 72449313,
+      "tokens_output": 2027353,
+      "tokens_reasoning": 1952348,
+      "durations": {
+        "total_seconds": 267064,
+        "total_human": "74h 11m",
+        "ai_processing_seconds": 233044,
+        "ai_processing_human": "64h 44m",
+        "ai_processing_count": 7363,
+        "user_input_seconds": 34020,
+        "user_input_human": "9h 27m",
+        "user_input_word_total": 15472,
+        "user_input_word_distribution": {
+          "1-9": 121,
+          "10-49": 278,
+          "50-199": 63,
+          "200-499": 10,
+          "500+": 1
+        },
+        "user_input_avg_seconds": 71,
+        "user_input_avg_words": 32
+      }
+    },
+    {
+      "id": "ses_04a44c696ffeCNMsKxBrNN3f16",
+      "directory": "C:/_www_",
+      "created": "2026-07-31 02:12",
+      "updated": "2026-08-06 09:38",
+      "message_count": 18,
+      "part_count": 162,
+      "user_request_count": 1,
+      "thinking_length": 19152,
+      "tokens_input": 119626,
+      "tokens_output": 4644,
+      "tokens_reasoning": 3508,
+      "durations": {
+        "total_seconds": 455,
+        "total_human": "7m",
+        "ai_processing_seconds": 275,
+        "ai_processing_human": "4m",
+        "ai_processing_count": 17,
+        "user_input_seconds": 180,
+        "user_input_human": "3m",
+        "user_input_word_total": 64,
+        "user_input_word_distribution": {
+          "1-9": 0,
+          "10-49": 0,
+          "50-199": 1,
+          "200-499": 0,
+          "500+": 0
+        },
+        "user_input_avg_seconds": 180,
+        "user_input_avg_words": 64
+      }
+    },
+    {
+      "id": "ses_03169b359ffeZoYUjvpb7X2phe",
+      "directory": "C:/_www_",
+      "created": "2026-08-04 22:03",
+      "updated": "2026-08-06 09:38",
+      "message_count": 11,
+      "part_count": 56,
+      "user_request_count": 1,
+      "thinking_length": 14441,
+      "tokens_input": 98889,
+      "tokens_output": 2304,
+      "tokens_reasoning": 3060,
+      "durations": {
+        "total_seconds": 342,
+        "total_human": "5m",
+        "ai_processing_seconds": 162,
+        "ai_processing_human": "2m",
+        "ai_processing_count": 10,
+        "user_input_seconds": 180,
+        "user_input_human": "3m",
+        "user_input_word_total": 112,
+        "user_input_word_distribution": {
+          "1-9": 0,
+          "10-49": 0,
+          "50-199": 1,
+          "200-499": 0,
+          "500+": 0
+        },
+        "user_input_avg_seconds": 180,
+        "user_input_avg_words": 112
+      }
+    }
+  ]
+}

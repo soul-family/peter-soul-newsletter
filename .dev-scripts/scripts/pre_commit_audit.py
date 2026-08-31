@@ -4,7 +4,7 @@ pre_commit_audit.py — verify project state before Git commit.
 
 Checks:
 1. Todo management: no duplicate T-numbers, valid structure
-2. AI transparency log: INTERACTIONS.md exists and is self-contained
+2. AI transparency log: interactions.md exists and is self-contained
 3. Changelog: CHANGELOG.md exists and follows format
 4. Documentation: guides exist and reference current tasks
 
@@ -12,6 +12,7 @@ Fails with actionable list of what to fix.
 """
 
 import re
+import subprocess
 import sys
 from pathlib import Path
 
@@ -34,10 +35,10 @@ def check_todos():
 
 def check_ai_transparency():
     issues = []
-    path = BASE / '.ai-activity' / 'INTERACTIONS.md'
+    path = BASE / '.ai-activity' / 'ai-logs' / 'interactions.md'
 
     if not path.exists():
-        issues.append('AI transparency log missing: .ai-activity/INTERACTIONS.md')
+        issues.append('AI transparency log missing: .ai-activity/ai-logs/interactions.md')
         return issues
 
     content = path.read_text(encoding='utf-8')
@@ -67,6 +68,7 @@ def check_ai_transparency():
 def check_changelog():
     issues = []
     path = BASE / 'CHANGELOG.md'
+    unreleased_path = BASE / '.changelog' / 'unreleased.md'
 
     if not path.exists():
         issues.append('Changelog missing: CHANGELOG.md')
@@ -82,6 +84,17 @@ def check_changelog():
         if re.search(r'^## \[.+?\]\s+\S', header):
             issues.append(f'Changelog version header has descriptive title: {header}')
 
+    # Promote unreleased entries on every pre-commit
+    if unreleased_path.exists() and unreleased_path.read_text(encoding='utf-8').strip():
+        result = subprocess.run(
+            [sys.executable, str(BASE / '.dev-scripts' / 'scripts' / 'generate_changelog.py')],
+            capture_output=True, text=True,
+        )
+        if result.returncode != 0:
+            issues.append(f'Changelog generator failed: {result.stderr.strip()}')
+        else:
+            print('CHANGELOG promoted from unreleased.md')
+
     if issues:
         print('CHANGELOG ISSUES:')
         for i in issues:
@@ -95,19 +108,19 @@ def check_changelog():
 def check_guides():
     issues = []
     guides = [
-        BASE / '.docs' / 'reports' / 'update-guide-v1-to-v2.md',
-        BASE / '.docs' / 'reports' / 'updates-guide-v0-to-v1.md',
-        BASE / '.docs' / 'contribution-guides' / 'ai-transparency.md',
-        BASE / '.docs' / 'contribution-guides' / 'changelog-management.md',
-        BASE / '.docs' / 'contribution-guides' / 'task-management.md',
-        BASE / '.docs' / 'contribution-guides' / 'archive.org-publish.md',
-        BASE / '.docs' / 'contribution-guides' / 'storage-manage.md',
-        BASE / '.docs' / 'archive-guides' / 'about-archive.md',
-        BASE / '.docs' / 'archive-guides' / 'browsing-newsletter.md',
-        BASE / '.docs' / 'contribution-guides' / 'archive.org-searching.md',
-        BASE / '.docs' / 'contribution-guides' / 'storage-manage-invite.md',
-        BASE / '.docs' / 'contribution-guides' / 'submit-new-info.md',
-        BASE / '.docs' / 'family-tree' / 'archive-guide.md',
+        BASE / '_docs' / 'reports' / 'update-guide-v1-to-v2.md',
+        BASE / '_docs' / 'reports' / 'updates-guide-v0-to-v1.md',
+        BASE / '_docs' / 'contribution-guides' / 'ai-transparency.md',
+        BASE / '_docs' / 'contribution-guides' / 'changelog-management.md',
+        BASE / '_docs' / 'contribution-guides' / 'task-management.md',
+        BASE / '_docs' / 'contribution-guides' / 'archive.org-publish.md',
+        BASE / '_docs' / 'contribution-guides' / 'storage-manage.md',
+        BASE / '_docs' / 'archive-guides' / 'about-archive.md',
+        BASE / '_docs' / 'archive-guides' / 'browsing-newsletter.md',
+        BASE / '_docs' / 'contribution-guides' / 'archive.org-searching.md',
+        BASE / '_docs' / 'contribution-guides' / 'storage-manage-invite.md',
+        BASE / '_docs' / 'contribution-guides' / 'submit-new-info.md',
+        BASE / '_docs' / 'family-tree' / 'archive-guide.md',
     ]
 
     for g in guides:
@@ -126,7 +139,7 @@ def check_guides():
 def check_content_dates_older_than_logs():
     issues = []
     
-    ai_log = BASE / '.ai-activity' / 'INTERACTIONS.md'
+    ai_log = BASE / '.ai-activity' / 'ai-logs' / 'interactions.md'
     changelog = BASE / 'CHANGELOG.md'
     
     log_dates = []
