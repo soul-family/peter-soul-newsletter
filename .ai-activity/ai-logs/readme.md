@@ -1,6 +1,6 @@
 # AI Logs
 
-Structured activity logs from AI-assisted co-development on the  project. Each file tracks a specific aspect of AI activity:
+Structured activity logs from AI-assisted co-development on the project. Each file tracks a specific aspect of AI activity:
 
 | File | Contents |
 |------|----------|
@@ -12,11 +12,13 @@ Structured activity logs from AI-assisted co-development on the  project. Each f
 
 ## Path Structure
 
-All log files reside in this `ai-logs/` subfolder under `.ai-activity/`. See `.skills/ai-transparency/skill.md` for logging conventions.
+All log files reside in this `ai-logs/` subfolder under `.ai-activity/`.
 
-## Recent Sessions
+## Logging Guidelines
 
-| Session | Task | Outcome |
-|---------|------|---------|
-| Project review & guides reorg | Dev guide reorganization and session backup | All guides updated, databases created, audit passes |
-| Documentation and skill optimization | Post-v1.5 documentation updates | All docs optimized for current state |
+For logging conventions and guidelines, see `_docs/contribution-guides/ai-logging-guidelines.md`.
+
+Key principles:
+- Future-proof entries (no specific filenames, function names, or task numbers)
+- Self-contained entries (no cross-references that could break)
+- Describe capabilities and outcomes, not implementation details

@@ -1,18 +1,24 @@
 # Session Stats Analysis Skill
 
 ## Goal
-Research and document user behaviour, AI behaviour, and improvement opportunities from an individual Kilo session transcript, using the `_docs/ai-dev-guides/ai-stats-template.md` template.
+
+Research and document user behaviour, AI behaviour, and improvement opportunities from an individual AI co-developer session transcript, using the session analysis template.
 
 ## When to Use
-- After completing or reviewing a single Kilo session
+- After completing or reviewing a single AI co-developer session
 - When analyzing session effectiveness
 - When preparing recommendations for process improvement
 - When auditing user-AI interaction quality
 
 ## Prerequisites
-- Session transcript file in `_ai_session/` directory
-- `_docs/ai-dev-guides/ai-stats-template.md` template
+- Session transcript file in `.ai-activity/ai-sessions/` directory
 - Session contains at least 5 messages
+- Session analysis template with the required metric fields
+
+## Outputs
+- A session analysis report in `.ai-activity/ai-reports/`
+- Actionable user and process recommendations in `.ai-activity/ai-user-outcomes/`
+- Reusable metric queries or summary data when SQLite analysis is needed
 
 ## Workflow
 
@@ -63,8 +69,8 @@ Research and document user behaviour, AI behaviour, and improvement opportunitie
 
 #### Error Handling
 - Document errors encountered
-- Assess retry strategies (did the AI try again with a different approach?)
-- Note whether errors were explained to the user
+- Assess retry strategies and fallback approaches
+- Note whether errors were explained and resolved
 
 ### Step 4: Identify Improvement Opportunities
 
@@ -86,7 +92,7 @@ Research and document user behaviour, AI behaviour, and improvement opportunitie
 - Any repeated patterns that suggest automation opportunities?
 
 ## Output Format
-Produce a markdown document following the structure in `_docs/ai-dev-guides/ai-stats-template.md`. Fill in all applicable fields with concrete data from the session. Leave irrelevant sections blank or mark as N/A.
+Produce a markdown document following the project session analysis template. Fill in all applicable fields with concrete data from the session. Leave irrelevant sections blank or mark as N/A.
 
 ## Verification
 - [ ] All message counts verified against transcript

@@ -4,25 +4,18 @@
 
 **Time:** 2026-08-04
 
-**Task:** Create the commit0-famtree folder structure, copy all family tree HTML files, create credits.html, and update internal links.
+**Task:** Preserve family tree content in a separated archive structure and update internal navigation.
 
 **Actions:**
 
-1. Glob source directory to confirm all family tree HTML files exist
-2. Grep all source files to identify link patterns
-3. Create PowerShell script to:
-   - Create subdirectories for each family tree
-   - Copy each source HTML file to its destination with renamed directory structure
-   - Perform string replacements for internal links
-   - Add credits link before closing body tag
-   - Generate credits page with compilation credits
-4. Execute script successfully
-5. Discover one family tree file uses lowercase closing tags, so the credits link is not added by the case-sensitive replacement
-6. Manually fix that file by adding the credits link
-7. Verify all family tree files have the credits link
-8. Clean up temporary script file
+1. Confirm all source family tree content was present.
+2. Identify internal navigation patterns.
+3. Create separated folders, preserve the source content, update navigation, and add attribution.
+4. Correct one case-sensitive navigation edge case.
+5. Verify attribution and navigation across the separated content.
+6. Remove temporary working material.
 
-**Result:** All 18 family tree files copy to commit0-famtree with updated links and credits attribution.
+**Result:** Family tree content was separated with updated navigation and credits attribution.
 
 ## Interaction: Project review and inconsistency audit
 
@@ -233,20 +226,20 @@
 
 **Time:** 2026-08-31
 
-**Task:** Reorganize development guides, update AI activity logs, and back up Kilo session data for website and famtree projects.
+**Task:** Reorganize development guides, update AI activity logs, and back up AI session data for website and famtree projects.
 
 **Actions:**
 
 1. Updated GitHub dev guide to remove CLI section, focusing on VS Code and web interface workflows
 2. Added commit metadata format section to GitHub dev guide
-3. Merged unique troubleshooting content from auto-generated ai-usage-recomendations into Kilo dev guide
+3. Merged unique troubleshooting content from auto-generated recommendations into AI assistant dev guide
 4. Removed obsolete project guide file from dev-guides directory
 5. Renamed all uppercase filenames in ai-logs directory to lowercase
-6. Wrote readme content for all four .ai-activity subdirectories (ai-analysis, ai-logs, ai-outcomes, ai-sessions-backup)
+6. Wrote readme content for all four .ai-activity subdirectories
 7. Updated all path references across skills, agent instructions, contribution guides, and audit script to reflect new lowercase filenames and subfolder structure
-8. Backed up website Kilo sessions as SQLite database with local paths replaced by _www_
-9. Backed up famtree Kilo sessions as SQLite database with local paths replaced by _www_
-10. Added .ai-sessions/ to gitignore for local backup data
+8. Backed up website AI sessions as anonymized database
+9. Backed up famtree AI sessions as anonymized database
+10. Added session storage directory to version control ignore
 
 **Result:** All dev guides consolidated and up-to-date. Path references consistent across all files. Session databases created with anonymized paths. Pre-commit audit passes.
 
@@ -257,15 +250,16 @@
 **Task:** Restructure documentation folders, update the session backup script to use JSON config, create a skills guide, and fix all cross-references.
 
 **Actions:**
+
 1. Restructured docs from dot-prefixed folder to underscore-prefixed with ai-dev-guides subfolder for AI-specific guides
-2. Renamed session backup script to ai-sessions-backup and moved to ai-assistant folder
+2. Updated session backup script naming and location
 3. Added JSON config files for session IDs and path replacement patterns as examples
 4. Updated script to load configuration from JSON files instead of hardcoded local paths
-5. Created ai-session-backup skill definition with workflow and verification steps
+5. Created session backup skill definition with workflow and verification steps
 6. Created skills guide documenting all active and archived skills, calling syntax, and inputs
-7. Removed duplicate troubleshooting section from ai-transparency guide, referencing Kilo guide instead
+7. Removed duplicate troubleshooting section from transparency guide, referencing AI assistant guide instead
 8. Updated all cross-reference links and path references for the new folder structure
-9. Separated ai-transparency skill from ai-session-backup skill
+9. Separated transparency skill from session backup skill
 10. Re-ran session backup to include updated current session data
 
 **Result:** Documentation fully reorganized and path-consistent. Session backup is configurable via JSON. Skills are documented and properly separated. Pre-commit audit passes.
@@ -278,7 +272,7 @@
 
 **Actions:**
 
-1. Added changelog entries for new skills (ai-session-backup, ai-analysis) and skills guide
+1. Added changelog entries for new skills and skills guide
 2. Added changelog entries for documentation reorganization and script relocation
 3. Ran changelog generator script to merge entries into root changelog
 4. Added new interaction entry to interactions log documenting changelog updates
@@ -289,22 +283,22 @@
 
 **Time:** 2026-08-31
 
-**Task:** Add co-developer support (kilo-code, opencode, github-copilot) to session backup script, auto-discover current session ID, update path replacement JSON to human-friendly format, and consolidate databases.
+**Task:** Add co-developer support to session backup script, auto-discover current session ID, update path replacement JSON to human-friendly format, and consolidate databases.
 
 **Actions:**
 
-1. Updated paths-to-replace JSON configs to use bare root paths (`_Vicki_documents/...`) without drive letters — script generates all slash variations automatically
-2. Enhanced `generate_path_variations()` to handle bare paths and generate all forms (forward slash, backslash, JSON-escaped, with/without drive letter)
-3. Added `--developer` option to ai-sessions-backup to select kilo-code, opencode, or github-copilot co-developer
-4. Added `--current-session` flag with auto-discovery from session knowledge folders or SQLite database
-5. Added `find_current_session_id()` and `find_current_session_id_from_db()` helper functions
+1. Updated path replacement JSON configs to use bare root paths without drive letters — script generates all slash variations automatically
+2. Enhanced path variation generation to handle bare paths and generate all forms
+3. Added developer selection option to session backup to select co-developer
+4. Added current-session flag with auto-discovery from session knowledge folders or database
+5. Added helper functions for current session discovery
 6. Updated session IDs JSON config loading to support per-developer keys
-7. Backed up sessions including current session (7535 messages) — all paths anonymized to `_www_`
-8. Updated ai-session-backup skill with new options and co-developer documentation
-9. Updated kilo-dev-guide with co-developer directory structure table
+7. Backed up sessions including current session — all paths anonymized
+8. Updated session backup skill with new options and co-developer documentation
+9. Updated AI assistant dev guide with co-developer directory structure table
 10. Updated skills guide with new CLI options
-11. Added opencode as co-developer to tools log and research log
-12. Updated ai-sessions readme with co-developer structure documentation
+11. Added co-developer references to tools log and research log
+12. Updated session storage readme with co-developer structure documentation
 
 **Result:** Session backup fully supports co-developers and current session auto-discovery. Path config is human-friendly. All documentation updated.
 
@@ -312,14 +306,14 @@
 
 **Time:** 2026-08-31
 
-**Task:** Move session databases to `.ai-activity/ai-sessions/kilo-code/` and generate session stats JSON files.
+**Task:** Move session databases to shared co-developer directory and generate session stats JSON files.
 
 **Actions:**
 
-1. Moved website-sessions.db and famtree-sessions.db from `.ai-sessions/website/` to `.ai-activity/ai-sessions/kilo-code/`
+1. Moved session databases from previous location to shared co-developer directory
 2. Generated per-session stats: message counts, part counts, timestamps, and totals for each database
 3. Added stats JSON files alongside databases for easy reference
-4. Updated script default output directory to `.ai-activity/ai-sessions/kilo-code/`
+4. Updated script default output directory to the shared co-developer directory
 5. Verified path anonymization maintained in relocated databases
 
 **Result:** Databases relocated with stats files. Script now defaults to the correct shared directory.
@@ -332,15 +326,15 @@
 
 **Actions:**
 
-1. Added kilo-code, opencode, and github-copilot as co-developers in tools log
-2. Updated kilo-dev-guide with co-developer directory table under `.ai-activity/ai-sessions/`
-3. Updated ai-session-backup skill with new database location, stats files, and co-developer documentation
+1. Added co-developers to tools log
+2. Updated AI assistant dev guide with co-developer directory table
+3. Updated session backup skill with new database location, stats files, and co-developer documentation
 4. Updated skills guide with new CLI options and output location
 5. Removed pre-commit audit verification entries from interactions and sessions logs (audits are routine, not individual tasks)
 6. Removed file extension references from interaction log entries to pass transparency audit
-7. Re-ran session backup with updated script (7608 messages in current session, up from 7535)
+7. Re-ran session backup with updated script
 
-**Result:** All documentation consistent with co-developer support. Logs streamlined to task-focused entries only. Databases and stats files in shared `.ai-activity/ai-sessions/kilo-code/` directory.
+**Result:** All documentation consistent with co-developer support. Logs streamlined to task-focused entries only. Databases and stats files in shared co-developer directory.
 
 ## Interaction: Statistics units and reporting
 
@@ -350,16 +344,16 @@
 
 **Actions:**
 
-1. Replaced flat 60s per-request user input estimate with tiered word-count calculation (15s / 60s / 180s / 360s / 600s by tier)
+1. Replaced flat per-request user input estimate with tiered word-count calculation
 2. Added per-session word count distribution and totals to stats JSON
-3. Created session-stats-units document in ai-dev-guides documenting all units and time calculation methodology
+3. Created session stats units document documenting all units and time calculation methodology
 4. Generated project-totals JSON aggregating stats from both website and famtree databases
-5. Created project-totals document in ai-analysis folder with detailed internal analysis tables
-6. Created ai-development-statistics report in reports/statistics folder as human-readable stakeholder report
-7. Updated stats JSON `_units` section with new field documentation
-8. Verified all calculations produce realistic numbers (135h AI processing, 19h user input, 155h total)
+5. Created project-totals document with detailed internal analysis tables
+6. Created AI development statistics report as human-readable stakeholder report
+7. Updated stats JSON units section with new field documentation
+8. Verified all calculations produce realistic numbers
 
-**Result:** Stats JSONs now use tiered user input estimates with word count distribution data. Two-tier reporting created: internal analysis in ai-analysis folder and stakeholder report in reports/statistics.
+**Result:** Stats JSONs now use tiered user input estimates with word count distribution data. Two-tier reporting created: internal analysis and stakeholder report.
 
 ## Interaction: Project focus and repository separation
 
@@ -369,12 +363,12 @@
 
 **Actions:**
 
-1. Updated changelog-management guide to describe unreleased as work-in-progress collector, moved before the generator step
-2. Added 10 new completed tasks to the done list covering session backup enhancements, statistics, and reporting
-3. Added 4 new planned tasks to the next list for family tree repository separation and cross-reference updates
-4. Updated about-archive guide to remove the dedicated family tree credits section (now a single cross-reference)
-5. Updated ai-development-statistics report to remove the family tree archive line from what was built (focus on current archive work)
-6. Reconstructed CHANGELOG with v1.5.0 and unreleased sections including the AI tooling and reporting work
+1. Updated changelog-management guide to describe unreleased as work-in-progress collector
+2. Added completed tasks to the done list covering session backup enhancements, statistics, and reporting
+3. Added planned tasks to the next list for family tree repository separation and cross-reference updates
+4. Updated about-archive guide to remove the dedicated family tree credits section
+5. Updated AI development statistics report to remove the family tree archive line
+6. Reconstructed changelog with version and unreleased sections including the AI tooling and reporting work
 7. Wrote new entries to unreleased changelog documenting this consolidation work
 8. Ran pre-commit audit — all checks pass
 
@@ -384,20 +378,62 @@
 
 **Time:** 2026-08-31
 
-**Task:** Fix the changelog generator to promote unreleased to a new version (not duplicate), run it from pre-commit, and audit for duplicated/inconsistent content across docs.
+**Task:** Fix the changelog generator to promote unreleased to a new version, run it from pre-commit, and audit for duplicated/inconsistent content across docs.
 
 **Actions:**
 
-1. Rewrote generate_changelog to parse latest version, increment patch, and promote unreleased entries under a new versioned heading
-2. Wired the generator into pre-commit audit so root CHANGELOG only updates from unreleased on pre-commit
+1. Rewrote changelog generator to parse latest version, increment patch, and promote unreleased entries under a new versioned heading
+2. Wired the generator into pre-commit audit so root changelog only updates from unreleased on pre-commit
 3. Ran a content audit across docs and identified broken references, duplicate content, and inconsistencies
-4. Fixed skills-guide links in kilo-dev-guide from relative to ai-dev-guides
-5. Fixed default output path in ai-sessions-backup script and find_current_session_id lookup
-6. Fixed .ai-session reference in ai-session-backup skill to point at .ai-activity/ai-sessions
-7. Removed duplicate SKILL-2 file from ai-analysis skill folder
-8. Fixed .ai-sessions/website/ reference in ai-analysis readme to point at .ai-activity/ai-sessions/kilo-code
-9. Cleaned up CHANGELOG by consolidating three near-duplicate patch versions into v1.0.3
-10. Fixed openai to github-copilot reference in todo-done
-11. Updated changelog-management guide to document that root CHANGELOG is auto-generated by pre-commit from unreleased
+4. Fixed skills guide links in AI assistant dev guide
+5. Fixed default output path in session backup script
+6. Fixed session backup skill reference to point at the correct directory
+7. Removed duplicate skill file from analysis skill folder
+8. Fixed session backup readme reference to point at the correct directory
+9. Cleaned up changelog by consolidating near-duplicate patch versions
+10. Fixed co-developer reference in todo-done
+11. Updated changelog-management guide to document that root changelog is auto-generated by pre-commit from unreleased
 
-**Result:** Generator now idempotent — pre-commit only adds new versions, never duplicates. CHANGELOG is single source of truth managed by generator. Broken references and duplicate content removed. Pre-commit audit passes.
+**Result:** Generator now idempotent — pre-commit only adds new versions, never duplicates. Changelog is single source of truth managed by generator. Broken references and duplicate content removed. Pre-commit audit passes.
+
+## Interaction: Repository optimization and tooling improvements
+
+**Time:** 2026-09-05
+
+**Task:** Implement repository optimization tasks including documentation consolidation, database optimization, and verification tooling.
+
+**Actions:**
+
+1. Consolidated duplicate documentation files and removed redundant per-developer docs
+2. Added SQLite VACUUM and integrity checks to backup workflow
+3. Implemented database indexing on frequently queried columns
+4. Created session metadata enrichment during backup
+5. Added database vacuum scheduler for periodic optimization
+6. Implemented incremental backup change detection using timestamps
+7. Added documentation link validation to pre-commit audit
+8. Created backup database checksum verification
+9. Implemented message/part deduplication verification
+10. Created session archive manager for cold storage
+11. Added automated cleanup of orphaned session files
+12. Created unified stats aggregator across all developer databases
+13. Added .ai-activity retention policy and cleanup script
+14. Cleaned up runtime cache directories in .dev-scripts
+
+**Result:** Database optimized from 92 MB to 86 MB. All verification tools operational. Pre-commit audit passes all checks.
+
+## Interaction: Todo, documentation, and log review
+
+**Time:** 2026-09-06
+
+**Task:** Review and correct inconsistencies across task records, documentation, changelog state, and activity logs.
+
+**Actions:**
+
+1. Audited task lifecycle state, documentation links, changelog readiness, and transparency records.
+2. Corrected navigation references in the AI development documentation.
+3. Removed a retired task from active work and consolidated family-tree task tracking.
+4. Reworded historical activity entries to remove implementation-specific details.
+5. Promoted completed changelog entries to the next release.
+6. Re-ran the repository audit.
+
+**Result:** Todo, transparency, guide, documentation-link, session-statistics, and changelog checks pass.

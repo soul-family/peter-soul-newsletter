@@ -2,19 +2,19 @@
 
 ## Goal
 
-Export Kilo session data from the local SQLite database into project-specific backup databases, anonymizing all local filesystem paths to avoid exposing the local directory structure.
+Export AI co-developer session data from the local SQLite database into project-specific backup databases, anonymizing all local filesystem paths to avoid exposing the local directory structure.
 
 ## When to Use
 
-- When archiving Kilo sessions for long-term storage
+- When archiving AI co-developer sessions for long-term storage
 - Before pushing session data to a shared repository
 - When offline analysis of sessions is needed
 - When local paths must be hidden from collaborators
 
 ## Prerequisites
 
-- Access to the Kilo SQLite database (kilo.db)
-- `.dev-scripts/ai-assistant/ai-sessions-backup.py` script
+- Access to the AI co-developer SQLite database
+- `.dev-scripts/ai-assistant/scripts/ai-sessions-backup.py` script
 - Session IDs to back up (from `session-ids-*.json` or auto-discovered via `--current-session`)
 - Output directory (`.ai-activity/ai-sessions/<developer>/` by default)
 
@@ -22,7 +22,7 @@ Export Kilo session data from the local SQLite database into project-specific ba
 
 ### Step 1: Identify Session IDs
 
-1. Query the local Kilo database for session IDs belonging to the target project
+1. Query the local AI co-developer database for session IDs belonging to the target project
 2. Group sessions by project (e.g., website, famtree)
 3. Session IDs are listed in `session-ids-*.json` files next to the script
 
@@ -31,19 +31,17 @@ Export Kilo session data from the local SQLite database into project-specific ba
 Provide the database path and session IDs via command-line arguments:
 
 ```bash
-python .dev-scripts/ai-assistant/ai-sessions-backup.py \
-  --db-path <path-to-kilo.db> \
-  --developer kilo-code \
-  --current-session \
-  --website-sessions ses_xxx1,ses_xxx2 \
-  --famtree-sessions ses_yyy1,ses_yyy2
+python .dev-scripts/ai-assistant/scripts/ai-sessions-backup.py \
+  --db-path <path-to-source.db> \
+  --developer <developer-id> \
+  --current-session
 ```
 
-**`--developer`** selects which AI co-developer's session IDs to load from JSON config (default: `kilo-code`). Supported values: `kilo-code`, `opencode`, `github-copilot`.
+**`--developer`** selects which AI co-developer's session IDs to load from JSON config. Available developers are defined in `ai-developers.jsonc`.
 
 **`--current-session`** auto-discovers the most recent session from the developer's session knowledge folder (`.ai-activity/ai-sessions/<developer>/`) or by querying the SQLite database directly. The discovered session ID is added to the backups if not already present.
 
-If `--website-sessions`, `--famtree-sessions`, or `--paths-to-replace` are omitted, the script loads defaults from JSON config files.
+If session-specific options are omitted, the script loads defaults from JSON config files.
 
 If no session IDs are found in config or arguments, the script falls back to interactive mode.
 
@@ -56,25 +54,16 @@ If no session IDs are found in config or arguments, the script falls back to int
 
 ### Path Anonymization
 
-The script's `generate_path_variations()` function generates all slash-form variations automatically — forward slash, backslash, JSON-escaped, and with/without drive letter. The JSON config files only need to list each base path once:
+The script's path replacement function generates all slash-form variations automatically — forward slash, backslash, JSON-escaped, and with/without drive letter. The JSON config files only need to list each base path once:
 
 ```json
-{"paths": ["_Vicki_documents/website - petersoul.co.uk"], "replacement": "_www_"}
+{"paths": ".*" "replacement": "_www_"}
 ```
-
-This single entry generates:
-- `C:/_Vicki_documents/website - petersoul.co.uk` → `_www_`
-- `C:\_Vicki_documents\website - petersoul.co.uk` → `_www_`
-- `C:\\_Vicki_documents\\website - petersoul.co.uk` → `_www_` (JSON-escaped)
-- `_Vicki_documents/website - petersoul.co.uk` → `_www_` (no-drive form)
-- `\_Vicki_documents\website - petersoul.co.uk` → `_www_`
-- `_Vicki_documents` → `_www_` (bare prefix for truncated references)
 
 ## Output Format
 
 SQLite databases and stats JSON files created in `.ai-activity/ai-sessions/<developer>/`:
-- `website-sessions.db` and `website-sessions.stats.json` — website project sessions
-- `famtree-sessions.db` and `famtree-sessions.stats.json` — famtree project sessions
+- `<project>-sessions.db` and `<project>-sessions.stats.json` — project-specific sessions
 
 Each database contains three tables:
 
@@ -95,11 +84,11 @@ Each stats JSON file contains:
 - [ ] Database files exist in `.ai-activity/ai-sessions/<developer>/`
 - [ ] Stats JSON files exist alongside databases
 - [ ] Session directories show `_www_` (not local paths)
-- [ ] No `_Vicki_documents` strings found in any database column
+- [ ] No local project path strings found in any database column
 - [ ] Session, message, and part counts match source database
 
 ## Notes
 
-- The Kilo database path is never hardcoded — always provide via `--db-path`
+- The source database path is never hardcoded — always provide via `--db-path`
 - Local paths are replaced with `_www_` before writing to the output database
-- Databases and stats files are gitignored (`.ai-activity/ai-sessions/` in `.gitignore`)
+- New AI co-developers can be added by extending the developer config and adding per-developer session ID and path replacement files

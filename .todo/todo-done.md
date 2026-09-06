@@ -2,6 +2,8 @@
 
 Completed work from the todo-next.md file.
 
+> **Contribution rules**: All entries must follow future-proof naming conventions. See `_docs/contribution-guides/shared/adding-text.md` for rules on avoiding file names, function names, and implementation-specific details in permanent records.
+
 ## Consulting
 
 - T-1: Confirm migration consent
@@ -70,34 +72,77 @@ Completed work from the todo-next.md file.
 - T-68: Extract styling using CSS3 variables
 - T-69: Remove duplicate images
 - T-71: Add captions under all images with rights info
-- T-73: Consistency URLs for columns (`july_2003.html` -> `2003/july/` with `index.html`)
+- T-73: Standardize column URLs for consistency
 - T-74: Add column post title to each page
+- T-75: Update changelog management guide to describe unreleased workflow
+- T-76: Remove right sidebar, move portrait to header and cars to left sidebar
+- T-77: Create human-readable statistics report in the project documentation
+- T-78: Create AI development project totals report in the project analysis directory
+- T-99: Document backup preparation process and issues (missed links, restructuring, text relocation)
+- T-101: Clean local AI session backups and enhance backup script with append mode
+- T-102: Update documentation management with contribution guidelines and self-contained docs policy
+- T-108: Add version file management and synchronization
 
 ## AI Tooling and Dev Guide Updates
 
 - T-80: Remove GitHub CLI section from GitHub dev guide; add commit metadata documentation
-- T-81: Merge duplicate troubleshooting content into Kilo dev guide; remove obsolete project guide
+- T-81: Merge duplicate troubleshooting content into AI assistant dev guide; remove obsolete project guide
 - T-83: Rename uppercase filenames in ai-logs to lowercase
-- T-84: Write readme content for all `.ai-activity` subdirectories
-- T-85: Update all path references for folder restructure across skills, guides, and audit script
-- T-86: Create ai-sessions-backup script with CLI args and JSON config loading
-- T-87: Add session-ids and paths-to-replace JSON config files to ai-assistant folder
-- T-88: Create ai-session-backup skill definition in `.skills/`
-- T-89: Create skills-guide with skill calling syntax, inputs, and benefits
-- T-90: Back up Kilo sessions as anonymized SQLite databases
-- T-91: Separate ai-transparency skill from ai-session-backup skill
-- T-92: Add session database folders to gitignore
-- T-93: Add co-developer support (kilo-code, opencode, github-copilot) to session backup script
-- T-94: Add current session auto-discovery flag
-- T-95: Simplify paths-to-replace JSON to human-friendly bare root paths
-- T-96: Move session databases to shared co-developer directory under `.ai-activity/`
-- T-97: Generate per-session stats JSON files with message counts, parts, and tokens
+- T-84: Write documentation content for AI activity subdirectories
+- T-85: Update all cross-references for folder restructure across documentation and scripts
+- T-86: Create session backup script with configuration loading
+- T-87: Add session identifier and path replacement configuration files
+- T-88: Create session backup skill definition
+- T-89: Create skills guide with skill calling syntax and benefits
+- T-90: Back up AI sessions as anonymized databases
+- T-91: Separate transparency skill from session backup skill
+- T-92: Add session database directories to version control ignore
+- T-93: Add multi-AI-developer support to session backup
+- T-94: Add current session auto-discovery
+- T-95: Simplify path replacement configuration to human-friendly format
+- T-96: Move session databases to shared co-developer directory
+- T-97: Generate per-session statistics files with counts and tokens
 - T-98: Add tiered word-count user input time calculation
 - T-79: Document session stats units and time calculation methodology
-- T-78: Create AI development project totals report in `.ai-activity/ai-analysis/`
-- T-77: Create human-readable statistics report in `_docs/reports/statistics/`
-- T-75: Update changelog-management guide to describe unreleased.md workflow
-- T-99: Document data-aware backup v1 commit preparation process and issues (missed links, index.html restructuring, farewell text relocation)
-- T-100: Separate famtree content from newsletter columns data into distinct commit streams
+- T-103: AI logging guidelines - created contribution doc for future-proof logging
+- T-104: Stats calculation update - comprehensive user input time model
 - T-50: Add page footer fixed to bottom of viewport across all screen sizes
 - T-82: Keep original images in print-ready format alongside web-optimized versions
+- T-105: Separate stats generation from backup script into standalone tool
+- T-106: Fix cross-references across documentation files
+- T-107: Normalize stats field names to user_activity_* across all databases and reports
+- T-108: Update ai-reports with normalized user_activity naming and human-readable totals
+- T-109: Add famtree database support to stats script with auto-detection
+- T-110: Fix stats script overwrite bug and add multi-database config support
+- T-111: Add automated pre-commit hook to verify session stats are regenerated after database changes
+- T-112: Create contributor quick-start guide covering backup workflow, stats generation, and reporting in one place
+- T-113: Add dry-run mode to backup script to preview sessions and path replacements before writing
+- T-114: Implement automated path-anonymization verification that scans all database columns for exposed local paths
+- T-115: Add unit tests for stats script normalization and user activity calculation
+- T-116: Create session auto-discovery utility that queries the source database for project-relevant sessions
+- T-117: Add database schema version and migration path to support future schema evolution without data loss
+- T-118: Consolidate duplicate documentation files in `_docs/` that exist in multiple locations
+- T-119: Clean up runtime cache directories in `.dev-scripts` and ensure they are gitignored
+- T-121: Review and remove redundant per-developer documentation now that config is generalized
+- T-122: Add `.ai-activity` retention policy and cleanup script to prevent unbounded growth
+- T-123: Consolidate duplicate database schema files across `.dev-scripts/ai-assistant/*/` into a single shared source
+- T-125: Add `.dev-scripts` cleanup script to remove stale caches and temporary files
+- T-126: Implement database size monitoring for `.ai-activity/ai-sessions/*.db` to track growth trends
+- T-127: Add automated duplicate detection to prevent future duplication in docs and configs
+- T-128: Create unified session stats viewer that works across all developers without manual file selection
+- T-129: Add session database integrity check to pre-commit audit
+- T-130: Implement incremental backup deduplication to reduce database growth
+- T-132: Create session stats dashboard script for quick project health overview
+- T-133: Add SQLite VACUUM and integrity checks to backup workflow
+- T-135: Add documentation link validation to pre-commit audit
+- T-136: Implement backup database checksum verification
+- T-137: Add automated session cleanup for temporary/scratch sessions
+- T-138: Create unified stats aggregator across all developer databases
+- T-140: Implement automated backup rotation strategy
+- T-143: Implement message/part deduplication within backup databases
+- T-144: Add database indexing on frequently queried columns for performance
+- T-145: Create session archive manager for cold storage of old sessions
+- T-146: Add automated cleanup of orphaned session files
+- T-148: Add session metadata enrichment during backup
+- T-149: Create database vacuum scheduler for periodic optimization
+- T-150: Add incremental backup change detection using timestamps

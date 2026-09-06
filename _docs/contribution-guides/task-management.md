@@ -29,6 +29,7 @@ Tasks are tracked using numbered files in the `.todo/` directory. This guide def
 - These tasks verify project health across all areas: file dates, todo integrity, AI transparency, changelog, guides, encoding, hrefs, privacy, and documentation consistency.
 - Run all applicable audit tasks before committing changes.
 - Audit tasks do not expire; they remain in `todo-audit.md` and are executed repeatedly.
+- See `_docs/dev-guides/audit/readme.md` for the audit guide.
 
 ## Task Design Rules
 
@@ -36,6 +37,7 @@ Tasks are tracked using numbered files in the `.todo/` directory. This guide def
 - Only combine tasks if they are **tightly related** and **non-overlapping**.
 - Tasks must not **intercross**: each task should be independently executable.
 - Keep tasks grouped by conceptual phase, independent of which file they currently occupy.
+- **Do not mark todo entries as "planned"** — tasks in `todo-next.md` are by definition upcoming work. Section headers should name the area of work, not restate that it is planned.
 
 ## Migration Phases
 

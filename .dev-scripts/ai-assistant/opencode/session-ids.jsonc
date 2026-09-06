@@ -1,0 +1,6 @@
+{
+  // Session IDs for OpenCode AI co-developer sessions.
+  // These IDs are used to filter and anonymize session data during backup.
+  // Add OpenCode session IDs here when OpenCode is configured.
+  "session_ids": []
+}

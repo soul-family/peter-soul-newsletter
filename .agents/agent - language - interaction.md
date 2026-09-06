@@ -124,8 +124,8 @@ Every AI interaction must log to `.ai-activity/ai-logs/` folder:
 | Skill | Path | Description |
 |-------|------|-------------|
 | AI Transparency | `.skills/ai-transparency/skill.md` | Logs AI interactions, preserves planning artifacts, and maintains a clear audit trail of decisions, sources, and tools used. |
-| AI Session Backup | `.skills/ai-session-backup/skill.md` | Exports Kilo session data from the local SQLite database into project-specific backup databases with local paths anonymized to _www_. |
-| AI Analysis | `.skills/ai-analysis/skill.md` | Analyzes individual Kilo session transcripts for user behaviour, AI behaviour, and improvement opportunities. |
+| AI Session Backup | `.skills/ai-session-backup/skill.md` | Exports AI co-developer session data from the local SQLite database into project-specific backup databases with local paths anonymized to _www_. |
+| AI Analysis | `.skills/ai-analysis/skill.md` | Analyzes individual AI co-developer session transcripts for user behaviour, AI behaviour, and improvement opportunities. |
 | Date-Aware GitHub Backup | `.skills-archived/date-aware-backup/skill.md` | Derives original publish/update dates from filenames and filesystem timestamps, then creates backdated Git commits for a static HTML site archive. |
 | Commit Prep Verifier | `.skills-archived/commit-prep-verifier/skill.md` | Validates preparation folder structure, checks for duplicate/missing files, and verifies file Created/Modified/Accessed dates before migration. |
 | Commit Preparation Steps | `.skills-archived/commit-preparation-to-staged/skill.md` | Moves prep folder content to root, stages files, and commits with backdated author/date. |

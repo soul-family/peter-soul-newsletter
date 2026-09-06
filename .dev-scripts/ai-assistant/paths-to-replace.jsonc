@@ -1,0 +1,14 @@
+{
+  // General path replacement rules for anonymizing local repository paths.
+  // Use regex patterns to match any local checkout location.
+  // The pattern "^.*$" matches any path (the entire string),
+  // regardless of drive letter or parent directories.
+  "rules": [
+    {
+      // Match any path — useful as a general anonymization rule.
+      // This works regardless of where the repo is checked out.
+      "paths": "^.*$",
+      "replacement": "_www_"
+    }
+  ]
+}

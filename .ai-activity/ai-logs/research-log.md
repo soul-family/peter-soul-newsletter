@@ -20,7 +20,7 @@
 - v1.0.0: Original website fully backed up to GitHub with backdated commits matching original publish dates
 - v1.1.0: Compatibility updates — doctype, paths, and link restructuring complete
 - v1.5.0: Archive modernized — HTML5, CSS3 variables, UTF-8 encoding, image optimization, sticky navigation
-- v1 prep skills archived to `.skills-archived/`; only ai-transparency remains active
+- v1 prep skills archived to archived skills folder; only ai-transparency remains active
 - Dev-scripts streamlined to task management, changelog generation, and pre-commit audit
 - v1 migration intermediate files removed from working tree; git history preserves all artifacts
 

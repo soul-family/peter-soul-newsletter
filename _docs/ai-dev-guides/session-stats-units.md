@@ -1,24 +1,23 @@
 # Session Stats Units Guide
 
-Reference for understanding the units and time calculations used in AI session statistics JSON files. These files are generated alongside each session database (e.g., `website-sessions.stats.json`).
+Reference for understanding the units and time calculations used in AI session statistics JSON files. These files are generated alongside each session database.
 
 ## File Location
 
 Stats files live next to their corresponding database in `.ai-activity/ai-sessions/<developer>/`:
-- `website-sessions.stats.json` — website project stats
-- `famtree-sessions.stats.json` — famtree project stats
+- `<project>-sessions.stats.json` — project-specific stats
 
 The top of each file contains a `_units` section that documents the meaning of every field.
 
 ## Time Calculations
 
-The stats files report two categories of time: **AI processing time** and **user input time**. Neither includes idle time (overnight breaks, paused sessions, etc.) — only active time.
+The stats files report two categories of time: **AI processing time** and **user activity time**. Neither includes idle time (overnight breaks, paused sessions, etc.) — only active time.
 
 ### AI Processing Time
 
 AI processing time is the actual wall-clock time the AI model spent generating responses. It is calculated as the sum of `(time.completed - time.created)` for every assistant message in the session.
 
-Each message in the Kilo SQLite database stores:
+Each message in the AI co-developer SQLite database stores:
 
 ```json
 {
@@ -40,9 +39,9 @@ The stats file reports:
 | `ai_processing_count` | Number of assistant messages with valid start/end times |
 | `ai_processing_human` | Human-readable format (e.g., "61h 10m") |
 
-### User Input Time
+### User Activity Time
 
-User input time estimates how long the user spent typing, thinking, and revising each prompt. Since the Kilo database does not record actual typing duration, the estimate uses **word-count tiers** under the assumption that longer prompts require more drafting time:
+User activity time estimates how long the user spent typing, thinking, and revising each prompt. Since the AI co-developer database does not record actual typing duration, the estimate uses **word-count tiers** under the assumption that longer prompts require more drafting time:
 
 | Word Count | Tier Label | Estimated Time | Rationale |
 |------------|------------|----------------|-----------|
@@ -52,21 +51,21 @@ User input time estimates how long the user spent typing, thinking, and revising
 | 200–499 words | Detailed task | 6 minutes | Long-form request with specifications |
 | 500+ words | Extensive task | 10 minutes | In-depth brief with full context |
 
-The tier table is implemented in `_docs/ai-dev-guides/session-stats-units.md` and applied per user message. Total user input time is the sum of all per-message tier estimates.
+The tier table is implemented in the stats script and applied per user message. Total user activity time is the sum of all per-request tier estimates.
 
 The stats file reports:
 
 | Field | Meaning |
 |-------|---------|
-| `user_input_seconds` | Total estimated user input time (sum of per-request tier estimates) |
-| `user_input_word_total` | Total words across all user requests in the session |
-| `user_input_word_distribution` | Count of requests per word-count tier |
-| `user_input_avg_seconds` | Average per-request estimate |
-| `user_input_human` | Human-readable format |
+| `user_activity_seconds` | Total estimated user activity time (sum of per-request tier estimates) |
+| `user_activity_word_total` | Total words across all user requests in the session |
+| `user_activity_word_distribution` | Count of requests per word-count tier |
+| `user_activity_avg_seconds` | Average per-request estimate |
+| `user_activity_human` | Human-readable format |
 
 ### Total Active Time
 
-`total_seconds` = `ai_processing_seconds` + `user_input_seconds`
+`total_seconds` = `ai_processing_seconds` + `user_activity_seconds`
 
 This is the active time of the session, excluding all idle gaps.
 
@@ -95,7 +94,7 @@ Timestamps use the simplified `y-m-d h:i` format (e.g., `2026-07-31 02:12`) for 
 
 ## Idle Time Is Not Counted
 
-The Kilo database records only message timestamps, not idle gaps. A session that ran for a calendar month but had 61h of AI work and 8h of user typing will report 69h of active time — not 720h. This is intentional: idle time is not a measure of work done.
+The AI co-developer database records only message timestamps, not idle gaps. A session that ran for a calendar month but had 61h of AI work and 8h of user activity will report 69h of active time — not 720h. This is intentional: idle time is not a measure of work done.
 
 ## Example
 
@@ -117,19 +116,18 @@ The Kilo database records only message timestamps, not idle gaps. A session that
     "ai_processing_seconds": 220224,
     "ai_processing_human": "61h 10m",
     "ai_processing_count": 7156,
-    "user_input_seconds": 29940,
-    "user_input_human": "8h 19m",
-    "user_input_word_total": 32500,
-    "user_input_word_distribution": {
+    "user_activity_seconds": 29940,
+    "user_activity_human": "8h 19m",
+    "user_activity_word_total": 32500,
+    "user_activity_word_distribution": {
       "1-9": 60, "10-49": 270, "50-199": 140, "200-499": 25, "500+": 4
     },
-    "user_input_avg_seconds": 60
+    "user_activity_avg_seconds": 60
   }
 }
 ```
 
 ## See Also
 
-- `.ai-activity/ai-analysis/` — Per-session analysis reports using these stats
-- `_docs/reports/statistics/` — Human-readable aggregate statistics
+- `.ai-activity/ai-reports/` — Aggregate statistics reports
 - `.skills/ai-analysis/skill.md` — Analysis workflow
