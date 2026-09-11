@@ -146,3 +146,8 @@ Completed work from the todo-next.md file.
 - T-148: Add session metadata enrichment during backup
 - T-149: Create database vacuum scheduler for periodic optimization
 - T-150: Add incremental backup change detection using timestamps
+
+- T-10: Separate the family tree content into its own dedicated repository
+- T-12: Reduce family tree mentions in this repository's documentation to focus on the current newsletter archive
+- T-13: Move family-tree-specific documentation to the new repository
+- T-14: Update cross-references in remaining docs to point to the family tree repository

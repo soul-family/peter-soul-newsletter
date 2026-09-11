@@ -1,42 +1,39 @@
 {
-  "generated_at": "2026-09-03T21:45:16.969649",
-  "databases": [
-    "sessions"
-  ],
+  "database": "website-sessions.db",
+  "generated_at": "2026-09-05T04:57:01.890644",
   "totals": {
-    "sessions": 17,
-    "messages": 8764,
-    "parts": 34453,
-    "thinking_length_chars": 8910798,
-    "user_requests": 528,
-    "tokens_input": 78302284,
-    "tokens_output": 2177306,
-    "tokens_reasoning": 2127218,
-    "total_duration_seconds": 629944,
-    "total_duration_human": "174h 59m",
-    "total_ai_processing_seconds": 282784,
-    "total_ai_processing_human": "78h 33m",
-    "total_user_activity_seconds": 347160,
-    "total_user_activity_human": "96h 26m",
-    "total_user_activity_words": 19292,
-    "total_user_activity_writing_seconds": 39675,
-    "total_user_activity_writing_human": "11h 1m",
-    "total_user_activity_waiting_seconds": 5280,
-    "total_user_activity_waiting_human": "1h 28m",
-    "total_user_activity_review_seconds": 207165,
-    "total_user_activity_review_human": "57h 32m",
-    "total_user_activity_verification_seconds": 95040,
-    "total_user_activity_verification_human": "26h 24m",
+    "sessions": 11,
+    "messages": 8065,
+    "parts": 31558,
+    "thinking_length": 8286008,
+    "user_requests": 489,
+    "tokens_input": 73450101,
+    "tokens_output": 2088441,
+    "tokens_reasoning": 1970850,
+    "total_duration_seconds": 562408,
+    "total_duration_human": "156h 13m",
+    "total_ai_processing_seconds": 237848,
+    "total_ai_processing_human": "66h 4m",
+    "total_user_activity_seconds": 324560,
+    "total_user_activity_human": "90h 9m",
+    "total_user_activity_words": 16593,
+    "total_user_activity_writing_seconds": 35880,
+    "total_user_activity_writing_human": "9h 58m",
+    "total_user_activity_waiting_seconds": 4890,
+    "total_user_activity_waiting_human": "1h 21m",
+    "total_user_activity_review_seconds": 195770,
+    "total_user_activity_review_human": "54h 22m",
+    "total_user_activity_verification_seconds": 88020,
+    "total_user_activity_verification_human": "24h 27m",
     "user_activity_tier_distribution": {
-      "1-9": 138,
-      "10-49": 301,
-      "50-199": 72,
-      "200-499": 15,
-      "500+": 2
-    },
-    "avg_words_per_request": 36
+      "1-9": 129,
+      "10-49": 277,
+      "50-199": 71,
+      "200-499": 11,
+      "500+": 1
+    }
   },
-  "sessions_breakdown": [
+  "sessions": [
     {
       "id": "ses_04a4573acffeBzvWZ5C3A41mp6",
       "directory": "C:/_www_",
@@ -435,6 +432,46 @@
         "user_activity_review_human": "16m",
         "user_activity_verification_seconds": 540,
         "user_activity_verification_human": "9m"
+      }
+    },
+    {
+      "id": "ses_f9394dcc8ffelgFA7YR0vFIAdE",
+      "directory": "C:/Y_ckaroli/areas-AI",
+      "created": "2026-09-04 13:35",
+      "updated": "2026-09-04 13:35",
+      "message_count": 14,
+      "part_count": 84,
+      "user_request_count": 1,
+      "thinking_length": 8001,
+      "tokens_input": 124329,
+      "tokens_output": 13012,
+      "tokens_reasoning": 2040,
+      "durations": {
+        "total_seconds": 2393,
+        "total_human": "39m",
+        "ai_processing_seconds": 1058,
+        "ai_processing_human": "17m",
+        "ai_processing_count": 13,
+        "user_activity_seconds": 1335,
+        "user_activity_human": "22m",
+        "user_activity_word_total": 369,
+        "user_activity_word_distribution": {
+          "1-9": 0,
+          "10-49": 0,
+          "50-199": 0,
+          "200-499": 1,
+          "500+": 0
+        },
+        "user_activity_avg_seconds": 1335,
+        "user_activity_avg_words": 369,
+        "user_activity_writing_seconds": 360,
+        "user_activity_writing_human": "6m",
+        "user_activity_waiting_seconds": 10,
+        "user_activity_waiting_human": "0m",
+        "user_activity_review_seconds": 785,
+        "user_activity_review_human": "13m",
+        "user_activity_verification_seconds": 180,
+        "user_activity_verification_human": "3m"
       }
     }
   ]

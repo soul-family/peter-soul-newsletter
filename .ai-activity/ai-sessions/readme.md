@@ -8,7 +8,7 @@ This project supports multiple AI co-developers. Each developer's sessions are s
 
 | Developer | Databases | Purpose |
 |-----------|----------|---------|
-| `kilo-code` | website-sessions.db, famtree-sessions.db | Primary AI assistant session exports — most complete |
+| `kilo-code` | website-sessions.db, sessions.db | Primary AI assistant session exports — most complete |
 | `opencode` | (none) | AI co-developer (future use) |
 | `github-copilot` | (none) | AI pair programmer (future use) |
 

@@ -18,8 +18,8 @@
       "name": "Kilo Famtree",
       "description": "Family tree project sessions",
       "config_dir": "kilo-code",
-      "database": "famtree-sessions.db",
-      "stats_file": "famtree-sessions.stats.json"
+      "database": "sessions.db",
+      "stats_file": "sessions.stats.json"
     },
     {
       // OpenCode AI co-developer (configured for future use)
