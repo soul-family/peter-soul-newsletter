@@ -1,3 +1,3 @@
 # Agent Instructions
 
-read agents files in root `/.agents/` folder
+read agents files in `.agents` folder

@@ -1,0 +1,28 @@
+{
+  // AI developer definitions for session backup and statistics tools.
+  // Each developer entry defines configuration for session database management.
+  // Additional databases for the same developer can be added as override entries.
+  "ai-tools": [
+    {
+      // Kilo Code
+      "id": "kilo-code",
+      "config_dir": ".",
+      "database": "kilo-code-sessions.db",
+      "stats_file": "kilo-code-sessions.stats.json"
+    },
+    {
+      // OpenCode
+      "id": "opencode",
+      "config_dir": ".",
+      "database": "opencode-sessions.db",
+      "stats_file": "opencode-sessions.stats.json"
+    },
+    {
+      // GitHub Copilot
+      "id": "github-copilot",
+      "config_dir": ".",
+      "database": "github-copilot-sessions.db",
+      "stats_file": "github-copilot-sessions.stats.json"
+    }
+  ]
+}

@@ -1,6 +1,8 @@
-# Todo — Audit
+# Todo Audit
 
 Repeatable verification tasks for the Archive project. Audit tasks are not tied to a specific release or task number; they are gap-numbered checks that can be run at any time during project reviews, pre-commit audits, or maintenance windows.
+
+Audit tasks are manual checks. Run each applicable task and confirm the result before proceeding. If an audit fails, fix the issue or document the exception before continuing.
 
 ## Purpose
 
@@ -19,10 +21,6 @@ Audit tasks verify project health and prevent regressions across:
 - During project reviews
 - When adding new AI co-developers or session databases
 - Periodically as part of maintenance
-
-## How to Run
-
-Audit tasks are manual checks. Run each applicable task and confirm the result before proceeding. If an audit fails, fix the issue or document the exception before continuing.
 
 ## Audit Tasks
 

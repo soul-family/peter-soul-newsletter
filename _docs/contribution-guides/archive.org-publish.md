@@ -2,7 +2,7 @@
 
 ## Overview
 
-This guide covers how to publish and discover the Archive on Archive.org (Internet Archive). The goal is to ensure the archived content is preserved, accessible, and findable through the Wayback Machine and Archive.org search.
+This guide covers how to publish and discover the archive on Archive.org (Internet Archive). The goal is to ensure the original content is preserved, accessible, and findable through the Wayback Machine and Archive.org search.
 
 ## Prerequisites
 
@@ -32,7 +32,7 @@ After upload, edit the item metadata:
 
 | Field | Value |
 |-------|-------|
-| Title | The Archive |
+| Title | Peter Soul newsletter |
 | Creator | Peter Soul |
 | Date | 2002-2019 |
 | Description | Blog columns and personal website archive, published between July 2002 and March 2019. |
@@ -64,7 +64,7 @@ After capture completes:
 1. Visit `https://web.archive.org/web/*/https://<your-domain>` to see available snapshots
 2. Check that navigation links work
 3. Verify images load correctly
-4. Test that blog post links resolve
+4. Test that the page links resolve
 
 ## Step 7: Share the Archive
 

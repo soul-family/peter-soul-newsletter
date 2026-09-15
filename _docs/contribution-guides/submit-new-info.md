@@ -2,7 +2,7 @@
 
 ## Overview
 
-This guide explains how to submit additional information to the Archive. You can contribute corrections, additions, or new content to either the columns archive or the family tree.
+This guide explains how to submit additional information to the Soul family tree archive, You can contribute corrections, additions, or new content.
 
 ## Before You Submit
 
@@ -15,14 +15,9 @@ Before submitting new information:
 
 ### What You Can Submit
 
-**For the Columns Archive:**
 - Corrections to blog post text
-- Missing dates or publication details
 - Context about events mentioned in posts
 - Background information about people or places mentioned
-
-**For the Family Tree:**
-- Missing family members
 - Date corrections
 - Relationship clarifications
 - Additional biographical details
@@ -33,7 +28,7 @@ Before submitting new information:
 - Personal private information about living people without permission
 - Unverified rumors or speculation
 - Copyrighted material without permission
-- Content unrelated to the Archive
+- Content unrelated to the family tree archive
 
 ## How to Submit
 
@@ -52,7 +47,6 @@ Prepare your submission with:
 3. Click **New issue**
 4. Choose the appropriate template if available, or select **Blank issue**
 5. Write a clear title, such as:
-   - "Correction: July 2002 post date"
    - "Addition: Missing family member in Smith branch"
    - "Update: Corrected relationship in Wilson family tree"
 
@@ -91,70 +85,6 @@ Any other details that help understand the submission.
 3. They may ask questions or request clarification
 4. If accepted, the information will be added to the Archive
 
-## For Family Tree Submissions
-
-Family tree submissions require extra care:
-
-### Required Information
-
-- Full name of the person
-- Birth and death dates (if known)
-- Relationships (parents, spouses, children)
-- Which family branch they belong to
-- Source of the information
-
-### Example Family Tree Issue
-
-```markdown
-## What
-Add missing family member to the Smith branch
-
-## Where
-Smith family tree, missing child of John Smith
-
-## Information
-- Name: Mary Smith
-- Born: 1845
-- Married: 1868 to Thomas Brown
-- Children: 3
-- Died: 1912
-
-## Source
-Family Bible records, verified by Smith family historian
-
-## Additional Context
-Mary was omitted from the original tree. Her marriage certificate and census records confirm her existence.
-```
-
-## For Columns Archive Submissions
-
-When submitting information about blog posts:
-
-### Required Information
-
-- Post date (month/year)
-- Specific correction or addition
-- Source of the correction
-
-### Example Columns Issue
-
-```markdown
-## What
-Correction to July 2002 post
-
-## Where
-`2002/july/index.html`, third paragraph
-
-## Information
-The post mentions "the 1998 meeting" but it should be "the 1999 meeting"
-
-## Source
-Personal attendance at the meeting, confirmed by meeting minutes
-
-## Additional Context
-The author's other references in adjacent posts confirm 1999 as the correct year.
-```
-
 ## After Submission
 
 ### Review Process
@@ -186,9 +116,8 @@ The author's other references in adjacent posts confirm 1999 as the correct year
 
 ### Provide Sources
 
-- Family records, certificates, documents
+- Documents
 - Personal knowledge with context
-- Historical records
 - The more reliable the source, the faster it can be added
 
 ### Be Patient

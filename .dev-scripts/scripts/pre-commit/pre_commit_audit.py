@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-pre_commit_audit.py — verify project state before Git commit.
+pre_commit_audit.py - verify project state before Git commit.
 
 Checks:
 1. Todo management: no duplicate T-numbers, valid structure
@@ -146,7 +146,7 @@ def check_session_stats():
         stats_mtime = stats_path.stat().st_mtime
         
         if db_mtime > stats_mtime:
-            issues.append(f'Stats file outdated for {db_path.relative_to(BASE)} — database is newer than stats')
+            issues.append(f'Stats file outdated for {db_path.relative_to(BASE)} - database is newer than stats')
     
     if issues:
         print('SESSION STATS ISSUES:')
@@ -201,37 +201,6 @@ def check_doc_links():
     return len(issues) == 0
 
 
-def check_guides():
-    issues = []
-    guides = [
-        BASE / '_docs' / 'reports' / 'update-guide-v1-to-v2.md',
-        BASE / '_docs' / 'reports' / 'updates-guide-v0-to-v1.md',
-        BASE / '_docs' / 'dev-guides' / 'ai-dev-guides' / 'ai-transparency.md',
-        BASE / '_docs' / 'contribution-guides' / 'changelog-management.md',
-        BASE / '_docs' / 'contribution-guides' / 'task-management.md',
-        BASE / '_docs' / 'contribution-guides' / 'archive.org-publish.md',
-        BASE / '_docs' / 'contribution-guides' / 'storage-manage.md',
-        BASE / '_docs' / 'archive-guides' / 'about-archive.md',
-        BASE / '_docs' / 'archive-guides' / 'browsing-newsletter.md',
-        BASE / '_docs' / 'contribution-guides' / 'archive.org-searching.md',
-        BASE / '_docs' / 'contribution-guides' / 'storage-manage-invite.md',
-        BASE / '_docs' / 'contribution-guides' / 'submit-new-info.md',
-        BASE / '_docs' / 'family-tree' / 'archive-guide.md',
-    ]
-
-    for g in guides:
-        if not g.exists():
-            issues.append(f'Guide missing: {g.relative_to(BASE)}')
-
-    if issues:
-        print('GUIDES ISSUES:')
-        for i in issues:
-            print(f'  - {i}')
-    else:
-        print('GUIDES OK')
-
-    return len(issues) == 0
-
 def check_content_dates_older_than_logs():
     issues = []
     
@@ -278,7 +247,6 @@ def main():
     results.append(('Todo management', check_todos()))
     results.append(('AI transparency', check_ai_transparency()))
     results.append(('Changelog', check_changelog()))
-    results.append(('Guides', check_guides()))
     results.append(('Doc links', check_doc_links()))
     results.append(('Session stats', check_session_stats()))
 

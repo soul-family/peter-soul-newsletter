@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-session_archive_manager.py — Move old sessions to cold storage.
+session_archive_manager.py - Move old sessions to cold storage.
 
 Moves session databases older than a threshold to an archive directory,
 freeing up space in the primary backup location.
@@ -14,9 +14,9 @@ import argparse
 import os
 import shutil
 import sys
-from datetime import datetime, timedelta
+from datetime import datetime
 
-sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), 'ai-assistant', 'scripts', 'shared'))
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'ai-sessions', 'shared'))
 from config_loader import get_developer_ids, get_developer_config
 
 
@@ -74,13 +74,13 @@ def main():
     print(f"Archive: {args.archive_dir}")
     print()
     
-    developers = [args.developer] if args.developer else get_developer_ids('.dev-scripts/ai-assistant/scripts')
+        developers = [args.developer] if args.developer else get_developer_ids('.dev-scripts/ai-sessions')
     
     archived = 0
     failed = 0
     
     for dev_id in developers:
-        dev_config = get_developer_config('.dev-scripts/ai-assistant/scripts', dev_id)
+        dev_config = get_developer_config('.dev-scripts/ai-sessions', dev_id)
         config_dir = dev_config.get('config_dir', dev_id)
         dev_dir = os.path.join(args.base_dir, config_dir)
         

@@ -7,7 +7,7 @@ This guide explains how to manage the archive on GitHub. It covers who can acces
 ## What is GitHub Storage?
 
 GitHub is where the archive lives online. Think of it like a shared folder that:
-- Keeps all the website files safe
+- Keeps all the files safe
 - Tracks every change made
 - Lets multiple people work together
 - Stores the history of the archive
@@ -72,12 +72,12 @@ The `main` branch is the master copy. To protect it:
 3. Type `main` as the branch name
 4. Turn on:
    - **Require pull request before merging** - changes must be reviewed
-   - **Do not allow force pushes** - prevents accidental history changes
-   - **Do not allow deletions** - protects against accidental removal
+   - **Block history rewrites** - prevents accidental history changes
+     - **Require review before content retirement** - protects against accidental retirement
 5. Click **Create**
 
 This means:
-- Nobody can accidentally delete the archive
+- Nobody can accidentally remove the archive
 - All changes are reviewed before going live
 - The history stays intact
 
@@ -111,7 +111,7 @@ This keeps the archive safe and lets you review all changes.
 
 1. Find the person in the list
 2. Click the trash icon
-3. Confirm removal
+  3. Confirm access retirement
 
 They will immediately lose access.
 

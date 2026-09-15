@@ -22,17 +22,17 @@ Back up local files to GitHub using backdated Git commits reflecting original pu
 Move a static website archive to GitHub with backdated Git commits matching original publish dates, using preparation folders for review.
 
 ### Workflow
-1. **Map dates** — classify files and derive candidate commit dates
-2. **Build prep folders** — create `src-preps/commit0/` to `commitN/` with files staged per commit
-3. **Verify** — check prep folder structure, duplicates, and date anomalies
-4. **Review** — user inspects prep folders
-5. **Commit** — execute backdated commits in chronological order
-6. **Push** — push to origin
+1. **Map dates** - classify files and derive candidate commit dates
+2. **Build prep folders** - create `src-preps/commit0/` to `commitN/` with files staged per commit
+3. **Verify** - check prep folder structure, duplicates, and date anomalies
+4. **Review** - user inspects prep folders
+5. **Commit** - execute backdated commits in chronological order
+6. **Push** - push to origin
 
 ### Output Structure
-- `commit0/` — README, LICENSE, `.version`
-- `commit1/` — `src-content/` containing non-blog pages in `content/`, first blog post in `content/columns/`, referenced assets, root files
-- `commit2..N/` — `src-content/` containing remaining blog posts in `content/columns/` in chronological order
+- `commit0/` - README, LICENSE, `.version`
+- `commit1/` - `src-content/` containing non-blog pages in `content/`, first blog post in `content/columns/`, referenced assets, root files
+- `commit2..N/` - `src-content/` containing remaining blog posts in `content/columns/` in chronological order
 
 ### Asset Deduplication
 - Assets already present in a previous commit folder do not copy again into later commits.
@@ -89,19 +89,19 @@ Move a static website archive to GitHub with backdated Git commits matching orig
      ```
 
 ## Preparation Folder Structure
-- `commit0/` — README and LICENSE
-- `commit1/` — `src-content/` with Non-blog pages in `content/`, first blog post in `content/columns/`, referenced assets, root files
-- `commit2..N/` — `src-content/` with Remaining blog posts in `content/columns/` in chronological order
+- `commit0/` - README and LICENSE
+- `commit1/` - `src-content/` with Non-blog pages in `content/`, first blog post in `content/columns/`, referenced assets, root files
+- `commit2..N/` - `src-content/` with Remaining blog posts in `content/columns/` in chronological order
 
 ## Commit Strategy
 
-### Commit 0 — Repository Metadata
+### Commit 0 - Repository Metadata
 - **Content**: README, LICENSE
 - **Date**: Today
 - **Message**: "Initial commit: README and license"
 - **Rationale**: License and attribution must exist before content is added.
 
-### Commit 1 — Initial Content (Non-Blog Pages + First Blog Post + Referenced Assets)
+### Commit 1 - Initial Content (Non-Blog Pages + First Blog Post + Referenced Assets)
 - **Content**: Non-blog pages in `src-content/content/`, first blog post in `src-content/content/columns/`, referenced assets, root files
 - **Date**: First blog post publish date = `YYYY-MM-01 13:00:00` (1st of month at 1pm)
 - **Rule**:
@@ -111,13 +111,13 @@ Move a static website archive to GitHub with backdated Git commits matching orig
   - Assets already present in this commit do not duplicate in later commits.
 - **Message**: "Backup: YYYY-MM-DD"
 
-### Commits 2..N — Blog Progression
+### Commits 2..N - Blog Progression
 - **Content**: Remaining blog posts in `src-content/content/columns/` in chronological order, plus any newly referenced files not present in earlier commits.
 - **Date**: Blog post publish date (from filename), default `YYYY-MM-01 13:00:00`. If two posts in the same month, use `YYYY-MM-01 13:00:00` for the first and `YYYY-MM-15 13:00:00` for the second.
 - **Rule**: Only include assets not already present in previous commits.
 - **Message**: "Backup: YYYY-MM-DD"
 
-### Final Commits — Recent Edits
+### Final Commits - Recent Edits
 - Any files whose `LastWriteTime` is newer than their candidate date get their mtime as commit date.
 - These may batch into one "recent updates" commit or keep separate.
 

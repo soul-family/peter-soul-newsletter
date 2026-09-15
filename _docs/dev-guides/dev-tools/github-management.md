@@ -58,31 +58,21 @@ Standalone reference for GitHub workflows using VS Code and the GitHub web inter
 - Request review from relevant team members
 - Ensure CI checks pass before merging
 - Use draft PRs for work-in-progress
-- Delete branch after merging
+- Retire branch after merging
 
-## Commit Metadata
+## Commit Checklist
 
-Document commit metadata for session backups and significant changes:
+Before committing, verify:
+- [ ] `.changelog/unreleased.md` is empty (or contains entries you want to release)
+- [ ] `CHANGELOG.md` has a version header for every release
+- [ ] `VERSION` file exists and matches the latest version in `CHANGELOG.md` (if VERSION file is used)
+- [ ] Pre-commit audit passes (`python .dev-scripts/scripts/pre-commit/pre_commit_audit.py`)
+- [ ] Commit metadata documented (hash, author, dates, message)
+- [ ] Commit message follows conventional format
+- [ ] Related issues linked with `Closes #XXX`
 
-```
-Commit: [hash]
-Author: [name]
-Date: [YYYY-MM-DD HH:MM:SS]
-Committer: [name]
-Date: [YYYY-MM-DD HH:MM:SS]
-Message: [commit message]
-```
-
-### View in VS Code
-- Source Control panel → click any commit in history
-- Hover over author/date in the timeline gutter
-
-### View on GitHub.com
-- Repository → "Commits" tab → click commit hash
-- Shows author, committer, both dates, and full message
-
+### Record commit metadata
 - Record commit metadata in `.ai-activity/ai-logs/interactions.md` for session backups
+- View in VS Code: Source Control panel → click any commit in history
+- View on GitHub.com: Repository → "Commits" tab → click commit hash
 
----
-
-See also: [kilo-code.md](../ai-dev-tools/kilo-code.md) | [ai-transparency.md](../ai-dev-guides/ai-transparency.md) | [skills-guide.md](../ai-dev-guides/skills-guide.md)

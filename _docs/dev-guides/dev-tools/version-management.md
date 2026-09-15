@@ -54,9 +54,3 @@ For minor or major version bumps:
 2. Run the generator to promote to a patch version
 3. Manually edit `CHANGELOG.md` version header to desired version
 4. Update root `VERSION` file
-
-## See Also
-
-- `_docs/contribution-guides/changelog-management.md` — Full changelog workflow
-- `.dev-scripts/scripts/audit/generate_changelog.py` — Changelog generator script
-- `.dev-scripts/scripts/pre-commit/pre_commit_audit.py` — Pre-commit audit

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-aggregate_all_stats.py — Unified stats aggregator across all developer databases.
+aggregate_all_stats.py - Unified stats aggregator across all developer databases.
 
 Combines statistics from all developer session databases into a single
 project-wide report.
@@ -15,19 +15,14 @@ import json
 import os
 import sys
 
-sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), 'ai-assistant', 'scripts', 'shared'))
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'ai-sessions', 'shared'))
 from config_loader import get_developer_ids, get_developer_config
-
-
-def humanize(seconds):
-    hours = seconds // 3600
-    minutes = (seconds % 3600) // 60
-    return f'{hours}h {minutes}m'
+from session_utils import humanize
 
 
 def load_stats_for_developer(base_dir, developer_id):
     """Load stats file for a developer if it exists."""
-    dev_config = get_developer_config('.dev-scripts/ai-assistant/scripts', developer_id)
+    dev_config = get_developer_config('.dev-scripts/ai-sessions', developer_id)
     config_dir = dev_config.get('config_dir', developer_id)
     stats_name = dev_config.get('stats_file', f'{developer_id}-sessions.stats.json')
     
@@ -41,7 +36,7 @@ def load_stats_for_developer(base_dir, developer_id):
 
 def aggregate_all_stats(base_dir, output_path=None):
     """Aggregate stats from all developers."""
-    developers = get_developer_ids('.dev-scripts/ai-assistant/scripts')
+    developers = get_developer_ids('.dev-scripts/ai-sessions')
     
     all_sessions = []
     databases = []

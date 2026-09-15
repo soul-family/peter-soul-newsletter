@@ -62,7 +62,7 @@ Research and document user behaviour, AI behaviour, and improvement opportunitie
 - Assess whether the AI used the right tools for the task
 
 #### Code Quality (when applicable)
-- Count files created, modified, deleted
+ - Count files created, modified, and retired from the codebase
 - Assess code style consistency with project conventions
 - Note lint or type check execution
 - Track test execution and results

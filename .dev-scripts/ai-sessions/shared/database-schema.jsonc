@@ -1,0 +1,314 @@
+{
+  // AI session database schema version
+  "database_schema_version": "1.0",
+  // Description of the database purpose
+  "description": "AI session database schema for project-specific SQLite backups",
+  // Overview of the database structure
+  "overview": "AI session databases are SQLite databases that store exported session data from AI co-developer tools. Each database contains three main tables: session, message, and part.",
+  // Default location for database files
+  "database_location": ".ai-activity/ai-sessions/<developer>/",
+  "tables": {
+    // Session metadata table
+    "session": {
+      "description": "Stores session metadata",
+      "columns": {
+        // Unique session identifier
+        "id": {
+          "type": "text",
+          "primary_key": true,
+          "description": "Unique session identifier (e.g., ses_xxxxxxxx...)"
+        },
+        // Reference to project
+        "project_id": {
+          "type": "text",
+          "foreign_key": "project(id)",
+          "description": "Reference to project"
+        },
+        // Reference to parent session
+        "parent_id": {
+          "type": "text",
+          "description": "Reference to parent session (if any)"
+        },
+        // URL-friendly session identifier
+        "slug": {
+          "type": "text",
+          "description": "URL-friendly session identifier"
+        },
+        // Working directory for the session
+        "directory": {
+          "type": "text",
+          "description": "Working directory for the session"
+        },
+        // Share URL if session was shared
+        "share_url": {
+          "type": "text",
+          "description": "Share URL (if shared)"
+        },
+        // Lines added in session
+        "summary_additions": {
+          "type": "integer",
+          "description": "Lines added in session"
+        },
+        // Lines deleted in session
+        "summary_deletions": {
+          "type": "integer",
+          "description": "Lines deleted in session"
+        },
+        // Files modified in session
+        "summary_files": {
+          "type": "integer",
+          "description": "Files modified in session"
+        },
+        // Diff summary
+        "summary_diffs": {
+          "type": "text",
+          "description": "Diff summary"
+        },
+        // Revert information
+        "revert": {
+          "type": "text",
+          "description": "Revert information"
+        },
+        // Permission settings
+        "permission": {
+          "type": "text",
+          "description": "Permission settings"
+        },
+        // Creation timestamp in milliseconds
+        "time_created": {
+          "type": "integer",
+          "description": "Creation timestamp (milliseconds)"
+        },
+        // Last update timestamp in milliseconds
+        "time_updated": {
+          "type": "integer",
+          "description": "Last update timestamp (milliseconds)"
+        },
+        // Compaction timestamp
+        "time_compacting": {
+          "type": "integer",
+          "description": "Compaction timestamp"
+        },
+        // Archive timestamp
+        "time_archived": {
+          "type": "integer",
+          "description": "Archive timestamp"
+        },
+        // Workspace identifier
+        "workspace_id": {
+          "type": "text",
+          "description": "Workspace identifier"
+        },
+        // Session path
+        "path": {
+          "type": "text",
+          "description": "Session path"
+        },
+        // Agent used for the session
+        "agent": {
+          "type": "text",
+          "description": "Agent used"
+        },
+        // Model used for the session
+        "model": {
+          "type": "text",
+          "description": "Model used"
+        },
+        // Session cost
+        "cost": {
+          "type": "real",
+          "default": 0,
+          "description": "Session cost"
+        },
+        // Input tokens used
+        "tokens_input": {
+          "type": "integer",
+          "default": 0,
+          "description": "Input tokens"
+        },
+        // Output tokens generated
+        "tokens_output": {
+          "type": "integer",
+          "default": 0,
+          "description": "Output tokens"
+        },
+        // Reasoning tokens used
+        "tokens_reasoning": {
+          "type": "integer",
+          "default": 0,
+          "description": "Reasoning tokens"
+        },
+        // Cache read tokens
+        "tokens_cache_read": {
+          "type": "integer",
+          "default": 0,
+          "description": "Cache read tokens"
+        },
+        // Cache write tokens
+        "tokens_cache_write": {
+          "type": "integer",
+          "default": 0,
+          "description": "Cache write tokens"
+        },
+        // Additional metadata stored as JSON
+        "metadata": {
+          "type": "text",
+          "description": "Additional metadata (JSON)"
+        }
+      }
+    },
+    // Individual chat messages table
+    "message": {
+      "description": "Stores individual chat messages",
+      "columns": {
+        // Unique message identifier
+        "id": {
+          "type": "text",
+          "primary_key": true,
+          "description": "Unique message identifier (e.g., msg_xxxxxxxx...)"
+        },
+        // Reference to parent session
+        "session_id": {
+          "type": "text",
+          "foreign_key": "session(id)",
+          "description": "Reference to parent session"
+        },
+        // Creation timestamp in milliseconds
+        "time_created": {
+          "type": "integer",
+          "description": "Creation timestamp (milliseconds)"
+        },
+        // Last update timestamp in milliseconds
+        "time_updated": {
+          "type": "integer",
+          "description": "Last update timestamp (milliseconds)"
+        },
+        // Message data stored as JSON
+        "data": {
+          "type": "text",
+          "description": "Message data (JSON)"
+        }
+      },
+      // Data format specification for message JSON
+      "data_format": {
+        // Message role: user, assistant, or tool
+        "role": "Message role (user, assistant, tool)",
+        // Timestamp information
+        "time": {
+          // When the message was created
+          "created": "Timestamp when message was created",
+          // When the message was completed
+          "completed": "Timestamp when message was completed"
+        },
+        // Token usage information
+        "tokens": {
+          // Input tokens count
+          "input": "Input tokens count",
+          // Output tokens count
+          "output": "Output tokens count",
+          // Reasoning tokens count
+          "reasoning": "Reasoning tokens count"
+        }
+      }
+    },
+    // Content parts within messages table
+    "part": {
+      "description": "Stores individual content parts within messages",
+      "columns": {
+        // Unique part identifier
+        "id": {
+          "type": "text",
+          "primary_key": true,
+          "description": "Unique part identifier (e.g., prt_xxxxxxxx...)"
+        },
+        // Reference to parent message
+        "message_id": {
+          "type": "text",
+          "foreign_key": "message(id)",
+          "description": "Reference to parent message"
+        },
+        // Reference to parent session (denormalized)
+        "session_id": {
+          "type": "text",
+          "description": "Reference to parent session (denormalized)"
+        },
+        // Creation timestamp in milliseconds
+        "time_created": {
+          "type": "integer",
+          "description": "Creation timestamp (milliseconds)"
+        },
+        // Last update timestamp in milliseconds
+        "time_updated": {
+          "type": "integer",
+          "description": "Last update timestamp (milliseconds)"
+        },
+        // Part data stored as JSON
+        "data": {
+          "type": "text",
+          "description": "Part data (JSON)"
+        }
+      },
+      // Data format specification for part JSON
+      "data_format": {
+        // Type of part: text, reasoning, tool-uses, or tool-results
+        "type": "Part type (text, reasoning, tool-uses, tool-results)",
+        // Text content for text and reasoning parts
+        "text": "Text content (for text and reasoning parts)",
+        // Tool name for tool-use parts
+        "tool": "Tool name (for tool-use parts)",
+        // Tool result for tool-result parts
+        "result": "Tool result (for tool-result parts)"
+      }
+    }
+  },
+  // Indexes for frequently queried columns
+  "indexes": [
+    {
+      "table": "message",
+      "columns": ["session_id"],
+      "description": "Speed up queries filtering messages by session"
+    },
+    {
+      "table": "part",
+      "columns": ["message_id"],
+      "description": "Speed up queries filtering parts by message"
+    },
+    {
+      "table": "part",
+      "columns": ["session_id"],
+      "description": "Speed up queries filtering parts by session"
+    }
+  ],
+  // Table relationship definitions
+  "relationships": [
+    {
+      // Each session has many messages
+      "from": "session",
+      "to": "message",
+      "type": "one-to-many",
+      "description": "Each session has many messages"
+    },
+    {
+      // Each message has many parts
+      "from": "message",
+      "to": "part",
+      "type": "one-to-many",
+      "description": "Each message has many parts"
+    }
+  ],
+  // Cascade delete rules
+  "cascade_delete": [
+    {
+      // Messages are deleted when parent session is deleted
+      "table": "message",
+      "cascade_from": "session",
+      "description": "Messages are cascade-deleted when parent session is deleted"
+    },
+    {
+      // Parts are deleted when parent message is deleted
+      "table": "part",
+      "cascade_from": "message",
+      "description": "Parts are cascade-deleted when parent message is deleted"
+    }
+  ]
+}

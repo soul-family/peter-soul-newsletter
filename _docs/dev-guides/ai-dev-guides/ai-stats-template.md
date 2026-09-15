@@ -1,6 +1,6 @@
 # Session Stats Template
 
-> Template for building per-session analytics. Apply to each individual session transcript independently — not aggregated across sessions.
+> Template for building per-session analytics. Apply to each individual session transcript independently, not aggregated across sessions.
 
 ## Session Metadata
 
@@ -57,9 +57,9 @@
 ### Code Quality (when applicable)
 - Files created
 - Files modified
-- Files deleted
+ - Files retired from the codebase
 - Lines of code added (approx)
-- Lines of code removed (approx)
+ - Lines of code retired from the codebase (approx)
 - Lint checks run
 - Tests run
 - Commits made

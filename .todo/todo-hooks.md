@@ -1,4 +1,4 @@
-# Todo — Hooks
+# Todo - Hooks
 
 Quick-reference workflow cards loaded at the start of a session or when a matching task arises. Each hook is a concise checklist, not a full guide.
 

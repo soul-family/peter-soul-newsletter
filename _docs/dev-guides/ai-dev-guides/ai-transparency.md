@@ -6,16 +6,16 @@ Guide for transparent AI-assisted development. Covers data governance, privacy, 
 
 ### Interaction Logging
 AI assistants log all interactions for transparency:
-- **Decisions** — Rationale behind key choices
-- **Sources** — Research references and extractions
-- **Tool usage** — Which tools were called and why
-- **Session summaries** — High-level outcomes per session
+- **Decisions** - Rationale behind key choices
+- **Sources** - Research references and extractions
+- **Tool usage** - Which tools were called and why
+- **Session summaries** - High-level outcomes per session
 
 ### Data Storage
 AI sessions are stored in a local SQLite database with three tables:
-- `session` — metadata (ID, title, timestamps, token counts, cost)
-- `message` — conversation turns (role, model, finish reason)
-- `part` — content pieces (text, reasoning, tool calls/results)
+- `session` - metadata (ID, title, timestamps, token counts, cost)
+- `message` - conversation turns (role, model, finish reason)
+- `part` - content pieces (text, reasoning, tool calls/results)
 
 All data stays on the local machine. No conversation content is shared with third parties.
 
@@ -37,11 +37,11 @@ All data stays on the local machine. No conversation content is shared with thir
 | Credentials | API keys, passwords | Environment variables |
 
 ### Data Lifecycle
-1. **Creation** — During active AI sessions
-2. **Logging** — Immediately to structured logs
-3. **Version control** — Logs committed; raw sessions gitignored
-4. **Retention** — Logs kept indefinitely in git history
-5. **Deletion** — Only on explicit user instruction
+1. **Creation** - During active AI sessions
+2. **Logging** - Immediately to structured logs
+3. **Version control** - Logs committed; raw sessions gitignored
+4. **Retention** - Logs kept indefinitely in git history
+5. **Deletion** - Only on explicit user instruction
 
 ### Access Control
 - Database file: local, user-controlled permissions
@@ -71,7 +71,7 @@ All data stays on the local machine. No conversation content is shared with thir
 - Review tool call results before they are logged
 - Avoid pasting secrets, passwords, or sensitive data
 - Use `.gitignore` to exclude sensitive files
-- Regularly clean up exported session files after review
+ - Archive exported session files after review
 - Restrict database file permissions
 
 ### Compliance Considerations

@@ -9,7 +9,7 @@
 | Scripting | Python | Task management, changelog generation, pre-commit audit |
 | File operations | Shell utilities (Copy-Item, New-Item, Get-ChildItem) | Directory management, file copying, pattern matching |
 | AI assistants | Kilo, OpenCode, GitHub Copilot | Planning, code generation, workflow automation, multi-agent orchestration |
-| Skills | .skills/ and .skills-archived/ folders | Specialized AI instructions for current and historical workflows |
+| Skills | .skills/ folder and v1 migration archive | Specialized AI instructions for current and historical workflows |
 | Web browsers | Chrome, Firefox, Edge | Compatibility testing, link verification |
 
 ## Techniques Used
@@ -27,7 +27,7 @@
 | task | Launch subagents for parallel exploration or code generation |
 
 **Notes:**
-- Exact filenames and paths do not list in command details because they change as the project evolves.
+- Exact filenames and paths are omitted from command details because they change as the project evolves.
 - Commands describe by technique and purpose rather than specific file references.
 
 ## Current Review Techniques

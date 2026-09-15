@@ -8,7 +8,7 @@ This project supports multiple AI co-developers. Each developer's sessions are s
 
 | Developer | Databases | Purpose |
 |-----------|----------|---------|
-| `kilo-code` | website-sessions.db, sessions.db | Primary AI assistant session exports — most complete |
+| `kilo-code` | sessions.db | Primary family-tree AI assistant session export |
 | `opencode` | (none) | AI co-developer (future use) |
 | `github-copilot` | (none) | AI pair programmer (future use) |
 
@@ -20,14 +20,14 @@ Additional co-developers can be added by:
 ## Usage
 
 Scripts are in `.dev-scripts/ai-assistant/`:
-- `ai-sessions-backup.py` — Export sessions with path anonymization
-- `ai-sessions-stats.py` — Generate session statistics
-- `session-ids-*.json` — Session IDs per developer
-- `paths-to-replace-*.json` — Path patterns for anonymization
+- `ai-sessions-backup.py` - Export sessions with path anonymization
+- `ai-sessions-stats.py` - Generate session statistics
+- `session-ids-*.json` - Session IDs per developer
+- `paths-to-replace-*.json` - Path patterns for anonymization
 
 ## Path Anonymization
 
-All local filesystem paths are replaced with `_www_` during export to avoid exposing local directory structures. The source database path is never hardcoded in scripts — it should be provided via command-line argument when running the backup script.
+All local filesystem paths are replaced with `_www_` during export to avoid exposing local directory structures. The source database path is never hardcoded in scripts - it should be provided via command-line argument when running the backup script.
 
 ## Workflow
 

@@ -20,6 +20,7 @@ These become outdated during normal project evolution:
 - Directory paths and folder structures
 - Line numbers and offsets
 - URLs that encode implementation details
+- **See Also sections in documentation** - Cross-references that break if files move or change
 
 ## Required Instead
 
@@ -32,6 +33,27 @@ Describe behavior, capability, and intent:
 | "Move databases to `.ai-activity/`" | "Consolidate session storage location" |
 | "Fix line 142 in audit script" | "Fix version synchronization check" |
 | "Create `VERSION` file" | "Add version tracking" |
+| **Documentation with `## See Also`** | **Self-contained documentation** - each file must work standalone without cross-references to other docs that could break if files move or change |
+
+## Required Instead
+
+Describe behavior, capability, and intent:
+
+| Instead of | Write |
+|------------|-------|
+| "Add `--developer` flag to script" | "Add multi-AI co-developer support" |
+| "Update `generate_path_variations()`" | "Improve path replacement logic" |
+| "Move databases to `.ai-activity/`" | "Consolidate session storage location" |
+| "Fix line 142 in audit script" | "Fix version synchronization check" |
+| "Create `VERSION` file" | "Add version tracking" |
+| "Prevent left sidebar from being sticky on small screens" | "Restrict sticky sidebar to large-screen layouts" |
+
+## Tone
+
+Describe changes in positive terms: state what something does, not what it does not do.
+
+- Prefer "Restrict sticky sidebar to large-screen layouts" over "Prevent sidebar from sticking on small screens"
+- Prefer "Deduplicate navigation links" over "Remove duplicate links"
 
 ## By Context
 
@@ -118,11 +140,3 @@ The pre-commit audit checks todo and changelog entries for:
 - Implementation-specific terminology
 
 Violations fail the commit with actionable messages.
-
-## See Also
-
-- `_docs/contribution-guides/docs-management.md` — Documentation and logging standards
-- `_docs/contribution-guides/changelog-management.md` — Changelog workflow
-- `_docs/dev-guides/version-management.md` — Version file management
-- `.todo/todo-next.md` — Active tasks following these rules
-- `.todo/todo-done.md` — Completed tasks following these rules

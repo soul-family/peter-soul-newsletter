@@ -41,7 +41,7 @@ Generate a table:
 
 | Commit | Files | Date Range | Issues |
 |--------|-------|------------|--------|
-| commit0 | README and LICENSE | N/A | — |
+| commit0 | README and LICENSE | N/A | - |
 | commit1 | index.html, assets/... | 2002-07-01 | None |
 | ... | ... | ... | ... |
 
@@ -50,7 +50,7 @@ Generate a table:
 Run the pre-commit audit tool to verify preparation folder structure, file dates, and completeness before migration.
 
 ## Common Issues
-- **Future dates**: File **Modified** > today — ask user if intentional
+- **Future dates**: File **Modified** > today - ask user if intentional
 - **Missing README**: First commit folder lacks README
 - **Duplicate files**: Same file in multiple commit folders
 - **Date inversion**: **Created** > **Modified** (expected after archive extraction; treat as warning)

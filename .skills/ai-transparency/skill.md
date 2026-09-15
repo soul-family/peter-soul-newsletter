@@ -19,7 +19,7 @@ Ensure consistent AI transparency throughout the project by logging interactions
 ### Granularity and Focus
 - **One event per log entry**: each decision, file modification, or milestone gets its own entry
 - **Time-boxed entries**: group related micro-decisions into a single session entry when they happen within one continuous interaction
-- **Avoid background noise**: do not log routine operations unless they affect project state or decisions
+- **Focus on meaningful events**: log only operations that affect project state or decisions
 - **Structured format**: use consistent markdown tables and bullet formats for readability in long logs
 
 ### interactions.md
@@ -57,7 +57,7 @@ One row per interaction:
 
 ## Skill Organization
 - Active skills stored in `.skills/` directory
-- Archived skills stored in `.skills-archived/` directory
+- v1 migration skills documented in `_docs/reports/` for historical reference
 - Each skill has a clear Goal, When to Use, Prerequisites, and workflow steps
 - Skills are loaded at the start of matching tasks
 
@@ -88,7 +88,7 @@ The v1 backup migration is complete. All decisions, intermediate files, and scri
 ### Temporary Files
 - Active planning files may reside in `_temp/` during development
 - Completed planning artifacts are logged in AI activity and changelog; intermediate code is preserved in git history
-- Never delete planning artifacts without explicit user instruction
+- Planning artifacts require explicit user instruction before retirement
 
 ### Reusable Code
 - Essential scripts go in the `.dev-scripts/` folder
@@ -102,7 +102,7 @@ The v1 backup migration is complete. All decisions, intermediate files, and scri
 - [ ] sources.md reflects all consulted sources
 - [ ] tools.md updated with tools used
 - [ ] sessions.md updated with outcome
-- [ ] No intermediate code deleted without review
+- [ ] Intermediate code remains intact unless reviewed and approved for retirement
 
 ### Audit Trail
 - Every decision must trace to a session log

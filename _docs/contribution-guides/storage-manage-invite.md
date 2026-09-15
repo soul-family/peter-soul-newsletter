@@ -2,7 +2,7 @@
 
 ## Overview
 
-This guide explains how invited users can access and view statistics about the petersoul.co.uk archive on GitHub.
+This guide explains how invited users can access the archive on GitHub.
 
 ## Getting Started
 
@@ -53,27 +53,6 @@ GitHub provides several built-in statistics:
 2. View commits per day/week
 3. Identify peak activity periods
 
-### Archive Statistics
-
-The archive itself contains statistics:
-
-#### Blog Post Count
-
-- View the `content/columns/` directory to see all blog posts
-- Count is visible in the repository file listing
-
-#### Date Range
-
-- The earliest post is from July 2002
-- The latest post is from March 2019
-- Total span: approximately 17 years
-
-#### Content Types
-
-- Blog columns organized by month/year
-- Family tree pages
-- Static pages (about, contact, etc.)
-- Images and assets
 
 ## Browsing the Archive
 
@@ -81,7 +60,7 @@ The archive itself contains statistics:
 
 As a viewer, you can:
 
-- Read all HTML pages directly on GitHub
+- Read all files directly on GitHub
 - Click any file to view its contents
 - Navigate using the file tree on the left
 
@@ -90,7 +69,7 @@ As a viewer, you can:
 1. Click the green **Code** button
 2. Select **Download ZIP**
 3. Extract the ZIP file
-4. Open `index.html` in a web browser to browse offline
+4. Open `src-content/` folder in a web browser to browse offline
 
 ### Searching the Archive
 
@@ -109,20 +88,9 @@ Or use the repository search bar:
 
 ### Key Directories
 
-- `content/` — Main website content
-- `content/columns/` — Blog posts organized by date (e.g., `2002/july/index.html`)
-- `assets/` — Images, CSS, and other assets
-- See git commit history for original site files and preparation folders (v1 migration artifacts removed)
-
-### Reading Blog Posts
-
-Blog posts are organized by year/month folders:
-
-- `2002/july/index.html` — July 2002 post
-- `2002/september/index.html` — September 2002 post
-- And so on through `2019/march/index.html`
-
-Each post file contains the full HTML of that month's column.
+- `src-content/` - Content for the public website
+- `src-content/assets/` - Images, CSS, and other assets
+ - See git commit history for original site files and preparation folders (v1 migration artifacts excluded)
 
 ## Viewing History
 
@@ -149,14 +117,6 @@ If you encounter issues:
 - Check the repository **Issues** tab for known problems
 - Contact the repository owner or maintainers
 - Refer to the documentation in `_docs/`
-
-## Privacy and Data
-
-As an invited user, you have access to the full archive. Please note:
-
-- Some personal data has been removed for privacy
-- Email addresses are obfuscated or removed where appropriate
-- The archive is shared under Creative Commons license
 
 ## Your Role
 

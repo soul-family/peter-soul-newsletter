@@ -42,7 +42,7 @@ Describe behavior, capability, and intent:
 ### Structure
 
 - Documentation belongs in `_docs/` with topic-based subdirectories
-- Each doc should be self-contained — avoid cross-references that could break
+- Each doc should be self-contained, avoid cross-references that could break
 - Use relative links only when the target is stable and unlikely to move
 - Prefer describing concepts over linking to specific files
 
@@ -58,7 +58,7 @@ Describe behavior, capability, and intent:
 - When updating docs, apply future-proof rules to new text
 - Remove outdated sections rather than patching them
 - If a doc describes a moving target (like file locations), make it generic or remove it
-- Keep docs synchronized with actual behavior — outdated docs are worse than no docs
+- Keep docs synchronized with actual behavior, outdated docs are worse than no docs
 
 ## Logging Rules
 
@@ -68,7 +68,7 @@ AI activity logs track decisions, sources, tool usage, and session outcomes. The
 
 #### Future-Proof Entries
 - Do not mention specific filenames, function names, script names, or file paths
-- Do not reference task numbers (T-numbers) — these can change or be reassigned
+- Do not reference task numbers (T-numbers), these can change or be reassigned
 - Describe capabilities and outcomes, not implementation details
 - Write entries that remain accurate even when code or structure changes
 
@@ -172,13 +172,3 @@ The user wants to refactor the backup workflow. This means separating backup fro
 ```markdown
 I moved ai-sessions-backup.py from folder A to folder B
 ```
-
-## See Also
-
-- `_docs/contribution-guides/adding-text.md` — Future-proof text rules
-- `_docs/contribution-guides/ai-logging-guidelines.md` — AI logging standards
-- `_docs/contribution-guides/changelog-management.md` — Changelog workflow
-- `_docs/dev-guides/version-management.md` — Version file management
-- `.todo/todo-next.md` — Active tasks following these rules
-- `.todo/todo-done.md` — Completed tasks following these rules
-- `.ai-activity/ai-logs/` — Project activity logs

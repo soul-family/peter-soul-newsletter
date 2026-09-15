@@ -8,12 +8,11 @@ Tasks are tracked using numbered files in the `.todo/` directory. This guide def
 
 | File | Purpose |
 |------|---------|
-| `todo-next.md` | Active tasks with T-numbers |
-| `todo-done.md` | Completed tasks with T-numbers |
-| `todo-future.md` | Concepts and v2+ tasks without actionable T-numbers |
-| `todo-ignore.md` | Deprecated or excluded items (no T-numbers) |
-| `todo-audit.md` | Reusable verification tasks (gap numbers reused across sessions) |
-| `todo-famtrees.md` | Family tree tasks (migrating to separate repository) |
+| `todo-next.md` | Active tasks|
+| `todo-done.md` | Completed tasks |
+| `todo-future.md` | Concepts and v2+ tasks |
+| `todo-ignore.md` | Deprecated or excluded items|
+| `todo-audit.md` | Reusable verification tasks |
 
 ## Numbering Rules
 
@@ -37,31 +36,29 @@ Tasks are tracked using numbered files in the `.todo/` directory. This guide def
 - Only combine tasks if they are **tightly related** and **non-overlapping**.
 - Tasks must not **intercross**: each task should be independently executable.
 - Keep tasks grouped by conceptual phase, independent of which file they currently occupy.
-- **Do not mark todo entries as "planned"** — tasks in `todo-next.md` are by definition upcoming work. Section headers should name the area of work, not restate that it is planned.
+- **Do not mark todo entries as "planned"** - tasks in `todo-next.md` are by definition upcoming work. Section headers should name the area of work, not restate that it is planned.
 
-## Migration Phases
+## Family Tree Work Phases
 
 Tasks are grouped by conceptual phase. The set of active phases may grow or shrink as the project evolves; tasks move between phases and files as needed.
 
 | Phase | Focus |
 |-------|-------|
-| Consulting | Archive purpose, boundaries, stakeholder alignment |
-| Planning | Content capture, structure extraction, inventory, AI artifacts |
-| Skills & Tools | AI activity, skills folder, verification, scripts, guidance |
-| File & Folder Planning | Research, sitemap, schema, routing, prep folders, commits |
-| v1 Migration | Capture, extraction, inventory, AI artifacts, HTML5 update |
-| v1 Family Trees | Separate family trees into folders, credits page, commit0-famtree prep |
-| Execution | Documentation, guidance, deployment, legal, retention |
-| Future | v2+ research, deployment, family tree Mermaid conversion |
+| Inventory | Public branches, assets, sources, and privacy boundaries |
+| Structure | Branch folders, index page, credits, and relative links |
+| Skills & Tools | AI activity, verification, scripts, and guidance |
+| Privacy | Contact protection and living-person data safeguards |
+| Verification | Links, images, HTML, accessibility, and offline browsing |
+| Future | Mermaid conversion, source references, and family tree improvements |
 
 ## Task Lifecycle
 
 Tasks flow through the following lifecycle, independent of specific task numbers or content:
 
-1. **Concept** — captured in `todo-future.md` as a deferred idea or future work.
-2. **Action** — promoted to `todo-next.md` with a T-number when scoped and actionable.
-3. **Completion** — moved to `todo-done.md` when finished.
-4. **Retirement** — moved to `todo-ignore.md` if deprecated or excluded.
+1. **Concept** - captured in `todo-future.md` as a deferred idea or future work.
+2. **Action** - promoted to `todo-next.md` with a T-number when scoped and actionable.
+3. **Completion** - moved to `todo-done.md` when finished.
+4. **Retirement** - moved to `todo-ignore.md` if deprecated or excluded.
 
 ## Workflow
 

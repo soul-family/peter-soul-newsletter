@@ -1,4 +1,4 @@
-# A Physicist Writes . . .
+# A Physicist Writes ...
 
 Newsletter of the Thames Valley Group of Advanced Motorists.
 

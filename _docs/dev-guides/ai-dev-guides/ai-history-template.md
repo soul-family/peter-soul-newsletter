@@ -2,7 +2,7 @@
 
 > One file per session. The chronological companion to `ai-stats.md`: stats
 > records *how much* of everything happened; this records *what happened,
-> when, and why it mattered*. Fill the timeline from the same source export —
+> when, and why it mattered*. Fill the timeline from the same source export -
 > event order must match the real transcript, never reconstructed.
 
 ## 0. References
@@ -36,22 +36,22 @@ diff check · `ACCEPT` · `ABANDON` · `META` (plan change, backtrack).
 
 | # | T | When | Detail | Note |
 | --- | --- | --- | --- | --- |
-| 1 | ASK | _t0_ | `"fix the login redirect"` | vague — no file, no expected behaviour (`ai-stats.md` 3.Clarity) |
+| 1 | ASK | _t0_ | `"fix the login redirect"` | vague - no file, no expected behaviour (`ai-stats.md` 3.Clarity) |
 | 2 | SEARCH | | glob for `*login*`, reads `src/pages/login.tsx` | hunt begins because no path given |
-| 3 | CTX | | user pastes error + path after 2 turns | arrived late — cost turns 2–3 |
+| 3 | CTX | | user pastes error + path after 2 turns | arrived late - cost turns 2–3 |
 | … | | | | |
 
 ## 3. Turning points
 
 Marked by turn number, in order.
 
-- **First direction taken:** `_# — the AI's opening approach; was it right?_`
-- **First deviation / wrong turn:** `_# — what drifted; did the user correct within 2 turns?_`
-- **First failure:** `_# — what failed (test, edit miss, rerun)_`
-- **Repeated failure (loop):** `_# → # — how many identical attempts before a change_`
-- **First success:** `_# — what worked_`
-- **Course-corrections:** `_# (early) / # (late) — whether they landed before or after build_`
-- **"Done" declared:** `_# — was a proving command run before this (see ai-training 04)_`
+- **First direction taken:** `_# - the AI's opening approach; was it right?_`
+- **First deviation / wrong turn:** `_# - what drifted; did the user correct within 2 turns?_`
+- **First failure:** `_# - what failed (test, edit miss, rerun)_`
+- **Repeated failure (loop):** `_# → # - how many identical attempts before a change_`
+- **First success:** `_# - what worked_`
+- **Course-corrections:** `_# (early) / # (late) - whether they landed before or after build_`
+- **"Done" declared:** `_# - was a proving command run before this (see ai-training 04)_`
 
 ## 4. User decisions at each crossroad
 

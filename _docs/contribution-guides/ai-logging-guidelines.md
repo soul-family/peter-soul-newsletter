@@ -8,9 +8,10 @@ AI activity logs track decisions, sources, tool usage, and session outcomes. The
 
 ### Future-Proof Entries
 - Do not mention specific filenames, function names, script names, or file paths
-- Do not reference task numbers (T-numbers) — these can change or be reassigned
+- Do not reference task numbers (T-numbers) - these can change or be reassigned
 - Describe capabilities and outcomes, not implementation details
 - Write entries that remain accurate even when code or structure changes
+- Do not log meta-actions about updating the log itself, the changelog, or any project management artifacts (todo files, documentation, instructions, contribution rules, or guides)
 
 ### Self-Contained Entries
 - Each log entry should stand alone
@@ -68,8 +69,8 @@ AI activity logs track decisions, sources, tool usage, and session outcomes. The
 ## Log File Location
 
 All log files reside in `.ai-activity/ai-logs/`:
-- `interactions.md` — Per-task interaction entries
-- `sources.md` — Sources consulted
-- `tools.md` — Tools and techniques used
-- `sessions.md` — Session-level summaries
-- `research-log.md` — Research findings
+- `interactions.md` - Per-task interaction entries
+- `sources.md` - Sources consulted
+- `tools.md` - Tools and techniques used
+- `sessions.md` - Session-level summaries
+- `research-log.md` - Research findings

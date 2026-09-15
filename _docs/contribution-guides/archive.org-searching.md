@@ -2,7 +2,7 @@
 
 ## Overview
 
-This guide explains how to find and browse the petersoul.co.uk archive on Archive.org (Internet Archive) using the Wayback Machine.
+This guide explains how to find and browse the  archived pages on Archive.org (Internet Archive) using the Wayback Machine.
 
 ## Wayback Machine URL
 
@@ -23,16 +23,10 @@ This shows all captured snapshots of the original website over time.
 
 ## Finding Specific Content
 
-### Blog Posts
-
-Blog posts are organized by month and year. To find a specific post:
 
 1. Use the Wayback Machine URL with a specific date if known
 2. Or browse the archive's internal navigation once loaded
 
-### Family Trees
-
-Family tree content is preserved separately. See the `_docs/family-tree/archive-guide.md` more information.
 
 ## Offline Access
 
