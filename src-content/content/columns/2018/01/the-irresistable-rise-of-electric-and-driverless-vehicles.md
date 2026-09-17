@@ -20,7 +20,7 @@ I'm not sure I would want to have one of the latter on my car. When I hear such 
 
 Then last month it was reported that electric cars are becoming cheaper to buy and run than petrol and diesel models (calculated over a four-year ownership period, and allowing for all costs and subsidies). In 2002 I don't think I had any awareness of electric road vehicles other than trams and trolley buses - and milk floats, which must be one of the most historic (if not anachronistic) common sights on the roads today.
 
-![](../../assets/images/milk_float.jpg) But in fact electrically powered highway conveyances have been 'in development' for 150 years and more! For most of this time they have lagged far behind the internal-combustion engine in success and popularity. Only in the past 15 years have they really emerged as a serious alternative to it.
+![](../../../assets/images/milk_float.jpg) But in fact electrically powered highway conveyances have been 'in development' for 150 years and more! For most of this time they have lagged far behind the internal-combustion engine in success and popularity. Only in the past 15 years have they really emerged as a serious alternative to it.
 
 The worries about electrics have not gone away, though: the highest range (on a full charge) that I have seen quoted for an 'affordable' car is still only around 150 miles, and I guess that's when driving steadily on level roads and with every accessory turned off. But even in these most favourable conditions the full range would never be available in reality, because who would risk running their battery down to near zero charge? And perversely, if you can't stop yourself from habitually just topping it up, the capacity of the battery will gradually decrease...
 

@@ -18,7 +18,7 @@ Looking back at my recent columns, I notice several topics that need updating! L
 
 Except that being mobile, they won't need to be installed - hence there will some cost-saving (for BP) from the start. And not only can the charger be wheeled across to your car, but it could also be moved to another site, or even to a vehicle that has run out of juice on the road.
 
-![](../../assets/images/mobile_charger.jpg) The charger is itself battery-powered of course, and is normally recharged from the mains overnight. It's then capable, during the day, of giving a decent fast-charge to about half a dozen cars (or more, if it can be kept connected to the mains by a suitably long lead for some or all of the day).
+![](../../../assets/images/mobile_charger.jpg) The charger is itself battery-powered of course, and is normally recharged from the mains overnight. It's then capable, during the day, of giving a decent fast-charge to about half a dozen cars (or more, if it can be kept connected to the mains by a suitably long lead for some or all of the day).
 
 The National Grid should be in favour of this (fairly new) piece of equipment, as it will reduce the 'spikes' in demand from electric cars being fast-charged directly from the mains. And there's another technical benefit: the batteries in the charger are lithium cast-offs (from cars) that have lost some of their capacity but are still capable of doing this stationary job!
 
@@ -32,7 +32,7 @@ Which reminds me that last year I saw a different application suggested for cast
 
 In my October column I described another American product: the EksoVest, which I have since learnt is to be launched in the UK next month. It's a strap-on, upper-body contraption designed to add strength to the arms of construction and assembly-line workers. Weighing less than 5 kg, it is spring-loaded and entirely self-contained.
 
-![](../../assets/images/Eksovest_r_.jpg) My concern was that it doesn't support the hands, and so you might think that they would have to work even harder than without the Eksovest (as the wearer would be encouraged to pick up and use heavier tools). However, I read later that this kit has already being tried successfully on Ford production lines in the US, with no mention of hand-strain, so maybe it's not a problem.
+![](../../../assets/images/Eksovest_r_.jpg) My concern was that it doesn't support the hands, and so you might think that they would have to work even harder than without the Eksovest (as the wearer would be encouraged to pick up and use heavier tools). However, I read later that this kit has already being tried successfully on Ford production lines in the US, with no mention of hand-strain, so maybe it's not a problem.
 
 But I can definitely see something to worry about in the news of a more powerful design of 'exoskeleton' that is being developed for American soldiers by Lockheed: this version is battery-powered, weighs 12 kg and fits the body from the waist down - boosting leg-power by "up to 27 times" when, for example, heavy loads need to be carried uphill.
 
@@ -46,4 +46,4 @@ Adding to this picture, near the end of last year the results were published of 
 
 But help is at hand, literally, because in the same week came news of the Substitute Phone, which comes as a range of phone-sized blocks of plastic featuring a row of beads, at a choice of angles (diagonal is illustrated).
 
-![](../../assets/images/substitute_phone_r_.jpg) It seems that running your fingers along the beads, as you would in swiping or zooming in or out on a little screen, acts as therapy to keep you calm when you are parted from the real thing. But I strongly suggest you don't pick up even the substitute while driving!
+![](../../../assets/images/substitute_phone_r_.jpg) It seems that running your fingers along the beads, as you would in swiping or zooming in or out on a little screen, acts as therapy to keep you calm when you are parted from the real thing. But I strongly suggest you don't pick up even the substitute while driving!
