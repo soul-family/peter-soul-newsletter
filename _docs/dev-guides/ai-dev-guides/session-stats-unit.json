@@ -23,15 +23,6 @@
     "durations.user_word_total": "total word count across all user requests in session",
     "durations.user_word_distribution": "count of user requests by word count tier",
     "durations.user_request_count": "number of user prompts in session",
-    "_notes": [
-      "tokens_* are COUNTS of model tokens processed, not time or character counts",
-      "1 token ≈ 4 characters in English text on average",
-      "thinking_length is in CHARACTERS of reasoning text (sum of reasoning part text lengths)",
-      "durations do NOT include idle time between prompts (overnight, breaks, etc.)",
-      "user_writing_seconds is an estimate since actual typing time is not tracked by the AI assistant",
-      "user_writing_seconds uses word-count tiers (15s / 60s / 180s / 360s / 600s) — see session-stats-units.md",
-      "user_waiting_seconds is 8 seconds per prompt (3s acceptance + 5s initial check)",
-      "user_verification_seconds is 60 seconds per prompt when files were modified"
-    ]
+    "_notes": ["tokens_* are COUNTS of model tokens processed, not time or character counts", "1 token ≈ 4 characters in English text on average", "thinking_length is in CHARACTERS of reasoning text (sum of reasoning part text lengths)", "durations do NOT include idle time between prompts (overnight, breaks, etc.)", "user_writing_seconds is an estimate since actual typing time is not tracked by the AI assistant", "user_writing_seconds uses word-count tiers (15s / 60s / 180s / 360s / 600s) - see session-stats-units.md", "user_waiting_seconds is 8 seconds per prompt (3s acceptance + 5s initial check)", "user_verification_seconds is 60 seconds per prompt when files were modified"]
   }
 }

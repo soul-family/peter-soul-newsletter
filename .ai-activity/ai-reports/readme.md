@@ -4,9 +4,9 @@ Analytics and statistics reports for AI development activity across the project.
 
 ## Contents
 
-- `ai-development-statistics.md` — Human-readable stakeholder report
-- `project-stats-totals.md` — Internal analysis with full session breakdown
-- `project-stats-totals.json` — Raw aggregate data
+- `ai-development-statistics.md` - Human-readable stakeholder report
+- `project-stats-totals.md` - Internal analysis with full session breakdown
+- `project-stats-totals.json` - Raw aggregate data
 
 ## Workflow
 
@@ -18,6 +18,6 @@ See `.skills/ai-analysis/skill.md` for the full analysis workflow.
 
 ## See Also
 
-- `_docs/dev-guides/ai-dev-guides/session-stats-units.md` — Stats calculation methodology
-- `.ai-activity/ai-sessions/` — Session backups and exports
-- `.ai-activity/ai-user-outcomes/` — Improvement recommendations
+- `_docs/dev-guides/ai-dev-guides/session-stats-units.md` - Stats calculation methodology
+- `.ai-activity/ai-sessions/` - Session backups and exports
+- `.ai-activity/ai-user-outcomes/` - Improvement recommendations

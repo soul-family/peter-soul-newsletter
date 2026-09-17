@@ -7,7 +7,8 @@ This guide explains how to manage the archive on GitHub. It covers who can acces
 ## What is GitHub Storage?
 
 GitHub is where the archive lives online. Think of it like a shared folder that:
-- Keeps all the website files safe
+
+- Keeps all the files safe
 - Tracks every change made
 - Lets multiple people work together
 - Stores the history of the archive
@@ -15,16 +16,19 @@ GitHub is where the archive lives online. Think of it like a shared folder that:
 ## Who Needs Access?
 
 ### Archive Owner
+
 - Full control over everything
 - Can add or remove people
 - Makes final decisions
 
 ### Archive Maintainers
+
 - Can update content and fix issues
 - Helps keep the archive running
 - Usually family members or trusted helpers
 
 ### Viewers
+
 - Can read and download the archive
 - Cannot make changes
 - Useful for family members who want to browse
@@ -34,6 +38,7 @@ GitHub is where the archive lives online. Think of it like a shared folder that:
 ### Step 1: Get Their GitHub Username
 
 Ask the person to:
+
 1. Go to github.com
 2. Create a free account if they don't have one
 3. Send you their GitHub username
@@ -56,7 +61,7 @@ They will receive an email with a link to accept.
 ## What Can Each Person Do?
 
 | Role | What They Can Do | Best For |
-|------|------------------|----------|
+| --- | --- | --- |
 | **Read** | View files, download the archive | Family members, researchers |
 | **Write** | Edit files, fix issues | Active maintainers |
 | **Admin** | Everything | Repository owner |
@@ -72,12 +77,13 @@ The `main` branch is the master copy. To protect it:
 3. Type `main` as the branch name
 4. Turn on:
    - **Require pull request before merging** - changes must be reviewed
-   - **Do not allow force pushes** - prevents accidental history changes
-   - **Do not allow deletions** - protects against accidental removal
+   - **Block history rewrites** - prevents accidental history changes
+     - **Require review before content retirement** - protects against accidental retirement
 5. Click **Create**
 
 This means:
-- Nobody can accidentally delete the archive
+
+- Nobody can accidentally remove the archive
 - All changes are reviewed before going live
 - The history stays intact
 
@@ -111,7 +117,7 @@ This keeps the archive safe and lets you review all changes.
 
 1. Find the person in the list
 2. Click the trash icon
-3. Confirm removal
+3. Confirm access retirement
 
 They will immediately lose access.
 
@@ -120,6 +126,7 @@ They will immediately lose access.
 ### Start with Read-Only
 
 When inviting new people:
+
 - Start with **Read** access
 - Promote to **Write** only if they actively contribute
 - Keep **Admin** for yourself only
@@ -127,6 +134,7 @@ When inviting new people:
 ### Regular Check-Ups
 
 Every few months:
+
 - Review the list of people with access
 - Remove people who no longer need it
 - Update roles if responsibilities change
@@ -134,6 +142,7 @@ Every few months:
 ### Keep Backups
 
 GitHub is safe, but also:
+
 - Download the archive periodically
 - Store a copy on your computer
 - Keep backups in a separate location
@@ -164,6 +173,7 @@ GitHub is safe, but also:
 ## Getting Help
 
 If you get stuck:
+
 - Check GitHub's help documentation
 - Ask another repository admin
 - The archive owner can always reset permissions
@@ -171,6 +181,7 @@ If you get stuck:
 ## Summary
 
 Managing GitHub storage is about:
+
 - Inviting the right people with the right access
 - Protecting the main branch from accidents
 - Reviewing changes before they go live

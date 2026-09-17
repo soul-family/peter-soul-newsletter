@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-cleanup_orphaned_sessions.py — Clean up orphaned session files.
+Clean up orphaned session files.
 
 Scans session directories for files that no longer have corresponding
 entries in the backup database and removes them.
@@ -15,7 +15,7 @@ import os
 import sqlite3
 import sys
 
-sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), 'ai-assistant', 'scripts', 'shared'))
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'ai-sessions', 'shared'))
 from config_loader import get_developer_config
 
 
@@ -77,13 +77,13 @@ def main():
     if args.session_dir:
         session_dir = args.session_dir
     else:
-        dev_config = get_developer_config('.dev-scripts/ai-assistant/scripts', args.developer)
+         dev_config = get_developer_config('.dev-scripts/ai-sessions', args.developer)
         session_dir = os.path.join('.ai-activity', 'ai-sessions', dev_config.get('config_dir', args.developer))
     
     if args.db_path:
         db_path = args.db_path
     else:
-        db_path = os.path.join(session_dir, 'website-sessions.db')
+        db_path = os.path.join(session_dir, 'sessions.db')
         if not os.path.exists(db_path):
             db_path = os.path.join(session_dir, f'{args.developer}-sessions.db')
     

@@ -1,0 +1,24 @@
+{
+  "printWidth": 999999,
+  "tabWidth": 2,
+  "useTabs": false,
+  "semi": false,
+  "singleQuote": true,
+  "htmlWhitespaceSensitivity": "ignore",
+  "endOfLine": "lf",
+  "overrides": [
+    {
+      "files": "*.html",
+      "options": {
+        "htmlWhitespaceSensitivity": "ignore"
+      }
+    },
+    {
+      "files": "*.md",
+      "options": {
+        "proseWrap": "never",
+        "tabWidth": 2
+      }
+    }
+  ]
+}

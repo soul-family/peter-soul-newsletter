@@ -8,7 +8,7 @@
     "sourceType": "module"
   },
   "plugins": ["json", "markdown"],
-  "extends": ["eslint:recommended"],
+  "extends": ["eslint:recommended", "plugin:json/recommended"],
   "rules": {
     "indent": ["error", 2],
     "no-unused-vars": "warn",
@@ -17,14 +17,16 @@
   "overrides": [
     {
       "files": ["*.json"],
-      "parser": "jsonc",
       "rules": {
         "no-unused-vars": "off"
       }
     },
     {
       "files": ["*.md"],
-      "processor": "markdown/markdown"
+      "processor": "markdown/markdown",
+      "rules": {
+        "indent": ["error", 2]
+      }
     }
   ]
 }

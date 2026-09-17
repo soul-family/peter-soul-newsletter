@@ -1,9 +1,6 @@
 # Session History Template
 
-> One file per session. The chronological companion to `ai-stats.md`: stats
-> records *how much* of everything happened; this records *what happened,
-> when, and why it mattered*. Fill the timeline from the same source export —
-> event order must match the real transcript, never reconstructed.
+> One file per session. The chronological companion to `ai-stats.md`: stats records **how much** of everything happened; this records **what happened, when, and why it mattered**. Fill the timeline from the same source export - event order must match the real transcript, never reconstructed.
 
 ## 0. References
 
@@ -16,42 +13,32 @@
 
 ## 1. Arc (2–4 sentence narrative)
 
-`_What the user wanted, what the AI reached for first, where it went off, how
-it got back on track, and what actually landed. Written after the timeline is
-complete, not before._`
+`_What the user wanted, what the AI reached for first, where it went off, how it got back on track, and what actually landed. Written after the timeline is complete, not before._`
 
 ## 2. Timeline
 
-One entry per event, in order. Columns: `#` (turn/event number), `T` (type),
-`When` (timestamp or `+mm` relative), `Detail` (one line), `Note` (why it
-matters / link to a stats field).
+One entry per event, in order. Columns: `#` (turn/event number), `T` (type), `When` (timestamp or `+mm` relative), `Detail` (one line), `Note` (why it matters / link to a stats field).
 
-Event types (use these tags):
-`ASK` user request · `CTX` user context (path, log, constraint) · `HEDGE`
-user hedge · `CRAM` multiple asks in one message · `CLAR` AI clarifying
-question · `SEARCH` read/glob/grep · `EDIT` write/edit · `RUN` bash · `FAIL`
-tool/command error · `RETRY` identical re-run · `CORR` user correction ·
-`REDO` user re-request · `SCOPE` user scope-extension · `VERIFY` test/lint/
-diff check · `ACCEPT` · `ABANDON` · `META` (plan change, backtrack).
+Event types (use these tags): `ASK` user request · `CTX` user context (path, log, constraint) · `HEDGE` user hedge · `CRAM` multiple asks in one message · `CLAR` AI clarifying question · `SEARCH` read/glob/grep · `EDIT` write/edit · `RUN` bash · `FAIL` tool/command error · `RETRY` identical re-run · `CORR` user correction · `REDO` user re-request · `SCOPE` user scope-extension · `VERIFY` test/lint/ diff check · `ACCEPT` · `ABANDON` · `META` (plan change, backtrack).
 
 | # | T | When | Detail | Note |
 | --- | --- | --- | --- | --- |
-| 1 | ASK | _t0_ | `"fix the login redirect"` | vague — no file, no expected behaviour (`ai-stats.md` 3.Clarity) |
-| 2 | SEARCH | | glob for `*login*`, reads `src/pages/login.tsx` | hunt begins because no path given |
-| 3 | CTX | | user pastes error + path after 2 turns | arrived late — cost turns 2–3 |
-| … | | | | |
+| 1 | ASK | **t0** | `"fix the login redirect"` | vague - no file, no expected behaviour (`ai-stats.md` 3.Clarity) |
+| 2 | SEARCH |  | glob for `*login*`, reads `src/pages/login.tsx` | hunt begins because no path given |
+| 3 | CTX |  | user pastes error + path after 2 turns | arrived late - cost turns 2–3 |
+| … |  |  |  |  |
 
 ## 3. Turning points
 
 Marked by turn number, in order.
 
-- **First direction taken:** `_# — the AI's opening approach; was it right?_`
-- **First deviation / wrong turn:** `_# — what drifted; did the user correct within 2 turns?_`
-- **First failure:** `_# — what failed (test, edit miss, rerun)_`
-- **Repeated failure (loop):** `_# → # — how many identical attempts before a change_`
-- **First success:** `_# — what worked_`
-- **Course-corrections:** `_# (early) / # (late) — whether they landed before or after build_`
-- **"Done" declared:** `_# — was a proving command run before this (see ai-training 04)_`
+- **First direction taken:** `_# - the AI's opening approach; was it right?_`
+- **First deviation / wrong turn:** `_# - what drifted; did the user correct within 2 turns?_`
+- **First failure:** `_# - what failed (test, edit miss, rerun)_`
+- **Repeated failure (loop):** `_# → # - how many identical attempts before a change_`
+- **First success:** `_# - what worked_`
+- **Course-corrections:** `_# (early) / # (late) - whether they landed before or after build_`
+- **"Done" declared:** `_# - was a proving command run before this (see ai-training 04)_`
 
 ## 4. User decisions at each crossroad
 
@@ -59,8 +46,8 @@ Every point where the user had a real choice, what they chose, and the cost:
 
 | At turn | Choice | Chose | Cost / benefit |
 | --- | --- | --- | --- |
-| _3_ | let the AI keep hunting vs. give the path | kept waiting | +2 wasted turns |
-| _7_ | repeat "no, not that" vs. give the correct direction | repeated | `REDO` count +1, no new info (`ai-training` 03.3) |
+| **3** | let the AI keep hunting vs. give the path | kept waiting | +2 wasted turns |
+| **7** | repeat "no, not that" vs. give the correct direction | repeated | `REDO` count +1, no new info (`ai-training` 03.3) |
 
 ## 5. AI process trail
 
@@ -81,6 +68,4 @@ Every point where the user had a real choice, what they chose, and the cost:
 
 ## 7. Lesson (the moral of the session)
 
-`_One paragraph: what happened in story form and the single most concrete
-thing that would have changed the outcome. Cross-check against ai-stats.md
-Section 6 and the ai-user-training/ rule that matches._`
+`_One paragraph: what happened in story form and the single most concrete thing that would have changed the outcome. Cross-check against ai-stats.md Section 6 and the ai-user-training/ rule that matches._`

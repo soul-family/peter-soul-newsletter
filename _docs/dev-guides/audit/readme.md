@@ -5,6 +5,7 @@ Repeatable verification tasks for the Archive project. Audit tasks are not tied 
 ## Purpose
 
 Audit tasks verify project health and prevent regressions across:
+
 - Todo integrity and numbering
 - AI transparency and logging
 - Changelog format and versioning
@@ -43,9 +44,4 @@ Audit tasks use gap numbers (e.g., A-2, A-3, A-10). Gap numbers may be reassigne
 
 The pre-commit audit (`pre_commit_audit.py`) runs a subset of these checks automatically. Manual audits cover checks that require human judgment or access to external systems.
 
-## See Also
-
-- `_docs/contribution-guides/task-management.md` — Task lifecycle, numbering rules, and file conventions
-- `.todo/todo-audit.md` — Active audit tasks
-- `.todo/todo-next.md` — Active implementation tasks
-- `.todo/todo-done.md` — Completed implementation tasks
+- `.todo/todo-done.md` - Completed implementation tasks

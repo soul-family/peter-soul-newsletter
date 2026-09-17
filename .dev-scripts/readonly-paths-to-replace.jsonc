@@ -1,0 +1,9 @@
+// Anonymize local Windows/Linux project paths (but not already anonymized)
+{
+  "rules": [
+    {
+      "paths": "^(?!.*_www_)([A-Za-z]:[/\\\\].*|/.*|\\\\\\\\.*)$",
+      "replacement": "_www_"
+    }
+  ]
+}

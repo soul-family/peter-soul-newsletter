@@ -1,0 +1,43 @@
+{
+  "database": "project-totals",
+  "generated_at": "2026-09-02T17:54:50.754111",
+  "note": "Combined totals for all projects. Individual project stats in separate files.",
+  "projects": {
+    "website": {
+      "database": "website-sessions.db",
+      "sessions": 8,
+      "messages": 7999,
+      "parts": 31187
+    }
+  },
+  "totals": {
+    "sessions": 15,
+    "messages": 8712,
+    "parts": 34166,
+    "thinking_length": 8891574,
+    "user_requests": 524,
+    "tokens_input": 77917568,
+    "tokens_output": 2163636,
+    "tokens_reasoning": 2122391,
+    "total_duration_seconds": 615898,
+    "total_ai_processing_seconds": 281860,
+    "total_user_activity_seconds": 334038,
+    "total_user_input_phase_seconds": 4275,
+    "total_user_output_phase_seconds": 9668,
+    "total_user_writing_seconds": 39450,
+    "total_user_waiting_seconds": 4960,
+    "total_user_review_seconds": 200108,
+    "total_user_verification_seconds": 89520,
+    "total_user_words": 16059,
+    "total_duration_human": "154h 26m",
+    "total_ai_processing_human": "65h 31m",
+    "total_user_activity_human": "88h 54m",
+    "user_activity_tier_distribution": {
+      "1-9": 126,
+      "10-49": 277,
+      "50-199": 70,
+      "200-499": 10,
+      "500+": 1
+    }
+  }
+}

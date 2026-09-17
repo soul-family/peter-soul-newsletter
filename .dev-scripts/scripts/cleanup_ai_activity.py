@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-cleanup_ai_activity.py — Retention policy and cleanup for .ai-activity.
+Retention policy and cleanup for .ai-activity.
 
 Applies retention rules to prevent unbounded growth:
 - Session databases: keep last N days/configurable retention

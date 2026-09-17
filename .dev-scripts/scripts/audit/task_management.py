@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-task_management.py — validate todo-next.md and todo-done.md integrity.
+task_management.py - validate todo-next.md and todo-done.md integrity.
 Checks:
 - No duplicate tasks between todo-next and todo-done
 - Tasks are unique within each file

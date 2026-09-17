@@ -1,0 +1,18 @@
+{
+  "name": "peter-soul-newsletter",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "format": "prettier --write \"**/*.{html,md,json}\" && node .dev-scripts/scripts/minify-md-tables.js",
+    "format:check": "prettier --check \"**/*.{html,md,json}\"",
+    "format:tables": "node .dev-scripts/scripts/minify-md-tables.js",
+    "lint": "eslint \"**/*.{md,json}\"",
+    "lint:fix": "eslint \"**/*.{md,json}\" --fix"
+  },
+  "devDependencies": {
+    "prettier": "^3.4.2",
+    "eslint": "^8.57.0",
+    "eslint-plugin-markdown": "^5.1.0",
+    "eslint-plugin-json": "^3.1.0"
+  }
+}

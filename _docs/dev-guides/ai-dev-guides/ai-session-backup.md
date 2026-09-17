@@ -1,6 +1,6 @@
 # AI Session Backup Guide
 
-Complete guide for the session backup script — exports AI co-developer session data into project-specific SQLite databases with local paths anonymized.
+Complete guide for the session backup script - exports AI co-developer session data into project-specific SQLite databases with local paths anonymized.
 
 ## What It Does
 
@@ -16,29 +16,29 @@ Reads session data (session, message, part tables) from the local AI co-develope
 
 ## Script Location
 
-`.dev-scripts/ai-assistant/scripts/ai-sessions-backup.py`
+`.dev-scripts/ai-sessions/ai-sessions-backup.py`
 
 ## Usage
 
 ```bash
 # Create new database (default mode)
-python .dev-scripts/ai-assistant/scripts/ai-sessions-backup.py --db-path <path-to-source.db>
+python .dev-scripts/ai-sessions/ai-sessions-backup.py --db-path <path-to-source.db>
 
 # Append new sessions to existing database
-python .dev-scripts/ai-assistant/scripts/ai-sessions-backup.py --db-path <path-to-source.db> --append
+python .dev-scripts/ai-sessions/ai-sessions-backup.py --db-path <path-to-source.db> --append
 
 # Specify developer and auto-include current session
-python .dev-scripts/ai-assistant/scripts/ai-sessions-backup.py --db-path <path-to-source.db> --developer <developer-id> --current-session
+python .dev-scripts/ai-sessions/ai-sessions-backup.py --db-path <path-to-source.db> --developer <developer-id> --current-session
 
 # Override session IDs via command line
-python .dev-scripts/ai-assistant/scripts/ai-sessions-backup.py --db-path <path-to-source.db> --sessions ses_xxx,ses_yyy
+python .dev-scripts/ai-sessions/ai-sessions-backup.py --db-path <path-to-source.db> --sessions ses_xxx,ses_yyy
 ```
 
 ## Command-line Arguments
 
 | Argument | Description |
-|----------|-------------|
-| `--db-path PATH` | Path to the AI co-developer SQLite database — required |
+| --- | --- |
+| `--db-path PATH` | Path to the AI co-developer SQLite database - required |
 | `--output-dir DIR` | Output directory (default: `.ai-activity/ai-sessions/<developer>`) |
 | `--output-name NAME` | Output database filename (default: from developer config) |
 | `--developer NAME` | AI co-developer ID from config (default: first configured developer) |
@@ -49,19 +49,20 @@ python .dev-scripts/ai-assistant/scripts/ai-sessions-backup.py --db-path <path-t
 
 ## Config Files
 
-Located in `.dev-scripts/ai-assistant/` and per-developer subdirectories:
+Located in `.dev-scripts/ai-sessions/` and per-developer subdirectories:
 
 | File | Purpose |
-|------|---------|
-| `.dev-scripts/ai-assistant/scripts/ai-developers.jsonc` | AI developer definitions and configuration |
-| `.dev-scripts/ai-assistant/scripts/shared/config_loader.py` | Configuration loading functions |
-| `.dev-scripts/ai-assistant/<developer-id>/session-ids.jsonc` | Session IDs to back up — `{"session_ids": [...]}` |
-| `.dev-scripts/ai-assistant/<developer-id>/paths-to-replace.jsonc` | Local paths to anonymize — `{"paths": [...], "replacement": "_www_"}` |
-| `.dev-scripts/ai-assistant/<developer-id>/database-schema.jsonc` | Database schema definition for the developer |
+| --- | --- |
+| `.dev-scripts/ai-sessions/ai-developers.jsonc` | AI developer definitions and configuration |
+| `.dev-scripts/ai-sessions/shared/config_loader.py` | Configuration loading functions |
+| `.dev-scripts/ai-sessions/<developer-id>/session-ids.jsonc` | Session IDs to back up - `{"session_ids": [...]}` |
+| `.dev-scripts/readonly-paths-to-replace.jsonc` | Local paths to anonymize - `{"rules": [{"paths": [...], "replacement": "_www_"}]}` |
+| `.dev-scripts/ai-sessions/shared/database-schema.jsonc` | Database schema definition |
 
 ## How It Works
 
 ### Default Mode
+
 1. Loads session IDs from JSON config files (or command line)
 2. Reads session data from the source database
 3. Applies path replacement to anonymize local paths
@@ -69,12 +70,14 @@ Located in `.dev-scripts/ai-assistant/` and per-developer subdirectories:
 5. Generates a `.stats.json` file with per-session statistics
 
 ### Append Mode (`--append`)
+
 1. Checks existing sessions in the output database
 2. Only processes sessions not already present
 3. Applies path replacement per-entry for efficiency
 4. Preserves all existing data
 
 ### Path Replacement
+
 - All slash form variations are generated automatically from base paths
 - Replacement is applied to all text fields in session, message, and part tables
 - JSON-escaped paths are handled correctly
@@ -83,11 +86,11 @@ Located in `.dev-scripts/ai-assistant/` and per-developer subdirectories:
 
 - **Overwrite confirmation**: When output database exists and `--append` is not used, shows existing sessions and requires typing 'yes' to confirm or 'append' to switch modes
 - **Append mode protection**: Existing sessions in the output database are preserved; only new sessions are added
-- **User consent**: Explicit confirmation required before any existing data is removed
+- **Data retention**: Explicit confirmation required before any existing data is retired from the output
 
 ## Output
 
-- `<project>-sessions.db` and matching `.stats.json` files in `.ai-activity/ai-sessions/<developer>/`
+- `sessions.db` and matching `.stats.json` files in `.ai-activity/ai-sessions/<developer>/`
 - Each database contains `session`, `message`, and `part` tables
 - All local paths replaced with `_www_`
 
