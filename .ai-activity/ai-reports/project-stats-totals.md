@@ -41,7 +41,7 @@ Active time excludes all idle gaps (overnight, breaks, paused sessions).
 | Input tokens | 80003695 | N/A |
 | Output tokens | 2216392 | N/A |
 | Reasoning tokens | 2173480 | N/A |
-| **Total tokens processed** | **84393567** |
+| **Total tokens processed** | **84393567** | **84.4M** |
 
 ~ 4318047 tokens = 1 character of English text, so the project has processed roughly 19 MB of text through the model.
 

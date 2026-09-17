@@ -6,8 +6,6 @@
 | --- | --- | --- | --- |
 | Wikipedia - NetObjects Fusion | Online reference | https://en.wikipedia.org/wiki/NetObjects_Fusion | Medium |
 | Creative Commons | License reference | https://creativecommons.org/licenses/by-nc-sa/4.0/ | High |
-| --- |
-| **Notes:** |
 
 - Local source files are not tracked here; only external references and research sources are listed.
 - File paths and names are fluid and change as the project evolves; they are documented in task files and guides instead.
