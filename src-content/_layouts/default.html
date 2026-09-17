@@ -1,0 +1,22 @@
+---
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    {% include head.html %}
+  </head>
+  <body class="{{ page.body_class }}">
+    {% include header.html %}
+    <div class="page-layout">
+      {% include navigation.html %}
+      <main class="content-column">
+        <h2 class="post-title">{{ page.title }}</h2>
+        {% if page.date %}
+        <p class="post-date">{{ page.date }}</p>
+        {% endif %} {{ content }}
+      </main>
+    </div>
+    {% include footer.html %}
+  </body>
+</html>

@@ -1,0 +1,12 @@
+---
+title: "A Physicist Writes..."
+description: "Newsletter columns by Peter Soul"
+baseurl: "/peter-soul-newsletter"
+url: "https://www.petersoul.co.uk"
+markdown: kramdown
+permalink: pretty
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"

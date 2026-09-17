@@ -1,0 +1,43 @@
+---
+layout: default
+title: 'Seeing clearly and not so clearly'
+date: 'April 2008'
+body_class: 'bg-8'
+header_images:
+  - src: 'a_12x.gif'
+    width: 96
+    height: 35
+  - src: 'a_16x.gif'
+    width: 96
+    height: 75
+  - src: 'a_21x_3.gif'
+    width: 96
+    height: 75
+permalink: /content/columns/2008/04/seeing-clearly-and-not-so-clearly/
+---
+
+I'm not a follower of fashion - or if I am, then it's at a great distance. I have no wish to own the latest model of car or mobile phone. I'm not sure I need any sort of Ipod. And I would not want to change my large spectacle lenses for the small size that seems so popular nowadays. The purpose of glasses is to enable you to see clearly, so why restrict this assistance to a small field of view?
+
+I am very short-sighted and therefore my wide lenses have to be thick around the rims, but they do give me a clear picture across a large angle, from side to side and up and down. If I was reduced to those small ones I see perched on other people's noses, I feel that when driving I would have to be continually moving my head in order to observe everything.
+
+Go for contact lenses, do you say? Unfortunately, just the thought of them induces a phobia in me against anything touching or entering my eyes. If I see this happening to someone else, I can't even look on. But here's a strange thing, perhaps: my phobia doesn't prevent me from being fascinated by how eyes work and how the brain processes what they see. You may be aware of this from reading some of my previous columns over the years.
+
+Incidentally, in*Lord of the Flies*by William Golding there is a crucial episode where the boy Piggy (who also is extremely short-sighted) is deprived of his glasses which are then used to start a fire. But this can't be done! Piggy and I see through*diverging*lenses. What's needed for fire-lighting is a*converging*lens, as in a magnifier or in reading-glasses for the long-sighted ... which makes me wonder why you never hear of fires accidentally started by such spectacles being placed in the sun on the edge of a window-sill or a dashboard, and focusing the light on to something down below!
+
+But back to eyes themselves: when I'm seated at the wheel and staring straight ahead, I can detect things - or movements, at least - right at the side of me, alongside the car (I'm not seeing these through my glasses but behind them, of course). How is this possible? How can any 'window' give you a full 180-wide view of the world, unless you are actually leaning out of it? The answer lies in the transparent cornea that forms a lens at the front surface of the eye.
+
+Because this surface is strongly curved, it collects light arriving even from the side, and refracts it in through the pupil (which is just a hole in the coloured iris). Then all the light gets bent again by an internal lens and focused into an upside-down image on the retina (which is another strongly curved surface).
+
+Don't try to picture all this while you are driving! But the fact is that everything you are able to see is compressed into these tiny, inverted, highly distorted and mostly fuzzy images, one at the back of each eye. The brain then somehow succeeds in combining the two images and making sense of the result...
+
+As long as this incredibly intricate, vital system seems to be working well, you hardly give it a thought. But if there's one professional whom everyone should visit regularly, it's an optician/ophthalmologist. First he or she will correct any focusing problem by prescribing you some lenses (large, small or very small, as you wish!). Next, a look into each eye may reveal early signs of all sorts of trouble: diabetes, hypertension, high cholesterol, cataracts, macular degeneration, a detached retina, even cancer.
+
+Then there's glaucoma, which likewise can be detected by various tests long before you notice its effects yourself (as I know from experience - see my[October 2006](../2006/2006-10-don-t-be-blind-to-blindness.md)column). How many drivers are there on the roads, who simply do not realize their eyesight is deteriorating, because the brain is so good at disguising this? Don't be one of them.
+
+If you are wanting to choose an optician, may I suggest you go to one who is equipped with an Optomap instrument. I encountered this for the first time a few months ago. By clever optical scanning, it captures a photograph of a larger area of the retina than the optician can observe, and much more easily too (especially with awkward eyes like mine). Afterwards, of course, the pictures will be fully explained to you by the optician. There will be a charge for all this, but surely not as much as your sight is worth.
+
+Let me now quote Sir Alec Issigonis (best known as designer of the Mini) in an interview I heard recently, recorded twenty years ago just before his death at 81, when he had become a recluse: "Everything's been done, there's nothing more to be done, I mean we've tried steam, we've tried electricity, I can see only stagnation." And: "You can't tell one car from another today unless you look at the badge, the only exception to that is the Mini." How wrong he was about stagnation! Development of automobile-propulsion technology has never come to a halt.
+
+But how I agree with him about cars looking the same - the majority of them, anyway. I feel that nowadays their features simply aren't different enough for my eyes to capture them and my brain to store them away in memory (labelled with the make and the model). What's the reason for this? Are most manufacturers scared of stepping too far out of line, visually? If so, I can tell them one consequence: it means I have even less desire to change to a newer car (let alone a new one) than I suggested at the start, at least while my distinctive 'lipstick-red' 1997 Corolla is still going strong.
+
+

@@ -1,0 +1,45 @@
+---
+layout: default
+title: 'Trading up and saving space'
+date: 'July 2013'
+body_class: 'bg-1'
+header_images:
+  - src: 'a_12x.gif'
+    width: 96
+    height: 35
+  - src: 'a_16x.gif'
+    width: 96
+    height: 75
+  - src: 'a_18x_7.gif'
+    width: 96
+    height: 75
+permalink: /content/columns/2013/07/trading-up-and-saving-space/
+---
+
+You may remember that in my March and April columns I discussed the features that I hoped to find in my next car. The most important were auto-gears, so that Mrs S (used to her automatic Micra) could drive it too - and a genuine spare wheel: it was the alarming absence of the latter in newer cars that was pushing me to change my Toyota Corolla before it was too late. For 12 years she (the Corolla, I mean) was utterly loyal, but the time comes when you must face repaying this with a hard-hearted trade-in. I need to pause for a moment to think about the enormity of doing such a thing...
+
+And now let me report on a successful exchange! Not that it was at all easy to research and identify a model that suited us, even from all those that were available new two or three years ago. I found just one 'medium' car that came with a full-sized spare and no obvious drawbacks: the VW Jetta. When I looked more closely at an example, however, it was too bulky for my liking (the Jetta is in fact a saloon rather than a hatchback).
+
+But then I discovered that with some cars that were first supplied with a space-saver or 'skinny' spare wheel, you can buy a proper one to put in its place; all that's lost is a little capacity in the boot because the wheel lifts the floor a bit. Having decided to do this, I was presented with a simple but difficult choice between two models, the Ford Focus and the VW Golf. In the end it came down to measurements: the Golf was about 15 cm shorter than the Focus, and yet I estimated its boot to be 40 litres larger. As for the amount of cabin space, front and rear, this was luxurious compared with the Corolla!
+
+So Mrs S and I went to try out an automatic Golf at the VW dealer in Reading, and we agreed that we liked it very much. The actual vehicle had too many miles on the clock, though - and worse, I noticed that the figure displayed was some 5000 more than stated in the particulars, which was surely a serious error. Nothing else on the forecourt tempted me, so back home I scanned the VW website for what was available at other dealers.
+
+My eye was caught by a Golf in lovely deep blue, just over three years old with 25K of mileage, and located in Twickenham. The next day I paid a visit, drove the car around, and signed for it. The deal included £200 off for the Corolla, which was several times what I had expected. Or perhaps that was their way of giving me a small discount on the price of the Golf (which they weren't otherwise willing to do).
+
+But I ought to confess that neither of the two test drives had gone entirely smoothly, as both the acceleration and the braking of a Golf were stronger than I was used to! And on the excursion through Twickenham, although the salesman warned me about a speed hump ahead, the feather-bedding quality of the front suspension not only led me to take it rather too fast, but also allowed the underside of the car to touch it. My passenger assured me that it was only the engine-protecting panel that made contact. I sensed this had happened to him there before...
+
+When they handed the car over to me the following week, VW Twickenham slipped up even more seriously, I would say, than VW Reading had done: one of the front tyres (newly fitted) was 30% low on pressure. Fortunately I had a pocket tyre gauge with me to guard against this eventuality, and only a replacement valve was needed. And at least I received profuse apologies from the salesman.
+
+I might add that later VW Twickenham collected the car (from home) in order to rectify a couple more faults that I had discovered. In the end, I was happy with my decision to buy nearly-new from a dealer (as I've done several times before). I am also well pleased with the car itself.
+
+And I'm not alone: the Golf seems to be as familiar and popular nowadays as the Corolla was a dozen or more years ago. Even so, I have some further stories to tell concerning my new car (and of interest to all, I hope, Golf-owners or not!) in future columns. For now, let's go back to the subject of space-saver tyres: I said last November that I couldn't understand how they satisfied the vehicle regulations on roadworthiness.
+
+In fact the regs specifically allow the use of 'temporary' tyres, including run-flat ones that have lost all pressure, at speeds of up to 50 mph (though on a motorway, wouldn't this be causing something of an obstruction?). What I can't work out is which would have come first: the exemption in the regulations for these relatively unsafe tyres, or the tyres themselves: neither way round seems likely...
+
+Anyway, the more I found out about space-savers, the less I liked the idea. The tyre that came with my Golf is not much more than half the standard width, and therefore needs to be pumped up to twice the pressure. It has just three millimetres of tread and a 'range' of only 125 miles (at least when being used as one of the two driving wheels). And its diameter is less than that of the standard tyre - so it would unbalance both the car and the differential! All this helped me make up my mind to buy a proper spare wheel and tyre, as I said above. I might mention that the wheel itself was steel, hence not expensive compared with the smart alloy ones at the four corners (or are they still called wings?).
+
+Now picture this spare tyre dropped into its recess, and raising the boot floor by three or four inches: where to put the tools and other items that I always carried loose in the boot previously? Well, the tools fitted into the spacious central hollow of the wheel, and everything else I managed to pack around the tyre, under the raised floor. So now the boot looks as empty as when I first inspected it on the forecourt, and must be giving me almost as much practical carrying-space as I had before, even if there's rather less total volume than there was in the boot of the Corolla.
+
+Ah yes, my Corolla ... was she simply dumped, or did someone appreciate her attractions as a dependable helpmate? If by chance you see her around Twickenham (or anywhere, of course), with her faded near-side skin but otherwise a sensuous coat of Lipstick Red, do please tell me.
+
+

@@ -1,0 +1,41 @@
+---
+layout: default
+title: 'Anniversary thoughts'
+date: 'June 2007'
+body_class: 'bg-4'
+header_images:
+  - src: 'a_12x.gif'
+    width: 96
+    height: 35
+  - src: 'a_16x.gif'
+    width: 96
+    height: 75
+  - src: 'a_9x_4.gif'
+    width: 96
+    height: 54
+permalink: /content/columns/2007/06/anniversary-thoughts/
+---
+
+Here is a warning I should have received five years ago: "Does it occur to you, as you start to write your first column as a physicist, that in June 2007 you could be on to your*fiftieth*(or fifty-first if you count an earlier piece on speed-limit absurdities)? Ten columns a year, most of them filling two newsletter pages, will surely bore your readers and exhaust you - not to mention your knowledge of the bits of physics that are at all relevant to driving. Don't do it!"
+
+Well, I did do it and I must say that I don't feel too exhausted, nor have I received any complaints of boredom. At first I had enough ideas in my head for only about three columns, but somehow more thoughts have always come to mind just in time. A training in physics not only teaches you why much of the world around you behaves as it does, but also helps you to organize your information properly and to think clearly and logically. So even when I haven't directly confronted you with physics, I hope my writing has benefited from it.
+
+But I suspect there's something else about my thought processes that contributes too, because ideas come to me that I can't quite imagine anyone else producing. Should I put them forward, or suppress them? I ought to publish them, of course - they might just do some good somewhere!
+
+Here's an example: it's bad enough that the so-called National Speed Limit can be 40, 50, 60 or 70 mph depending on what and where you are driving. Worse still, the diagonal-bar sign for it was originally designed to indicate no limit at all, and this is the message it still gives. NSL repeaters attached to lampposts are nothing but an incitement to fast drivers to go even faster. So, how might this misinformation be corrected at minimal cost? Simple: rotate each sign through 90 and apply two strokes of black paint, to make a letter N.
+
+Let's be more serious. Is it because I'm a physicist that whenever I come across something that's not working or doing its job for any reason, I feel strongly it ought to be fixed? (Or does that make me an engineer?) Anyway, I'm always driven to contact Wokingham Borough Council when I see a local street-light out of action or a pothole in the road. I must say, however, that WBC seem keen too to get these things put right, and often have the job done within days.
+
+Away from our district this urge of mine is less strong, though I have reported deep potholes as far away as Sussex and found them filled in on my next visit. What I'm getting at is that reported problems are fixed the fastest. If we all did it, councils would act quickly to avoid being sued for damage or an accident, and roads would be safer. By the way, I think every council's website is now able to take reports on street-lights, traffic lights, bollards, potholes, floods etc.
+
+Modern street-lights are turned on and off by a light-sensitive switch at the top of the column. The switch is designed so that if it fails, the light stays on rather than off. However, a more common reason for seeing them burning in the daytime is that birds have been visiting the top of the column and have covered over the sensor! At least it's the electricity company and not the council that pays when a lamp sticks on - even so, why not be public-spirited and report it?
+
+I have read that councils are supposed to do a check of all their street-lights at least once a month. But I've noticed lights staying out of action, or else permanently on, for much longer than that, so this must be a task that gets pushed down the list of priorities. And talking of pushing, the columns are also supposed to be tested regularly for stability. I have only seen this being done once: a strange machine appeared on the road outside our house, grabbed the column and gave it a shaking. Somehow it survived this fearsome attack.
+
+Thinking still about the columns (and again about speed-limit absurdities), we all know standard 30 mph repeaters are strictly forbidden on them, because the street-lights alone indicate the 30 limit. But did you realize that roads on private estates are allowed to display the repeaters? And have you seen how councils are managing to get round the rule too, by putting up either non-standard repeaters or else camera-warning signs that incorporate the standard one?
+
+Another obliging trick that councils seem to play now is to leave "New 30 mph Limit" signs up indefinitely, after a limit has been reduced. Countless drivers must have been caught out before, whenever a 40 mph stretch was demoted to 30 and all that visibly changed was that the 40 signs and repeaters vanished.
+
+And how many advanced drivers, even, always notice speed-limit signs when turning at a junction? I missed a 20 mph one on my test! Luckily, the humps slowed me down. If the authorities wanted you to overlook a speed limit, they could hardly put the sign in a better place than on the corner. It's obvious that what's needed is a warning*before*the junction that there's a lower limit just round the bend. After all, you see advance warnings of speed limits straight ahead in some places. But then what do I know - I'm only a physicist.
+
+

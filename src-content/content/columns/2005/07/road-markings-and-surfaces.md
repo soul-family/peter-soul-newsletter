@@ -1,0 +1,43 @@
+---
+layout: default
+title: 'Road markings and surfaces'
+date: 'July 2005'
+body_class: 'bg-4'
+header_images:
+  - src: 'a_12x.gif'
+    width: 96
+    height: 35
+  - src: 'a_16x.gif'
+    width: 96
+    height: 75
+  - src: 'a_6_2.gif'
+    width: 96
+    height: 54
+permalink: /content/columns/2005/07/road-markings-and-surfaces/
+---
+
+The greater the distance I drive in a day, the more the pressure builds up. The next day it starts only a little lower than at the end of yesterday's journey - and then rises again. The only way to prevent an explosion is to install a safety valve and then use it to relieve the pressure at regular intervals.
+
+No, I am not referring to the cooling system, or the oil pressure, or even the tyres. I'm talking about the effect on my mind of some of the absurdities I see adorning the roads and often making them more dangerous. And the safety valve (for me) is unfortunately (for you) this column!
+
+What single word contributes the most to my exasperation? It's the word SLOW, which is over-used to the point of becoming meaningless. The average driver, I guess, either regards this marking on the road as nannying by the authorities or else completely fails to register it as it slides past.
+
+The Highway Code doesn't display or discuss SLOW at all. The book*Know your traffic signs*says that it is "associated with various hazards". Too true: at least half of all the markings are directly below a hazard sign of some sort. But if drivers take in the SLOW they probably won't notice the sign, and vice versa.
+
+Where there's no hazard sign, why isn't one erected and the SLOW painted out? Or replace it just with HZRD, perhaps, to encourage drivers to look ahead and try to guess what the warning might be about.
+
+Often there's another message to be digested at the same time: REDUCE SPEED NOW. Yes Nanny, but how do you know my speed is too high? Or that I'm passing at this particular time? REDUCE SPEED HERE would at least look more informatory and be less like finger-wagging.
+
+As for speed limits ... I'm not going to argue over what the limit should be along any ordinary road. And I accept that we're unlikely to see limits that vary sensibly according to the time of day. But why on earth can't the authorities apply different limits in opposite directions when it's appropriate? This was suggested by someone in the January newsletter, in connection with a local single-track hazard which needs to be approached slowly (from either direction) after which you could safely accelerate through it and away.
+
+But I'm thinking more of other situations such as on a long steep road. The Highway Code has its worthy table of stopping distances, but quite fails to warn you that these will change considerably on an up or a down gradient (sorry, I'm in no mood to do the calculations for you now - next time perhaps). So what happens? On most hills the down-traffic recklessly drives at the limit, while the up-traffic could safely travel significantly faster. It's obvious that dual limits are required on such stretches.
+
+And now I've just suffered a further increase in brain pressure, from watching a TV programme on the dangers of sub-standard road surfaces. It's bad enough when these arise from poor small-scale repairs (or no repair at all), but the main message of the programme was to tell us to beware of completely resurfaced lengths of road, especially where Stone Mastic Asphalt has been used (as if you would know anyway).
+
+What could be more reassuring than a new road surface? How can it not be giving you the best tyre grip possible, in wet or dry weather? Very easily, it turns out, because SMA takes several months after laying to acquire its full skid resistance. Until then, even when it's dry, you should drive on it as if it is wet (I mean rain-wet, not liquid tar - though that might well be safer!). Is this news to you? Then take a look at[this BBC web-page](http://news.bbc.co.uk/1/hi/programmes/real_story/4104180.stm)and be afraid.
+
+There's a stretch of new tarmac on a road we use regularly, just north of Littlehampton.*Now*I understand why it's been given a slippery-road sign at each end, with "for 925 metres" added below. Every journey (in the dry), I've laughed at the absurd precision of this measurement and then disregarded the sign, assuming that it was simply warning me about extra greasiness during wet periods. I never suspected that the added risk was non-stop (in both senses). It amazes me that the speed limit along this road has remained at national/60.
+
+And by an uncomfortable coincidence, several other 60-limit stretches are now being resurfaced along our route down to Littlehampton. I must try again to keep the pressure under control, while I watch out for any new hazard signs and for other drivers ignoring them. Actually I was only joking about all the pressure - or most of it - but I'm still grateful for this safety valve!
+
+

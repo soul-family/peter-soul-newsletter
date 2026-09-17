@@ -157,3 +157,8 @@ Completed work tasks moved from the todo-next.md file.
 - T-167: Add previous/next arrow navigation to post-date
 - T-168: Make pagination titles clickable with correct page titles
 - T-169: Replace generic "here" links with descriptive link text in info page
+- T-51: Remove right sidebar: photo to header left, car to header right, car designs to left siderbar
+- T-143: Implement Github Actions for generating static website on Github Pages
+- T-170: Remove unused Jekyll layouts (home.html, minimal.html)
+- T-171: Fix column file permalinks to match reorganized {year}/{month}/{title}.md structure
+- T-172: Fix columns index links to match reorganized folder structure

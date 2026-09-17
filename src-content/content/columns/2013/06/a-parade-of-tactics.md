@@ -1,0 +1,41 @@
+---
+layout: default
+title: 'A parade of tactics'
+date: 'June 2013'
+body_class: 'bg-4'
+header_images:
+  - src: 'a_12x.gif'
+    width: 96
+    height: 35
+  - src: 'a_16x.gif'
+    width: 96
+    height: 75
+  - src: 'a_22x_6.gif'
+    width: 79
+    height: 42
+permalink: /content/columns/2013/06/a-parade-of-tactics/
+---
+
+All people who speak English do so in much the same way, sufficiently at least to be understood by each other (well, mostly). There are of course regional groups who have distinct uniform accents. Yet nearly everyone familiar to you has a voice individual enough for you to recognize them by (what a remarkable sign of your own brain-power this is, by the way).
+
+I thought about this in order to make an analogy with driving: all motorists proceed along the road in much the same manner, sufficiently at least to avoid colliding with each other (mostly). There are of course groups of people such as advanced drivers who have a distinct systematic approach. Yet nearly everyone has their individual way of controlling the car and its progress (an exercise that's another extraordinary demonstration of brain-power).
+
+Which leads to my idea for this column: taking a look at how I myself drive. As it's 11 years since my advanced test, I'm unsure now which of my tactics are official advanced-driving ones, and which are my own! So I may be sticking my neck out a bit, by describing some of them to a readership that includes better drivers than me. My defence is that I do attempt to think about what I am doing...
+
+*Maintain momentum.*Try not to stop unless you have to (I'm talking to myself, remember, not lecturing you). When approaching a congested roundabout, for example, take your foot off even earlier than seems right: the chances are that by the time you arrive the congestion will have cleared, and your momentum will then allow you to slot into the circulation more easily. Similarly, rolling slowly up to a mini-roundabout can often get you priority over other vehicles arriving or waiting there, quite safely. And at red traffic lights, if you happen to be nearly at the line and still moving as green appears, you can make a faster get-away (after checking sideways for red-light jumpers of course).
+
+*Don't blink and drive.*Not so much driving tactics as common sense: as soon as you experience eye-twitching or yawning (and however urgent the journey), pull off the road, tilt your seat back and take a ten-minute nap. It will revive you at least as effectively as coffee. Another sign of tiredness, or maybe some other influence that you've not consciously noticed, is if you see that you're nudging the steering-wheel to and fro more than you would expect: slow down and think about why!
+
+*Pamper your passengers.*Even though they are strapped in, their bodies feel the effects of braking, accelerating, cornering and gear-changes more than you realize.*You*have the wheel to hold on to, and you know what the car is going to do - but they can't adjust to the changing forces so easily. So try always to move the pedals and turn the wheel as slowly as possible (given the situation). This doesn't mean don't drive assertively, just control the rate of change. (If you are wanting to save fuel too, then use the accelerator (a) so as to minimize your having to apply the brakes, and (b) so as to accelerate briskly rather than gently: my understanding is that this gets you up to speed more economically.)
+
+*Avoid concentrating on a hazard.*This may seem perverse, and it's not easy to do, but the fact is that the more you focus on a particular problem that you've seen ahead, the less likely you are to notice others that may be developing. Instead, tell yourself to keep your eyes scanning the scene.
+
+*Take notice of oncoming traffic.*If it's moving, keep an eye on the opposite pavement for stray children or dogs that might cause someone to swerve into your path. If it is a stationary queue, then as with any line of vehicles that you may be passing, somebody or something could suddenly emerge from between the cars. If there's a low sun behind you, remember that it will be in the eyes of oncoming (or emerging) drivers. And if all you can see approaching is a distant bicycle, be ready for the inevitable vehicle to appear beyond and swing out to overtake it.
+
+*Don't tolerate tailgaters.*Just as important as maintaining a safe separation (in relation to your speed) from the vehicle in front, I would say, is doing the same for the gap behind. So: to increase this, put your foot down for a second when the tailgating driver least expects it. If there's not enough space in front for you to accelerate into, or if you are already up at the speed limit, then first gently ease off by about 5 mph. But don't try the manoeuvre more than about three times: instead pull over or otherwise encourage the offender to overtake. And then back right off, because the tailgating hazard probably now involves the two vehicles in front of you!
+
+*Balance left and right.*As you turn the steering-wheel, aim to keep your hands level with each other, rising or falling, one hand pulling or pushing the wheel round while it slides through the other. This has at least one safety advantage over cross-hand steering, namely that you can always turn the wheel instantly in either direction in an emergency. OK, advanced-driving advice allows hand-over-hand action for slow manoeuvring - but I am always unnerved by the sight of a driver's hand temporarily stuck fully crossed, with no way of adding more lock immediately if needed...
+
+I worry too about any risk of the air-bag going off while your forearm is across it (though I believe that modern bags are programmed not to activate at low road-speeds). But let's be positive: the chances of a mishap on the road are tiny to start with, perhaps an average of one per 600,000 miles driven. Applying 'advanced' tactics makes them smaller still, as well as adding some sparkle to your journey!
+
+

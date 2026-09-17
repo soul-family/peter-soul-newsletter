@@ -1,0 +1,43 @@
+---
+layout: default
+title: "What's your speed? ' continued"
+date: 'February 2005'
+body_class: 'bg-7'
+header_images:
+  - src: 'a_12x.gif'
+    width: 96
+    height: 35
+  - src: 'a_16x.gif'
+    width: 96
+    height: 75
+  - src: 'a_1x.gif'
+    width: 96
+    height: 41
+permalink: /content/columns/2005/02/what-s-your-speed-continued/
+---
+
+First, a footnote to last[October's](../2004/2004-10-what-s-your-speed.md)column on the difficulties of judging the speeds of other vehicles: I forgot to mention a trick which could almost have come straight out of a physics textbook. If I want to measure the speed of a steadily moving object, all I need to know are the times when it passes one position and then again another, a certain distance on. The point is that I don't have to be watching the thing all the way - just at the start and the finish.
+
+And it's much the same when you are on the road: if you want to check how fast another car is approaching yours from any direction, try glancing at it, then deliberately looking away (in another useful direction, perhaps!) and then looking at it again. You should find that you get just as good an idea of the other car's speed as if you had stared at it the whole time.
+
+This does assume though that the vehicle is not accelerating or braking much. As I said in October, this makes judging speed more difficult.
+
+Now let's turn this whole problem around and look at it from the point of view of other drivers who are trying to guess your speed and predict your movements. Surely it is in your interests to make this task as easy for them as you can - if they get it badly wrong you may or may not escape being involved in the resulting accident! Therefore I would say that the first rule for clearly signalling your speed (when it matters) is to put a strict limit on how hard you accelerate or brake.
+
+Suppose for example I can see a attractive and 'safe' gap in the traffic but I realize I will only reach it, and/or get through it, by putting my foot down. So I do this - and another driver sees me but isn't certain that I am accelerating sufficiently, and takes what to me is unnecessary avoiding action. The gap may turn out not to have been safe at all, for someone if not me.
+
+Or I might be coasting fast towards a junction or a roundabout, planning to apply the brakes quite sharply towards the end. But a driver who is coming from another direction doesn't trust me to do this and hits the brakes too (or at least loses concentration on other traffic). Better perhaps if I had applied a constant moderate level of braking from as far back as possible.
+
+Here is another common situation which is so full of these hazards that I hesitate to describe the rather scientific way in which I sometimes try to deal with them. You are at a T-junction, waiting to turn right onto a main road which has a centre lane just at this point, for the benefit of vehicles turning right into your road. The centre lane ends shortly at a bollard-island (if it doesn't, then ignore what follows!).
+
+The problem is that a continuous stream of vehicles is coming from the left. There is only intermittent traffic from the right, so can you make use of one of the gaps in it and if so, how? Some drivers seem quite happy to roll straight across and stop with their tail sticking back into the near lane. If they were hit, I suppose they would blame the vehicles opposite for not giving way.
+
+The only safe procedure for getting halfway across, I think, is to plan a sharply curved path into the centre lane, ending fully inside it so that you will not be seen as a 'pusher-in'. But before you move an inch, look again for the gap from the right and no right-turners from the left - and no vehicle already stuck in the middle (easily missed when your attention is switching between right and left).
+
+After these checks, the key factor is the speed at which you then roll across and turn into the centre lane: too fast, and drivers from the left will worry that you are not going to stop - too slow, and the next driver from the right may think you will not get out of the way in time.
+
+But even getting halfway across safely doesn't mean that you can then relax while you wait for a gap to arrive from the left (or rather, from behind you now), because when you finally move off you will have to avoid both the island and any pedestrians who happen to be making use of it.
+
+And there's yet another hazard which I rather hope will deter you from starting on this manoeuvre at all: you can't prevent the vehicle behind you from trying to follow straight across, as if the driver expects you to vanish into thin air. It's happened to me, so I know!
+
+

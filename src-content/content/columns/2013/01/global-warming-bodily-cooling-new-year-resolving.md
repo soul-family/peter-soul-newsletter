@@ -1,0 +1,43 @@
+---
+layout: default
+title: 'Global warming, bodily cooling, new-year resolving'
+date: 'January 2013'
+body_class: 'bg-1'
+header_images:
+  - src: 'a_12x.gif'
+    width: 96
+    height: 35
+  - src: 'a_16x.gif'
+    width: 96
+    height: 75
+  - src: 'a_9x_3.gif'
+    width: 96
+    height: 54
+permalink: /content/columns/2013/01/global-warming-bodily-cooling-new-year-resolving/
+---
+
+Is steady global warming definitely in progress? I believe so. What nobody can yet say for sure is whether it's being caused by human activity (if only partly), or what the effect on the UK climate will be. Perversely, it could get colder! We owe our comfortable temperatures to the Gulf Stream, flowing towards us across the Atlantic from the Gulf of Mexico, and if something should block this (such as melt-water from the Greenland Ice Sheet) we would certainly experience some chilly consequences.
+
+It's important, though, to distinguish between weather and climate: cold winters, for example - even a run of them - can happen by chance, and do not themselves point to climate change. The latter can be confirmed only by careful measurements of small average variations over a long period of time.
+
+And there's another reason not to jump to conclusions from memories of recent winters: they are too subjective. I can report that over the last few years I've needed to wear four of one item of clothing (socks) and two of some others (don't ask), for longer periods each winter. But this isn't confirmation of 'steady Berkshire cooling': it's much more likely that I'm becoming more sensitive to cold.
+
+Curiously, the thought of donning extra layers (instead of turning up the thermostat), to keep the cold out, makes me want to discuss car headlamps. Let me explain: consider the part of the fuel-energy released in your car engine that goes into generating the electricity that powers the headlamps. Now, what fraction of*this*energy remains in just the light from the headlamps that does something useful, by entering people's eyes (including reflecting back into your own) and perhaps giving a warning of approaching danger?
+
+In my column for May 2007 I guessed at the answer: probably no more than a few billionths, on average! All the rest gets dissipated to the environment as heat, in various ways. Can any other process of buying, releasing and making good use of energy be as inefficient (not to mention expensive) as switching on your headlamps? Well, think about my next question, and then decide.
+
+We do our best to insulate our homes, install efficient gas boilers and keep the draughts out, in order to feel warm indoors in winter._But**what fraction of the gas-energy released in your boiler does something**useful_,*by entering your skin to give you the feeling of warmth?*You make your guess now, and I will print mine at the end of the next paragraph. Before you get there, picture the route taken by the energy in the gas: it goes from the boiler, as heat, into the water being pumped around the pipes, then a small amount enters the cat if you have one (curled up close to a pipe or a radiator, I'm assuming) while most of the rest of the heat transfers from the radiators into the air which then circulates, warming up the furniture, the walls ... and yourself?
+
+The complication is that we have to take into account another energy source too: your own body. In 'burning' food it normally generates heat at a rate of around 100 watts, which should be quite enough to maintain your body temperature at the required 37C and keep you feeling warm. It's only when too much of this heat is being lost to your (cooler) surroundings that you start to shiver. And here's my point: the flow of heat is nearly always in that direction, from you outwards. As for the*rate*of flow, that depends on the thickness of your clothing and the temperature of the surroundings (which, in winter at home, is controlled by the central-heating system). Anyway, I'm afraid my question above was a trick: in simple terms, no heat energy enters your skin!
+
+OK, we can argue about details. If you're sitting in front of a radiant fire, or curled up beside the cat, or taking a bath, or drinking tea, your body will be absorbing heat. But otherwise the heat flow is all outwards. To limit it and keep warm in winter, what you need to do is wear an all-over layer that's self-adjusting to provide whatever amount of insulation is needed (but which allows perspiration to escape).
+
+Does such a garment exist, in a practical form? I don't know. But I can't help thinking about the several pounds-worth of gas that our boiler burns every morning to warm the house as we get up - knowing as I do that none of this costly energy will actually penetrate my body, or stay inside the house for long and make any significant difference to what its temperature will be later on in the day...
+
+A year comes, a year goes: one of my achievements of last year can be seen on the A283 between Milford (Surrey) and Petworth (W Sussex), a road that I often take. Some years ago, along a bendy one-mile stretch just south of Chiddingfold, first the cat's-eyes 'sank' when the road was resurfaced, and then the new centre white line started to fade away. After dark that section was not at all nice to drive on, particularly last winter. So in the summer I pestered Surrey County Council, and just in time for the encroaching darkness the centre line was repainted, together with white lines helpfully marking the edge of the road. I'm now wondering what to say to SCC that might get them to levitate the cat's-eyes a bit.
+
+And so to New Year Resolutions: I am attempting to keep to two. If my car has a tendency to nose above the speed limit (and I'm not saying it does, mind), most often this is when I'm accelerating. I have resolved to get into the habit of checking the speedo - and double-checking the speed limit - every time I put my foot down.
+
+The other promise to myself relates to adjusting the car radio and the other controls that take your attention away from the road: I've long known that looking down while doing it, however briefly, is asking for trouble. So I make myself concentrate even harder on the road ahead, instead. But I began to notice that you can actually overdo the concentration, with the result that you are focusing only on the*lane*ahead and not on what's going on in adjacent lanes or in oncoming traffic. Resolution: I must keep my eyes even more peeled!
+
+

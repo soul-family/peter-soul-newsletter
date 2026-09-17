@@ -1,0 +1,47 @@
+---
+layout: default
+title: 'Screens large and small'
+date: 'November 2016'
+body_class: 'bg-5'
+header_images:
+  - src: 'a_12x.gif'
+    width: 96
+    height: 35
+  - src: 'a_16x.gif'
+    width: 96
+    height: 75
+  - src: 'a_18x_3.gif'
+    width: 96
+    height: 75
+permalink: /content/columns/2016/11/screens-large-and-small/
+---
+
+I've mentioned before that Mrs S and I attend a weekly French class: the lessons begin with a test in which we are each given a word (on a card) from the previous week, and have to define it, for the others to guess at. I don't very often manage to recall or guess other people's words, but at least I can usually come up with an intriguing or, more likely, obscure definition for my own! The other week it was*dsuet*(you may have come across the related English word 'desuetude'). Here's what I said:_Mon mot est un adjectif qui, peut-tre, dcrit certains de mes ides et habitudes._**
+
+It's true -*dsuet*or 'outdated' is just the word, perhaps, to describe some of my ways. Though sometimes I find that an out-of-fashion notion of mine is coming back into fashion! You may remember from this column in 2013 that my strongest reason for choosing a three-year-old VW Golf, at that time, was that it was one of the few newish, medium-sized cars still to have room in the boot for a full-sized spare wheel. I was obliged to buy it separately, to replace the space-saver tyre that came with the car, but ever since then I've known that if I had a puncture, I could escape from it on a full set of proper tyres. Unlike many motorists nowadays...
+
+...Except that I've read that manufacturers such as VW, Ford and Toyota are at last seeing sense and starting to equip new cars with a decent spare wheel again: a sensible fashion making a comeback! Meanwhile, I have also learnt that AA and RAC vans now carry a 'universal spare' with adjustable stud-holes, fitting nearly all cars that have five studs per wheel? It gets you home after a puncture, and I gather that it's sent back by the tyre centre after you've had the repair done or new tyre fitted there.
+
+But I think most drivers will agree with me about wanting to have a proper spare wheel, so maybe I should offer some better examples of my outdatedness. Take sat-nav, then: who today goes anywhere that's unfamiliar, without this - putting in the destination and then following the instructions, either spoken by a disembodied voice or, more hazardously, read from the little screen? Who now needs even to look at road-direction signs as they pass by?
+
+Well, I am a lover of maps and an observer of signs, so sat-nav is not for me! I even wonder if it could be having a worsening effect on general attentiveness at the wheel, similarly to cruise control (see my July column). Anyway, if I haven't studied the map closely enough in advance of a journey, or if Mrs S isn't sitting beside me keeping an eye on it (and instructing me more attractively, dare I say, than any sat-nav voice), then any wrong or missed turnings I accept with equanimity, and the challenge of getting back on track I regard as good for the brain.
+
+Talking of little screens, I've been trying to make sense of a strange contrariness of trends. First let's consider televisions: we upgraded early last year to a flat screen (yes, really!). It's 24" wide which is plenty big enough, and it fits neatly into our 'TV corner' for convenient viewing from all the chairs around the room. The only problem is that the text you get (sports scores, for example) seems to have become smaller and harder to read.
+
+Why so? I think the reason must be that the broadcasters are catering more for people looking at the much larger TVs that are available now, at up to three times the width of ours! Call me old-fashioned, but I simply don't understand the attraction of such huge screens: they overwhelm the average living-room whether they are switched on or off, and they usually need to be fixed to the longer wall of the room, hence having to be viewed from close to (and from fewer chairs).
+
+Another fashion change has outrun me in the opposite direction! I'm referring to looking at photos: for 40 years I much enjoyed capturing holidays, other events, people and places on colour-slides, and then seeing them projected on a large screen (which could be viewed from quite a sideways angle) - this was a fiddle to set up, admittedly, but the incentive was there to try to take good photos, and the cost per slide was low.
+
+Then digital cameras arrived: in due course we bought one, and it has seen much use. I discarded my old camera anyway, because of the soaring cost of slide-film. But sadly, for me the magic of photography has gone too, now that taking pictures costs nothing and you can snap everything in sight and delete the fuzzier photos later. I try to concentrate on*looking*, now, and remembering...
+
+I don't deny that (unfuzzy) digital images are superb to see on a PC screen or large laptop. But here's the big puzzle: both these items have gone out of fashion and everyone nowadays seems satisfied with viewing their photos (and other people's as well, of course) on palm-sized screens. As I said, there's been a contrariness of trends.
+
+And my feeling of screen-outdatedness goes further. I'm typing this column on to a largish computer screen, and I admit that I spend a lot of time in front of it, writing, researching, emailing, 'administrating', and often checking the video being sent down from the International Space Station: sometimes the view from up there is just breathtaking (see[https://eol.jsc.nasa.gov/ESRS/HDEV](https://eol.jsc.nasa.gov/ESRS/HDEV)). I do regularly get up and leave the computer, however. But my point is that it stays at home - whereas other people carry their alluring screens around with them...
+
+If this doesn't apply to you, then I don't mean you! But everyone else seems to be always head-down and checking a smart-phone whether indoors, out of doors, standing still, walking, on transport, in cinemas, in restaurants, anywhere. Is 'addicted' the word for it? Apparently so: an Ofcom survey reported this year that 60% of users in the UK admitted to being hooked on their devices, and 15 million people had supposedly tried a 'digital detox', forcing themselves somehow to spend less time online.
+
+(Also, a university study has found that use of phones by children before bedtime disrupts their sleep later. The concern is that long-term health problems will come from this. My particular worry is the likely effect on their eyesight.)
+
+Me, I wouldn't want to become similarly glued to a tiny screen. And I really do wonder how small a step it is from consulting one's phone all the time when it's 'safe' doing so, to being unable to resist using it while driving - with (if I'm not being obscure again)_peut-tre les resultats fatals..._**
+
+
