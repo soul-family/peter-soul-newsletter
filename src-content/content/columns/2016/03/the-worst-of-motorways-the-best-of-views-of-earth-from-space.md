@@ -1,6 +1,6 @@
 ---
 title: 'The worst of motorways, the best of views of Earth from space'
-date: 'March 2016'
+date: '2016/03'
 background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'

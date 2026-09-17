@@ -1,6 +1,6 @@
 ---
 title: 'Calls and recalls'
-date: 'March 2010'
+date: '2010/03'
 background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'

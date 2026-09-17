@@ -1,6 +1,6 @@
 ---
 title: 'Over-working the brain'
-date: 'January 2003'
+date: '2003/01'
 background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'

@@ -1,6 +1,6 @@
 ---
 title: 'From one car to the next'
-date: 'May 2005'
+date: '2005/05'
 background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'

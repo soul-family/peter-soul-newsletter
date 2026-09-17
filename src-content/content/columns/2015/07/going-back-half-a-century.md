@@ -1,6 +1,6 @@
 ---
 title: 'Going back half a century'
-date: 'July 2015'
+date: '2015/07'
 background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'

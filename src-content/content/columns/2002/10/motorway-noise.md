@@ -1,6 +1,6 @@
 ---
 title: 'Motorway noise'
-date: 'October 2002'
+date: '2002/10'
 background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'

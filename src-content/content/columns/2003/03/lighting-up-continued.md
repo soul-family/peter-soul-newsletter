@@ -1,6 +1,6 @@
 ---
 title: "Lighting up ' continued"
-date: 'March 2003'
+date: '2003/03'
 background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'

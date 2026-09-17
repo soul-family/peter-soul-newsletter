@@ -1,6 +1,6 @@
 ---
 title: 'Wide cars, thoughtless people, safe mobile-phone use'
-date: 'January 2015'
+date: '2015/01'
 background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'

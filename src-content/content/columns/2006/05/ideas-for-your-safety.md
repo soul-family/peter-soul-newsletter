@@ -1,6 +1,6 @@
 ---
 title: 'Ideas for your safety'
-date: 'May 2006'
+date: '2006/05'
 background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'

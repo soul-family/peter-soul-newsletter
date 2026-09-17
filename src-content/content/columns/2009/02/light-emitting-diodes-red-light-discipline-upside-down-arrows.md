@@ -1,6 +1,6 @@
 ---
 title: 'Light-emitting diodes, red-light discipline, upside-down arrows'
-date: 'February 2009'
+date: '2009/02'
 background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'

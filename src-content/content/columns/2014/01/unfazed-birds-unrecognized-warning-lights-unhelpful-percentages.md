@@ -1,6 +1,6 @@
 ---
 title: 'Unfazed birds, unrecognized warning-lights, unhelpful percentages'
-date: 'January 2014'
+date: '2014/01'
 background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'

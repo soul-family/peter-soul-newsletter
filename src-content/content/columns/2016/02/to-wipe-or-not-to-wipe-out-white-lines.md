@@ -1,6 +1,6 @@
 ---
 title: 'To wipe or not to wipe out white lines?'
-date: 'February 2016'
+date: '2016/02'
 background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'

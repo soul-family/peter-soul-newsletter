@@ -1,6 +1,6 @@
 ---
 title: 'Seven sorts of sense'
-date: 'March 2008'
+date: '2008/03'
 background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'

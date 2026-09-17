@@ -1,6 +1,6 @@
 ---
 title: 'Winter grip, Christmas gloom, electric anxiety'
-date: 'January 2011'
+date: '2011/01'
 background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'

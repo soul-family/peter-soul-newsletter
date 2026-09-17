@@ -1,6 +1,6 @@
 ---
 title: 'Shuttered lamps, black ice, invisible horses'
-date: 'February 2004'
+date: '2004/02'
 background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'

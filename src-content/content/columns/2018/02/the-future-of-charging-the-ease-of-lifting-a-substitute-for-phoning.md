@@ -1,6 +1,6 @@
 ---
 title: 'The future of charging, the ease of lifting, a substitute for phoning'
-date: 'February 2018'
+date: '2018/02'
 background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'

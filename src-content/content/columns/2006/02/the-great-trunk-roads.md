@@ -1,6 +1,6 @@
 ---
 title: 'The great trunk roads'
-date: 'February 2006'
+date: '2006/02'
 background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'

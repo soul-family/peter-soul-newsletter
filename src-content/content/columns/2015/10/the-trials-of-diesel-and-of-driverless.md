@@ -1,6 +1,6 @@
 ---
 title: 'The trials of diesel and of driverless'
-date: 'October 2015'
+date: '2015/10'
 background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'

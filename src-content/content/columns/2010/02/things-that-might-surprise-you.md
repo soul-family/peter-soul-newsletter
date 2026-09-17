@@ -1,6 +1,6 @@
 ---
 title: 'Things that might surprise you'
-date: 'February 2010'
+date: '2010/02'
 background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'

@@ -1,6 +1,6 @@
 ---
 title: 'Puzzling over warning signs'
-date: 'May 2015'
+date: '2015/05'
 background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'

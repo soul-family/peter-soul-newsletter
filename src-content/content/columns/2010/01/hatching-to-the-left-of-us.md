@@ -1,6 +1,6 @@
 ---
 title: 'Hatching to the left of us...'
-date: 'January 2010'
+date: '2010/01'
 background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'

@@ -1,6 +1,6 @@
 ---
 title: "Other drivers ' oncoming, on roundabouts, on your tail"
-date: 'January 2007'
+date: '2007/01'
 background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'

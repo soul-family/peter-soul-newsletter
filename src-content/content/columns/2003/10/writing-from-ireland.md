@@ -1,6 +1,6 @@
 ---
 title: 'Writing from Ireland'
-date: 'October 2003'
+date: '2003/10'
 background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'

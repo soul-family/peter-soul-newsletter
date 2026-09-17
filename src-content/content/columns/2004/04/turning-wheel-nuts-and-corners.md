@@ -1,6 +1,6 @@
 ---
 title: 'Turning wheel-nuts and corners'
-date: 'April 2004'
+date: '2004/04'
 background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'

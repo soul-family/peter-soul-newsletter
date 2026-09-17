@@ -1,6 +1,6 @@
 ---
 title: 'Consequences of punctures and worse'
-date: 'November 2012'
+date: '2012/11'
 background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'

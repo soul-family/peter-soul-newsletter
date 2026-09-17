@@ -1,6 +1,6 @@
 ---
 title: 'Hazard, risk and accident'
-date: 'July 2007'
+date: '2007/07'
 background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'

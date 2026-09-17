@@ -1,6 +1,6 @@
 ---
 title: 'Deer dodged, sun projected, speed regulated'
-date: 'April 2015'
+date: '2015/04'
 background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'

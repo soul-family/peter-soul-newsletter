@@ -1,6 +1,6 @@
 ---
 title: 'Eyes in the dark'
-date: 'July 2002'
+date: '2002/07'
 background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'

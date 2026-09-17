@@ -1,6 +1,6 @@
 ---
 title: 'A driverless tragedy, and a smartphone review'
-date: 'July 2018'
+date: '2018/07'
 background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'

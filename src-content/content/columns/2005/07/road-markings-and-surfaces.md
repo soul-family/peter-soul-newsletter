@@ -1,6 +1,6 @@
 ---
 title: 'Road markings and surfaces'
-date: 'July 2005'
+date: '2005/07'
 background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'

@@ -1,6 +1,6 @@
 ---
 title: 'My next car could be cruise controlled...'
-date: 'July 2009'
+date: '2009/07'
 background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'

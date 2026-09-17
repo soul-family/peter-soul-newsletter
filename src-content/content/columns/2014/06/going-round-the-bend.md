@@ -1,6 +1,6 @@
 ---
 title: 'Going round the bend'
-date: 'June 2014'
+date: '2014/06'
 background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'

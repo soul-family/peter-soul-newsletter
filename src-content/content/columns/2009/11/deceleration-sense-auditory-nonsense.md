@@ -1,6 +1,6 @@
 ---
 title: 'Deceleration sense, auditory nonsense'
-date: 'November 2009'
+date: '2009/11'
 background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'

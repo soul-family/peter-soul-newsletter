@@ -1,6 +1,6 @@
 ---
 title: "Problems with a spare key, a smooth wheel and an owner's manual"
-date: 'November 2014'
+date: '2014/11'
 background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'

@@ -1,6 +1,6 @@
 ---
 title: "Losing sleep ' twice a year"
-date: 'November 2004'
+date: '2004/11'
 background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'

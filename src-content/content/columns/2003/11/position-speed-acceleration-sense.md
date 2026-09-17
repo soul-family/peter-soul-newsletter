@@ -1,6 +1,6 @@
 ---
 title: 'Position, speed, acceleration sense'
-date: 'November 2003'
+date: '2003/11'
 background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'

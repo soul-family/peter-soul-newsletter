@@ -1,6 +1,6 @@
 ---
 title: 'All in the mind'
-date: 'October 2008'
+date: '2008/10'
 background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'

@@ -1,6 +1,6 @@
 ---
 title: 'Tyres and mileages'
-date: 'May 2003'
+date: '2003/05'
 background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'

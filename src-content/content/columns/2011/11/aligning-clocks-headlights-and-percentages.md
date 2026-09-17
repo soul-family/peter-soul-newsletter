@@ -1,6 +1,6 @@
 ---
 title: 'Aligning clocks, headlights and percentages'
-date: 'November 2011'
+date: '2011/11'
 background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'

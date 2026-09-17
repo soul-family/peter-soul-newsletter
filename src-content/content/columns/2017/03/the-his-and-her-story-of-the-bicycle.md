@@ -1,6 +1,6 @@
 ---
 title: 'The his-and-her-story of the bicycle'
-date: 'March 2017'
+date: '2017/03'
 background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'

@@ -1,6 +1,6 @@
 ---
 title: 'The view from the footpath'
-date: 'May 2013'
+date: '2013/05'
 background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'

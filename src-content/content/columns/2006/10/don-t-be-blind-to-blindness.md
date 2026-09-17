@@ -1,6 +1,6 @@
 ---
 title: "Don't be blind to blindness"
-date: 'October 2006'
+date: '2006/10'
 background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'

@@ -1,6 +1,6 @@
 ---
 title: 'In a class of my own when driving or walking'
-date: 'January 2012'
+date: '2012/01'
 background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'

@@ -1,6 +1,6 @@
 ---
 title: 'Assessing risk on the roads and elsewhere'
-date: 'October 2013'
+date: '2013/10'
 background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'

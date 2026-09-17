@@ -1,6 +1,6 @@
 ---
 title: 'Sliding hither and thither'
-date: 'June 2006'
+date: '2006/06'
 background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'

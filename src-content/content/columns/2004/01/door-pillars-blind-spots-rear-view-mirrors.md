@@ -1,6 +1,6 @@
 ---
 title: 'Door pillars, blind spots, rear-view mirrors'
-date: 'January 2004'
+date: '2004/01'
 background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'

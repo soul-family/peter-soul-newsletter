@@ -1,6 +1,6 @@
 ---
 title: 'Reacting to amber'
-date: 'June 2005'
+date: '2005/06'
 background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'

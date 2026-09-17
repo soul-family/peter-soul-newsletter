@@ -1,6 +1,6 @@
 ---
 title: 'Cars that think for themselves'
-date: 'July 2014'
+date: '2014/07'
 background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'

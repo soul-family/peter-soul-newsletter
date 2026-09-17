@@ -1,6 +1,6 @@
 ---
 title: 'Travelling in comfort'
-date: 'November 2002'
+date: '2002/11'
 background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'

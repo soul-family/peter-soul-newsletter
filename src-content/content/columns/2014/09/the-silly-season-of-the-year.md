@@ -1,6 +1,6 @@
 ---
 title: 'The silly-season of the year'
-date: 'September 2014'
+date: '2014/09'
 background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'

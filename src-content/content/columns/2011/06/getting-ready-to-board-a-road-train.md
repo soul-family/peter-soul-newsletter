@@ -1,6 +1,6 @@
 ---
 title: 'Getting ready to board a road train'
-date: 'June 2011'
+date: '2011/06'
 background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'

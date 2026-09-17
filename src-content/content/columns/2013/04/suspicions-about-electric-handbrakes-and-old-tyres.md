@@ -1,6 +1,6 @@
 ---
 title: 'Suspicions about electric handbrakes and old tyres'
-date: 'April 2013'
+date: '2013/04'
 background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'

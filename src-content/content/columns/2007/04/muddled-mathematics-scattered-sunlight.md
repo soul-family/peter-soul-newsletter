@@ -1,6 +1,6 @@
 ---
 title: 'Muddled mathematics, scattered sunlight'
-date: 'April 2007'
+date: '2007/04'
 background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'

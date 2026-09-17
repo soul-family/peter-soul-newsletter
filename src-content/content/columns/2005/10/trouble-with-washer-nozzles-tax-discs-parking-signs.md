@@ -1,6 +1,6 @@
 ---
 title: 'Trouble with washer nozzles, tax discs, parking signs'
-date: 'October 2005'
+date: '2005/10'
 background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'

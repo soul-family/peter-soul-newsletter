@@ -1,6 +1,6 @@
 ---
 title: 'Seeing clearly and not so clearly'
-date: 'April 2008'
+date: '2008/04'
 background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'

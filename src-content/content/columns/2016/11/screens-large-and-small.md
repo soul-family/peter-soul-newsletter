@@ -1,6 +1,6 @@
 ---
 title: 'Screens large and small'
-date: 'November 2016'
+date: '2016/11'
 background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'

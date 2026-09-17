@@ -1,6 +1,6 @@
 ---
 title: 'Speeding up and slowing down'
-date: 'September 2008'
+date: '2008/09'
 background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'

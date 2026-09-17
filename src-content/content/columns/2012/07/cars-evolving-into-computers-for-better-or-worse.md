@@ -1,6 +1,6 @@
 ---
 title: 'Cars evolving into computers, for better or worse'
-date: 'July 2012'
+date: '2012/07'
 background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'

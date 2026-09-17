@@ -1,6 +1,6 @@
 ---
 title: 'Bulb failure and success, fuel consumption and comprehension'
-date: 'February 2014'
+date: '2014/02'
 background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'

@@ -1,6 +1,6 @@
 ---
 title: 'Cyclists fast & loose, and pedestrians crossing & gently climbing'
-date: 'April 2017'
+date: '2017/04'
 background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'

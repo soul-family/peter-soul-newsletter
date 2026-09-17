@@ -1,6 +1,6 @@
 ---
 title: 'Failing to pass, failing to steer, failing to reverse'
-date: 'October 2010'
+date: '2010/10'
 background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'

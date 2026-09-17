@@ -1,6 +1,6 @@
 ---
 title: "Smartness ' on motorways, in the national grid, when drinking"
-date: 'September 2017'
+date: '2017/09'
 background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'

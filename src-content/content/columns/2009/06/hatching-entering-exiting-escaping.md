@@ -1,6 +1,6 @@
 ---
 title: 'Hatching, entering, exiting, escaping'
-date: 'June 2009'
+date: '2009/06'
 background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'

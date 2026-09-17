@@ -1,6 +1,6 @@
 ---
 title: 'Editor retiring, tyres suffering, electric cars soaring, eyes deteriorating'
-date: 'May 2016'
+date: '2016/05'
 background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'

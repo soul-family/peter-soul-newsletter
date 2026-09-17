@@ -1,6 +1,6 @@
 ---
 title: 'Astronomical distances, safe steering'
-date: 'October 2007'
+date: '2007/10'
 background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'

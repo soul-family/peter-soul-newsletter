@@ -1,6 +1,6 @@
 ---
 title: 'Listening to my Corolla and inspecting a driving licence'
-date: 'April 2012'
+date: '2012/04'
 background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'

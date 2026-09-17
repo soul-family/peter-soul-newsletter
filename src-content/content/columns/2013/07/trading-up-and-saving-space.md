@@ -1,6 +1,6 @@
 ---
 title: 'Trading up and saving space'
-date: 'July 2013'
+date: '2013/07'
 background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'

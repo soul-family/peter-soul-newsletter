@@ -1,6 +1,6 @@
 ---
 title: 'All reversed: road-sign, eye-test results, cholesterol trend, NZ road rule'
-date: 'April 2016'
+date: '2016/04'
 background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'

@@ -1,6 +1,6 @@
 ---
 title: 'Life on other planets and a life on this one'
-date: 'September 2015'
+date: '2015/09'
 background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'

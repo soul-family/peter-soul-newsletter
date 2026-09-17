@@ -1,6 +1,6 @@
 ---
 title: 'Steering a straight line'
-date: 'March 2005'
+date: '2005/03'
 background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'

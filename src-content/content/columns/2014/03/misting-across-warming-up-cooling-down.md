@@ -1,6 +1,6 @@
 ---
 title: 'Misting across, warming up, cooling down'
-date: 'March 2014'
+date: '2014/03'
 background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'

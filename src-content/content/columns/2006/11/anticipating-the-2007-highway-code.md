@@ -1,6 +1,6 @@
 ---
 title: 'Anticipating the 2007 Highway Code'
-date: 'November 2006'
+date: '2006/11'
 background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'

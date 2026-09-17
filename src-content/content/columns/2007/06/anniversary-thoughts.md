@@ -1,6 +1,6 @@
 ---
 title: 'Anniversary thoughts'
-date: 'June 2007'
+date: '2007/06'
 background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'

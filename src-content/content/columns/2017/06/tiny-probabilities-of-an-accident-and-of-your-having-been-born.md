@@ -1,6 +1,6 @@
 ---
 title: "Tiny probabilities: of an accident ' and of your having been born!"
-date: 'June 2017'
+date: '2017/06'
 background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'

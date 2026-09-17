@@ -1,6 +1,6 @@
 ---
 title: 'Driving, breath-testing and hanging in France'
-date: 'May 2012'
+date: '2012/05'
 background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'

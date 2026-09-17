@@ -1,6 +1,6 @@
 ---
 title: 'Gearing up for the journey'
-date: 'May 2009'
+date: '2009/05'
 background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'

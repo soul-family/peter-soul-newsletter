@@ -1,6 +1,6 @@
 ---
 title: 'Global warming, bodily cooling, new-year resolving'
-date: 'January 2013'
+date: '2013/01'
 background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'

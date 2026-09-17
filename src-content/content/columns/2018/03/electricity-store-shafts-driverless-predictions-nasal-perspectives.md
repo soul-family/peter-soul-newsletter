@@ -1,6 +1,6 @@
 ---
 title: 'Electricity store-shafts, driverless predictions, nasal perspectives'
-date: 'March 2018'
+date: '2018/03'
 background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'

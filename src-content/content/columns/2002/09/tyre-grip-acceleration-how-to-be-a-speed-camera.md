@@ -1,6 +1,6 @@
 ---
 title: 'Tyre grip, acceleration, how to be a speed camera'
-date: 'September 2002'
+date: '2002/09'
 background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'

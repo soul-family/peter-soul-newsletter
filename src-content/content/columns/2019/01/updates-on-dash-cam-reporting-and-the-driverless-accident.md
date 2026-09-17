@@ -1,6 +1,6 @@
 ---
 title: 'Updates on dash-cam reporting and the driverless accident'
-date: 'January 2019'
+date: '2019/01'
 background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'

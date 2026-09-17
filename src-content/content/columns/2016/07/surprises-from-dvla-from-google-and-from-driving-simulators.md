@@ -1,6 +1,6 @@
 ---
 title: 'Surprises from DVLA, from Google and from driving simulators'
-date: 'July 2016'
+date: '2016/07'
 background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'

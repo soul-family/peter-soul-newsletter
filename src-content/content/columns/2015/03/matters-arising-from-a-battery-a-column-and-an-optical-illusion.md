@@ -1,6 +1,6 @@
 ---
 title: 'Matters arising from a battery, a column and an optical illusion'
-date: 'March 2015'
+date: '2015/03'
 background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'

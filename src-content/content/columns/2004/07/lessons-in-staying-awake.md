@@ -1,6 +1,6 @@
 ---
 title: 'Lessons in staying awake'
-date: 'July 2004'
+date: '2004/07'
 background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'

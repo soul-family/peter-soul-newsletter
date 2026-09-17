@@ -1,6 +1,6 @@
 ---
 title: 'Beirut traffic-lights, fading road-signs, the Highway Code still awaited'
-date: 'February 2007'
+date: '2007/02'
 background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'

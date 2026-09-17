@@ -1,6 +1,6 @@
 ---
 title: 'Charging a battery, typing a column, studying an optical illusion'
-date: 'February 2015'
+date: '2015/02'
 background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'

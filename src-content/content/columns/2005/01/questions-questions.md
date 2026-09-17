@@ -1,6 +1,6 @@
 ---
 title: 'Questions, questions'
-date: 'January 2005'
+date: '2005/01'
 background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'

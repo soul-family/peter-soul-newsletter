@@ -1,6 +1,6 @@
 ---
 title: 'John Dunlop, long molecules, astonishing adhesion'
-date: 'June 2004'
+date: '2004/06'
 background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'

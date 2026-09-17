@@ -1,6 +1,6 @@
 ---
 title: 'Saving petrol and other things'
-date: 'June 2015'
+date: '2015/06'
 background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'

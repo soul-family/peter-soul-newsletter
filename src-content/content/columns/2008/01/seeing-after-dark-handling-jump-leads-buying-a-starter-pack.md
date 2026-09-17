@@ -1,6 +1,6 @@
 ---
 title: 'Seeing after dark, handling jump-leads, buying a starter-pack'
-date: 'January 2008'
+date: '2008/01'
 background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'

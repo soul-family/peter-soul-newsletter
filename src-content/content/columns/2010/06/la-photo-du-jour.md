@@ -1,6 +1,6 @@
 ---
 title: 'La photo du jour'
-date: 'June 2010'
+date: '2010/06'
 background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'

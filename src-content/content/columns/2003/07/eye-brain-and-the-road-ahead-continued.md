@@ -1,6 +1,6 @@
 ---
 title: "Eye, brain and the road ahead ' continued"
-date: 'July 2003'
+date: '2003/07'
 background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'

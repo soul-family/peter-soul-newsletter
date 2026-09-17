@@ -1,6 +1,6 @@
 ---
 title: 'The force of habit'
-date: 'April 2005'
+date: '2005/04'
 background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'

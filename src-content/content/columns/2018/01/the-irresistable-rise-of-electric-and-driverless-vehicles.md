@@ -1,6 +1,6 @@
 ---
 title: 'The irresistable rise of electric and driverless vehicles'
-date: 'January 2018'
+date: '2018/01'
 background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'

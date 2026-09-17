@@ -1,6 +1,6 @@
 ---
 title: "What happens when you're shunted"
-date: 'November 2015'
+date: '2015/11'
 background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'

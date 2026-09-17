@@ -1,6 +1,6 @@
 ---
 title: 'All sorts of energy'
-date: 'March 2006'
+date: '2006/03'
 background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'

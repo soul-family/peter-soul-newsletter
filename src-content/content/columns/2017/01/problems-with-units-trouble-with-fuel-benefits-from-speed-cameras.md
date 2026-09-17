@@ -1,6 +1,6 @@
 ---
 title: 'Problems with units, trouble with fuel, benefits from speed cameras'
-date: 'January 2017'
+date: '2017/01'
 background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'

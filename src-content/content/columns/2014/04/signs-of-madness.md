@@ -1,6 +1,6 @@
 ---
 title: 'Signs of madness'
-date: 'April 2014'
+date: '2014/04'
 background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'

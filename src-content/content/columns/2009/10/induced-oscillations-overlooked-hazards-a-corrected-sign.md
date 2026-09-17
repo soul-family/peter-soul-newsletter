@@ -1,6 +1,6 @@
 ---
 title: 'Induced oscillations, overlooked hazards, a corrected sign'
-date: 'October 2009'
+date: '2009/10'
 background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'

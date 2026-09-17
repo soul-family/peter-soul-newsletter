@@ -1,6 +1,6 @@
 ---
 title: 'Bad vibrations'
-date: 'May 2014'
+date: '2014/05'
 background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'

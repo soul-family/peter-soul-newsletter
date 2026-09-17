@@ -1,6 +1,6 @@
 ---
 title: 'Superior schooling'
-date: 'June 2016'
+date: '2016/06'
 background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'

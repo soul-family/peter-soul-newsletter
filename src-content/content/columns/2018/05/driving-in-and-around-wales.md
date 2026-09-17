@@ -1,6 +1,6 @@
 ---
 title: 'Driving in and around Wales'
-date: 'May 2018'
+date: '2018/05'
 background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'

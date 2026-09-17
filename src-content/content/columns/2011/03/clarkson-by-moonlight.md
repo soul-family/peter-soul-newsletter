@@ -1,6 +1,6 @@
 ---
 title: 'Clarkson by moonlight'
-date: 'March 2011'
+date: '2011/03'
 background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'

@@ -1,6 +1,6 @@
 ---
 title: 'A parade of tactics'
-date: 'June 2013'
+date: '2013/06'
 background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'

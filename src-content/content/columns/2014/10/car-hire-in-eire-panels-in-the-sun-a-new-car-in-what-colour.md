@@ -1,6 +1,6 @@
 ---
 title: 'Car hire in Eire, panels in the sun, a new car in what colour?'
-date: 'October 2014'
+date: '2014/10'
 background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'

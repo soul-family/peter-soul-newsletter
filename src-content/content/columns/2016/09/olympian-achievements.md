@@ -1,6 +1,6 @@
 ---
 title: 'Olympian achievements'
-date: 'September 2016'
+date: '2016/09'
 background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'

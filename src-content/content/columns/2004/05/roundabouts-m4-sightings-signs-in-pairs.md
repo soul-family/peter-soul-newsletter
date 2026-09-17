@@ -1,6 +1,6 @@
 ---
 title: 'Roundabouts, M4 sightings, signs in pairs'
-date: 'May 2004'
+date: '2004/05'
 background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'

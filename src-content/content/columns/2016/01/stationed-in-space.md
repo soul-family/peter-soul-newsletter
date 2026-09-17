@@ -1,6 +1,6 @@
 ---
 title: 'Stationed in space'
-date: 'January 2016'
+date: '2016/01'
 background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'

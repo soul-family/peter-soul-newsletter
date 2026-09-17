@@ -1,6 +1,6 @@
 ---
 title: 'First cars and fast cars'
-date: 'April 2010'
+date: '2010/04'
 background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'

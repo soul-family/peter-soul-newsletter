@@ -1,6 +1,6 @@
 ---
 title: 'Speeds more or less limited'
-date: 'October 2012'
+date: '2012/10'
 background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'

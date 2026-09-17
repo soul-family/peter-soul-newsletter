@@ -1,6 +1,6 @@
 ---
 title: 'Looking behind you'
-date: 'March 2007'
+date: '2007/03'
 background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'

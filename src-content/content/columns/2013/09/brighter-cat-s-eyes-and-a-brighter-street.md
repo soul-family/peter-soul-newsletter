@@ -1,6 +1,6 @@
 ---
 title: "Brighter cat's-eyes and a brighter street"
-date: 'September 2013'
+date: '2013/09'
 background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'

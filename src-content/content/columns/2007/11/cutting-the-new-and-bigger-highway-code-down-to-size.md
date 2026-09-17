@@ -1,6 +1,6 @@
 ---
 title: 'Cutting the new and bigger Highway Code down to size'
-date: 'November 2007'
+date: '2007/11'
 background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'

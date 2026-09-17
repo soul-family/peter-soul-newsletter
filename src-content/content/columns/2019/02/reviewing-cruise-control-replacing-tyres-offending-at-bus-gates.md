@@ -1,6 +1,6 @@
 ---
 title: 'Reviewing cruise control, replacing tyres, offending at bus gates'
-date: 'February 2019'
+date: '2019/02'
 background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'

@@ -1,6 +1,6 @@
 ---
 title: 'Speedos and other meters'
-date: 'June 2003'
+date: '2003/06'
 background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'

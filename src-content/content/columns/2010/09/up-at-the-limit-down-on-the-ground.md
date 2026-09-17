@@ -1,6 +1,6 @@
 ---
 title: 'Up at the limit, down on the ground'
-date: 'September 2010'
+date: '2010/09'
 background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'

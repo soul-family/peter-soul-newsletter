@@ -1,6 +1,6 @@
 ---
 title: 'A word beginning with m'
-date: 'June 2008'
+date: '2008/06'
 background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'

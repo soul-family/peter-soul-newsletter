@@ -1,6 +1,6 @@
 ---
 title: 'Summing up a career, and giving pedestrians the eye'
-date: 'September 2018'
+date: '2018/09'
 background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'

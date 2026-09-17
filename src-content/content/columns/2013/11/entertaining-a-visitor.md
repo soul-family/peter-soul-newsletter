@@ -1,6 +1,6 @@
 ---
 title: 'Entertaining a visitor'
-date: 'November 2013'
+date: '2013/11'
 background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'

@@ -1,6 +1,6 @@
 ---
 title: 'Writing from France'
-date: 'November 2017'
+date: '2017/11'
 background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'

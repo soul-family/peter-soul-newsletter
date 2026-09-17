@@ -1,6 +1,6 @@
 ---
 title: 'In the market for a car and three fuels'
-date: 'March 2013'
+date: '2013/03'
 background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'

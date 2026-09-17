@@ -1,6 +1,6 @@
 ---
 title: 'Equitable car-sharing and unsuccessful advanced-recruiting'
-date: 'October 2018'
+date: '2018/10'
 background: 'bg-6'
 header_images:
   - src: 'a_12x.gif'

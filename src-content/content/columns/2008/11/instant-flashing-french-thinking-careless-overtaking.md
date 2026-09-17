@@ -1,6 +1,6 @@
 ---
 title: 'Instant flashing, French thinking, careless overtaking'
-date: 'November 2008'
+date: '2008/11'
 background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'

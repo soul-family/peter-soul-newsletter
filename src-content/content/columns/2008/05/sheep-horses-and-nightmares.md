@@ -1,6 +1,6 @@
 ---
 title: 'Sheep, horses and nightmares'
-date: 'May 2008'
+date: '2008/05'
 background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'

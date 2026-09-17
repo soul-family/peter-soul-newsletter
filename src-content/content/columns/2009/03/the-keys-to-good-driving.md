@@ -1,6 +1,6 @@
 ---
 title: 'The keys to good driving'
-date: 'March 2009'
+date: '2009/03'
 background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'

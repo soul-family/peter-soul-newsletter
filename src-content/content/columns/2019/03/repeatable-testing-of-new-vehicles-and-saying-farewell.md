@@ -1,6 +1,6 @@
 ---
 title: 'Repeatable testing of new vehicles, and saying farewell'
-date: 'March 2019'
+date: '2019/03'
 background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'

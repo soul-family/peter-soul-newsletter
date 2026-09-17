@@ -1,6 +1,6 @@
 ---
 title: 'Silliness and common sense'
-date: 'July 2006'
+date: '2006/07'
 background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'

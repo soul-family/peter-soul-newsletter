@@ -1,6 +1,6 @@
 ---
 title: 'Remembering, forgetting, and being distracted'
-date: 'July 2017'
+date: '2017/07'
 background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'

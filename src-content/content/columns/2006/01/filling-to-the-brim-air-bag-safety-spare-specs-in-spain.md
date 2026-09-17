@@ -1,6 +1,6 @@
 ---
 title: 'Filling to the brim, air-bag safety, spare specs in Spain'
-date: 'January 2006'
+date: '2006/01'
 background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'

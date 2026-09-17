@@ -1,6 +1,6 @@
 ---
 title: "What's your speed? ' continued"
-date: 'February 2005'
+date: '2005/02'
 background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'

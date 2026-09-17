@@ -1,6 +1,6 @@
 ---
 title: 'John Humphrys, Robbie the Robot, Ludwig van Beethoven'
-date: 'March 2012'
+date: '2012/03'
 background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'

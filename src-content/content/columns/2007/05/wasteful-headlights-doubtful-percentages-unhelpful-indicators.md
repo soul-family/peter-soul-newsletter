@@ -1,6 +1,6 @@
 ---
 title: 'Wasteful headlights, doubtful percentages, unhelpful indicators'
-date: 'May 2007'
+date: '2007/05'
 background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'

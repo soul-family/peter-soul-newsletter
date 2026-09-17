@@ -1,6 +1,6 @@
 ---
 title: 'Arriving home, alarming silence, amplifying force'
-date: 'July 2011'
+date: '2011/07'
 background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'

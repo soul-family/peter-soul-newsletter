@@ -1,6 +1,6 @@
 ---
 title: 'Legionnaires and footballers'
-date: 'July 2010'
+date: '2010/07'
 background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'

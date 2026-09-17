@@ -1,6 +1,6 @@
 ---
 title: 'Advanced-recruiting again, and no-hands cycling'
-date: 'November 2018'
+date: '2018/11'
 background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'

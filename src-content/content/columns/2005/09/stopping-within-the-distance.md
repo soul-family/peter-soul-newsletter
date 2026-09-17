@@ -1,6 +1,6 @@
 ---
 title: 'Stopping within the distance'
-date: 'September 2005'
+date: '2005/09'
 background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'

@@ -1,6 +1,6 @@
 ---
 title: 'From 0 to 60, from sidelights to headlights, from England to Wales'
-date: 'February 2008'
+date: '2008/02'
 background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'

@@ -1,6 +1,6 @@
 ---
 title: 'Invisible motorcycles and black spots'
-date: 'February 2012'
+date: '2012/02'
 background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'

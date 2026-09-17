@@ -1,6 +1,6 @@
 ---
 title: 'When not to cross the road'
-date: 'October 2016'
+date: '2016/10'
 background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'

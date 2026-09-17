@@ -1,6 +1,6 @@
 ---
 title: "What's to be done when amber shows?"
-date: 'February 2013'
+date: '2013/02'
 background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'

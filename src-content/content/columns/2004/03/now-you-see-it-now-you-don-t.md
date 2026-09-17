@@ -1,6 +1,6 @@
 ---
 title: "Now you see it, now you don't"
-date: 'March 2004'
+date: '2004/03'
 background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'

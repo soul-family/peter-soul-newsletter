@@ -1,6 +1,6 @@
 ---
 title: 'Worlds apart yet overlapping'
-date: 'June 2018'
+date: '2018/06'
 background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'

@@ -1,6 +1,6 @@
 ---
 title: "Bottle-necks, pillow-humps, cat's-eyes, traffic-lights"
-date: 'July 2008'
+date: '2008/07'
 background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'

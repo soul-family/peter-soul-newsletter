@@ -1,6 +1,6 @@
 ---
 title: 'Learning from Irish experience'
-date: 'September 2007'
+date: '2007/09'
 background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'

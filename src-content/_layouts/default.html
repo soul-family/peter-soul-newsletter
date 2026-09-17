@@ -12,8 +12,8 @@
       {% include navigation.html %}
       <main class="content-column">
         <h2 class="post-title">{{ page.title }}</h2>
-        {% if page.date %}
-        <p class="post-date">{{ page.date }}</p>
+        {% if page.date %} {% assign date_parts = page.date | split: '/' %} {% assign year = date_parts[0] %} {% assign month = date_parts[1] %} {% capture month_name %}{% case month %}{% when '01' %}January{% when '02' %}February{% when '03' %}March{% when '04' %}April{% when '05' %}May{% when '06' %}June{% when '07' %}July{% when '08' %}August{% when '09' %}September{% when '10' %}October{% when '11' %}November{% when '12' %}December{% endcase %}{% endcapture %}
+        <p class="post-date">{{ month_name }} {{ year }}</p>
         {% endif %} {{ content }}
       </main>
     </div>

@@ -1,6 +1,6 @@
 ---
 title: "Heard on the radio ' sad stories of tyres and potholes"
-date: 'April 2018'
+date: '2018/04'
 background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'

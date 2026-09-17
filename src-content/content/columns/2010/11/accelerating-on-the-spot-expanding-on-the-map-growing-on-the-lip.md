@@ -1,6 +1,6 @@
 ---
 title: 'Accelerating on the spot, expanding on the map, growing on the lip'
-date: 'November 2010'
+date: '2010/11'
 background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'

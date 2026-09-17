@@ -1,6 +1,6 @@
 ---
 title: 'From Glyndebourne to the Paralympics'
-date: 'September 2012'
+date: '2012/09'
 background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'

@@ -1,6 +1,6 @@
 ---
 title: "Doctors' surgeries and motorway queues"
-date: 'September 2003'
+date: '2003/09'
 background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'

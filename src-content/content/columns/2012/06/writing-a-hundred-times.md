@@ -1,6 +1,6 @@
 ---
 title: 'Writing a hundred times'
-date: 'June 2012'
+date: '2012/06'
 background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'

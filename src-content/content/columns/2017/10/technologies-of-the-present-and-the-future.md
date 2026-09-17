@@ -1,6 +1,6 @@
 ---
 title: 'Technologies of the present and the future'
-date: 'October 2017'
+date: '2017/10'
 background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'

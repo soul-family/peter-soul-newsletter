@@ -1,6 +1,6 @@
 ---
 title: 'Signs of blue'
-date: 'January 2009'
+date: '2009/01'
 background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'

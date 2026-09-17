@@ -1,6 +1,6 @@
 ---
 title: "Headaches, Moir' patterns, road layouts"
-date: 'September 2004'
+date: '2004/09'
 background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'
