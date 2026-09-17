@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "What's your speed? ' continued"
 date: 'February 2005'
 body_class: 'bg-7'
@@ -39,5 +38,3 @@ After these checks, the key factor is the speed at which you then roll across an
 But even getting halfway across safely doesn't mean that you can then relax while you wait for a gap to arrive from the left (or rather, from behind you now), because when you finally move off you will have to avoid both the island and any pedestrians who happen to be making use of it.
 
 And there's yet another hazard which I rather hope will deter you from starting on this manoeuvre at all: you can't prevent the vehicle behind you from trying to follow straight across, as if the driver expects you to vanish into thin air. It's happened to me, so I know!
-
-

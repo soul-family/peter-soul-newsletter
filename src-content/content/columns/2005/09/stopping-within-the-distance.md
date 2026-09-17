@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Stopping within the distance'
 date: 'September 2005'
 body_class: 'bg-1'
@@ -39,5 +38,3 @@ That leaves the question I raised in July: what happens to safe stopping distanc
 Take a hill marked 15%: the minimum braking distance when you are climbing will be about 15% shorter than it would be for the same road on the level, at your same speed. When you're going downhill the BD will instead be longer, as you would expect, but now it's a 30% increase. Likewise on other slopes - the uphill braking distance shrinks (helpfully) by the same % figure as the gradient, but the downhill one extends (worryingly) by twice this, approximately anyway.
 
 Still with me? I hope so. Safe driving - and safe stopping!
-
-

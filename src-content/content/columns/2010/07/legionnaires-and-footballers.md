@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Legionnaires and footballers'
 date: 'July 2010'
 body_class: 'bg-3'
@@ -43,5 +42,3 @@ The other footballing matter on my mind is that I'm aware that everyone's fear d
 So here's the result of my logical thinking: hold the penalty shoot-out at the*beginning*of the game (every knock-out game, I mean), and count the result as half-a-goal. Then play the match. Right through it, that half-goal will put one team or the other ahead, and the players will know that the final result depends on all of them. They can't pass the buck to the hapless penalty-takers and goalies, even though these men did exactly the same job at the beginning as they would be doing at the end, under the present system, in the event of a draw.
 
 I've come across a variety of suggestions for alleviating the drawn-game problem, but never this one. Maybe I should have run it past a football professional, or at least a fan, before offering it to you. But as I said, I'm short of time. Meanwhile, in the next room (though not quite yet next door) I think it's all over - and without a shoot-out:_we was robbed!_**
-
-

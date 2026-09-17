@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Technologies of the present and the future'
 date: 'October 2017'
 body_class: 'bg-1'
@@ -45,5 +44,3 @@ I confess I've been putting off trying even to summarize the recent news relatin
 As for autos, maybe an 'expert comment' in the current issue of*RoadSmart*(the IAM magazine) says it all: "The car of the future will simply stop, if it can't work out what's happening." Last year, I recall, a big moth was reported to have disabled the self-drive system of a Tesla Model S, by colliding with one of its radar sensors! I ask you, what are the chances that autos will ever complete a journey of useful length without hesitation, deviation, or (quite possibly) repetition of a section of it if the system didn't get it right the first time? Not high, I think.
 
 Enough of all this technology: I need to take a walk. With luck (allowing for my deteriorating high-frequency hearing) I'll catch some birdsong...
-
-

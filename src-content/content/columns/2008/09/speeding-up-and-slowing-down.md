@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Speeding up and slowing down'
 date: 'September 2008'
 body_class: 'bg-4'
@@ -41,5 +40,3 @@ Worse still, in Fleet where the A323 arrives from the north-west you find not on
 But the ultimate silliness, I think, is on the edge of Fittleworth in West Sussex, where they laid bump-lines on the approach to a 30 sign and then later they moved the sign out to beyond the lines. So now you get not only a late reminder to slow down but also, in the other direction, an early encouragement to accelerate. I suppose, though, that this matches how most drivers tend to react to speed-limit signs anyway, and many signs are probably sited a bit further away from town than they would otherwise be, to allow for it.
 
 As for the magnitudes of speed limits, you often feel these are chosen without rhyme or reason. Well, things are very different on the continent, it seems: the limits there are adjusted most carefully to the road conditions. One consequence I've heard about is that a certain*grande route*in the South of France has no less than eighteen changes of speed-limit in 25 km, switching between 50, 70 and 90 kph. Within one half-kilometre the limit alters three times! I'm told that even with the presence of repeaters in the 50 and 70 stretches, one forgets*trs facilement la limitation actuelle de vitesse*.
-
-

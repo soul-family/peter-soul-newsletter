@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Problems with a spare key, a smooth wheel and an owner's manual"
 date: 'November 2014'
 body_class: 'bg-8'
@@ -39,5 +38,3 @@ Here is another notable sentence from the owner's manual, in the section on the 
 Seriously, the instructions go on to say that on steep descents you should move the lever across (as I mentioned above) and change down manually, to make use of engine-braking. It's curious then that the Golf supplies rather less of this, in any gear, than did my old Corolla (or Mrs S's even older Micra). So on a level road, if I'm aiming to slow down without foot-braking, I find I have to look and think even further ahead, in order to release the accelerator in time. No bad thing of course, and is it perhaps a sign that the Golf has an extra-efficient engine?
 
 But it's when I'm on a downward hill that I am aware that there's a computer-brain hidden in the car and apparently analysing my every action, because I only have to brake for a few seconds*and the DSG\**moves down to a low gear itself*, and stays there for a while: no need to change manually as instructed. I'm impressed!
-
-

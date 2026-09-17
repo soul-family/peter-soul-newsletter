@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'All reversed: road-sign, eye-test results, cholesterol trend, NZ road rule'
 date: 'April 2016'
 body_class: 'bg-5'
@@ -43,5 +42,3 @@ In January, my VW Golf (2010 vintage, 43K on the clock) passed its MOT as usual,
 Finally, news from New Zealand (and no, it didn't arrive on April 1st): visitors to this country can now take a test on a driving simulator. It includes such hazards as bright sunlight and cows wandering across the road. If you accept the test, and then pass it, you will be able to hire your car at a discounted rate.
 
 It's all in response to a spate of accidents caused by foreigners, many of whom apparently are tourists from China who are accustomed to driving on the right in LHD cars. To us Brits, however, the vehicles and the rules of the road should seem familiar enough, down under: even the strange rule that you must give way when turning left has been reversed!
-
-

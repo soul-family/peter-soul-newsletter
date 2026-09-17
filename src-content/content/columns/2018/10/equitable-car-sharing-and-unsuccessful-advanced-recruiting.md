@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Equitable car-sharing and unsuccessful advanced-recruiting'
 date: 'October 2018'
 body_class: 'bg-6'
@@ -43,5 +42,3 @@ Next, a big question -*how well do motorists believe they drive?*When asked this
 What I do know is the unease experienced by this advanced driver when being driven by others with particular habits: parking the left hand on the gear-stick; bringing the right hand round to 7 o'clock, on a left-hand bend, with little possibility of turning the wheel further if there's a sudden need to (and the certainty of injury if the air-bag happened to go off); a readiness to tailgate or be tailgated; a tendency to speed towards a potential hazard apparently without thought of what to do if it becomes a real one...
 
 Of course you can't drop even a hint of advice, however much you may want to. And when you happen to be driving others, none of your own care and attention seems to be noticed. This I think gets to the heart of the difficulty in attracting more people to advanced tuition: when they are at the wheel, most drivers believe they are skilled enough already, or they do not want to be advised otherwise, or else they simply drive without thinking about it - and so they will probably never volunteer to be made more safe in their own driving, and better protected from the behaviour of others on the road.
-
-

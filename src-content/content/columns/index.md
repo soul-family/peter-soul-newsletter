@@ -1,15 +1,14 @@
 ---
-layout: default
-title: "Newsletter Columns"
-body_class: "bg-2"
+title: 'Newsletter Columns'
+body_class: 'bg-2'
 header_images:
-  - src: "a_12x.gif"
+  - src: 'a_12x.gif'
     width: 96
     height: 35
-  - src: "a_16x.gif"
+  - src: 'a_16x.gif'
     width: 96
     height: 75
-  - src: "a_3x.gif"
+  - src: 'a_3x.gif'
     width: 96
     height: 43
 permalink: /content/columns/index/

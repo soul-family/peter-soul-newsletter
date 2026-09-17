@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Aligning clocks, headlights and percentages'
 date: 'November 2011'
 body_class: 'bg-8'
@@ -39,5 +38,3 @@ I then went on to discuss fluorescent energy-saving bulbs. These are not nearly 
 That's less than twice the efficiency - much less impressive than the true figure. And now what do I read in this month's*Which?*magazine: "Fluorescent lamps are 60-80% more efficient than incandescents." Well! If this glossy consumer journal can't get 'simple' percentages right, how can we trust its more weighty reports and comparisons? I hope to see a correction and an apology in the next issue. Also the helpful comment that I sent in.
 
 [The*Which?*website version of the magazine report initially made the same absurdly timid claim for fluorescents. After I contacted them a second time, it was corrected to: "...use 60-80% less energy...". But does even this make the average reader appreciate that they are up to five times more efficient? As I said in my 'helpful comment', percentages are far better avoided when you are talking about changes or comparisons that are more than a factor of two in size. Meanwhile, I await the December magazine.]
-
-

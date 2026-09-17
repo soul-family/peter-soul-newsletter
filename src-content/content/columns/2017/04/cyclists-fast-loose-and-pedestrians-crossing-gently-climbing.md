@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Cyclists fast & loose, and pedestrians crossing & gently climbing'
 date: 'April 2017'
 body_class: 'bg-8'
@@ -43,5 +42,3 @@ In contacting the road I hurt both knees, both hands and five finger-tips (also 
 Lastly, a dilemma that arose from the above incident. As a precaution against infection in the various injured extremities, my GP prescribed antibiotics. The pharmacist said: take them an hour before food. The label said: take four a day, an hour before food or on an empty stomach. The leaflet said: take half to one hour before food. Well, firstly I don't eat four meals a day. So secondly, did the pills need to be followed by food, or not (and if so, how much)? And thirdly, how long*after*a meal does one's stomach become empty again?
 
 What we need, I feel, is a Medicines Code, based on the Highway Code and having the same usefulness and authority, in situations like mine above. It would hardly need adapting, to start with anyway: Introduction / "This Medicines Code applies to England, Scotland and Wales. The Medicines Code is essential reading for everyone. The most vulnerable medicine users are pedestrians - sorry, that should be dependants - particularly children, and older or disabled people. It is important that all medicine users are aware of the Code and are considerate towards each other. This applies to dependants as much as to those responsible for them." And so on. I'm feeling much better now, by the way.
-
-

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Position, speed, acceleration sense'
 date: 'November 2003'
 body_class: 'bg-5'
@@ -31,5 +30,3 @@ Here is a more complicated situation: you are on a fast, clear approach to a lar
 Getting this sort of thing right, whether you are slowing down or speeding up, is what they mean by having acceleration sense. The reason this is so valuable to possess is that you do only have immediate control of acceleration, as I said. Your speed depends on what your acceleration was previously, and your position now depends on what you did even further back along the road.
 
 You might want to argue with me that a small shift of the accelerator pedal often has the direct effect of raising your speed a bit and holding it there. I agree this is true, and it happens because the air resistance and other drag-forces grow with the speed and come into balance again against the increased push from the engine. The same (or rather, the opposite) can happen if the pedal is lifted slightly. But this topic will have to wait for another time - and so will Information and Gears, from the System of Car Control.
-
-

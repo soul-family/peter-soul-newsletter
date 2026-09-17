@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Light-emitting diodes, red-light discipline, upside-down arrows'
 date: 'February 2009'
 body_class: 'bg-5'
@@ -45,5 +44,3 @@ Also last month, I mentioned a warning I saw in an official manual for traffic a
 A few miles further on, I saw a Stop sign in a little side road, facing sideways - and then on the A29 a much bigger junction sign pointing exactly the wrong way. They were both on single poles, obviously, though I can't imagine what sort of sense of humour was satisfied by giving them a whirl. I reported all three signs to West Sussex County Council, but checking them again this month I found that the first two still hadn't been turned around, while the third one had disappeared, along with its pole. What*is*going on, down south?
 
 In Surrey on the return journey, there was another curious sight: a set of traffic lights (the usual more polite sort) whose green lamp had lost its colour filter and was therefore showing white. Appropriately for the prevailing weather, it seemed to be saying GO, BUT WATCH OUT FOR SNOW!
-
-

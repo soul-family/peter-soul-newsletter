@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'To wipe or not to wipe out white lines?'
 date: 'February 2016'
 body_class: 'bg-8'
@@ -41,5 +40,3 @@ This is true enough. But the problem is that even though more than 1700 people a
 And first someone would have to decide which roads to investigate - busy shopping streets? Fast suburban roads (as above)? Winding rural routes? Regional single-carriageway A-roads, right up to a 60 mph limit? Any of these categories might prove to be*more*hazardous with the lines removed. Also, we can expect complaints from drivers who have already invested in a car with built-in white-line detection!
 
 In any case, accidents would occur on the modified roads just by chance, leading to calls for the trial to be abandoned. Ten years ago I took the view that centre lines were a bad thing. Now I'm thinking that they might be better left as they are...
-
-

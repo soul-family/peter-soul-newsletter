@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Stationed in space'
 date: 'January 2016'
 body_class: 'bg-1'
@@ -39,5 +38,3 @@ You will be amazed that you haven't noticed the bright reflected light from the 
 I also have worrying news to report - serious both for the present astronauts (if they don't know it already) and for space exploration in general. NASA medics have observed that after spending several months on the ISS, many spacemen return with eye trouble. Mostly they've become more long-sighted, though some develop cataracts. Whether the cause is the continuous exposure to cosmic rays or the long period of weightlessness (or perhaps both) is not yet known, but clearly the problem will have to be investigated and remedied somehow.
 
 One approach being followed is the development of glasses that will quickly adjust to suit the distance that the wearer is trying to focus at, either by having an extra lens for rapid attachment, or by automatic refocusing. Whichever might be the answer, in due course the benefits are likely to become generally available. That's good news for some of the rest of us, at least, navigating more slowly on the ground!
-
-

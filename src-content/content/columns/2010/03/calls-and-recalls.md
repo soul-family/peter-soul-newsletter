@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Calls and recalls'
 date: 'March 2010'
 body_class: 'bg-3'
@@ -43,5 +42,3 @@ The treatment option I chose was extraction of the offending item - by robot! Th
 PC is the commonest male cancer, killing 10,000 annually. So just as I never miss an opportunity to wave the flag for advanced driving, now I lose no chance to say to men of a certain age (50+): if you have problems down below, don't hesitate to see your GP.
 
 Also, be aware that you are entitled to ask in any case for an annual blood test for PSA (prostate specific antigen), which is the 'best' simple way of detecting PC if it's developing. However, official advice isn't clear yet on whether you*should*request the test, because it's not 100% accurate: it can produce false-positive results, as well as false negatives. Therefore the GP will need to explain its pros and cons and risks. Anyway,*votre bonne sant!*Good health to you!
-
-

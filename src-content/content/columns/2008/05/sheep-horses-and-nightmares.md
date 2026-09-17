@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Sheep, horses and nightmares'
 date: 'May 2008'
 body_class: 'bg-3'
@@ -39,5 +38,3 @@ Then another source of mild horror in me is a burnt-out bulb on a vehicle. After
 From mild horror to the stuff of nightmares. On dozens of occasions over the years, I have seen a soft or a distorted tyre on the vehicle ahead. Would someone else take action to warn the driver if I didn't, and if not, what might be the consequences? So I've chased vehicles (at a safe distance) through town and through country flashing my lights and (when closer) sounding my horn and gesticulating, but trying to indicate danger rather than that I am dangerous, and eventually inducing the driver to halt.
 
 Once I managed to get alongside a car and warn the occupant about an almost flat rear tyre, just in time to stop her taking the slip road on to the M4. But sometimes there has been simply no opportunity to get the message across to drivers that they are at great risk of tyre failure, before they've disappeared into the distance. Hence my nightmares - and hence my question at the start...
-
-

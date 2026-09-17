@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Repeatable testing of new vehicles, and saying farewell'
 date: 'March 2019'
 body_class: 'bg-3'
@@ -55,5 +54,3 @@ Our subjective worlds have distinct limitations: we have no memory from before w
 After my parents died (my father at 92, my mother at very nearly 107), I think I grieved just as much for the snuffing out of their own 'internal worlds' as for the sudden absence of their physical persons. We are told to encourage our parents (or grandparents) to recount to us all they can about their lives, before it's too late, but that is something I didn't think to do, or not enough anyway, to my regret. As for my own life, I believe I've written about it, here and elsewhere, more than most people who haven't actually penned an autobiography! Which is a start...
 
 That last word reminds me that as we lose close family, so we gain them. I'm thinking of my nephew Jeremy's first child, a daughter aged seven months, and already able to stand on her own two feet (if she is carefully placed in that position)! OK, sadly she won't retain memories of her experiences over the next few years, but from then on her internal world will start to fill properly, and will stay with her for a lifetime. On this positive note, I say thank you and farewell to my readers.
-
-

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'La photo du jour'
 date: 'June 2010'
 body_class: 'bg-4'
@@ -29,5 +28,3 @@ I'm sorry that this website column is going to be rather short measure. The reas
 But here's a curious footnote on viewing stereo images: whatever the resolution of the individual pictures - in other words, however fuzzy they are - they will appear noticeably sharper and freer from 'noise' when you look at them together in stereo. How is this possible? Once again, it's a trick of the brain, as it processes and merges the images. Though actually it's a relatively minor feat, compared with most of the others that the brain performs in enabling you to see.
 
 Finally, let's go back to that ash from Eyjafjallajkull (I'm afraid I've cheated, rather, by pasting the name in from elsewhere): while it was at its worst I heard of an enterprising traveller, stranded somewhere in southern Europe, who bought a car from a local expat for a few hundred pounds, drove it all the way home and then (as it was UK-registered, conveniently) sold it on, at no great loss!
-
-

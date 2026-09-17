@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Learning from Irish experience'
 date: 'September 2007'
 body_class: 'bg-8'
@@ -37,5 +36,3 @@ My flat tyre seemed unrepairable, having a nail in the tread on the edge (and I 
 Later, after we arrived back home, I happened to glance at the tyre marking: 175/65/R14/82T. The size figures were correct, as of course I expected (though how absurd it is that the 175 measures millimetres and the 14 inches). But the speed rating 'T' was lower than the 'H' it should have been: 118 mph instead of 130. Asking around, I've been told that this isn't a serious problem (eg, an MOT issue), just a matter of the tyres not quite matching the spec of the car. But the next time you change your tyres, I do suggest you check the small print on the new ones.
 
 There's an old Irish blessing which begins: "May the road rise to meet you." Any connection (I wondered while on them) with the undulations in some of those roads? And were they perhaps adding to my back-ache? Here's my final advice: if like me you find a lumbar pad alleviates this discomfort, for extra benefit try pushing your back into the pad really firmly when you sit in the seat. If the seat-base is adjustable, tilt it fully forward. Above all, make sure it stays there! Because when we reached home I noticed my seat-tilt had slipped right back - which was the main reason for my aches on those Irish country routes...
-
-

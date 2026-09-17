@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Trouble with washer nozzles, tax discs, parking signs'
 date: 'October 2005'
 body_class: 'bg-7'
@@ -37,5 +36,3 @@ I was suspicious of the second type of sign when I first saw them, then I read c
 And how are we supposed to distinguish between these almost identical displays with their quite different meanings? The reply didn't really explain, but I think it boils down to that little word "or". It's effectively a code word telling you, "Get out of here by 5.30 on Friday OR you will be done." At least, that's how I now try to remember what the second sign means. Reading, how friendly you are to visitors...
 
 [Footnote: at least one victim of the second type of sign won an appeal against his ticket on the grounds that the wording of the sign is misleading - and most or all of them have since been reworded.]
-
-

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Stereoscopic sights'
 date: 'May 2010'
 body_class: 'bg-5'
@@ -67,5 +66,3 @@ Finally, if you*have*managed to see these pictures in 3D, you might enjoy follow
 ![](../../assets/images/5R_r_.jpg) ![](../../assets/images/5L_r_.jpg) <u>Crossed pairs</u>(put finger close to screen, then bring it back):
 
 ![](../../assets/images/11L_r_.jpg) ![](../../assets/images/11R_r_.jpg) ![](../../assets/images/1L_r_.jpg) ![](../../assets/images/1R_r_.jpg) ![](../../assets/images/7L_r_.jpg) ![](../../assets/images/7R_r_.jpg) ![](../../assets/images/8L_r_.jpg) ![](../../assets/images/8R_r_.jpg) ![](../../assets/images/9L_r_.jpg) ![](../../assets/images/9R_r_.jpg) ![](../../assets/images/2L_r_.jpg) ![](../../assets/images/2R_r_.jpg) ![](../../assets/images/4L_r_.jpg) ![](../../assets/images/4R_r_.jpg) ![](../../assets/images/6L_r_.jpg) ![](../../assets/images/6R_r_.jpg) ![](../../assets/images/3L_r_.jpg) ![](../../assets/images/3R_r_.jpg) ![](../../assets/images/10L_r_.jpg) ![](../../assets/images/10R_r_.jpg) ![](../../assets/images/5L_r_.jpg) ![](../../assets/images/5R_r_.jpg)
-
-

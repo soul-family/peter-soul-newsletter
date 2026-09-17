@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Driving in and around Wales'
 date: 'May 2018'
 body_class: 'bg-1'
@@ -43,5 +42,3 @@ Bad results, however, come from watching films featuring 'extreme driving'. It's
 What the movies did (in districts around the cinemas), curiously, was to boost the average speed shown on tickets but not the quantity of them. This suggests that existing speeders sped faster, but the films didn't inspire additional ones. Which is half-good news for everyone, I guess, if it extends to other film genres: it implies that you may safely watch*Murder on the Orient Express*and not become murderous yourself.
 
 Lastly, I regret to say that dashcams do catch cyclists out sometimes: last month, in Nottingham after dark, one of them was seen to lay down in the road alongside his bicycle, in front of an approaching car (which stopped in time). When told by the driver that he was on camera, he promptly got up and scooted. If this was some attempted insurance scam, it was a risky one!
-
-

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Reviewing cruise control, replacing tyres, offending at bus gates'
 date: 'February 2019'
 body_class: 'bg-8'
@@ -49,5 +48,3 @@ Lastly, what is a*bus gate*? I've learnt that it's a short stretch of road restr
 ![](../../assets/images/Chelmsford_gate.jpg) Taking a look at views of these signs on the internet, I can see that the first buses-only blue-circle that you pass is by no means the largest of them. And as they include standard two-arrow priority signs (one on each approach)*and*the 'gate' is simply a low railway bridge, is it surprising that some car-drivers assume it is OK to proceed? By the time you arrive at the large buses-only signs on the bridge itself, it's certainly too late to turn round, as the lady found.
 
 Another thing: you would think that this low bridge must mean that Chelmsford buses are entirely single-decker, otherwise - well, you can imagine the risks. But not so. And I've found out that in 2013 a double-decker, or most of it, was indeed driven right through (without serious injuries, fortunately). I think the safest plan for this Chelmsford pinch-point would be to close it to buses and make it a car gate instead...
-
-

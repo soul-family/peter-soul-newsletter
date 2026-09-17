@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Tiny probabilities: of an accident ' and of your having been born!"
 date: 'June 2017'
 body_class: 'bg-5'
@@ -37,5 +36,3 @@ Some individuals had an obvious effect. Take Edward Jenner (1749-1823), who pion
 Let's not forget also that the threads intertwine. The whole of humanity today has ancestors in common, hence we're all cousins of each other the world over. To me the notion that we belong to a single family tree (hugely complicated though it may be) is as awe-inspiring as the previous idea that my birth happened against the unimaginably high odds that someone else would be brought to life instead.
 
 I can't resist ending on a note of pure fantasy: I am trying to picture a world in which everyone has knowledge of some of these matters - our interrelatedness, or the sheer luck needed for each of us to have been born, or for that matter the wonders of evolution, of heredity and of development (from embryo to adult). In such a world, how could anyone contemplate or even want to risk taking the lives of others, whether in war, terrorism or crime (dangerous driving included!)? Hence my simplistic solution to many of the world's woes:_education, education, education_...
-
-

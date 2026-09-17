@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Arriving home, alarming silence, amplifying force'
 date: 'July 2011'
 body_class: 'bg-7'
@@ -45,5 +44,3 @@ Examples in your car are the gearbox (when in low gear), power-steering, and hyd
 And do you remember that I told you about a litter-picking movement I started last year, here in Earley? It now [October] has over 180 members, all going out regularly to keep their own streets tidy. One person, having spent his career carefully avoiding managing anyone, has now stirred 180 others into action: that's quite some amplification!
 
 [As of June 2014, our numbers are in excess of 260...]
-
-

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Remembering, forgetting, and being distracted'
 date: 'July 2017'
 body_class: 'bg-7'
@@ -43,5 +42,3 @@ Now, as with the first research project above, isn't there a fairly obvious rele
 More old news from my paper, to end with: I read a while ago that the Princess Royal and her husband suffered a broken fanbelt, not on a road vehicle but on their £m yacht off the Hebrides. They were almost becalmed, but they managed to tack across to the Isle of Eigg, and then waited for a fanbelt (one actually made for an Astra) to be ferried in from many miles away.
 
 What, not even a stocking or something similar available, to substitute for the belt in the time-honoured way? I was more impressed by the riposte from a reader: he said*he*once had to drive his Reliant Regal all the way from London to Portsmouth with a dog-lead fed out through the window and round to the carburettor, in place of a snapped accelerator cable!
-
-

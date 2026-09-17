@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Door pillars, blind spots, rear-view mirrors'
 date: 'January 2004'
 body_class: 'bg-7'
@@ -39,5 +38,3 @@ Incidentally, if you too possess these little mirrors and the shine is wearing o
 Not that mirrors eliminate all my rear-view problems! Here are a few: reversing out of a car-park space and having to peer round the rear pillars for people and vehicles approaching from the side. Joining a motorway and trying not to be taken by surprise by a vehicle already on it. Being already on the motorway, with faster vehicles behind me on the slip-road. Remembering at night to keep my interior mirror undipped as much as possible, for an early warning of speed merchants (or flashing blue lights) catching me up.
 
 Going back to the merging roads and the hidden car: usually the door pillar wouldn't hide the other vehicle completely, and you may have been thinking that the visible parts of the car would be easily recognized. Alas no: the brain has its weaknesses, and you can't always depend on it to do this identification job properly or even at all - as I will explain another time.
-
-

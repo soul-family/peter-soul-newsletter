@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'John Dunlop, long molecules, astonishing adhesion'
 date: 'June 2004'
 body_class: 'bg-8'
@@ -37,5 +36,3 @@ Have you watched a tyre being eased onto its wheel hub? Even though the 'bead' c
 When the tyre is pumped up, these narrow surfaces are of course pushed together by the air pressure inside. But what law of physics makes this attachment strong enough for it to support the weight of a vehicle, let alone transmit fierce acceleration and braking forces when required, or (most amazing of all) allow a car to be steered so violently that the tyres even squeal in protest - but still without the rubber and the metal pulling apart?
 
 This is a mystery to me. It is also a tribute to the designers of tyres and wheel hubs. The thought of it ensures that I try never to give my tyres cause to complain audibly.
-
-

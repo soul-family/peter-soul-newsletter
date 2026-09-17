@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Deceleration sense, auditory nonsense'
 date: 'November 2009'
 body_class: 'bg-4'
@@ -39,5 +38,3 @@ But I faced another quite extraordinary affliction too: all music (or all that g
 Totally inexplicable! The accepted wisdom is that two notes an octave apart sound 'right' because the higher frequency is precisely twice the lower one. So how can they ever sound wrong? I wasn't cheered up by being told of a person who developed this same malady gradually, while losing her hearing with old age. She called her piano-tuner back about eight times, before realizing it was*all*music she heard that was going adrift. In the end she was obliged to stop listening to it altogether: a tragedy for someone who had been a professional musician.
 
 So I was very relieved when my own problems mostly went after about three weeks, as suddenly as they had appeared. Because the out-of-tuneness affected both ears equally, I blame the brain for it - as you may remember my doing before, for various other things!
-
-

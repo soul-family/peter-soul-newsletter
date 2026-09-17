@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Wide cars, thoughtless people, safe mobile-phone use'
 date: 'January 2015'
 body_class: 'bg-3'
@@ -43,5 +42,3 @@ This too was only demonstrated on a driving simulator, so it might not be valid 
 There was an interesting discussion too, in the programme, on why vehicles parked on motorway hard shoulders are less noticeable (to approaching drivers) than you might think. The reason is that they are pointing in exactly the same direction as the rest of the traffic, and so don't stand out from it - regardless of the fact that they are stationary. We were told that if you are obliged to stop on the hard shoulder, the trick for protecting your car by making it more 'visible' is to park it at an angle (pointing into the verge, I would suggest, rather than the other way).
 
 That's assuming, of course, that the car hasn't become too wide for this to be feasible!
-
-

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Beirut traffic-lights, fading road-signs, the Highway Code still awaited'
 date: 'February 2007'
 body_class: 'bg-8'
@@ -37,5 +36,3 @@ Also in November I looked through the Highway Code for oddities and omissions, h
 Back in June 2004 I discussed the meaning of an amber traffic light. What I didn't notice in the Highway Code (either then or last November) was that when green changes to amber you may proceed only if you have already crossed the line or if stopping might cause an accident - there's no permission to press on simply because you're too close to the line to stop behind it, even though this is what everyone does every time the lights change, of course. (And if you did stop safely beyond the line, I suppose they could get you for this too.)
 
 It was John Pitcock of the Birmingham Group who pointed out that one to me. Perhaps I should explain that I recently contacted some Advanced Motorist Groups inviting them to glance at my website-accumulation of nearly 5 years of columns. Among replies from interested readers like John were requests from editors to reprint columns in their group newsletters. Already a few have appeared, I've discovered. Is that what's meant by being syndicated? But I promise Thames Valley Group members that you're reading this in your newsletter first!
-
-

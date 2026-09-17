@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Stopping within the distance ' continued"
 date: 'November 2005'
 body_class: 'bg-8'
@@ -33,5 +32,3 @@ But is this how all drivers interpret the instruction on the signs? I doubt it! 
 I then asked why it was that I had seen chevrons on the M1 painted only in the inner and middle lanes - was it perhaps because drivers never travel as slow as 70 in the outer lane? No, came the answer: the M1 chevrons were the first ones to be laid, copying a trial in France which didn't include the outer lane. And this was probably because the lane was regarded then as purely for overtaking rather than tailgating. How pleasant*les autoroutes*must have been to drive on in those days (I'm told they still are)!
 
 Undoubtedly, some drivers on our motorways ignore the chevrons altogether, but it's known that they do result in a distinct drop in the amount of tailgating, not only where the chevrons are located but also for some further distance along the motorway. So why have they not been applied much more widely? I believe the reasoning is that motorists would stop reacting to them, becoming too accustomed to seeing them. It's just as well this theory doesn't apply to traffic lights...
-
-

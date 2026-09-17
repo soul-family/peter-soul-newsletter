@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Controlling traffic, lowering premiums, reducing horizons'
 date: 'October 2011'
 body_class: 'bg-1'
@@ -39,5 +38,3 @@ Lastly, going back to my mother, let me tell you how the Traffic Systems Team Ma
 I thought this concern for my or (more likely) local pedestrians' safety called for a thank you, and so I replied, mentioning that I would soon be driving through again from Reading - but when my mother eventually pegged out they wouldn't be hearing from me nearly so often. In response the TSTM said that he had been trying to work out my route! Also, age 103 was very impressive and would I please pass on their best wishes.
 
 I might add that when I did so, my mother seemed even more interested than he may have expected: I fancy she thought that here was another story for retelling, perhaps with embellishment...
-
-

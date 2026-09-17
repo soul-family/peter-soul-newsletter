@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'About, contact and license'
 permalink: /content/about/
 body_class: 'bg-1'
@@ -28,5 +27,3 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 You are free to share and adapt this material for non-commercial purposes, provided you give appropriate credit to the original authors and indicate if changes were made.
 
 © 2026 Peter Soul
-
-

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Up at the limit, down on the ground'
 date: 'September 2010'
 body_class: 'bg-8'
@@ -43,5 +42,3 @@ We in Group A1 try not to think about the Group B culprits, but it's obvious tha
 All this is both mindless and illegal, and is unlikely to stop until education and law-enforcement become effective. However, it has been proved scientifically that a clean street is at least some deterrent against the dropping of more litter.
 
 Anyway, as I say, we ignore Group B as we carry out what can be a satisfying task - really. And if you take a look at the [LitterAction](http://www.litteraction.org.uk/home)website you will discover that there are hundreds of other anti-litter teams hard at work, across the country. But I like to think that my group will stand comparison with most of them, considering its A1 achievement!
-
-

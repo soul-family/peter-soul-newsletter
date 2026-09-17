@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Smartness ' on motorways, in the national grid, when drinking"
 date: 'September 2017'
 body_class: 'bg-4'
@@ -45,5 +44,3 @@ It seems that losing the ability to smell actually changed their metabolism, so 
 Something about that last subject reminds me that I noticed a report of a study into the growing habit of 'binge-watching' TV programmes. It revealed that compared with people who did this (sitting down to view all of a drama series in one go), those who saw the episodes week by week rated their enjoyment of them higher and, days or weeks later, recalled more about them. Is there an analogy here with chocolates? Much nicer to eat one a day than the whole box at once, I think!
 
 Let's finish (for this month) with a pure silly-story from S Korea, where researchers tried a range of different car-horn noises on volunteers, hoping to identify the one that caused them the least stress. They finally settled on the quacking of a duck. So if, in the future, you hear such a noise approaching you rapidly from behind, be prepared to be struck by a rather larger object than you might have expected.
-
-

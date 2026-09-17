@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Failing to pass, failing to steer, failing to reverse'
 date: 'October 2010'
 body_class: 'bg-3'
@@ -41,5 +40,3 @@ I knew car-hire insurance carried a very high excess, and I expected to have to 
 The car presented to us was a Kia K10. The man pointed out the basic controls (me, I wouldn't hire a car to anyone who needed them pointing out), and we set off ... or to tell the truth, I failed even to get out of the parking-space. I thought he had said: to select reverse, you first lift the gear-stick (which I am quite used to doing, thank you). On being called out of the office again, he explained that it was the flange below the knob that had to be lifted. I won't forget this.
 
 Finally, a detail of life and manners in Fife: at sunset Mrs S and I were strolling across a field, hand in hand as usual - otherwise our different natural walking speeds cause us to separate. As we approached a road three youths cycled past, and one of them (somehow detecting our railcards?) called out: "Granny-love!" Here, down south, it would probably have been something quite unprintable.
-
-

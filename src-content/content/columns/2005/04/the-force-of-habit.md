@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'The force of habit'
 date: 'April 2005'
 body_class: 'bg-3'
@@ -39,5 +38,3 @@ At the other extreme are things that I should be doing automatically but don't. 
 On motorways, how can I train myself to look into the distance regularly for early warning of trouble ahead? Mrs S (when in my passenger seat) often demonstrates that this is one of the things she is better at!
 
 And on this warm April day, was it only about five weeks ago that I set off for work on fresh snow, reached the first bend and turned the wheel, but failed to change direction? Immediately my foot stamped firmly on the brake pedal, even though I know that this strongest of habits simply extended the skid. So this year I resolve to take a skid-pan course - but first can someone assure me that after it, I really will be able to break that habit automatically when I need to?
-
-

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'From Glyndebourne to the Paralympics'
 date: 'September 2012'
 body_class: 'bg-5'
@@ -59,5 +58,3 @@ But going back to the wheelchair basketball: the game is policed by three refere
 I might mention that some of the wheelchair rules would be unacceptable in the Highway Code: "If each hand is on the wheel, it is legal to raise the rear wheels off the ground ... no steering devices, brakes or gears are allowed ... if one person legally crosses the path of another, the latter is responsible for any contact ... the distance needed to stop is proportional to the speed." As drivers should know, stopping distance (once you've thought about it and started stopping) is proportional to the*square*of the speed.
 
 Enough of this summer's entertainment. I'll just add a footnote to my footnote last time on wall-sockets in France: not only are these permitted in bathrooms (which they certainly aren't in the UK), but also you are quite likely to find one installed right next to the light switch just inside the door. I've noticed this elsewhere on the continent too. You might feel safer relying on a torch instead of reaching round for the switch.
-
-

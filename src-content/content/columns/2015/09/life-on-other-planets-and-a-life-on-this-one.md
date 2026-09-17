@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Life on other planets and a life on this one'
 date: 'September 2015'
 body_class: 'bg-5'
@@ -43,5 +42,3 @@ Allow me now to focus on one particular life: my mother was born in the same yea
 In her sixties she briefly took up driving and after several attempts actually passed the test, but with little enthusiasm. She was quite content to sit and be driven by others, while perhaps quietly working out how to motivate them in what she would like them to do.
 
 When my mother died in Littlehampton last month, the world had advanced 107 years (all but a few days). Maybe she didn't quite keep up with it near the end, but she stayed happy and well. Alas, though, we have lost a link with times long gone - and we shall have fewer opportunities now to stop in Sussex and gaze at the stars...
-
-

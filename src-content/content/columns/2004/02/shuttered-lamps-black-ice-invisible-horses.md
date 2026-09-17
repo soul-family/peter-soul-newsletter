@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Shuttered lamps, black ice, invisible horses'
 date: 'February 2004'
 body_class: 'bg-4'
@@ -37,5 +36,3 @@ And would you agree that an oncoming cyclist is a greater hazard than one travel
 There's a similar unexpected risk with children (not to mention dogs) on the opposite pavement: isn't it more likely that they will cause an oncoming vehicle to swerve out, than that children on the nearside pavement will take you (an advanced driver) by surprise?
 
 Finally, when I encounter a horse and rider on the road, why is this almost never after I have just passed a horse-and-rider sign? It happened to me just once that I can remember, and I was so surprised I nearly reversed back to make sure I hadn't misread the sign.
-
-

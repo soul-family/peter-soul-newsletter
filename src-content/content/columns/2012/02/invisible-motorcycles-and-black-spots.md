@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Invisible motorcycles and black spots'
 date: 'February 2012'
 body_class: 'bg-5'
@@ -39,5 +38,3 @@ Yet improvements have been made in several places at modest cost: better and mor
 At Crowthorne we saw the series presenter, Joe Crowley, learning lessons from the simulator: roadside advertising, particularly 'live' adverts in town, has been proved to be a serious distraction. On unlit roads, it's found that people tend to drive as fast as if the roads were lit, even though they admit feeling less comfortable doing so. Many techniques for inducing drivers to slow down can be tested on the simulator. Sometimes the beneficial effect (for example, that of a 20 mph section of road) lasts way beyond where they terminate. People should also be aware that there's a similar but*non*-beneficial consequence of using a hands-free mobile: doing this reduces the amount of attention you pay to your driving, demonstrably, and not just during the call but also for some minutes afterwards.
 
 Which rather suggests a question to put to Mr Crowley: how does it help the cause of road safety for you to be filmed driving through one black spot (unfamiliar to you, by your own admission) after another, while talking and sometimes turning sideways to the camera, also gesturing with one or even bo..._mind that BIKE!_
-
-

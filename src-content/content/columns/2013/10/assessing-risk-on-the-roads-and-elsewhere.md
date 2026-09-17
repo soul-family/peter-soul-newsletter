@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Assessing risk on the roads and elsewhere'
 date: 'October 2013'
 body_class: 'bg-3'
@@ -49,5 +48,3 @@ But hang on: in reality I'm travelling at a fearsome speed, I am no better a dri
 *<u>The Example Rule:</u>*let's say you're wondering how much at risk you are from something, such as a particular disease. Almost certainly, your Gut conclusion will be influenced a lot more by*how\**easily*you can recall facts about it or examples of it, than by what these may actually be telling your Head about the threat.
 
 This effect constantly generates misguided levels of concern: if a human case of bird flu in the Far East hits the headlines, people everywhere reach for face-protectors. Conversely, popular opinion says that diabetes (an example of an unnewsworthy disease) causes far fewer deaths than road accidents - whereas in fact it's the much bigger danger. However, the point I want to make here is that stories of events like September's multiple crash in foggy Kent, splashed on front pages of newspapers, are a good thing in one way: they ought to have the effect of reminding all drivers to weigh up what they're doing.
-
-

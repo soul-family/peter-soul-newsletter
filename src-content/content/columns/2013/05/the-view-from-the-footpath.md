@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'The view from the footpath'
 date: 'May 2013'
 body_class: 'bg-7'
@@ -39,5 +38,3 @@ Changing the subject (though still on fuel), in March I showed my ignorance by s
 But the ethanol brings problems. Another reader pointed out that it can separate from the petrol or diesel and collect at the bottom of your tank (unless you drive around every day to keep it mixed, presumably?). It also has less energy content than the main fuel and so*increases*your consumption. And the percentage that has to be put in may rise further in the future...
 
 Well, at least you can forget about all such motoring worries on a walking holiday!
-
-

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Welcome'
 permalink: /content/
 body_class: 'bg-5'
@@ -19,5 +18,3 @@ The columns are of course personal opinion and don't represent the views of eith
 I have added a page that ought to be of interest to any air traveller. It contains vital advice (transcribed from a TV programme) on how to increase your chances of survival in the extremely unlikely event that you find yourself in an aircraft that has to make a crash-landing. Unless you 'don't want to know', read the [escaping advice](escaping.md).
 
 If you are not an advanced driver yourself, take a look at the [Information page](info.md). Let me know if you would like me to email you when I add more columns, every two or three months. And do please pass on the address of this site to anyone you think might enjoy it or benefit from it.
-
-

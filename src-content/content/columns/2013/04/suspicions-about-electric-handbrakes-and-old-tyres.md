@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Suspicions about electric handbrakes and old tyres'
 date: 'April 2013'
 body_class: 'bg-5'
@@ -41,5 +40,3 @@ If all these wishes of mine are met, I shall be well pleased. You may recall fro
 Now, did you notice a linguistic error near the start of this column? I left it there (as a talking-point) instead of going back and correcting it after I looked it up out of curiosity. I'm referring to the first "<u>Item</u>:". I always thought that when used like this, it was short for "Here's an item in my list." But in fact it's the Latin word*item*, meaning "also" (which I suppose I ought to have remembered from school Latin classes 55 years ago). Hence it should only be used in a list against the second and subsequent, er, items. My mistake was to use it for the first one.
 
 Over time, "item" also became an English noun of course, meaning first anything that was in a list and then, well, anything at all really. It's hard to think of another word (except perhaps "thing") that does this job so well ... just as I can't yet imagine another car suiting me and my driving as well as my Corolla has done for twelve years!
-
-

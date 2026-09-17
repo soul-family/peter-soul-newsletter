@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Going round the bend'
 date: 'June 2014'
 body_class: 'bg-5'
@@ -41,5 +40,3 @@ But also recently, I was effectively the cause of the problem, being in a taxi o
 Long ago I mentioned the difficulty in seeing a flashing indicator at night when it's located close to the headlights on an approaching car. I now own a Golf which maybe presents this difficulty all the time: the indicators each lie between a (dipped) headlight and a daytime-running light! But at least they are bright and not too far from the wings. My growing concern is with ones that are placed further in towards the centre line of the car, as on some Ford Focuses. I sense that my brain is slower to react to such indicators, possibly because their 'directionality' message (indicating left or right) is weaker.
 
 This fits in with what I've often said before: your subconscious brain brings to your conscious attention only the things that it thinks are relatively important, based on long experience and on how much information has been picked up. All*you*can do to assist it is to look hard everywhere, and at everything...
-
-

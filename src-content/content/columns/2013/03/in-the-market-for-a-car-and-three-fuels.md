@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'In the market for a car and three fuels'
 date: 'March 2013'
 body_class: 'bg-3'
@@ -43,5 +42,3 @@ How horribly (and expensively) complicated this seems. And amid all the confusio
 But I have another more serious worry: one minute we are being told to switch to the cheapest tariff that we can find (though myself, I also try to take into account the supposed reliability and reputation of the supplier). The next, we hear that not nearly enough planning is being done and investment made, by the industry, to ensure that in future decades the lights stay on and we don't become totally dependant on imported gas. But the funding for such development has to come ultimately from consumers (in the main anyway). How then can it be a good thing for us all to be paying the least possible for our power?
 
 It's rather as if new-car buyers were spending as little money as possible in the showrooms, and manufacturers therefore couldn't afford to develop ever more complicated in-car technology ... now there's a thought!
-
-

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Tyres and mileages'
 date: 'May 2003'
 body_class: 'bg-4'

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'First cars and fast cars'
 date: 'April 2010'
 body_class: 'bg-5'
@@ -41,5 +40,3 @@ In February I discussed the habit some people have of coasting in neutral. One o
 Another idea that is increasingly being mooted (though it's strongly denied by Toyota) is a temporary malfunction of the onboard computer, for whatever reason. The problem with this explanation, as I understand it, is that if the computer*has*misbehaved, there's unlikely to be any trace of the event to be found within it afterwards. And black boxes aren't going to be fitted any time soon to every car, as they are to every aircraft, to record all possible evidence just in case of an accident. Not much chance, then, that investigators will establish for certain whether or not this has been the cause of particular Toyota incidents.
 
 Or, to balance what I said at the beginning, sometimes looking back can be unrewarding!
-
-

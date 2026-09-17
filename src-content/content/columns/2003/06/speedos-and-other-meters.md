@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Speedos and other meters'
 date: 'June 2003'
 body_class: 'bg-1'
@@ -33,5 +32,3 @@ Wrong! It has risen from just below 21C to just above 22, hardly more than one d
 Curiously, the most accurate number probably available to you as you drive is not usually visible. I'm referring to the frequency the radio is tuned to, which (on my radio anyway) is nearly always overwritten by the name of the station. The frequency only appears when you are doing a search or when you are listening to the MW or LW band. This is because they haven't bothered to invent a way of transmitting the station name on these bands.
 
 But now I feel that I am distracting your attention too much from the road ahead, so I will stop.
-
-

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Problems with units, trouble with fuel, benefits from speed cameras'
 date: 'January 2017'
 body_class: 'bg-7'
@@ -43,5 +42,3 @@ As for their effectiveness, it was demonstrated beyond doubt that accident rates
 Something else I advocated in 2006 was aiming to maintain a constant speed when in a slow queue of traffic, rather than matching the stop/start behaviour of the vehicle ahead. Hence I was pleased last year to catch up with research (over a long period) by an American motorist with scientific inclinations: on congested multi-lane highways, he had found that he could smooth out the disruptive flow in his lane for a long way behind, in comparison with the other lanes (and as viewed in his rear mirror from the crest of a hill), by adopting a steady speed and creating a decent gap in front, which meant that he rarely had to brake.
 
 There are other advantages too in driving in this manner, for you and everyone around you. So take a look at the man's website,[www.trafficwaves.org](http://www.trafficwaves.org), and spread the benefits!
-
-

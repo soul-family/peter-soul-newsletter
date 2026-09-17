@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Charging a battery, typing a column, studying an optical illusion'
 date: 'February 2015'
 body_class: 'bg-5'
@@ -41,5 +40,3 @@ The answer (I think) is that with the old solid TV my brain 'knew' exactly which
 But our flat TV is not against a wall but across a corner, and although*I*know which way it's facing, my subconscious brain can't work this out just from the simple outline of the screen. So it 'interprets' the picture as if this was facing me straight, rather than at an angle. And the result is that the faces look slightly squashed... well, they do to me! Mrs S usually sits square-on to the screen, so wouldn't normally notice the effect. Also, I suspect that many people aren't perturbed anyway (as I am) by seeing faces actually distorted on a screen - to judge by the number of clearly maladjusted TVs that I catch sight of!
 
 Still, it was an interesting puzzle. And it prompts me to mention that in these columns I have often discussed optical illusions in relation to motoring, for example blind spots, the effects of relative motion or lack of it, not recognizing complete objects (cars!) from seeing sections of them, and perhaps most serious, not realizing that your eyesight has deteriorated. I guess it can all be summed up in a simple message: as you drive, ask yourself constantly, "Is what I'm*seeing*really what's*there*?"
-
-

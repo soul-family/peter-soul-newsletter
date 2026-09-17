@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "What's to be done when amber shows?"
 date: 'February 2013'
 body_class: 'bg-8'
@@ -43,5 +42,3 @@ Something whose integrity is vital, for physics if not the whole of science and 
 Are you a smoking driver? Here's an offer for you: would you like to test a small disposable container for your cigarette-ends which even extinguishes them as you drop them in and close the lid? It's supplied by an anti-litter group that I belong to, called Zilch. Take a look here if you're interested:
 
 [www.surveymonkey.com/s/ZilchIn-CarBinTrial](http://www.surveymonkey.com/s/ZilchIn-CarBinTrial).
-
-

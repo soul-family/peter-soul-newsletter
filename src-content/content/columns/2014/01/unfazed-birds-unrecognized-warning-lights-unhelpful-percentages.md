@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Unfazed birds, unrecognized warning-lights, unhelpful percentages'
 date: 'January 2014'
 body_class: 'bg-7'
@@ -37,5 +36,3 @@ I felt obliged to contact the publishers in order to check their calculation of 
 [Did you guess the multiple represented by the 17,000% increase: strictly, it's "171 times bigger" (not 170) - though that's assuming we can trust the publishers' calculation.]
 
 Finally, Mercedes announced last year that their W222 S-Class luxury saloon would feature a stereo camera at the front, for "Magic Body Control": a system that rapidly analyses images of the road surface up to 15 metres ahead and prepares the suspension for any approaching bump or pothole. Said a spokesman: "You don't feel a thing from bumps up to 18 cm high, and traffic-calming speed humps are especially well handled." Isn't that just great news, for road safety? The bad (or rather, quietly satisfying) news is that the system is unable to detect potholes full of rainwater...
-
-

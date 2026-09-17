@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Worlds apart yet overlapping'
 date: 'June 2018'
 body_class: 'bg-8'
@@ -39,5 +38,3 @@ It's occurred to me that this is supposed to be a motoring column - so what does
 Yet there is in nature, as I said, one example of rotary motion, with an axle and a bearing of some sort: the humble bacterium possesses a spiral tail which it can rotate in either direction, to push or pull it along (swimmingly). In terms of power output per unit weight, this 'bacterial engine' is fifty times more efficient than mammal muscle! How it works is not yet fully understood, and evolution evidently has never found a way of enlarging it to suit higher organisms.
 
 I'm glad to say that I am finishing off this column in my chair at home - having just spent 11 days in hospital (the RBH). It's a different world in there, where everyone you can see (other than visitors) is either ill or caring for the ill. And doing so with a manner that makes you feel you are their only patient. The outcome of investigations is that I now face a major operation this month. So Mr Editor, I'll do my best to meet July's copy-deadline, but forgive me if I miss it!
-
-

@@ -1,5 +1,4 @@
 ---
-layout: minimal
 title: 'Peter Soul'
 permalink: /
 body_class: 'page-id-1'

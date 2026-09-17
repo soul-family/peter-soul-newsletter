@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Signs of blue'
 date: 'January 2009'
 body_class: 'bg-1'
@@ -39,5 +38,3 @@ At 70 mph it's not easy to investigate this, so let's suppose the motorway is on
 While getting to grips with the blue signs, I came across the official*Traffic Signs Manual*. Aimed at councils and other bodies responsible for road signs, it contains a huge amount of advice, mostly sensible. For example, each of those 'priority' signs with the pair of vertical arrows - the round sign (give way to oncoming traffic) and the rectangular one (go for it!) - is accompanied by a warning:_Must never be used upside down in an attempt to imply reversed priority_. Good, I find these signs confusing enough as it is, when I'm in a hurry.
 
 Left-to-right reversal is allowed for particular signs, of course. Even the bicycle-in-a-triangle may be printed either way round, to warn you of cyclists emerging from whichever side of the road is more likely than the other. I wish you luck, though, in noticing and making sense of*that*subtle difference, at speed.
-
-

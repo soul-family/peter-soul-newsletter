@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Travelling in comfort'
 date: 'November 2002'
 body_class: 'bg-7'
@@ -29,5 +28,3 @@ But then I notice your discomfort out of the corner of my eye, and I remember th
 Another trick out of the same bag helps to prevent the final jerk when braking smartly to a halt. The jerk happens because the deceleration drops suddenly from a large value to zero at the moment the car stops. The secret is to lift the brake pedal smoothly in the final second - the deceleration then falls gently away, and you come to rest more restfully.
 
 Stopping quickly and comfortably on a slope (either uphill or downhill) requires even more delicate footwork, because now gravity is interfering. After letting up on the brakes just before you stop, immediately you have to apply them again to catch the car before it takes off downhill. The trouble is, like riding a bicycle, if you think about this too hard your performance may go downhill too...
-
-

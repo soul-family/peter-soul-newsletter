@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Heard on the radio ' sad stories of tyres and potholes"
 date: 'April 2018'
 body_class: 'bg-4'
@@ -39,5 +38,3 @@ So the lady who lost her husband has campaigned for a 'better than reasonable' s
 But the most impressive part of the R5 broadcast came when this lady, and the man who had been driving the car following her husband, spoke to each other (for the first time since the inquest). She confirmed that she held him not at all responsible for the outcome, and that she realized he also must have been deeply affected by it. He replied that hearing these things helped him greatly, as he still thought daily about the event. He even used to change his route to avoid cyclists. But later (he said) he decided to learn to ride a bike himself, in order to try to find out what had made the other man so passionate about taking to the road.
 
 Me, I remember that feeling still, more than 50 years after I last cycled any long distance! Also, I don't recall that potholes were a great problem then. Now, we're told, the cost of filling them all could be of the order of £10 billion. Anyway, what we drivers can do - apart from giving cyclists a long and wide berth, I should say - is to keep on reporting the holes. It's one of my regular 'admin tasks'...
-
-

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Entertaining a visitor'
 date: 'November 2013'
 body_class: 'bg-5'
@@ -45,5 +44,3 @@ Must you go already? I'll see you out ... what do you think of these alloy wheel
 Just compare them with the bright hub-caps on Mrs S's 20-year-old Micra there. And now take a look*through*the alloys: you can see the brake discs in all their rustiness. Not a pretty sight, is it! How on earth did this pass the design-quality checks?
 
 But what really worries me is the lack of paintwork-protection across the doors, down the door-edges and especially at the front and rear. All my previous cars had bumpers - I'm rather tempted to look for clamp-on ones. Still, at least I've found some black door-edge strip which fits well and looks good, don't you think? And in spite of all my little criticisms, she is a lovely car to drive. Would you like to come for a spin? Oh ... OK then, next time you're passing, perhaps.
-
-

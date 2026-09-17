@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Tyre grip, acceleration, how to be a speed camera'
 date: 'September 2002'
 body_class: 'bg-4'
@@ -35,5 +34,3 @@ A drop in pitch like the beginning of*<u>Why</u><u>are</u>we waiting*indicates a
 Not very likely, you may say. OK then, just sit in your armchair on a Grand Prix Sunday and listen to the cars passing the track-side microphone. Also, when you are on the road yourself you might hear quite a large drop in the engine note from an oncoming car or bike as it passes by. You can then estimate its speed by subtracting your own speed from the appropriate number above.
 
 If instead you are being overtaken by a noisy vehicle, then you need to*add on*your speed to the correct number above, to calculate the speed of the overtaker. But think twice before volunteering to give evidence against him or her in court!
-
-

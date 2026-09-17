@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Writing from Ireland'
 date: 'October 2003'
 body_class: 'bg-3'
@@ -37,5 +36,3 @@ The Irish people are as amicable and as welcoming as ever. They never pass you o
 And now we are back again, taking in a slightly different view of this beautiful landscape, from a cottage. Because out here you are so far west, the sun rises and sets a relaxing half-hour later than at home. I would attempt to explain the brilliance of the sunsets and the bay reflections in terms of physics, but I'm on holiday too...
 
 Admittedly, you can't expect to see the sun here every day - but Irish rain is well described as 'soft'. It need not stop you setting out to make a proper comparison between say Guinness, Murphy's and Beamish, if you are within reach of a bar or two. And if that doesn't knock you out, the heady Atlantic air certainly will.
-
-

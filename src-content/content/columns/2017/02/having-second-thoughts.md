@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Having second thoughts'
 date: 'February 2017'
 body_class: 'bg-4'
@@ -41,5 +40,3 @@ Secondly, if we do not cherish our inborn navigational abilities, they will dete
 Computers can easily select the apparently shortest or fastest path from A to B, but humans are better at choosing the*best*route. Though for how much longer, if most people's capabilities seem to be decreasing? What indeed if there is no driver in the car, lorry or ship (yes, the latest proposal is for fleets of unmanned vessels to be crossing the oceans)? And in all these situations, how to guard against errors that may have crept into the system, in positioning or in mapping or in working out the route?
 
 Roger McKinlay's solution, as set out in his article, was in several parts: make this 'system' more robust and resistant to errors. Study how people interact with navigational aids and why they misunderstand them. Teach navigation and map-reading in schools, as life-skills. In other words, aim to get motorists back in charge of their own journeys!
-
-

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Induced oscillations, overlooked hazards, a corrected sign'
 date: 'October 2009'
 body_class: 'bg-7'
@@ -43,5 +42,3 @@ Still glancing back at my output: I seem to have an obsession with malfunctionin
 By contrast, Surrey CC nearly always reacts. Earlier this year I was on the A317 from Weybridge to Junction 11 of the M25. Approaching a roundabout sign, I thought I saw the A31 indicated: pure imagination, surely - doesn't the A31 run west from Guildford? Back home, I retraced my journey on the internet in Google Street View, and there was the sign, clearly showing A31! The explanation was a missing 7, of course. The council was grateful to be informed of this, advising me it would reinstate the digit as soon as the budget permitted. And now it has done so, I've noticed. I would quite like to have been passing at the time.
 
 I mentioned scientific thinking above, but some of the ideas I've put into these columns I can't quite imagine coming from anyone else whether a scientist or not. Here's another such thought to end with: last month we stayed in a village in the S of France that had been hit not long before by a storm of golf-ball-sized hailstones. Roofs had been destroyed and crops flattened. Cars were covered in dimples as if they were, well, golf balls. But was there a little good news in this too, I wondered: might the air drag of the vehicles now be less (as with golf balls) and hence their fuel efficiency improved?
-
-

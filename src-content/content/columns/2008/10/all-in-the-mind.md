@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'All in the mind'
 date: 'October 2008'
 body_class: 'bg-3'
@@ -37,5 +36,3 @@ Looking further at memory: your long-term memory holds not only the rules of the
 Sometimes, though, I find myself realizing (you too?) that I have no recall at all of the last stretch of road or how I negotiated it. If my subconscious was doing the driving, was it doing it safely? And looking ahead (into the future, I mean), will I be able to detect when my driving really begins to deteriorate?
 
 Because another thing the brain is clever at is concealing one's 'defects' from oneself: blind spots in the eyes, worsening reaction time to emergency situations, the onset of poor body coordination, or perhaps deterioration of the brain itself. No wonder that some ageing motorists are unaware - or they deny, at least - that their standard of driving is starting to drop. As for me, I am not even sure I've remembered to say everything that I meant to about the brain, in this column!
-
-

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Losing sleep ' twice a year"
 date: 'November 2004'
 body_class: 'bg-4'
@@ -39,5 +38,3 @@ Another point is that school-children tend to take a longer route on the homewar
 Inevitably there would be a (smaller) increase in morning accidents, with certain groups of people definitely being more at risk. If a change to European Time in the winter takes place, this is something that the proposers will have to face.
 
 But I hope they don't bother with switching the clocks on another hour in March for what would be even longer summer evenings, and then back again in October - I need the sleep!
-
-

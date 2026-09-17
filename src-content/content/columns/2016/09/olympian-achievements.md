@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Olympian achievements'
 date: 'September 2016'
 body_class: 'bg-8'
@@ -41,5 +40,3 @@ And now back to the standard 400 metre oval track and my opening question: the a
 This was news to me, when I was exploring the topic after Rio. It rather suggests that whenever records are broken, the distances run (other than in the straight 100 m) may have been slightly curtailed! Actually, what I was hoping to find out in my research was why some runners stay right in the middle of their lanes on the bend. They could easily run 40 cm closer to the inner line:*don't they realize this would save them 2.5 m, in a full circuit?*I can only assume that they are being over-cautious, with their eyes on the distant finish rather than on the track immediately in front of them.
 
 There's even more at stake in races beyond 400 metres, in which everyone is aiming to stay close to the inner edge of the track, because you might find that to overtake the others you need to go as much as two lane-widths out, all round a bend - but this would add 7 m to your path. What a dilemma, if a gold (plated) medal hangs on the result! Anyway, here's my summing up of the whole Olympic Games:_advanced striving..._**
-
-

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Puzzling over warning signs'
 date: 'May 2015'
 body_class: 'bg-1'

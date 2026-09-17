@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Signs of madness'
 date: 'April 2014'
 body_class: 'bg-8'
@@ -35,5 +34,3 @@ Self-service checkouts at supermarkets are my*Exhibit F*. Last year they were in
 As I've said before, I wouldn't trade the Golf in for anything else - but really, what were they thinking of at VW when putting this car together?_Exhibit G_(not easy to show you, admittedly) is the pair of drain-holes under each front door. The rearmost hole is 15 inches from the rear corner, which seems to be enough to allow at least half a pint of water to collect inside the door, when it rains and the car is parked (as usual) on our upward-sloping drive. The water only drains out when the door is opened fully or the car reaches the level road. Why on earth couldn't they have placed the rear hole nearer the corner? I worry about what will happen to the door if the water freezes solid, or when corrosion sets in (if it hasn't done already).
 
 _Exhibit H_, finally, is the horn button ... in my other cars I could sound the horn almost musically:_piano**e**dolce_, or*forte e furioso*, or*delicato e ritmico*, as required. But the button on the Golf is heavily sprung and I can only operate it by pushing it hard with my fist. The sound itself seems so loud and raucous that I feel it will offend every ear within half a mile. Is the world slightly mad to permit such ugly noises, or am I slightly mad to be upset by them?
-
-

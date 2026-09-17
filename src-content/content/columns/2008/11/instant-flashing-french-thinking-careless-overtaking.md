@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Instant flashing, French thinking, careless overtaking'
 date: 'November 2008'
 body_class: 'bg-8'
@@ -45,5 +44,3 @@ Drivers below the age of 25 cause a disproportionate number of accidents and sho
 But do you see the difficulty? The risk is so tiny already! If you remember, I calculated last year that the average driver experiences just one accident of any significance, in at least 600,000 miles of driving. And quite possibly, that crash when it happens is not obviously his or her fault. So where is the incentive to take steps (assuming the average driver even knows how to take them) to improve your driving, when all the time you feel quite safe at 70 mph or more, cocooned in your steel car and surrounded by traffic travelling at much the same speed as you?
 
 Personally, in an attempt not only to keep this feeling of safety at bay but also to stop my standard of driving from slipping, I apply at least three different correctives to myself: firstly, I try to picture the speed and the kinetic energy (remembering this goes up in proportion to the square of the speed) that would need to be absorbed if my car came to a sudden stop. Secondly, I take any opportunity to stand above or beside a motorway and observe the speed of the traffic for real. And lastly, I don't discourage Mrs S at all from making comments on my driving, and pointing out what I might not have seen in the distance ahead!
-
-

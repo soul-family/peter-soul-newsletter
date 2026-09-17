@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'The future of charging, the ease of lifting, a substitute for phoning'
 date: 'February 2018'
 body_class: 'bg-5'
@@ -49,5 +48,3 @@ Adding to this picture, near the end of last year the results were published of 
 But help is at hand, literally, because in the same week came news of the Substitute Phone, which comes as a range of phone-sized blocks of plastic featuring a row of beads, at a choice of angles (diagonal is illustrated).
 
 ![](../../assets/images/substitute_phone_r_.jpg) It seems that running your fingers along the beads, as you would in swiping or zooming in or out on a little screen, acts as therapy to keep you calm when you are parted from the real thing. But I strongly suggest you don't pick up even the substitute while driving!
-
-

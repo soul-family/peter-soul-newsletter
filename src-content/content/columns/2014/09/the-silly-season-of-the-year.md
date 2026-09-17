@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'The silly-season of the year'
 date: 'September 2014'
 body_class: 'bg-4'
@@ -45,5 +44,3 @@ Hoping not to confuse you, I shall now revert to applying the word 'auto' to the
 So whose silly idea was it first to synthesize an oil that could deteriorate in this way, and then to pour it into an electronically controlled auto-gearbox? Anyway, the remedy is to replace it with mineral oil, which VW kindly did for me. And I drove away afterwards continuing to admire the working of my auto-transmission. In fact I'm thinking of devoting a column to it...
 
 Meanwhile, Mrs S and I are about to take a break in Ireland, including hiring a car - with manual gears of course (auto would be twice the cost). I'm curious to see how smoothly I can change gear, after 15 months of delegating the task!
-
-

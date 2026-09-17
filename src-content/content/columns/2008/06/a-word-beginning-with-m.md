@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'A word beginning with m'
 date: 'June 2008'
 body_class: 'bg-5'
@@ -43,5 +42,3 @@ Momentum can't transform into something else like that, but it can be created, b
 A question at the back?*Yes: when I leapt into my car and drove here, where did my momentum come from, if there was nothing zooming off in the other direction?*Well, think about it. Didn't you push on the ground, first with your feet and then with your tyres? And isn't the Earth free to rotate? Anticipating your question, I did a calculation.
 
 If you drive your two-tonne car let's say 500 miles in any particular direction, our whole planet (just like the boat) will roll a short distance the other way, relative to where it would otherwise have been of course. Effectively, it will have the same amount of extra backward momentum*mv*as your car possesses, until you stop driving. But don't let this go to your head - the 'short distance' we are talking about is roughly equal to the diameter of the nucleus of an atom!
-
-

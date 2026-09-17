@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Looking behind you'
 date: 'March 2007'
 body_class: 'bg-3'
@@ -37,5 +36,3 @@ Wait a minute: if you turned around (in the tunnel) you would see the lines meet
 Did I read about how rays of sunlight could converge again like this (opposite to the sun), or did I work it out for myself? I can't remember. It was a long time back anyway. And then a couple of years ago I actually saw it! The effect was even more weird than I would have expected, because the rays were only visible in the distance and they seemed to be coming up from another 'sun' below the horizon (rather than going down and away). I suppose I was on a motorway at the time, or I would have stopped the car and taken a photo of this once-in-a-lifetime(?) sight.
 
 While writing this piece I've also thought of a few ways (not all unconnected with driving) in which light*doesn't*travel in straight lines. Next time, maybe.
-
-

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Headaches, Moir' patterns, road layouts"
 date: 'September 2004'
 body_class: 'bg-5'
@@ -37,5 +36,3 @@ How quickly do the warning signs for new road layouts have to be removed, after 
 This means that what you really have to look out for, on a familiar road, are*new*signs for new road layouts. On unfamiliar roads, the only value that the signs have is as a warning to you that other drivers may think they know the layout but then discover too late that they don't.
 
 Early this month a man was imprisoned for causing death by dangerous driving, having been distracted by using his mobile phone. How did the BBC report this cautionary news? By showing us a reporter driving along the same road while talking over her shoulder to the camera.
-
-

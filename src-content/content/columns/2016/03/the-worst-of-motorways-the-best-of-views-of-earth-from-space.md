@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'The worst of motorways, the best of views of Earth from space'
 date: 'March 2016'
 body_class: 'bg-3'
@@ -52,5 +51,3 @@ Lastly, below is a forward view from the ISS in which you can see a foreshortene
 ![](../../assets/images/English_Channel_br_cr_r_.jpg) STOP PRESS: on 9 May you could quite easily make a much longer-range space observation - given binoculars and a clear sky - namely seeing a transit of Mercury. It will cross the face of the Sun as a tiny dot, as I mentioned here last April. For the setting-up instructions in that column, see my [April 2015 column](./2015/04/deer-dodged-sun-projected-speed-regulated.md), though I must repeat a nannyish warning: <u>don't allow _your_ face, or anyone's, near the eyepieces of the bionoculars while they are pointing sunwards</u>.
 
 The transit lasts from just after midday (BST) to nearly 7pm, so you might have a chance of observing some of it even if the weather is variable. Transits of Mercury occur only every eight years on average. The paradox is that it's rather easier to see this elusive planet in silhouette during a transit, than by the solar light that Mercury reflects at dawn or dusk any year, if it is at its furthest from the Sun (sideways), which is not very far!
-
-

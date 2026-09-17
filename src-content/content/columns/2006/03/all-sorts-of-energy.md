@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'All sorts of energy'
 date: 'March 2006'
 body_class: 'bg-7'
@@ -37,5 +36,3 @@ And if you are in a slow-moving queue, I do hope you're not one of those drivers
 But the best idea I've heard for saving fuel is to invest in a 'hybrid' car! If you've already done so, why not tell the Editor about your experiences with it?
 
 [This suggestion produced some rather mixed views on hybrid cars from readers, in the April newsletter!]
-
-

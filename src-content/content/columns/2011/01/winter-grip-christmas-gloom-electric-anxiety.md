@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Winter grip, Christmas gloom, electric anxiety'
 date: 'January 2011'
 body_class: 'bg-7'
@@ -39,5 +38,3 @@ If you want to be warmed while on the move, this will indeed draw energy from th
 The hazard caused by electric vehicles as they silently approach pedestrians is taken seriously both by researchers, who have found that the danger is greater at low speeds (surprisingly?), and by manufacturers, who are introducing all sorts of noises under the bonnet.
 
 There's much more I could say about this and other aspects of electric cars, but it will have to wait for another column. Certainly, to get used to their distinctive characteristics some drivers will need to 're-educate' themselves. In fact, I'm wondering if one day Mrs S and I might even school ourselves to think electric...
-
-

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Over-working the brain'
 date: 'January 2003'
 body_class: 'bg-8'
@@ -27,5 +26,3 @@ But if the brain is so clever, why do I have difficulty sometimes in remembering
 Another example of a memory lapse: an American colleague was recently obliged to take a standard driving test, having been in the UK for nearly a year. He was doing well until the red light changed to green at some roadworks on his side of the road. With no facing traffic, he pulled out to the right but forgot to pull in again.
 
 The good news is that he passed the second time. But I would be scared of doing something similar (or worse) if I drive on the Continent - or else immediately after returning to the UK, having got used to driving on the right. The trouble is that I am distinctly aware of the automatic nature of my actions when driving (there's a paradox for you!). If I can overcome this fear and I drive south to try out*les autoroutes*, I will let you know.
-
-

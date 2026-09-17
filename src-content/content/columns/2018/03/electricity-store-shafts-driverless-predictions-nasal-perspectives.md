@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Electricity store-shafts, driverless predictions, nasal perspectives'
 date: 'March 2018'
 body_class: 'bg-7'
@@ -39,5 +38,3 @@ Finally, forgive me for finding fault with smartphones again, but whoever had th
 What they haven't understood is simple perspective: the closer you are to a face (or anything that's three-dimensional), the wider the nearest part of it will appear, in comparison to the rest. Viewed from several feet away, almost any face looks 'normal'. Hold the camera closer in, at arm's-length or less, and inevitably the question will be: "Does my nose look big in this?". But it has taken the efforts of a research team at Rutgers New Jersey Medical School to work out and publish the simple geometry required to quantify the answer, which turns out to be: "Yes, about 30% wider than it should do."
 
 It isn't clear, from the reports I've seen, if the surgeons have been encouraging or discouraging the worried nose-owners in their desire for treatment - the situation must present quite an ethical dilemma. And there's another aspect which doesn't seem to have been discussed at all (not this month anyway): a near viewpoint expands the nose but flattens the ears! When the smartphone-narcissists finally get the message and start asking others to take photos of them from a sensible distance, I fear they will be returning to the plastic surgeon and asking for a pinning-back operation instead.
-
-

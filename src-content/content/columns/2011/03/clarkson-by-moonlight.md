@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Clarkson by moonlight'
 date: 'March 2011'
 body_class: 'bg-3'
@@ -39,5 +38,3 @@ Changing the subject - or rather, going back to the moon - already, early in the
 Certainly the distance of the moon from the earth varies, by about 15%, as it follows its orbit. Hence the*amount*of light it reflects back to us when full (which happens at thirteen positions around the orbit through the year) can alter by over 30%. But the difference between this month's full moon and last month's, or next month's, is less than 1% in distance, hence you're highly unlikely to notice the change (and as for 1993, that full moon was probably only a few miles closer still).
 
 The same thing happens with any slowly oscillating measurement: it approaches its maximum only gradually, and falls away likewise. For example, the (official) length of daylight varies by less than three minutes during a whole fortnight around Midsummer. So whichever night Jeremy Clarkson had chosen in that period, he would have faced pretty much the same 'challenge'!
-
-

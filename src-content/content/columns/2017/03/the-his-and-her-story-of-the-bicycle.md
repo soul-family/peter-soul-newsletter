@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'The his-and-her-story of the bicycle'
 date: 'March 2017'
 body_class: 'bg-1'
@@ -35,5 +34,3 @@ The question in my mind is how long this knowledge is retained, because it must 
 Looking at pictures of bicycles from 130 years ago, I am amazed at how little the basic design has changed, even with all the technical advances and options added to it now. One of the most recent of these is battery power, which has surely brought the liberation of open-air, day-trip journeying to yet more people.
 
 Which leads me to a good-news tale about my daughter, who recently married a cycling enthusiast. She had not ridden a bicycle for twenty years or more (mostly for reasons of back trouble) - until last year, when she decided to invest in an electric bike. This has given her wonderful freedom to explore cycle (and cyclable) routes in town and country, not least all around N London where they live. The pair of them can now ride together anywhere (having fitted a rack for the two bikes to their car). And as I hinted above, I have been under gentle pressure to try the machine myself! I'll let you know the outcome, maybe.
-
-

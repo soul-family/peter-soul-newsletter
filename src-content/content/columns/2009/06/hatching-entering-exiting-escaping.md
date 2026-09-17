@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Hatching, entering, exiting, escaping'
 date: 'June 2009'
 body_class: 'bg-8'
@@ -45,5 +44,3 @@ Finally, a question that is niggling me no longer! Earlier in the year, you may 
 Well, a highways consultant tells me that motorways and other roads are usually laid out by reference to a so-called 'master string line' along the central reservation (or down the middle of ordinary roads). This includes the distance markers - hence they do stay lined up, as they march around the M25._OK then: how big (initially) was the rolling ball of 120 miles of master string?_**
 
 **Not much more than a metre across, is my estimate (but of course I'm joking: probably the string came in 100 m lengths).
-
-

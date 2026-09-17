@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'The keys to good driving'
 date: 'March 2009'
 body_class: 'bg-7'
@@ -37,5 +36,3 @@ But it's not just a matter of steering the right course: you have to traverse it
 I must say, when I started this column I didn't expect the analogy between playing the piano and driving to be quite so close! And there's more: they both call for excellent coordination, controlled mainly by the subconscious. Key to both activities is maintaining a smooth rhythm without jerky movements or sudden interruptions - especially important when you are having to keep pace with other people, whether musicians or road-users. And both at the piano and in the car, it's easy to relax and go into autopilot mode (do you find, like me, that sometimes you are hardly breathing at all?). This can lead to wrong notes and to accidents.
 
 But if you stay alert and make the most of the skills that you've acquired, you will end the journey (musical or automotive) with a feeling of quiet satisfaction.
-
-

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Information on advanced driving'
 permalink: /content/info/
 body_class: 'bg-1'
@@ -26,5 +25,3 @@ It's the local group that provides your observer, and he or she does the job wit
 Instead of applying first, you could simply visit a nearby group to find out more. The Thames Valley Group (for car-drivers) meets just south of Maidenhead - if this happens to be convenient for you, you will be warmly welcomed as a guest at any monthly meeting. Visit [Thames Valley Group meetings page](http://www.tvgam.org.uk/meetings.html) for more information.
 
 Safe driving!
-
-

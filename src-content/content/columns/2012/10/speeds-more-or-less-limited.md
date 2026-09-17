@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Speeds more or less limited'
 date: 'October 2012'
 body_class: 'bg-7'
@@ -39,5 +38,3 @@ To me, this is another illustration of the 'chaotic' nature of road travel, whic
 Last May I repeated my warning that in any country where the regulations require you to carry spare glasses when driving, one pair will not be enough, because if you should need to put them on in an emergency, you will immediately be breaking the law. A reader pointed out that a similar doubling-up is necessary with spare bulbs, and indeed with any compulsory accessory that you might need to fit before driving on.
 
 And someone asked me about the popping sound you sometimes hear when driving at high speed with a window down: is this the Doppler effect? I said no (for a description of that, see September 2002) - the air passing by is simply causing regular vibrations of the air inside the car. What you've got, in effect, is a poorly designed orchestral bass-flute on wheels!
-
-

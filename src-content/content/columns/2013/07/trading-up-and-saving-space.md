@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Trading up and saving space'
 date: 'July 2013'
 body_class: 'bg-1'
@@ -41,5 +40,3 @@ Anyway, the more I found out about space-savers, the less I liked the idea. The 
 Now picture this spare tyre dropped into its recess, and raising the boot floor by three or four inches: where to put the tools and other items that I always carried loose in the boot previously? Well, the tools fitted into the spacious central hollow of the wheel, and everything else I managed to pack around the tyre, under the raised floor. So now the boot looks as empty as when I first inspected it on the forecourt, and must be giving me almost as much practical carrying-space as I had before, even if there's rather less total volume than there was in the boot of the Corolla.
 
 Ah yes, my Corolla ... was she simply dumped, or did someone appreciate her attractions as a dependable helpmate? If by chance you see her around Twickenham (or anywhere, of course), with her faded near-side skin but otherwise a sensuous coat of Lipstick Red, do please tell me.
-
-

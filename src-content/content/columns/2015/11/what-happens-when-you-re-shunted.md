@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "What happens when you're shunted"
 date: 'November 2015'
 body_class: 'bg-4'
@@ -51,5 +50,3 @@ Firm K phoned to apologize for defects, smell had been noticed during valeting b
 <u>Monday</u>: waved good riddance to hire-car, what a waste of other people's money & everyone's time. Collected Golf: four weeks after shunt, good as new if not better, sparkling clean inside & out, tailgate even easier to close than before, spare wheel now secured, lifetime guarantee on the new paintwork, can't praise Sunnyside Autos highly enough. Later, received copy of invoice: job cost more than £3K, money well spent, I say (though would much prefer that it hadn't been necessary).
 
 Have suggested to Bracknell Forest Borough Council that they improve lighting at Mill Lane roundabout. Meanwhile, brother-in-law offered advice: take defensive measures - get tow-bar fitted!
-
-

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'My next car could be cruise controlled...'
 date: 'July 2009'
 body_class: 'bg-3'
@@ -47,5 +46,3 @@ I learned a different lesson just before the Enhanced Advanced day. I thought th
 OK, it's not so easy to check the inside edges when the wheels are on the car, but I urge you not to ignore them altogether, as I had done. The cause of the extreme wear, I was informed, was badly misaligned tracking (though what exactly upset the adjustment, I have no idea). The cost was a new pair of tyres.
 
 Anyway, the Enhanced Advanced day was well worth attending. I must go again ... perhaps when I'm driving my next car?
-
-

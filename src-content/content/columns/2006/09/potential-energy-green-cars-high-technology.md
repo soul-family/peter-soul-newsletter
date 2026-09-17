@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Potential energy, green cars, high technology'
 date: 'September 2006'
 body_class: 'bg-5'
@@ -41,5 +40,3 @@ ABS is well suited to drivers who would tend to brake too hard in an emergency. 
 Indeed, there's a bewildering list of high-tech safety systems being incorporated in new models all the time, for keeping the car on the road (however slippery) and in its lane (however narrow) and at a safe distance from the vehicle in front. But as owners grow used to the protection provided by these features, will they become better drivers or worse? Will they pay more attention to road conditions, their speed and what's going on around them, or less? Perhaps we should all be polishing up our advanced-driving techniques, in preparation - either for making the purchase or for driving more defensively.
 
 Going back to March again: I pointed out the fuel-saving advantages of making less (late) use of the brakes and more (early) use of the normal drag on the car, when you need to slow down. I've just read that the train companies have been told by the Office of Rail Regulation to teach their drivers how to do the same thing as they approach stations! Coincidence ... or is it possible that someone in Rail Regulation is one of our members?
-
-

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Hazard, risk and accident'
 date: 'July 2007'
 body_class: 'bg-1'
@@ -41,5 +40,3 @@ You need to take legal advice over the details, as an Enduring Power of Attorney
 I might mention that I've acted as attorney for three relatives at different times, with no great problems - but with great relief now that I did not have to do the job the hard way, like that lady! Also, if you*are*thinking about one for yourself then there is some urgency: although an EPA is valid for life, you must set it up before the end of September 2007. After that the regulations change and you will have to settle for the new (and considerably more costly and complex) Lasting Power of Attorney.
 
 So the advice I've seen from several solicitors is to arrange an EPA cheaply now while you still can, leaving yourself the option of an LPA later rather than being forced to face it. This makes good sense to me ... but excuse me while I just check my dictionaries for the difference in meaning between*lasting*and*enduring*.
-
-

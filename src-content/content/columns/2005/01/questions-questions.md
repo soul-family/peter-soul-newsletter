@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Questions, questions'
 date: 'January 2005'
 body_class: 'bg-1'
@@ -35,5 +34,3 @@ If I listen to any Radio 4 speech programme while driving a familiar route, and 
 Finally, given that the Toyota Corolla is apparently the most popular car of all time, why is it that the sun-visor on my '97 model is designed so that I have to duck my head dangerously when swinging it (the visor) across to the side window?
 
 Correction: "was designed" - I have just taken a hacksaw to the offending end, and wish I had thought of doing so years ago.
-
-

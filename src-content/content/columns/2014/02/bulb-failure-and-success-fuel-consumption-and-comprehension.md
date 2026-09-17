@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Bulb failure and success, fuel consumption and comprehension'
 date: 'February 2014'
 body_class: 'bg-4'
@@ -37,5 +36,3 @@ So that you don't read straight on to the answer, I will mention here that while
 Back to consumption: if I tell you that one of us saves 50% more in fuel than the other (by changing cars), does this help you decide who it is? Surely my big jump in mpg far outweighs your small one? No:*your*annual bill drops by many more pounds than*mine*. One reason is that yours is more than twice as big to start with. But what makes the answer so unintuitive is that consumption was stated in miles per gallon, when it should logically be gallons per mile. Or better still, litres per 100 miles (lphm, I'll call it). Let me convert the numbers in the second paragraph above, for you: my consumption improved from 9.9 to 7.6 lphm, yours from 21.7 to 18.2 lphm. It's not hard to see now that you will be saving more litres than me (over any given distance).
 
 Did you read the story last year about the Italian who drove his silver Golf to Munich for the Oktoberfest? I felt such sympathy for him: he parked in a side-street, but forgot where. He searched for five weeks on and off, visiting by train in order to tour the city by tram, until the car was noticed by a resident who had seen his desperate advertisement in a local paper. Here's the problem, then: how to make a Golf stand out, whether its colour is light (like the Italian's) or dark (like mine)? I fear the only sensible answer is to paint contrasting stripes on the roof...
-
-

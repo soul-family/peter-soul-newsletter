@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Now you see it, now you don't"
 date: 'March 2004'
 body_class: 'bg-1'
@@ -41,5 +40,3 @@ On my route home from work I turn right and then nearly always have to work my w
 I believe there is a serious message for drivers in all of this, especially when the view deteriorates a bit. If the traffic situation is confused, or you are driving into mist, or the windscreen steams up, or the wipers don't clear the glass right to the edge, then road hazards do not simply become harder to see. Instead, the subconscious brain may decide to ignore the signs of a hazard altogether, probably earlier than you would expect and certainly without asking you first.
 
 Thinking again about your door pillar separating the two 'visible' ends of another car, for example: you rely entirely on the brain as it first detects the outlines and then tries to decide whether they are important. The next task is to recognize them as a moving vehicle, and only*then*does the brain finally make you consciously aware of the hazard. If at any stage this process stopped because your attention was too much on something else, you might never know what hit you...
-
-

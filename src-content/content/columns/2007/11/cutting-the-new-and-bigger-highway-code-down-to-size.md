@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Cutting the new and bigger Highway Code down to size'
 date: 'November 2007'
 body_class: 'bg-5'
@@ -45,5 +44,3 @@ He kindly pointed me to the TSRGD reg 36 I mentioned above which says (if I may 
 I don't have many other quibbles with the Highway Code. Its 'nannying' advice no doubt annoys many readers, but it would probably be criticized if this was omitted. I suppose the authorities will never print the rule that many drivers follow at three-way mini-roundabouts to achieve efficient flow:_If all vehicles are bearing right, then give way not to the right but to the left, in turn and with care._
 
 Being a sensitive soul, I do worry about the stern warning in Rule 112:_Never sound your horn aggressively_. Now I can play the piano fairly well, in any manner the music asks for:_forte_,_piano_,_impetuoso_,_amoroso_,_nobile_,*dolce*and so on. But it takes me a great deal of practice, whenever I change to a new car, to get its horn to play*delicato*even occasionally. Generally I can't stop it sounding*furioso*.
-
-

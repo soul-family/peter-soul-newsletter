@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Lessons in staying awake'
 date: 'July 2004'
 body_class: 'bg-3'
@@ -41,5 +40,3 @@ Sorry, I couldn't resist that. As I was saying: this method never fails me by da
 I must say that Mrs S is very understanding of these sudden decisions of mine to take a rest from driving - but then her safety is just as much at stake as mine is! Perhaps I should explain that she has long been used to an automatic gearbox and therefore doesn't at present relish the thought of driving of my car.
 
 Why then didn't I stop a third time (this was only last year) when I should have done? Simply because we were on a short journey and only about twelve minutes from home. It seemed absurd to take a break in Bracknell, and so once again I found myself struggling against the effects of a dark motorway to Reading. I only realized afterwards that I had learnt a further lesson.
-
-

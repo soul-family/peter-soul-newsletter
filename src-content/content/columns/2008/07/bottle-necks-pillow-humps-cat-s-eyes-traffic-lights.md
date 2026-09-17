@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Bottle-necks, pillow-humps, cat's-eyes, traffic-lights"
 date: 'July 2008'
 body_class: 'bg-7'
@@ -47,5 +46,3 @@ Your response to that one may not be in my favour ... OK then, if the lights hap
 [See my [February 2009](./2009/02/light-emitting-diodes-red-light-discipline-upside-down-arrows.md)column for further discussion of this manoeuvre.]
 
 I see that a theme has gradually emerged this month after all: looking, seeing and reacting!
-
-

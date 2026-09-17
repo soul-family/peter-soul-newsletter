@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Lighting up'
 date: 'February 2003'
 body_class: 'bg-3'
@@ -31,5 +30,3 @@ Why are some cars fitted with brake lights at driver's eye-level, or higher, swa
 Above all, why is the average driver so ready to light up almost as soon as the sun goes behind a cloud, but apparently so unconcerned about driving with a dead bulb? Why doesn't the law crack down on this widespread night-time hazard (which includes the risk that the other bulb of the pair will fail too, of course)? Manufacturers could easily include a warning system for burnt-out bulbs, in all new cars...
 
 Actually, there already is a built-in warning for direction-indicator bulbs: if one fails on your car, you should notice that the winking and clicking goes twice as fast. But I bet not a lot of drivers know this!
-
-

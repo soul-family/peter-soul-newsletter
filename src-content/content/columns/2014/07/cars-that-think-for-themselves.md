@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Cars that think for themselves'
 date: 'July 2014'
 body_class: 'bg-7'
@@ -49,5 +48,3 @@ Lastly, let's dip into some alphabet soup: ABS, ASR, BAS, EDL, ESP, TCS and XDL 
 BAS =*Brake Assist System*which, when you hit the brake pedal, detects the move and applies the brakes even faster than you can. EDL =_Electronic Differential Lock_, which senses when a front wheel has lost traction and brakes it, giving the other wheel the drive-power. ESP =_Electronic Stabilization Programme_, designed to cut the risk of skidding (somehow). XDL seems to be like EDL, but more advanced.
 
 What an array of automatic braking systems! But do any or all of these letter-triplets really apply to my Golf? Certainly an ABS light comes on before I start the car (and so does EPC, whatever that stands for). There's also a button for disabling the ESP, though I'm not sure why should I want to. But otherwise I have no idea which of the listed alphabeticals are actually helping to keep me safer on the road. The FAQs in the manual tell me nothing. Yet you would think that finding out ought to be as easy as ABC...
-
-

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Superior schooling'
 date: 'June 2016'
 body_class: 'bg-4'
@@ -41,5 +40,3 @@ There's a vital topic which, as far as I know, is not taught at all - or if it i
 Lastly let me report a news item that I read at the beginning of the year: as part of a university research project, schoolchildren were taught the meanings of dozens of Latin and Greek word-parts -_dict_(= say),_dis_(= not),_bio_(= life),_chron_(= time) and so on, all of them of course appearing often within English words. The astonishing result (though not so surprising to me) was that the pupils started to make rapid progress not only in deciphering English words that were new to them, but also in all school subjects. Some were said to have advanced six years in reading age, in no time at all.
 
 So there you have it, the Soul Scheme for Superior Schooling: longer hours, early times tables, music, Latin and Greek. Oh, and road sense. Over to you, teachers!
-
-

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Road markings and surfaces'
 date: 'July 2005'
 body_class: 'bg-4'
@@ -39,5 +38,3 @@ What could be more reassuring than a new road surface? How can it not be giving 
 There's a stretch of new tarmac on a road we use regularly, just north of Littlehampton.*Now*I understand why it's been given a slippery-road sign at each end, with "for 925 metres" added below. Every journey (in the dry), I've laughed at the absurd precision of this measurement and then disregarded the sign, assuming that it was simply warning me about extra greasiness during wet periods. I never suspected that the added risk was non-stop (in both senses). It amazes me that the speed limit along this road has remained at national/60.
 
 And by an uncomfortable coincidence, several other 60-limit stretches are now being resurfaced along our route down to Littlehampton. I must try again to keep the pressure under control, while I watch out for any new hazard signs and for other drivers ignoring them. Actually I was only joking about all the pressure - or most of it - but I'm still grateful for this safety valve!
-
-

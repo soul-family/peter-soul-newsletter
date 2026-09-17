@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Bad vibrations'
 date: 'May 2014'
 body_class: 'bg-3'
@@ -41,5 +40,3 @@ As for the Haynes manual itself, this is heavier than ever - nearly twice the we
 Which brings me to all the circuit diagrams in the manual: these used to be a pleasure to study and follow, being clearly labelled and showing the layout of the wiring harness through the car. Now they are abstract, coded and almost identical, like repeating wallpaper. They tell you nothing unless you know it already.
 
 I'm sorry to end this column on such a discontented note. If it has depressed you too, my suggestion is that you do what I'm going to do: go out and mow the lawn!
-
-

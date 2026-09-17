@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Things that might surprise you'
 date: 'February 2010'
 body_class: 'bg-8'
@@ -39,5 +38,3 @@ I remember reading somewhere that a driver had come to grief (or maybe just near
 Planning to hire a car in New Zealand? They drive on the left there, but even so I'm told you need to break one habit: if you're turning left, and an oncoming vehicle is turning right into the same road, it's you that has to give way!
 
 Finally, I've just been reading up on tyres. I didn't fully realize that they come in distinct summer, winter and all-season types; Richard Porter (our Thames Valley Group Newsletter Editor) tells me he has a set of winter ones that are serving him well right now - though he wouldn't want to drive long distances on them. But what was quite unexpected from my research was that the difference between types isn't just a matter of the tread: summer tyres (which mine are, I guess) actually start losing flexibility when the temperature drops below about 7 C. I think I'll stay right off this snow, then.
-
-

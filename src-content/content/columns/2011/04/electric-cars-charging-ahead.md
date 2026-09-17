@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Electric cars ' charging ahead"
 date: 'April 2011'
 body_class: 'bg-8'
@@ -35,5 +34,3 @@ Anyway, what is being doing to overcome the problem? All sorts of sounds can be 
 Or should the warning*sound*like a warning? This opens up the field alarmingly (sorry again). There are many 'accepted' warning tones, from simple beeps to strident klaxons, and they all annoy me to varying degrees - which is mostly a good thing, I suppose, otherwise I would be ignoring them. But imagine a future traffic flow of electric cars, all emitting either the same irritating noise or different ones: this would simply be pollution from the front of the car, replacing what we have now from the rear.
 
 At least there seems to be general agreement in the industry firstly that the warning sound should not resemble an ordinary car horn, secondly that it should be inaudible to the driver, and thirdly that it can and should cease automatically when the vehicle reaches about 20 mph. But already there's argument over whether a switch should be provided for disabling the sound system altogether: safety organizations say that it needs to remain active, but the UK regulation that bans the use of your horn late at night in built-up areas seems also to forbid automatic warning noises. If this difficulty isn't sorted out soon, someone is going to say:_bring back the red flag!_**
-
-

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'The trials of diesel and of driverless'
 date: 'October 2015'
 body_class: 'bg-7'
@@ -41,5 +40,3 @@ Now let me return to the subject of driverless cars, which I first discussed her
 But even in that model metropolis, how will autos escape difficulties such as a stalemate at mini-roundabouts (which I discussed before), and the recently reported fact that they cannot recognize temporary traffic-lights, only permanent ones? And how on earth can autos be protected against what is, so I understand, a simple method (for someone who is both technical and mischievous) of stopping them in their tracks - by pointing a laser pen at them, pulsed in a certain way, to fool them into thinking that there's an obstacle ahead, reflecting back the detector-ray? In heavy rain, snow or fog, on the other hand, I doubt if an auto would be able to detect anything in front of it, real or bogus...
 
 Actually, a short and (I suppose) snappy name has emerged:_pod_, which refers to a particular type of on-call, two-seater auto designed to run on pavements and paths, at up to 15 mph. The obstacle that it faces, in this country at least, is the Highways Act, which permits only invalid carriages to be driven on a foot-way! But even if the law is suitably amended, what will happen when two pods come face to face on a path and are unable to pass each other? My recommendation is that the occupants get out, change pods, and then instruct them to go into reverse.
-
-

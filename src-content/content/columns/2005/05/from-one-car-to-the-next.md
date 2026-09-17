@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'From one car to the next'
 date: 'May 2005'
 body_class: 'bg-5'
@@ -33,5 +32,3 @@ It occurred to me a couple of years ago to start leaving the Advanced Driver mag
 So as I departed from Gillette and ended a working-lifetime of applying physics, I sent out an email to colleagues saying: if you visit my website you will see that I shall be continuing to think about physics in retirement - as it is all around you and not just for the laboratory. And then from home I was able to send much the same message to scores of contacts (on the genuine pretext of asking them to delete my Gillette email address if it was in their list).
 
 Perhaps I was lucky in finding such an opportunity to generate 'neutral' and (I hope) interesting publicity about advanced driving, though only time will tell whether any applications result from it. But I would be surprised if quite a few members couldn't do something similar, or different, to achieve the same effect. And the more drivers we can encourage to advance (by one means or another), the less bad driving there will be on the road ahead for us to have to avoid!
-
-

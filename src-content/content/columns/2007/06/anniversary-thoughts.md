@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Anniversary thoughts'
 date: 'June 2007'
 body_class: 'bg-4'
@@ -37,5 +36,3 @@ Thinking still about the columns (and again about speed-limit absurdities), we a
 Another obliging trick that councils seem to play now is to leave "New 30 mph Limit" signs up indefinitely, after a limit has been reduced. Countless drivers must have been caught out before, whenever a 40 mph stretch was demoted to 30 and all that visibly changed was that the 40 signs and repeaters vanished.
 
 And how many advanced drivers, even, always notice speed-limit signs when turning at a junction? I missed a 20 mph one on my test! Luckily, the humps slowed me down. If the authorities wanted you to overlook a speed limit, they could hardly put the sign in a better place than on the corner. It's obvious that what's needed is a warning*before*the junction that there's a lower limit just round the bend. After all, you see advance warnings of speed limits straight ahead in some places. But then what do I know - I'm only a physicist.
-
-

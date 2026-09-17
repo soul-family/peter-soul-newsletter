@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Going back half a century'
 date: 'July 2015'
 body_class: 'bg-3'
@@ -39,5 +38,3 @@ The evidence of this can be seen in a booklet in which I've assembled the half-c
 _For next weekend in Bristol I shall be taking my senior bus-pass, something that I could hardly have imagined I would acquire, half a century ago. I don't recall ever travelling on a bus in my student days, nor much since then, until I qualified for a pass a few years back. I am of course still quite capable of walking up Park Street (as I intend to demonstrate). But generally I am torn between walking because it's good for me, and catching the bus as it is effectively free for me! My 'research project' right now, however, is to see if by increase of exercise (and change of diet) I can reduce my cholesterol level sufficiently to satisfy my GP that I don't need to start ingesting statins. Watch this space..._**
 
 As for my own progress through life, perhaps I was not the brightest of students long ago, or of researchers later on, but at each stage (of the whole 50 years) I learned things that would serve me well in the next stage. And all the while, I kept a grasp of more basic physics which, apart from anything else, has been the basis of many of these columns. It's hard to believe that I have been facing (and enjoying) the task of writing them now for 13 years!
-
-

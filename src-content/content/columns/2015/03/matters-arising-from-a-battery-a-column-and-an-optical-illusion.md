@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Matters arising from a battery, a column and an optical illusion'
 date: 'March 2015'
 body_class: 'bg-7'
@@ -43,5 +42,3 @@ Finally, last month I mentioned optical illusions. I've just been reading about 
 Actually the roads did once merge smoothly. After the T-junction had been installed there had been other (less severe) accidents. The local authority therefore not only settled for a $1.6m injuries payment in this case, but also improved the signage and to some extent the bend-protection (as I've confirmed on Google Street View!).
 
 But here's a question: how often do you look into the distance at night, focusing your attention on distant lights that indicate a continuation of your road, and assume that 'seeing nothing' between here and there means that nothing will interrupt your journey...?
-
-

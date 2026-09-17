@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Coasting to a halt'
 date: 'February 2011'
 body_class: 'bg-4'
@@ -47,5 +46,3 @@ Roundabouts ... cyclones ... I've just discovered a Met Office webpage,[www.meto
 And here's a question I have never dared ask an expert directly, for fear of seeming stupid: why do winds not blow straight from high-pressure regions to low, as physics ought to demand, instead of circling them all the time? [A meteorologist reader of the newsletter sent me an immediate response, which I will try to summarize in a later column.]
 
 Admittedly, anything seems plausible to me now meteorologically, after the sight of that Beetle pirouetting through the air.
-
-

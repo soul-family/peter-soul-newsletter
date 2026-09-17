@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Seeing clearly and not so clearly'
 date: 'April 2008'
 body_class: 'bg-8'
@@ -39,5 +38,3 @@ If you are wanting to choose an optician, may I suggest you go to one who is equ
 Let me now quote Sir Alec Issigonis (best known as designer of the Mini) in an interview I heard recently, recorded twenty years ago just before his death at 81, when he had become a recluse: "Everything's been done, there's nothing more to be done, I mean we've tried steam, we've tried electricity, I can see only stagnation." And: "You can't tell one car from another today unless you look at the badge, the only exception to that is the Mini." How wrong he was about stagnation! Development of automobile-propulsion technology has never come to a halt.
 
 But how I agree with him about cars looking the same - the majority of them, anyway. I feel that nowadays their features simply aren't different enough for my eyes to capture them and my brain to store them away in memory (labelled with the make and the model). What's the reason for this? Are most manufacturers scared of stepping too far out of line, visually? If so, I can tell them one consequence: it means I have even less desire to change to a newer car (let alone a new one) than I suggested at the start, at least while my distinctive 'lipstick-red' 1997 Corolla is still going strong.
-
-

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Getting ready to board a road train'
 date: 'June 2011'
 body_class: 'bg-5'
@@ -41,5 +40,3 @@ Other benefits for you will include better fuel economy. This comes firstly from
 On average, the (apparent) separations ahead at each button-press were around 15 m and 7 m respectively. Though when the participants were asked if a 10 m gap was adequate, most said yes. So as the current target for road trains is indeed a ten metre separation (in order to achieve good levels of safety and fuel economy), the hope is that drivers will trust the system with this gap, maybe after experience and some training. Also, most of the subjects did say that they would be happy to be 'convoyed' at speeds up to about 55 mph.
 
 There was much more detail in what I read, but not a lot about the costs involved: surely you will have to pay first for the on-board equipment, and then again each time you join a road train? And I'm still curious about whether I can take a nap, once safely in line (or must I stay awake and be ready to drive again at any moment?). You see, the thought that my view of the road ahead will be totally blocked by a heavy the whole time is so depressing that I know I shall want to close my eyes - column or no column to write!
-
-

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Eye, brain and the road ahead ' continued"
 date: 'July 2003'
 body_class: 'bg-7'
@@ -33,5 +32,3 @@ The lecturer then caught my attention even more, by pointing out that if you are
 He went on to say that you cannot imagine the opposite scenario: paying conscious attention to driving while subconsciously talking to your passenger. Evidently this scientist is not an advanced driver, because it seems to me that is exactly what you are trying to do when you volunteer to give a commentary as you drive (not that I claim to be at all expert at it).
 
 Sometimes when I am rummaging in my toolbox for a particular screwdriver, I sense it is there before I am able to locate it - is this another example of blindsight in action, or is it just a consequence of possessing too many tools?
-
-

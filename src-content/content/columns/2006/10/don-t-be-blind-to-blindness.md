@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Don't be blind to blindness"
 date: 'October 2006'
 body_class: 'bg-7'
@@ -33,5 +32,3 @@ But I digress. I knew that the risk of glaucoma can be hereditary, so I've long 
 The eye-drops that I now apply every night should stop the glaucoma in its tracks, but they can't reverse the effects it's already had. And I must stress that in normal looking around, these patches are as invisible to me as the ordinary blind spot is, because the brain is so good at covering them up. This is the insidious feature of glaucoma and several other eye diseases: you simply don't know they are developing, until (I guess) you finally do realize that you can't see in some directions. But by then you will be in real trouble - very likely to lose your driving licence and possibly your sight.
 
 That's why regular eye-tests can be vital. The optician may well decide there's no need for a proper fields test, but I've found a way of doing one on yourself. Fix a smallish black object to a light-coloured area of wall, sit back comfortably, cover one eye, and with the other sweep your gaze slowly over the whole wall. If all's well, you should be able to see the object all the time, except of course when it finds the blind spot (check the top of this column for the location). Good luck.
-
-

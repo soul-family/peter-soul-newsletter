@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Silliness and common sense'
 date: 'July 2006'
 body_class: 'bg-3'
@@ -29,5 +28,3 @@ Our towns are filling up with 20 mph zones. The exit signs for these show a 30 r
 Finally some common sense, I would say: at last month's meeting the speaker (an experienced traffic policeman) put a question to us: suppose a car is on a 30-limit road at night in good weather but travelling at 38 mph. An unlit bicycle suddenly emerges from a turning and there's no chance of avoiding a fatal accident. How much is the driver to blame?
 
 After some discussion the PC summed up, saying that in court it would be probably be agreed that if the driver had been within the speed limit the cyclist might have survived. I couldn't resist pointing out that if his speed had been just 39 mph he would have missed the bicycle altogether, being some way down the road when it emerged. "Quite right," said our man (not knowing my background, of course). "You can't argue with physics!"
-
-

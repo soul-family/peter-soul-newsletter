@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Anticipating the 2007 Highway Code'
 date: 'November 2006'
 body_class: 'bg-4'
@@ -35,5 +34,3 @@ Leafing through the current Code, I notice one or two other items that could do 
 Another rule brings back a distant memory: on a motorway hard shoulder, "do not attempt even simple repairs." Well ... twenty-something years ago my car conked out on the M4. From previous experience, not only did I guess what had failed but also I was carrying a spare. The item was the ignition capacitor, and within a few minutes I was safely on my way. What I should have done, I now realize, was walk in some danger up to half a mile to a phone box and back, wait an hour or more in discomfort on the grass, and then when the flashing light arrived (adding to the distracting of traffic) hand over the capacitor to be fitted! Or else wait to see if the expert could solve the problem on his own.
 
 Anyway, when the new Highway Code comes out I confidently expect it to inspire a further column or two.
-
-

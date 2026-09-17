@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Screens large and small'
 date: 'November 2016'
 body_class: 'bg-5'
@@ -43,5 +42,3 @@ If this doesn't apply to you, then I don't mean you! But everyone else seems to 
 (Also, a university study has found that use of phones by children before bedtime disrupts their sleep later. The concern is that long-term health problems will come from this. My particular worry is the likely effect on their eyesight.)
 
 Me, I wouldn't want to become similarly glued to a tiny screen. And I really do wonder how small a step it is from consulting one's phone all the time when it's 'safe' doing so, to being unable to resist using it while driving - with (if I'm not being obscure again)_peut-tre les resultats fatals..._**
-
-

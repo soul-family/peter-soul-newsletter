@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Speed-cushion damage, body-clock disruption, speed-limit ignorance'
 date: 'May 2017'
 body_class: 'bg-3'
@@ -45,5 +44,3 @@ Shift workers rarely manage to reset their body clocks fully to their night-time
 In the following year the full and appalling picture was revealed by the AA in a survey (which I somehow overlooked at the time): four out of ten motorists were unaware of the correct NSL figure for dual-carriageways, and an even larger fraction couldn't identify it for single-carriageway roads. As for motorways, 7% of drivers thought the speed limit on them was 80 mph. Admittedly, an 80 limit was being discussed publicly at the time. And as far as I know, the only 'announcement' of the NSL as you enter any motorway is the rectangular blue sign with the M-number and motorway symbol.
 
 Anyway, given such levels of general ignorance of the national speed limit(s), surely it would be worth replacing all the signs that are supposed to be indicating it, or them, with actual numbers? (But not, I think, with speed cushions!)
-
-

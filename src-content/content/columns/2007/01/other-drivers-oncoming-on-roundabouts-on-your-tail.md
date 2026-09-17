@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Other drivers ' oncoming, on roundabouts, on your tail"
 date: 'January 2007'
 body_class: 'bg-1'
@@ -39,5 +38,3 @@ There are, I think, three different types of tailgater. One group seems to catch
 The second group is more persistent but will realize, after two or three of these bursts of acceleration, what you are doing and why. They should then keep their distance. If, however, you're being pursued by a serious tailgater there's little option but to find a layby or similar, and let the problem vanish in the distance!
 
 You do have to admire the reactions of tailgaters and (some of) their skills. Even so, it's often possible to accelerate away just when they least expect it. If you are being chased as you move off from a junction, try accelerating in two stages. And remember, the chances of an impact from any one offender are really very small indeed, so don't let the worry distract you from driving safely yourself.
-
-

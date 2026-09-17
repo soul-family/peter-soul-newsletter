@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Deer dodged, sun projected, speed regulated'
 date: 'April 2015'
 body_class: 'bg-4'

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Misting across, warming up, cooling down'
 date: 'March 2014'
 body_class: 'bg-1'
@@ -37,5 +36,3 @@ I'm sorry - I shouldn't be attempting to entertain you with my Golf problems (un
 So if I turn it a notch in order to be a bit warmer, a blast of hot air comes from the vents until the interior temperature has risen. Conversely, if I want to lower this a little ... well, you can guess. Actually, what I miss most from the Corolla is being able to toast my feet and cool my face simultaneously: one of the face-vents always delivered air direct from the outside. In the Golf, perversely, if my feet are sitting comfortably then my head overheats, and if instead I have cold air coming from the face-vents it chills the footwell. (This is simple physics again, of course: warm air rises and cool air sinks.)
 
 Even so, I wouldn't swap this car for another. Because of the slightly smaller engine, both the insurance and the tax are less than for the old Corolla, even though the Golf has far more power and acceleration - not to mention a superb 7-forward-gear automatic box. Stop me if I start on about this item, next time!
-
-

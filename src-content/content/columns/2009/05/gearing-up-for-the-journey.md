@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Gearing up for the journey'
 date: 'May 2009'
 body_class: 'bg-1'
@@ -45,5 +44,3 @@ CVT works by running a metal belt round two pulleys which 'change gear' by cleve
 Alas, CVTs have a reputation for being short-lived, and indeed our gearbox gave up last year at 34,000 miles ... what to do? Scrap a well-loved L-reg car? We couldn't! So thank you, 3D Transmissions of Reading, for getting it back on the road (at some cost, admittedly).
 
 Here is one more thought on bicycles: some present-day youths seem to like riding with their knees almost up at chin-level. Have they no notion of efficient pedalling - or should we be commending them for keeping their childhood bikes unscrapped and on the road too?
-
-

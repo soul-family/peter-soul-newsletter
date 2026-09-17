@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'John Humphrys, Robbie the Robot, Ludwig van Beethoven'
 date: 'March 2012'
 body_class: 'bg-7'
@@ -37,5 +36,3 @@ I am giving myself a target of £1000 to aim at. Already my family have got me o
 Other amateur pianists will probably think I'm as mad as an abseiler (see above), but with luck, as the music gets more difficult I shall get more used to playing in public. If you feel like dropping in to hear the result, the dates etc are on the webpage. But if only Robbie could be programmed to play the trickier bits of Beethoven for me!
 
 [An update: with two of the seven afternoons of music (and the most difficult) still to be faced, on 10 and 12 April, I am overwhelmed by the total of money so far donated - an absolutely incredible £2500 ... and if you're reading this at a later date, the final total was just short of £3300.]
-
-

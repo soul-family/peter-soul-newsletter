@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Seven sorts of sense'
 date: 'March 2008'
 body_class: 'bg-1'
@@ -43,5 +42,3 @@ Don't forget that hills also affect your fuel consumption! I astonished even mys
 Lastly, let's consider*junction*sense: the disappearing art of not blocking road intersections. To reverse this trend, should even more junctions be given yellow hatching? On the contrary, I think all road signs, markings and lights should be removed, and obstructing any intersection should become an offence. Culprits would be easy enough to catch, because they would be stationary.
 
 After all, as was argued on BBC2*Newsnight*recently, we wouldn't approve of yellow hatching disfiguring buildings, so why do we tolerate it on roads? And last month at our group meeting, Peter Rodger showed us some astonishing film of a totally unmarked junction working perfectly well under heavy traffic (he did mention it was situated in India). He said the absence of road signs and so on brings out our instinct to drive safely and courteously. I rest my case!
-
-

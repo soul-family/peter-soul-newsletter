@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Doctors' surgeries and motorway queues"
 date: 'September 2003'
 body_class: 'bg-8'
@@ -29,5 +28,3 @@ The average time between cars is now actually more than two seconds, because of 
 I hope the queuing is less of a mystery to you now. There are other ways of looking at the problem. Perhaps the simplest is to say that if every driver is trying to keep a two-second gap in front, and more than 30 cars are trying to pass a given point per minute, then something has to give! Experts have also studied the way a 'shock-wave' of braking spreads backwards through heavy traffic, strengthening as it goes - while the driver who started it all disappears into the distance.
 
 I was surprised to read that the variable speed limit on the M25 in Surrey is now eight years old. Apparently it has produced a noticeable reduction in the severity of the shock-waves, by encouraging drivers to proceed more smoothly when the traffic is heavy. So why hasn't the system been tried out elsewhere - on other motorways, or on busy A-roads? By the time it is installed everywhere it is needed, we shall all be in a perpetual traffic jam.
-
-

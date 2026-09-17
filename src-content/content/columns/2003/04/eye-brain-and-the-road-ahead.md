@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Eye, brain and the road ahead'
 date: 'April 2003'
 body_class: 'bg-7'

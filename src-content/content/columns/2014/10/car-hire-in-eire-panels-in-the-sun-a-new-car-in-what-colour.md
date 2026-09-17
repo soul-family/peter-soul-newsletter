@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Car hire in Eire, panels in the sun, a new car in what colour?'
 date: 'October 2014'
 body_class: 'bg-1'
@@ -49,5 +48,3 @@ Meanwhile, here's a puzzle: Halfords conducted a survey, published in the silly-
 Lastly, I was most excited to find (belatedly) something else from 2012, a video-advert by Peugeot for their new Mood Paint: "A special psychochromatic coating, emitting light at varying wavelengths ... heat-reactive sensors in the steering-wheel read the driver's body-temperature ... changing the colour of your car to reflect how you're feeling." Below is a link to the advert; try to close your eyes to the exact date of it (shown right at the beginning, just as the commentary is starting)!
 
 [www.youtube.com/watch?v=xP5_5RDKxOY](http://www.youtube.com/watch?v=xP5_5RDKxOY)
-
-

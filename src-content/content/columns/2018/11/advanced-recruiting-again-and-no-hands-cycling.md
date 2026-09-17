@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Advanced-recruiting again, and no-hands cycling'
 date: 'November 2018'
 body_class: 'bg-4'
@@ -43,5 +42,3 @@ I can give you more Don'ts (see below) for no-hands riding, in case you possess 
 But as you might imagine, cycling hands-off is almost as risky as driving with no hands on the wheel. Do not attempt it near people, traffic or obstacles, or on an uneven surface, or in a cross-wind, or in Australia (where it's illegal in public spaces), or without toe-clips (because if a foot loses contact with its pedal you will crash). Also, you must keep your speed up and all your extremities protected...
 
 But who am I to lecture you: I haven't ridden a bicycle in 40 years!
-
-

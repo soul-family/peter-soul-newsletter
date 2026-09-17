@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Lighting up ' continued"
 date: 'March 2003'
 body_class: 'bg-5'
@@ -37,5 +36,3 @@ But this hardly begins to explain a bizarre display of lighting that I saw on th
 And what would happen when the driver tried to indicate left? I soon found out: the indicator winked a few times, together with the left rear light winking off. But then the right indicator and rear light took over - and then it was back to the left again! This switch-over must have been governed by the brake pedal too, as the car slowed down on the slip road.
 
 I have been trying since to work out how the lights on this car can possibly have been wired up so as to cause such an extraordinary performance. And if the front and rear indicators were connected together on each side (as they should be, of course) then pedestrians and oncoming traffic must have been just as confused, if not in some danger. It certainly left me with a headache.
-
-

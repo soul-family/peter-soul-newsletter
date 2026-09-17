@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Editor retiring, tyres suffering, electric cars soaring, eyes deteriorating'
 date: 'May 2016'
 body_class: 'bg-7'
@@ -43,5 +42,3 @@ Still, the arrival of the Model 3 with its 200+ mile range, six-second accelerat
 There was a long discussion recently in*Advanced Driving*magazine, under the heading*Are older drivers more dangerous?*My first thought was: More dangerous than what (or whom) - than younger drivers? Or than older ones used to be? Or simply more dangerous because of their increasing numbers? The discussion usefully explored all three aspects, though one point stood out (for me, at least), namely that eyesight worsens with age.
 
 It is astonishing that regular eye-examinations for drivers are not compulsory here, as they are in many other EU countries. And your eyesight can easily deteriorate significantly without your being at all aware of it. It's worth knowing too that conditions such as diabetes, hypertension, high cholesterol level and sometimes even cancer can be detected by an opthalmologist. So the serious message (and I'm not particularly addressing you now, Mr Editor!) is: get your eyes tested...
-
-

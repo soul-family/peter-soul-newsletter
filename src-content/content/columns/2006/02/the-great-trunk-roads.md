@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'The great trunk roads'
 date: 'February 2006'
 body_class: 'bg-5'
@@ -37,5 +36,3 @@ Then there's the A30 'Great South West Road' from Hounslow all the way to Lands 
 But the road which has suffered the greatest indignity is surely the A34. Although this originally went only from Winchester to Oxford, for much of the last century it marked the backbone of England as far as Manchester. Then, with the completion of the M40, fifty miles of the A34 were cut out between Oxford and Birmingham - or rather, it was renumbered in two sections: A44 and A3400.
 
 And here are the final absurdities: in the great radial pattern of trunk roads the new A3400 sits midway between the A4 and A5. So if the carve-up had to be done at all, this leg ought to have been given a number beginning with 4! As for the now isolated stretch of the A34 through Birmingham and up to Manchester, plainly it too should have received its own number, starting with either 4 or 5. The road-map of England doesn't always delight the mathematician and the map-lover in me...
-
-

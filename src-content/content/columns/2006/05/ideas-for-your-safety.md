@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Ideas for your safety'
 date: 'May 2006'
 body_class: 'bg-1'
@@ -37,5 +36,3 @@ The occasional temporary camera half-way along a road would catch the smart alec
 But all this is mere tinkering with the problem of how to raise driving standards. Learning to drive should be organized as a compulsory progression through several levels and tests (just like ordinary education), each one rewarding the student with more freedom to drive - at higher speeds, after dark, on motorways and so on - rising to the present advanced-motorist standard.
 
 I suppose this scheme would have to be made voluntary for existing drivers (non-advanced) but if so, then I would have no hesitation in imposing on any opters-out an old idea for instantly making them safe on the roads: fix a spike to the centre of their steering wheels and confiscate their seat-belts.
-
-

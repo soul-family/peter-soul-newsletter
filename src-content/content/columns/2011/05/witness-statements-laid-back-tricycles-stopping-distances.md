@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Witness statements, laid-back tricycles, stopping distances'
 date: 'May 2011'
 body_class: 'bg-3'
@@ -41,5 +40,3 @@ Going back to my second sentence at the beginning, however, I would say there's 
 A question, to end with. The driving regulations say, in effect, that at traffic lights an amber means red if you can stop safely behind the line, or green if you can't. (Why doesn't the Highway Code print this same clear message, instead of the rather different instructions in Rule 175? But that isn't my question.) In a similar vein, the first rule of advanced driving is to ensure you can brake to a halt safely in the distance you can see to be clear. But both these precepts imply that you need to have a proper feel for your own minimum stopping distance at different speeds.
 
 What I would like to know is: how can you acquire this feel - even just in the dry and on the flat, let alone in other conditions - except by carrying out a considerable amount of emergency-stop testing yourself? Please don't say: study the stopping-distance table in the Highway Code! It hasn't been revised in 65 years. Its numerical distances are not easy to apply to your view along the road, especially at different speeds. And anyway the thinking-distance components are too short (in my view), hence the overall figures are surely too optimistic. So forget about practising on a skid-pan: what we need is access to a whole layout of road surfaces and gradients, where we can brake non-stop.
-
-

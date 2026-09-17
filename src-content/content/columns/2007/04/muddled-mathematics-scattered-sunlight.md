@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Muddled mathematics, scattered sunlight'
 date: 'April 2007'
 body_class: 'bg-5'
@@ -37,5 +36,3 @@ Sometimes light finds itself travelling in a very gentle curve. This happens, fo
 A similar thing is taking place when the sun appears to be flattened a bit at sunset. And in very rare circumstances, on a desert trek perhaps, you might see a classic mirage, in which light is refracted many miles around the curve of the earth's surface through the atmosphere, showing you distant wonders (or rather, wonderful optical distortions of distant things that are probably quite ordinary).
 
 Finally, I congratulate John Connor [a fellow columnist in our newsletter] on referring to Einstein in only his second column, last month - when I haven't found an excuse to do so in nearly five years, until this month! What Einstein said and what John misquoted (deliberately) was: "When a man sits with a pretty girl for an hour, it seems like a minute. Let him sit on a hot stove for a minute and it's longer than any hour. That's relativity." But I also like another law attributed to him: "Any man who can drive safely while kissing a pretty girl is simply not giving the kiss the attention it deserves."
-
-

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'escaping'
 permalink: /content/escaping/
 body_class: 'bg-7'
@@ -52,5 +51,3 @@ To me, the above advice is all rather like First Aid, except that it's for savin
 -0-0-0-
 
 © 2026 Peter Soul
-
-

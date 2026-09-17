@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Eyes in the dark'
 date: 'July 2002'
 body_class: 'bg-7'
@@ -29,5 +28,3 @@ What the mirrors are doing is cleverly reflecting every ray of light exactly bac
 Number plates, road signs and reflective clothing have coatings on them which contain either these mirror triangles (in microscopic size) or else tiny round glass beads, which can also do the reflecting-back-to-you trick.
 
 If you experience a sudden glare from a road sign on a day when the sun is high, it probably happened because sunlight reflected off your windscreen towards the sign which then sent a reflection straight back, through the windscreen and into your eyes. Don't complain, though - at least it means you noticed the sign!
-
-

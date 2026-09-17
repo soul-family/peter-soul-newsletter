@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Summing up a career, and giving pedestrians the eye'
 date: 'September 2018'
 body_class: 'bg-5'
@@ -45,5 +44,3 @@ According to the research manager at Jaguar LR, "It's second-nature to glance at
 With so many other tricky aspects of introducing autos to be sorted out too, I can't see that the obstacles to running them freely on open roads will be overcome any time soon, in spite of the hard work being done by all the companies that are trying to develop them. One such is Google - but the news from the US town where a subsidiary business has been testing minivan-autos is that they are greatly disliked by residents.
 
 Their reasons are the caution that's programmed into the vehicles, and (especially) the unnatural behaviour they exhibit in (a) following traffic laws to the letter, and (b) expecting human drivers and pedestrians to do the same. Somehow the antipathy will have to be overcome, but how?*There's*a challenge to be grappled with, by the clever teams at Google University...
-
-

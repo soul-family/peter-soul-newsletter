@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'From 0 to 60, from sidelights to headlights, from England to Wales'
 date: 'February 2008'
 body_class: 'bg-4'
@@ -41,5 +40,3 @@ Incidentally, do Austrian plumbers work to their own set of rules? The radiators
 Last month our newsletter editor gave us some advice:_If you have a large fuel tank don't fill it up when you're only doing local journeys - carrying excess fuel around wastes fuel_. This is true, but the question is, how much is wasted and what's saved instead? I investigated this in [January 2006](./2006/01/filling-to-the-brim-air-bag-safety-spare-specs-in-spain.md). If you fill the tank with say 40 litres each time instead of half-filling it with 20, I estimate that your average consumption rises by the equivalent of paying only around 10p more per tank-full (at current prices). You may well think this is a fair outlay for halving the number of times you have to stop off at the pumps, whether you're doing local journeys or long ones.
 
 Finally, the answer to the brain-teaser above: your 0 to 60 dash in ten seconds instead of twenty will save you not even ten seconds' journey time, but*five*. So just take it easy (and perhaps you will save some fuel too)!
-
-

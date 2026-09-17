@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Listening to my Corolla and inspecting a driving licence'
 date: 'April 2012'
 body_class: 'bg-4'
@@ -37,5 +36,3 @@ The next thing that stands out is the heading*Provisional Entitlement*(on the sh
 As for the groups that you are permitted to drive on your own already, it's only when the card is turned over that these (or two of them) become clear. At least, I assume that's the meaning of the outlines of a car, and a car plus a trailer, printed on the back. Though I notice that the trailer isn't attached to its car...
 
 And here's another oddity: I don't know how Driver Numbers are generated for new drivers nowadays, but certainly the middle section of the number used to be based on the digits of your date of birth. The idea was, I recall, that the latter could be easily checked by an official, but would not be embarrassingly obvious, perhaps, to anyone else who happened to catch sight of your licence. Yet the front of the card-component of a two-part licence states your d-o-b undisguised! I suppose it's the logical extension of having car-registration plates that clearly indicate the age of your car - and everyone seems happy with that.
-
-

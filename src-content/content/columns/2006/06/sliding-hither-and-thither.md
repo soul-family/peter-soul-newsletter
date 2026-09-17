@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Sliding hither and thither'
 date: 'June 2006'
 body_class: 'bg-8'
@@ -43,5 +42,3 @@ Then it was our turn to try. It wasn't always easy to remember to steer at the s
 The final event was a time-trial in the BMW: once around the slippery track in each direction, requiring a tricky 180 turn after the first circuit. The plan was that each of us would drive the course carrying the next person on the list as passenger. My mistake was to go out first, before I'd fully taken in the route to be followed. I didn't mention that Mrs S was also enjoying the day's fun and games, did I - her mistake was to be second on the list!
 
 She had grasped the route to start with, but unfortunately my performance confused her totally for her turn. Still, between us we gave the other ten a good chance to work out what to do themselves. As for our own timings ... I'd say they were a tribute to our most careful and cautious driving under difficult conditions.
-
-

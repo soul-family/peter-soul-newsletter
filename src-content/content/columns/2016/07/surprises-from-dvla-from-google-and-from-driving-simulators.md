@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Surprises from DVLA, from Google and from driving simulators'
 date: 'July 2016'
 body_class: 'bg-3'
@@ -45,5 +44,3 @@ What I'm really getting round to is a result (from a simulator) that I reported 
 I've since found two other investigations that reached similar conclusions, except that one of them probed further and found a difference between 'safe' drivers and risk-takers: the latter were more affected (as described above) than the others, when cruise control was on. Well, maybe so, though anyway we can't be certain that some of the deterioration in attention wasn't just a side-effect of being tested in a simulator for more than an hour! But I am willing to believe that it occurs on the road too, when anyone engages cruise control and feels that they can relax. And so I've not touched that switch for two years.
 
 Should you avoid it too? That's up to you - but I can't help thinking that ignoring cruise control might make your holiday journey just a bit safer...
-
-

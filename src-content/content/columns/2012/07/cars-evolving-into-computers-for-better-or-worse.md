@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Cars evolving into computers, for better or worse'
 date: 'July 2012'
 body_class: 'bg-3'
@@ -41,5 +40,3 @@ Which reminds me to repeat a warning that I have hardly ever come across elsewhe
 A couple of footnotes to my May column which I wrote from France: I observe that French wall-sockets rarely if ever have switches attached to them. Now the purpose of a switch is to connect and disconnect current rapidly (and safely), especially a large current. Plugging in or unplugging is slower, and will cause sparking and damage to the connectors as they slide past each other, assuming the equipment itself is kept switched on. So how is it that foreign sockets don't wear out - fast enough at least for their owners to be complaining about them?
 
 And a reader has helped me clear up my puzzlement over the word*brit*: it comes from*ebrius*, the Latin for drunk, whereas our opposite-sounding word inebriated derives from*inebriare*, meaning to intoxicate. This seems to suggest that at the time of the Roman invasions the French were already partial to a drink, while the sober Britons suddenly had southern liquour pressed upon them and, being polite...
-
-

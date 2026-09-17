@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Consequences of punctures and worse'
 date: 'November 2012'
 body_class: 'bg-4'
@@ -39,5 +38,3 @@ Other disturbing factors in accidents are intoxication and tiredness. Even a sma
 Worse: if the body needs sleep, it may take it without warning. One group at least has some excuse for not appreciating this: undiagnosed sufferers from sleep apnea, which interrupts their night-time rest and leaves them feeling tired the next day, but not aware of being at risk of suddenly dropping off, apparently. By one estimate, nearly 140,000 HGV drivers have some degree of sleep apnea - in addition to many other people at the wheel.
 
 We were also told that boy racers are a consequence of evolution, which has equipped adolescent males with enquiring and thrill-seeking brains. Unfortunately, nature didn't anticipate the arrival of souped-up cars for them as well! But then the message of this second programme seemed to be that you can take almost any grouping of people and point to the factors that tend to put them at risk on the road; what you can't easily achieve is making them want to do much about it...
-
-

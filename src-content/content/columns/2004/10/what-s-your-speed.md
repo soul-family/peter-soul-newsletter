@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "What's your speed?"
 date: 'October 2004'
 body_class: 'bg-7'
@@ -43,5 +42,3 @@ There's one situation where you can instantly detect acceleration just by lookin
 Recently, however, I was astonished to see a car waiting to emerge from a petrol station but with the wheels apparently already turning. Then I realized I was looking at a set of exotic free-wheeling hub-caps! They eventually stopped spinning and then stayed that way as the car moved off. I found this sight extremely disorientating, and I am hopeful that hub-cap bearings soon filled up with road dust.
 
 I haven't even touched on the other vital aspect of assessing speed and acceleration: the fact that drivers around you are attempting to assess yours. Another time, perhaps.
-
-

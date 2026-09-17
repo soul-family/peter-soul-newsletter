@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Writing from France'
 date: 'November 2017'
 body_class: 'bg-8'
@@ -43,5 +42,3 @@ When I mentioned French speed limits at the start, I didn't mean that I myself a
 Our kind*chauffeurs*seem unconcerned about the consequences if their steering-column airbag happened to blow up while an arm was across it, or their face placed too near. As for being tailgated,*c'est la vie*apparently. One-handed steering is not uncommon. Stationary wheel-turning is habitual - even though tyres are plainly designed for*gripping*the road, not slipping round on it! But I guess the average driver would say that the chances of mishap from these behaviours aren't big enough to worry about.
 
 In advanced driving we look at things differently: the aim (as I see it, anyway) is to try to consider all such risks, and to drive in a manner that reduces them to as near zero as possible (while still allowing us to make reasonable progress along the road). A bit of a headache sometimes, maybe, but surely worth it...
-
-

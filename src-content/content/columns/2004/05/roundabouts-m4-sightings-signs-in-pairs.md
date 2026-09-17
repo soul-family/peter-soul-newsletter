@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Roundabouts, M4 sightings, signs in pairs'
 date: 'May 2004'
 body_class: 'bg-7'
@@ -37,5 +36,3 @@ But in fact over the two miles your distance from the tower is halved - hence it
 Finally, any road sign that shows a road layout, for example a staggered cross-roads or a roundabout, is obviously meant to be 'read upwards' as if you are traversing it from bottom to top. Why then is a*pair*of signs on a single column always arranged so that the lower hazard is the one you will meet second? I can't find any mention of this illogical rule in the book*Know your traffic signs*.
 
 Except, believe it or not, I've just noticed that a new pair of signs around the corner from home is arranged in the wrong order (ie, the logical way)! I am torn between reporting this error to the local authority and putting up some barbed wire so that they can't spoil the logic.
-
-

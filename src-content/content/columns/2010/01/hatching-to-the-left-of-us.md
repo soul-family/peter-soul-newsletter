@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Hatching to the left of us...'
 date: 'January 2010'
 body_class: 'bg-1'
@@ -43,5 +42,3 @@ I replied politely with my objections to all this, but heard nothing further. It
 At least hatching with a broken line gets a mention in the Highway Code, as I said. As for this other sort, I predict that the DfT will soon notice that it has spread across the country, realize the regulations don't cover it, quietly put a diagram of it (on the left) into the next update, and include both diagrams (left and right) in the 'must-not-cross' list, of course. Finally, solid-border hatching will appear as a prohibition in the Highway Code: one more set-back for drivers?
 
 I might mention that this story was not written in just a single session of keyboard-tapping. Every so often Mrs S has whispered "cupboard!" in my ear - with the result that we have managed to complete that job too, including emptying the several boxes. Next: where did I last see the Araldite...?
-
-

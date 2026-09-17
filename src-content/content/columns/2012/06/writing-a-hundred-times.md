@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Writing a hundred times'
 date: 'June 2012'
 body_class: 'bg-8'
@@ -45,5 +44,3 @@ A recent contributor to my daily paper described himself as a retired mathematic
 But even so, Mr Editor [of the Thames Valley Group Newsletter], I can't promise to deliver another 100 columns!
 
 [His printed response was: "You think I'll still be editing in 100 issues' time?"]
-
-

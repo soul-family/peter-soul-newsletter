@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Turning wheel-nuts and corners'
 date: 'April 2004'
 body_class: 'bg-5'
@@ -35,5 +34,3 @@ But here's a puzzle: on a frosty or icy corner the wheel becomes noticeably easi
 I guess the answer must be that parts of the front treads have to rub across the road surface while you are in the process of rotating the wheel. This sliding is smoother when it's frosty, but adds to your labours when the road is dry. What surprises me is that it happens at all as you steer into a normal corner. I would have thought that the forward motion would give the treads plenty of time and distance to change their angle without rubbing - but evidently not.
 
 In slow-speed manoeuvring, of course, there is bound to be sliding of rubber across the road surface. And I've just realized that all this dragging explains the much smaller number of little stones that I find in the front tyres - they must get pulled out almost as soon as they get stuck in!
-
-

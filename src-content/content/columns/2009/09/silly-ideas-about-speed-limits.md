@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Silly ideas about speed limits'
 date: 'September 2009'
 body_class: 'bg-5'

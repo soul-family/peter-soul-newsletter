@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'In a class of my own when driving or walking'
 date: 'January 2012'
 body_class: 'bg-3'
@@ -37,5 +36,3 @@ And consider the driver's point of view: as I approach these crossings by car, I
 Surprisingly perhaps, physics is one more pursuit where I seem to be alone in level of ability: my fellow graduates of years ago mostly either went on to higher things or else dropped the subject altogether. Me, I sensed my limitations, but I kept hold of what I could understand, and was able to apply some of it (as well as a physicist's ways of thinking) in my career - and for nearly ten years of writing these columns.
 
 But as I said at the start of this piece, I do tend to focus on a single task, so I've not achieved much else today! And already it's nearly time to wish you a Happy New Year...
-
-

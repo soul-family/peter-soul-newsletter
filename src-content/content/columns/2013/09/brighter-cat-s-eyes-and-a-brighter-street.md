@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Brighter cat's-eyes and a brighter street"
 date: 'September 2013'
 body_class: 'bg-8'
@@ -35,5 +34,3 @@ Early this month, a news item linked physics and motoring in a novel way. In cas
 And the problem was entirely predictable, because it had occurred previously - in front of a hotel in Las Vegas designed by the same architect! Anyway, I've studied several photos of the Walkie-Talkie building in the sun, and I can report that the optical efficiency of its glass wall, as a focusing mirror aimed at Eastcheap, is in fact rather poor: the street might have become a great deal hotter if the curvature of the wall had been only slightly different. Though even as it is, there are probably locations on the roofs of nearby buildings where the reflection is better focused (depending on the time of day) and the pigeons are in considerable danger of vanishing in puffs of smoke.
 
 Since writing in July about trading in a 16-year-old Corolla for a three-year-old Golf, I've got to know my new car a bit better. Its lesser features include nice ones that were a surprise to me (such as a rear-view mirror that dims automatically when bright headlights approach behind); others that are good to have again after a dozen or more years without them (knobs on the radio, for volume and for tuning - as well as preset station-buttons of course); some features that are totally pointless (a twin-exhaust outlet on the end of a single-pipe system); and a few that are definite steps backward, such as not displaying the total mileage while I'm on the move ... where's the point in my wanting to take this car, like I did its two predecessors, to 100,000 miles (and beyond) if I won't actually see this happen?
-
-

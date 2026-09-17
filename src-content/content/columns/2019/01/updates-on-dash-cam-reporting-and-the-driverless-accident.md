@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Updates on dash-cam reporting and the driverless accident'
 date: 'January 2019'
 body_class: 'bg-1'
@@ -45,5 +44,3 @@ Now, I wonder if you are wondering how I'm getting on with my smartphone. I told
 Other software that I've installed includes the Reading Buses app which cleverly shows exactly where my local bus is, on a map of its approach route, so that I don't have to go out and wait for it in the cold longer than necessary. What I think this app is lacking, though, is a communication link back to the driver, which I could have made good use of the other day (heading for home from hospital) when I arrived within sight of the stop just as the bus was moving off.
 
 I've found too that hospitals offer wi-fi connection - helpfully, as I'm still visiting the Royal Berks once a week for chemotherapy. (One benefit of this treatment, I'm half-certain, is that my ears are making less wax, hence my hearing has improved!) The chemo ends next month: I then cross my fingers, hoping that my own case has reached a resolution...
-
-

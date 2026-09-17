@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Old cars, new directions'
 date: 'April 2009'
 body_class: 'bg-4'
@@ -43,5 +42,3 @@ I reported this chaotic signage to W Sussex County Council via their website thr
 Well, the good news is that the GW and PO signs have indeed now been turned around (though not the triangle). The bad news - for the council - is that I have been looking at the official Traffic Signs Manual for local authorities, plus the regulations that back it up. It's clear that at the end of any priority section of road, you should*not*be faced with the printed instruction plate repeated, just the double-arrow sign again and the END plate below it.
 
 Also, when my particular PO sign was turned to point the right way, an END plate should have been attached to it. And various signs are out of order elsewhere too, on my regular route through the county. Hello again, W Sussex County Council...
-
-

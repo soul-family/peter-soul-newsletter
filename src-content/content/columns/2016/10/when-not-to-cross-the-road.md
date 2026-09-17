@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'When not to cross the road'
 date: 'October 2016'
 body_class: 'bg-3'
@@ -49,5 +48,3 @@ Later I started to count the different lessons that might usefully be learnt fro
 Similarly, if I'm starting along a length of road that has been 'narrowed' on the right-hand side (by parked cars, for instance), and in the distance an oncoming vehicle is about to move out and then present me with a tight squeeze as it passes, I see nothing wrong with moving out a bit myself first - deliberately and clearly giving the other driver no room to pass at all.
 
 I think that's enough lecturing for one column! Anyway, I'm glad to have been extracting lessons from a near-accident, instead of from an actual one...
-
-

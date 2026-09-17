@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'The irresistable rise of electric and driverless vehicles'
 date: 'January 2018'
 body_class: 'bg-3'
@@ -43,5 +42,3 @@ What will probably delay the appearance of autos (particularly higher-technology
 To find it, google PA Consulting Autonomous, and go for the Autonomous result. Scroll down its page until you see "Download the UK Report". (You will have to provide a few innocuous details about yourself before downloading.) I should mention that what I like to call 'autos', the authors of the report refer to as 'CAVs'. Also, rather confusingly, having first set out the five levels of automation I referred to above, they ignore them and bring in their own five-level scale for assessing progress towards the various goals.
 
 A cartoon at the start nicely illustrates the complexity of introducing autos to public roads. But don't copy my mistake: for quite a while I failed to notice that below this cartoon the report was double-page spread, and that I was reading only the left-hand pages in my (reduced-size) screen window!
-
-

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "All sorts of energy ' continued"
 date: 'April 2006'
 body_class: 'bg-4'
@@ -39,5 +38,3 @@ Q2 - Again you are driving at 30 mph, but with less care: you suddenly notice an
 Is the answer to Q1 ten miles per hour? Fifteen? Twenty? Surely not 25? No indeed - the colliding speed of the other car will be*thirty miles per hour*. Why so high? Partly it's the greater Thinking Distance at 40 mph, but mostly it's*E*=*mv*2again and a curious fact hidden within this formula: in 'steady' braking you actually shed most of your speed only in the last few (life-saving) metres.
 
 You still won't guess the answer to Q2, I'm sure: it is 27 mph! Here your downfall is your own Thinking Distance, which leaves you almost no space for braking. Now imagine the obstacle is a person, remember the 100 bullets and resolve never to drive so that you cannot stop in the space that's clear ahead.
-
-

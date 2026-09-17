@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Global warming, bodily cooling, new-year resolving'
 date: 'January 2013'
 body_class: 'bg-1'
@@ -39,5 +38,3 @@ A year comes, a year goes: one of my achievements of last year can be seen on th
 And so to New Year Resolutions: I am attempting to keep to two. If my car has a tendency to nose above the speed limit (and I'm not saying it does, mind), most often this is when I'm accelerating. I have resolved to get into the habit of checking the speedo - and double-checking the speed limit - every time I put my foot down.
 
 The other promise to myself relates to adjusting the car radio and the other controls that take your attention away from the road: I've long known that looking down while doing it, however briefly, is asking for trouble. So I make myself concentrate even harder on the road ahead, instead. But I began to notice that you can actually overdo the concentration, with the result that you are focusing only on the*lane*ahead and not on what's going on in adjacent lanes or in oncoming traffic. Resolution: I must keep my eyes even more peeled!
-
-

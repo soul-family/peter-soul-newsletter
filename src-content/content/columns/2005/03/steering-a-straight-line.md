@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Steering a straight line'
 date: 'March 2005'
 body_class: 'bg-8'
@@ -37,5 +36,3 @@ This all goes to show how fragile the steering feedback loop is - yet we rely on
 But even a negative-feedback loop can become unstable. If this happens to steering, the result is bigger movements of the wheel. I don't mean like when you are steering around obstacles, but when the wheel is simply moving to and fro more than usual, under your hands.
 
 I try to watch for this extra movement, as a warning that something I haven't consciously noticed is trying to disrupt the steering feedback loop. It might be cross-wind, or slightly reduced visibility ahead, or haze on the windscreen, or tired eyes, muscles or brain, or maybe some combination of these - good reason anyway to slow down a bit. In fact, what I'm looking out for is negative feedback on my driving performance!
-
-

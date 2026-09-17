@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Motorway noise'
 date: 'October 2002'
 body_class: 'bg-1'
@@ -27,5 +26,3 @@ Another effect comes into play when sound waves are travelling at a shallow angl
 But in autumn (I guess) the sudden cool of the evening makes it more likely that a layer of cold air will settle over the ground, with warmer air above. Some of the traffic noise will then be trapped and channelled out through this layer, flowing like a sheet of water for a long distance without getting quieter. Hence our mildly disturbed nights.
 
 Actually the sheet-of-water analogy is a bit misleading, because the noise from each individual vehicle spreads out over the ground in all directions, not just due north and south. This is how we get the sound-impression outside of a wide waterfall. It also explains why in the small hours I am sometimes able to hear the noise of a high-speed bike on the M4 continuing for anything up to a minute. I just hope the rider is more wide awake than I am.
-
-

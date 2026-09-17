@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Accelerating on the spot, expanding on the map, growing on the lip'
 date: 'November 2010'
 body_class: 'bg-5'
@@ -37,5 +36,3 @@ More about the hired Kia I mentioned last month: once I had got used to the indi
 Lastly, a follow-up to my medical tale in [March](./2010/03/calls-and-recalls.md): in this month of<u>Mo</u>vember, I and other men have been growing<u>mo</u>ustaches. We're doing it to increase awareness of prostate cancer, which kills 10,000 men every year because it was not diagnosed early enough for successful treatment (are you male and over 50?: see your GP about checking your blood-PSA level annually - also about any water-works trouble you may be having!). And to raise funds for the Prostate Cancer Charity, which supports both sufferers and research into better treatments. To find out more, and to see the result of my best efforts at cultivation, go to my special webpage:[http://uk.movember.com/mospace/1120260](http://uk.movember.com/mospace/1120260). Many thanks for your interest.
 
 [The answer to the snowball test: one diameter is twice the other.]
-
-

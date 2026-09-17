@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Wasteful headlights, doubtful percentages, unhelpful indicators'
 date: 'May 2007'
 body_class: 'bg-7'
@@ -37,5 +36,3 @@ Sorry - this has become a maths lesson! Let's get back to lights, specifically l
 My owner-informant says that this seemed a great idea at first, but when the novelty wore off he realized how easy it was to flick the stalk lazily for three flashes even though five or six would be more appropriate, when changing lanes on a motorway for example. Also, if he tries to give a quick left-right flash as a thank-you signal to someone behind, the indicators cause confusion in all directions. It doesn't seem possible to disable this three-flash mode.
 
 The other item may be of interest to owners of Volvos whose dashboards show a reminder light when the next service is due. Suppose the service has been performed early, or you've carried it out yourself, or there's some other reason why you want to extinguish the light. How to do it? Just press the mileage trip-button for a few seconds. That should save you at least one drop of petrol!
-
-

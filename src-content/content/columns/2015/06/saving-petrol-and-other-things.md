@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Saving petrol and other things'
 date: 'June 2015'
 body_class: 'bg-8'

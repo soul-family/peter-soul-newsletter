@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Seeing after dark, handling jump-leads, buying a starter-pack'
 date: 'January 2008'
 body_class: 'bg-7'
@@ -41,5 +40,3 @@ Next, fasten the black lead to the negative terminal on the good battery. The ot
 OK, it weighs about five kilograms and the jump-leads are short, but in most flat-battery situations it must be easier to restart this way than from another car (though your electronics might still be at risk - see above). The internal pump works about as fast as a foot-pump when you're fit. If you bought an invertor too, to run off the 12 V socket, you could power almost anything anywhere at 240 V. You can recharge the starter-pack (slowly) from the mains or from a running car (the cigar socket).
 
 But alas: it's January now as I finish writing this column, and on the website the starter's back to £39.99 (inclusive).
-
-

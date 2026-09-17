@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Filling to the brim, air-bag safety, spare specs in Spain'
 date: 'January 2006'
 body_class: 'bg-3'
@@ -35,5 +34,3 @@ If a shop can afford to shout Buy One, Get One Free, why can't it sell the singl
 You would have to pay out again of course for developing the vital images if needed, but that too would be money well spent. I know that most mobile phones newer than mine contain a camera - but I suspect you would not obtain as good a print from them, especially after dark.
 
 The final puzzle comes from the book*Driving Abroad*, which states that if you need glasses for driving, then in Spain it is a legal requirement that you carry a spare pair in the car (a sensible thing to do anyway, of course). But let's say you damage the specs you are wearing, and so you put the others on. Now you have no usable spare pair to satisfy the regulations and more importantly*la\**policia*if you are stopped! Is it acceptable to wave the broken specs at them? If not, then it seems to me that you really need to have two spare pairs on board to start with. The moral is: never throw an old pair of glasses away...
-
-

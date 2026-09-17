@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'A driverless tragedy, and a smartphone review'
 date: 'July 2018'
 body_class: 'bg-3'
@@ -43,5 +42,3 @@ Then there are the basic absurdities: the camera system in a smartphone has an e
 But I digress: I said this was going to be a confession! After my first stay in hospital a few weeks ago, when I was reduced to sending and receiving texts on my little old (er, 12 years old) mobile phone, my sister put it to me that not having a smartphone of my own was an inconvenience to everyone in the family who would like to be able to keep in easier contact with me, particularly via something called WhatsApp.
 
 She also gently reminded me of a previous situation we faced, when our late father refused (until only a few months before he died) to acknowledge his deafness and accept a hearing-aid, simply not comprehending the difficulties he was causing for all of us. Well, that persuaded me, and so I have just acquired the largest 'inexpensive' Android phone that I could find (the screen is six inches on the diagonal), also a thick folding holder for it - and, in the holder, a convenient slot to which I have attached a strap. The whole thing weighs a ton and fills a pocket, but never mind. Now, what's this WhatsApp app all about...?
-
-

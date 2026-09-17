@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'A parade of tactics'
 date: 'June 2013'
 body_class: 'bg-4'
@@ -37,5 +36,3 @@ Which leads to my idea for this column: taking a look at how I myself drive. As 
 *Balance left and right.*As you turn the steering-wheel, aim to keep your hands level with each other, rising or falling, one hand pulling or pushing the wheel round while it slides through the other. This has at least one safety advantage over cross-hand steering, namely that you can always turn the wheel instantly in either direction in an emergency. OK, advanced-driving advice allows hand-over-hand action for slow manoeuvring - but I am always unnerved by the sight of a driver's hand temporarily stuck fully crossed, with no way of adding more lock immediately if needed...
 
 I worry too about any risk of the air-bag going off while your forearm is across it (though I believe that modern bags are programmed not to activate at low road-speeds). But let's be positive: the chances of a mishap on the road are tiny to start with, perhaps an average of one per 600,000 miles driven. Applying 'advanced' tactics makes them smaller still, as well as adding some sparkle to your journey!
-
-

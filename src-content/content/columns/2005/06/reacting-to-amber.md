@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Reacting to amber'
 date: 'June 2005'
 body_class: 'bg-7'
@@ -39,5 +38,3 @@ I've just noticed, by the way, that this manoeuvre provides an answer to my thir
 As for the first question: according to the regulations, the meaning of the amber light is Do Not Cross The Line (except when you are too close to it to be able to obey an amber following green). The same goes for red of course. This is also the message in one of the sections in the Highway Code. What surprises me is another section saying that unless green is showing, "You MUST stop" behind the line - even though there is really no requirement to stop (until you reach the line).
 
 The second question has a double answer, because the amber light stays on for three seconds on its own but only for two seconds with the red. At least that's what I've observed everywhere, since I started thinking about this month's column. Before then I never even noticed the times were different. Call myself a scientist!
-
-

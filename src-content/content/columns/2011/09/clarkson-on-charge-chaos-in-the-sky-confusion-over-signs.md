@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Clarkson on charge, chaos in the sky, confusion over signs'
 date: 'September 2011'
 body_class: 'bg-4'
@@ -37,5 +36,3 @@ Then we passed a side road with a pair of big 40 signs at the entrance to it. Na
 Well, I think I've now unconfused myself, having studied both the traffic-sign regulations and the manual that explains them to the highways authorities. One regulation says: large terminal signs shall be placed at each end of a road with a speed limit. The next says: this isn't necessary at a T-junction if the limits are the same on both roads. But evidently Surrey CC, in their wisdom, decided to put terminal signs there anyway, at the risk of misleading someone logical like me. I now drive looking neither to left nor right (only joking).
 
 Finally a real silliness: I've no intention of driving in Spain, but (as I wrote here a while ago) I am perplexed by the requirement mentioned in July's newsletter that if you wear specs then you must carry a spare pair. Obviously it's a good idea to do so. But let's say you damage your regular glasses and don the spare pair to drive: you're now breaking the law (think about it!). Where's the sense in a regulation that stops you from using the very item it requires you to carry?
-
-
