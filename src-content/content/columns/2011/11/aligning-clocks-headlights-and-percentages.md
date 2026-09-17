@@ -1,7 +1,7 @@
 ---
 title: 'Aligning clocks, headlights and percentages'
 date: 'November 2011'
-body_class: 'bg-8'
+background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_9x_6.gif'
     width: 96
     height: 54
-permalink: /content/columns/2011/11/aligning-clocks-headlights-and-percentages/
 ---
 
 From October into November ... first the tedious task of tracking down every clock, watch and timer in the house (and not forgetting mobile phones, clocks in the cars etc) to put them back an hour, and then the ordeal of resetting the body clock, which takes me a week and loses me an hour of sleep every morning until I've done it.

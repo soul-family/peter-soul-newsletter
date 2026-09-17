@@ -1,7 +1,7 @@
 ---
 title: 'Reviewing cruise control, replacing tyres, offending at bus gates'
 date: 'February 2019'
-body_class: 'bg-8'
+background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_10x_11.gif'
     width: 96
     height: 54
-permalink: /content/columns/2019/02/reviewing-cruise-control-replacing-tyres-offending-at-bus-gates/
 ---
 
 Well, I seemed to be in a minority of one at last month's [Thames Valley] group meeting! Ryan Francis, the guest speaker, had arrived to talk about*in-car driving aids*- but one of the 'in-meeting presenting aids' (the screen) had been overlooked. While we waited for it to be delivered, Ryan took questions, and the first topic to be raised was cruise control. He said that he used this every day, though only on open and unbusy sections of road, and others agreed that if you were familiar with cruise control and employed it carefully, it was a good thing.

@@ -1,7 +1,7 @@
 ---
 title: 'From one car to the next'
 date: 'May 2005'
-body_class: 'bg-5'
+background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_8x_2.gif'
     width: 96
     height: 54
-permalink: /content/columns/2005/05/from-one-car-to-the-next/
 ---
 
 Questions on my mind ... the first one follows on more or less from my survey of driving habits last month: is it an easy task (for the brain) or a difficult one, to get accustomed to a different car? I don't renew my car very often - in fact as infrequently as possible - but I do recall that it takes me at least a week or two to feel completely comfortable in the new driving seat.

@@ -1,7 +1,7 @@
 ---
 title: "Brighter cat's-eyes and a brighter street"
 date: 'September 2013'
-body_class: 'bg-8'
+background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_19x_2.gif'
     width: 96
     height: 75
-permalink: /content/columns/2013/09/brighter-cat-s-eyes-and-a-brighter-street/
 ---
 
 When I get something wrong, I'm the first to apologise and to correct myself ... even if it was only slightly wrong, and eleven years ago! In the very first of these columns ([July 2002](./2002/07/eyes-in-the-dark.md)) I described how a set of three mirrors, when angled as if in the upper or lower corner of a room, cleverly reflect light back in exactly the direction it came from. I said that this is how glass cat's-eyes work (ie, having the three corner-reflecting surfaces at the back of the solid glass) and I implied that they had been made this way since being invented by Percy Shaw in the 1930s.

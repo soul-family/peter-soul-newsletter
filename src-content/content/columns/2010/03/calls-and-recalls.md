@@ -1,7 +1,7 @@
 ---
 title: 'Calls and recalls'
 date: 'March 2010'
-body_class: 'bg-3'
+background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_22x_5.gif'
     width: 79
     height: 42
-permalink: /content/columns/2010/03/calls-and-recalls/
 ---
 
 Mrs S and I attend a weekly French class. For reasons I won't go into right now, I was obliged to miss a few lessons, and last week (as I write) was my first time back. I'd been too busy even to think about the homework that I knew had been set. One of the instructions was: prepare a description of an object that's special to you, which you can read out to the others for them to guess at.

@@ -1,7 +1,7 @@
 ---
 title: 'Life on other planets and a life on this one'
 date: 'September 2015'
-body_class: 'bg-5'
+background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_22x_2.gif'
     width: 79
     height: 42
-permalink: /content/columns/2015/09/life-on-other-planets-and-a-life-on-this-one/
 ---
 
 Sixty-plus years ago, my parents suddenly started encouraging my young curiosity about astronomy. I was about to face an interview at a secondary school, and their idea was that I would have useful answers when asked about my interests. It seemed to do the trick! And if I had taken any different path though life, certainly I would not have met Mrs S at an astronomy 'gathering' 30 years later...

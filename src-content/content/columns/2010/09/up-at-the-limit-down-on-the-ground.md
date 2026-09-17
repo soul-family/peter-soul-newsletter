@@ -1,7 +1,7 @@
 ---
 title: 'Up at the limit, down on the ground'
 date: 'September 2010'
-body_class: 'bg-8'
+background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_2x_4.gif'
     width: 96
     height: 43
-permalink: /content/columns/2010/09/up-at-the-limit-down-on-the-ground/
 ---
 
 Motorists can be divided, I suppose, into two groups - a small Group A: those who drive in a manner fairly similar to me, and a large Group B: those who don't. When I say similar to me, what I mean is that I aim to drive at the speed limit (when it's safe to), I approach junctions, hazards etc slowing down early with minimum braking to save fuel and brake linings, and I accelerate briskly as this too saves fuel, because putting your foot down (without actually over-revving) is the most efficient way of burning the stuff: see my [September 2008](./2008/09/speeding-up-and-slowing-down.md)column.

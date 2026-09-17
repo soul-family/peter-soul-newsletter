@@ -1,7 +1,7 @@
 ---
 title: 'Global warming, bodily cooling, new-year resolving'
 date: 'January 2013'
-body_class: 'bg-1'
+background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_9x_3.gif'
     width: 96
     height: 54
-permalink: /content/columns/2013/01/global-warming-bodily-cooling-new-year-resolving/
 ---
 
 Is steady global warming definitely in progress? I believe so. What nobody can yet say for sure is whether it's being caused by human activity (if only partly), or what the effect on the UK climate will be. Perversely, it could get colder! We owe our comfortable temperatures to the Gulf Stream, flowing towards us across the Atlantic from the Gulf of Mexico, and if something should block this (such as melt-water from the Greenland Ice Sheet) we would certainly experience some chilly consequences.

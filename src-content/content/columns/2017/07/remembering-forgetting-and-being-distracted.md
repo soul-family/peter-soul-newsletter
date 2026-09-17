@@ -1,7 +1,7 @@
 ---
 title: 'Remembering, forgetting, and being distracted'
 date: 'July 2017'
-body_class: 'bg-7'
+background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_10x_9.gif'
     width: 96
     height: 54
-permalink: /content/columns/2017/07/remembering-forgetting-and-being-distracted/
 ---
 
 I'm trying to recall where and when, recently, I saw a report of a scientific investigation - one that I vaguely remember seemed like encouraging news for everyone, though I can't think what exactly. Perhaps I read it in my daily paper. Let's rummage through the pile... Ah, here it is, at the top of the front page no less, last week. How could it have slipped my mind? Fortunately, the headline tells me not to worry over this: "Forget about memory lapses, they're good for your brain."

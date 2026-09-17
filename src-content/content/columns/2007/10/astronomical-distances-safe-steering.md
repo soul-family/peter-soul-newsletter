@@ -1,7 +1,7 @@
 ---
 title: 'Astronomical distances, safe steering'
 date: 'October 2007'
-body_class: 'bg-3'
+background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_6_4.gif'
     width: 96
     height: 54
-permalink: /content/columns/2007/10/astronomical-distances-safe-steering/
 ---
 
 First, I ought to go into reverse regarding a sweeping statement in my April column. I wrote that while there is every hope of installing cleaner technology in cars in the future, there's almost no prospect of making aircraft less polluting. Since then, would you believe, I've seen several reports saying that more efficient aircraft engines are coming - together with lighter materials from which to build the rest of the aeroplane! Also, someone pointed out to me that the new greener vehicles (and all the cars we own now, for that matter) can only achieve their full energy-saving potential if drivers learn to drive more 'greenly' too.

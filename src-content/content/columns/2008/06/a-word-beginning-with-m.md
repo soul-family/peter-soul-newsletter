@@ -1,7 +1,7 @@
 ---
 title: 'A word beginning with m'
 date: 'June 2008'
-body_class: 'bg-5'
+background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_2x_3.gif'
     width: 96
     height: 43
-permalink: /content/columns/2008/06/a-word-beginning-with-m/
 ---
 
 I want to get to grips with a certain word which I know I haven't typed once in six years of writing these columns. It's one of those terms that means something quite specific in physics, but has a rather more vague meaning in everyday language. Perhaps I have been subconsciously avoiding it for this reason ... no, I confess that I've deliberately been putting off using it. But now I shall bite the bullet!

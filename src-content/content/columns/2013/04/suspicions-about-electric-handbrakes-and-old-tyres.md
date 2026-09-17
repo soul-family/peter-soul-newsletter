@@ -1,7 +1,7 @@
 ---
 title: 'Suspicions about electric handbrakes and old tyres'
 date: 'April 2013'
-body_class: 'bg-5'
+background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_6_5.gif'
     width: 96
     height: 54
-permalink: /content/columns/2013/04/suspicions-about-electric-handbrakes-and-old-tyres/
 ---
 
 Since last month I've thought of more features that I shall want to look out for when I choose a new(ish) car soon. Forgive me for using these columns as my*aide memoire*, but I don't want to have to write everything down elsewhere at this stage and risk losing the list!

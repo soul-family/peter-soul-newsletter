@@ -1,7 +1,7 @@
 ---
 title: 'To wipe or not to wipe out white lines?'
 date: 'February 2016'
-body_class: 'bg-8'
+background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_1x_1.gif'
     width: 96
     height: 41
-permalink: /content/columns/2016/02/to-wipe-or-not-to-wipe-out-white-lines/
 ---
 
 Early this month (February), news reports told us that in several parts of the country, certain resurfaced roads had been left without their central white lines, as an experiment. What triggered the reports was the announcement from one of the areas, Norfolk, that the scheme was about to be extended, "...including on the A148, close to the Queen's Sandringham estate" - it's not clear if this information was meant as a warning to us or to HMQ (or both). A council spokeswoman said that fewer road markings can improve street safety for everyone by making drivers more cautious, increasing awareness and lowering speeds.

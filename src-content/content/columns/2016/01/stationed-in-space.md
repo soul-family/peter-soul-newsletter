@@ -1,7 +1,7 @@
 ---
 title: 'Stationed in space'
 date: 'January 2016'
-body_class: 'bg-1'
+background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_21x_3.gif'
     width: 96
     height: 75
-permalink: /content/columns/2016/01/stationed-in-space/
 ---
 
 We live in exciting but mysterious times! A recent excitement, for anyone with (a) an interest in outer space and (b) some pride in this nation, was the elevation in December of the British astronaut Major Tim Peake to the International Space Station (ISS). OK, you might say that its orbit lies in 'inner' rather than 'outer' space, but even so he soon started doing valuable work there, after finding his feet (or should I say losing them?) in zero gravity.

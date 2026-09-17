@@ -1,7 +1,7 @@
 ---
 title: 'Worlds apart yet overlapping'
 date: 'June 2018'
-body_class: 'bg-8'
+background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_9x_8.gif'
     width: 96
     height: 54
-permalink: /content/columns/2018/06/worlds-apart-yet-overlapping/
 ---
 
 I am writing this column in bed, where I have also been reading a fascinating book called*Cat's Paws and Catapults*. From the cover you would think it was an ordinary book of popular science, but it is rather more than that. Written by an American biology professor, Steven Vogel, it sets out to compare the mechanics and 'technology' that have been created on the one hand by nature through evolution, and on the other by us humans in inventing and discovering things. Many of the problems faced are similar in each of these two worlds (how to move around, for example), but the actual solutions are nearly all very different!

@@ -1,7 +1,7 @@
 ---
 title: 'Questions, questions'
 date: 'January 2005'
-body_class: 'bg-1'
+background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_21x_1.gif'
     width: 96
     height: 58
-permalink: /content/columns/2005/01/questions-questions/
 ---
 
 Here is a sort-of quiz for the New Year. No prizes are offered, only a few of the answers:

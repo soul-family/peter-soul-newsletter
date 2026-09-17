@@ -1,7 +1,7 @@
 ---
 title: 'Repeatable testing of new vehicles, and saying farewell'
 date: 'March 2019'
-body_class: 'bg-3'
+background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_6_10.gif'
     width: 96
     height: 54
-permalink: /content/columns/2019/03/repeatable-testing-of-new-vehicles-and-saying-farewell/
 ---
 
 I want to tell you about a small manufacturing company, AB Dynamics, located in Bradford-on-Avon, which you won't have heard of (the company, I mean). Though first I must declare an interest: after many years working for them as an engineer, my nephew Jeremy is the newly promoted Sales Director! But he and his team won't be cold-calling you, as you wouldn't want to buy anything that they make. Instead, their customers are test authorities, car-assessment laboratories, and vehicle manufacturers around the world.

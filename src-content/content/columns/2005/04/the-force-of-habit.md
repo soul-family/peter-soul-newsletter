@@ -1,7 +1,7 @@
 ---
 title: 'The force of habit'
 date: 'April 2005'
-body_class: 'bg-3'
+background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_9x_2.gif'
     width: 96
     height: 54
-permalink: /content/columns/2005/04/the-force-of-habit/
 ---
 
 Learning to drive is a process of absorbing many habits. Then later on when advancing your driving skills, you are encouraged to fix even more habits into your head - and unlearn some, too. The ability of the brain to be programmed like this in countless ways (giving you the opportunity to think about other things) is, well, mind-boggling.

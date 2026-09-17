@@ -1,7 +1,7 @@
 ---
 title: 'Lessons in staying awake'
 date: 'July 2004'
-body_class: 'bg-3'
+background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_20_1.gif'
     width: 96
     height: 53
-permalink: /content/columns/2004/07/lessons-in-staying-awake/
 ---
 
 The Highway Code is full of useful advice, mixed with instructions from all the traffic regulations (often sprinkled with block capitals). But have you noticed how little space is given to the vital matter of fighting tiredness at the wheel?

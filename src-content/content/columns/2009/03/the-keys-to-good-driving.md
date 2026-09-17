@@ -1,7 +1,7 @@
 ---
 title: 'The keys to good driving'
 date: 'March 2009'
-body_class: 'bg-7'
+background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_18x_5.gif'
     width: 96
     height: 75
-permalink: /content/columns/2009/03/the-keys-to-good-driving/
 ---
 
 Only once before, I think, in all these columns (this is the 67th!) have I mentioned a main passion of mine: music. It was a year or so ago, when I was commenting on an instruction in the Highway Code:_Never sound your horn aggressively_. I said that although I'm something of a pianist, I find it very difficult to get a car horn to sound anything other than*furioso*. Now why can't the sensitivity and control of the things be improved so that they may be played*delicato*, or even*amoroso*, if the occasion demands? Anyway, I've been thinking recently about the skills involved in playing the piano (I wonder if you can see where this might lead?).

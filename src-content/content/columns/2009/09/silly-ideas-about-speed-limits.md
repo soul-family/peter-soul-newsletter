@@ -1,7 +1,7 @@
 ---
 title: 'Silly ideas about speed limits'
 date: 'September 2009'
-body_class: 'bg-5'
+background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_9x_4.gif'
     width: 96
     height: 54
-permalink: /content/columns/2009/09/silly-ideas-about-speed-limits/
 ---
 
 I am writing this column in the silly-season month of August, so let me report on some examples of motoring silliness.
@@ -36,5 +35,3 @@ At the Winnersh Triangle exit from the A329M near Reading is a giant new off-roa
 Last spring I described to you (with some difficulty) an extraordinary mix-up of double-arrow priority signs I had discovered in rural Sussex. A reader capped this, I would say, by sending me photos of a simple suburban traffic-calming bottleneck in Bucks which featured just one of each sign - the round (Give Way) and the rectangular (you have Priority) - fixed back-to-back ... except that each sign was mounted upside down and had the other one's instruction plate attached below! Apparently it took more than a year of complaining to the council to get this put right. And as my informant said, imagine all the stages the error presumably passed through: commissioning, authorizing, installation and finally inspection.
 
 In July I speculated on the complexities of the car I shall have to face buying one day soon. But what would my*ideal*car be like? Make it simple, cheap and cheerful, but solid and reasonably comfortable; let it be powerful enough but economical; fit it with bolt-on standardized bodywork for quick repairs; give it lights that tell me when they've failed and which are then simple to replace; and build it around a small but modular chassis that allows extra sections to be easily attached for carrying passengers and luggage. Or am I just being silly?
-
-

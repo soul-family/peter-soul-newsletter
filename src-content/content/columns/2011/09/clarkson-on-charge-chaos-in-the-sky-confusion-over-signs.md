@@ -1,7 +1,7 @@
 ---
 title: 'Clarkson on charge, chaos in the sky, confusion over signs'
 date: 'September 2011'
-body_class: 'bg-4'
+background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_1x_4.gif'
     width: 96
     height: 41
-permalink: /content/columns/2011/09/clarkson-on-charge-chaos-in-the-sky-confusion-over-signs/
 ---
 
 It's been a classic silly season. I have tried in recent columns to report fairly on the slow advance of electric cars towards wider acceptance - but in July their cause seemed to be set back considerably by the BBC's*Top Gear*(which some might regard as defining the silly season): Jeremy Clarkson and James May took a different model each for a filmed drive, over-dramatically running the batteries down and then desperately searching for charging-points.

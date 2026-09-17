@@ -1,7 +1,7 @@
 ---
 title: 'John Dunlop, long molecules, astonishing adhesion'
 date: 'June 2004'
-body_class: 'bg-8'
+background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: '24x.GIF'
     width: 126
     height: 100
-permalink: /content/columns/2004/06/john-dunlop-long-molecules-astonishing-adhesion/
 ---
 
 John Dunlop invented the pneumatic tyre to give his son a more comfortable time on his bicycle, and we should all be grateful to him for the similar benefit that we enjoy on car journeys as a result. Suspension systems and shock absorbers play their part, of course, but without the flexibility of tyres we would still be experiencing some of the discomfort of the era of the horse and cart, on rough roads at least.

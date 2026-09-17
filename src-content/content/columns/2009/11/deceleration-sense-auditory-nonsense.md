@@ -1,7 +1,7 @@
 ---
 title: 'Deceleration sense, auditory nonsense'
 date: 'November 2009'
-body_class: 'bg-4'
+background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_10x_4.gif'
     width: 96
     height: 54
-permalink: /content/columns/2009/11/deceleration-sense-auditory-nonsense/
 ---
 
 A dozen years ago we gave our bathroom a complete renovation, or rather, an expert fitter did. Then recently the kitchen had the same treatment. Each time, a thought struck me: how is it that one person can apply so well a pair of 'opposite' skills, namely destruction (breaking up a cast-iron bath, or taking down a brick wall) and construction (creating a perfectly smooth plaster surface, or applying wall tiles in exact regularity)? You would think they required totally different mindsets!

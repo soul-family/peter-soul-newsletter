@@ -1,7 +1,7 @@
 ---
 title: "Lighting up ' continued"
 date: 'March 2003'
-body_class: 'bg-5'
+background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_20.gif'
     width: 96
     height: 53
-permalink: /content/columns/2003/03/lighting-up-continued/
 ---
 
 Did I perhaps get a bit too worked up last month over vehicle lighting? Let's look at what the Highway Code has to say on the subject (simplifying slightly):

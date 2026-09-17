@@ -1,7 +1,7 @@
 ---
 title: 'Updates on dash-cam reporting and the driverless accident'
 date: 'January 2019'
-body_class: 'bg-1'
+background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_8x_6.gif'
     width: 96
     height: 54
-permalink: /content/columns/2019/01/updates-on-dash-cam-reporting-and-the-driverless-accident/
 ---
 
 While you are perhaps still trying to keep to your new-year resolutions, in this month's column I shall attempt some old-year ones - by which I mean following up various topics I discussed last year and hoping to round them off. Though as I start to think about them, I'm realizing that some have not yet reached 'resolution'!

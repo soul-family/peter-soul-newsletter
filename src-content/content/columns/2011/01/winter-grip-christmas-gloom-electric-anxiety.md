@@ -1,7 +1,7 @@
 ---
 title: 'Winter grip, Christmas gloom, electric anxiety'
 date: 'January 2011'
-body_class: 'bg-7'
+background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_10x_5.gif'
     width: 96
     height: 54
-permalink: /content/columns/2011/01/winter-grip-christmas-gloom-electric-anxiety/
 ---
 
 Last month, a man rang our door-bell: "Were you thinking of selling your two old cars?" Now Mrs S and I are quite attached to our L-reg Micra and R-reg Corolla. They have never let us down - though perhaps I ought to check through some previous columns before insisting on that - and neither of us want to think about having to get used to a new(er) car soon. So the polite No thank you that I gave to the man hid a rather frosty inner reaction to his question.

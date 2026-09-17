@@ -1,7 +1,7 @@
 ---
 title: "All sorts of energy ' continued"
 date: 'April 2006'
-body_class: 'bg-4'
+background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_2x_2.gif'
     width: 96
     height: 43
-permalink: /content/columns/2006/04/all-sorts-of-energy-continued/
 ---
 
 Let's start with a reminder of last month's look at energy: we motorists fill the tank with fuel, which the car then converts into all sorts of energy. We make grossly inefficient use of this and then it all disappears wastefully into the environment as heat. We can, however, prevent a modest amount of the wastage by adopting driving habits such as avoiding unnecessary speeding that's followed immediately by braking.

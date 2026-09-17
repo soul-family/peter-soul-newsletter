@@ -1,7 +1,7 @@
 ---
 title: "Losing sleep ' twice a year"
 date: 'November 2004'
-body_class: 'bg-4'
+background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_19x_1.gif'
     width: 96
     height: 62
-permalink: /content/columns/2004/11/losing-sleep-twice-a-year/
 ---
 
 "Summer-time, and the living is easy," ... but at the end of October the clocks go back to Greenwich Mean Time, and for days afterwards I find that sleeping is not at all easy. I struggle to keep my eyes open until the new bedtime, but still wake up the next day an hour early (according to the clock). And then in March when BST returns, again I lose an hour's sleep a night because I can't drop off when I ought to.

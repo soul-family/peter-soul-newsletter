@@ -1,7 +1,7 @@
 ---
 title: 'Trouble with washer nozzles, tax discs, parking signs'
 date: 'October 2005'
-body_class: 'bg-7'
+background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_22x_2.gif'
     width: 79
     height: 42
-permalink: /content/columns/2005/10/trouble-with-washer-nozzles-tax-discs-parking-signs/
 ---
 
 I feel I've picked up some useful tips related to motoring this year, so let me share them with you. If your windscreen-washer nozzles need adjusting for optimum height of the spray on the screen, remember to do it with the engine running so that the maximum voltage is being applied to the pump-motor. Otherwise, when you next try to clean your screen on the move you may find you're giving the car behind a wash instead.

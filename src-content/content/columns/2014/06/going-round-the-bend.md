@@ -1,7 +1,7 @@
 ---
 title: 'Going round the bend'
 date: 'June 2014'
-body_class: 'bg-5'
+background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_20_4.gif'
     width: 96
     height: 75
-permalink: /content/columns/2014/06/going-round-the-bend/
 ---
 
 I do try to round these columns off neatly and avoid leaving any loose ends, when writing them [for the Thames Valley Group Newsletter, ten times a year]. Nevertheless, as I start again for the 120th(!) time I'm wondering if anything from the past 12 years might need adding to. So I have taken a look back through the archive (see [www.petersoul.co.uk](http://www.petersoul.co.uk)if you want to do the same) and I've found several topics worth expanding upon...

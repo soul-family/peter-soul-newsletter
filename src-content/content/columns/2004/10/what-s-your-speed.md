@@ -1,7 +1,7 @@
 ---
 title: "What's your speed?"
 date: 'October 2004'
-body_class: 'bg-7'
+background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_18x_1.gif'
     width: 96
     height: 52
-permalink: /content/columns/2004/10/what-s-your-speed/
 ---
 
 Information ... that vital flow which governs your driving and keeps you safe on the road. Some sorts of information are surprisingly difficult to collect, though. Let's consider speed first, and then acceleration (which to a physicist can mean slowing down as well as speeding up - but I will try not to confuse you!).

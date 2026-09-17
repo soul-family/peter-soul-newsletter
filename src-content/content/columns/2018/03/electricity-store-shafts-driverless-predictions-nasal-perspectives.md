@@ -1,7 +1,7 @@
 ---
 title: 'Electricity store-shafts, driverless predictions, nasal perspectives'
 date: 'March 2018'
-body_class: 'bg-7'
+background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_21x_6.gif'
     width: 96
     height: 75
-permalink: /content/columns/2018/03/electricity-store-shafts-driverless-predictions-nasal-perspectives/
 ---
 
 Writing this column often seems to be a process of never quite catching up (like my life in general!). When I aim to bring topics up to date, as I did last month, invariably more news of at least one of them will emerge within a few weeks, and I shall feel the urge to pass it on. A case in point is the National Grid, which (I said) has only limited storage capacity for helping it to balance supply and demand, when these are changing unpredictably and rapidly - think for example of wind farms and solar panels (unpredictable supplies), and electric vehicles being plugged in for charging (sudden demands).

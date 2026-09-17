@@ -1,7 +1,7 @@
 ---
 title: "What's to be done when amber shows?"
 date: 'February 2013'
-body_class: 'bg-8'
+background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_8x_3.gif'
     width: 96
     height: 54
-permalink: /content/columns/2013/02/what-s-to-be-done-when-amber-shows/
 ---
 
 In the last issue of the*Advanced Driving*magazine, the following question was put to "The Experts":_My daughter recently received notice of prosecution for contravening a red traffic light ... she is adamant that the duration of amber was insufficient to stop safely or cross the junction, before the change to red. Are there official requirements for the duration of the amber light?_**

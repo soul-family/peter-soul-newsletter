@@ -1,7 +1,7 @@
 ---
 title: 'Legionnaires and footballers'
 date: 'July 2010'
-body_class: 'bg-3'
+background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_1x_2.gif'
     width: 96
     height: 41
-permalink: /content/columns/2010/07/legionnaires-and-footballers/
 ---
 
 Sometimes the things that I want to think about and discuss here give me the feeling that I ought first to consult professionals with more expertise than I possess in the relevant subjects. But right now I haven't the time, because I must finish this column today before getting ready to head north: Mrs S and I are going to attend the East Neuk Festival - don't feel ignorant, because no-one else I've mentioned this to has heard of the place either!

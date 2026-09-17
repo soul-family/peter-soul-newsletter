@@ -1,7 +1,7 @@
 ---
 title: "What's your speed? ' continued"
 date: 'February 2005'
-body_class: 'bg-7'
+background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_1x.gif'
     width: 96
     height: 41
-permalink: /content/columns/2005/02/what-s-your-speed-continued/
 ---
 
 First, a footnote to last [October's](./2004/10/what-s-your-speed.md)column on the difficulties of judging the speeds of other vehicles: I forgot to mention a trick which could almost have come straight out of a physics textbook. If I want to measure the speed of a steadily moving object, all I need to know are the times when it passes one position and then again another, a certain distance on. The point is that I don't have to be watching the thing all the way - just at the start and the finish.

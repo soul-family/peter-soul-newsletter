@@ -1,7 +1,7 @@
 ---
 title: 'All sorts of energy'
 date: 'March 2006'
-body_class: 'bg-7'
+background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_1x_2.gif'
     width: 96
     height: 41
-permalink: /content/columns/2006/03/all-sorts-of-energy/
 ---
 
 Where's your get up and go? It got up and went! This old joke just about sums up the way in which most of our energy is consumed. We lay hold of vast quantities of 'hot' energy (mainly in fossil fuels), use it and then let it dissipate away as 'cool' heat which can never be recovered. And the perfect example of this is driving a car. I must admit, though, that I've been putting off discussing energy, mainly because it exists in so many different forms (certainly enough to fill several motoring columns!). First I shall try to list them and link them together.

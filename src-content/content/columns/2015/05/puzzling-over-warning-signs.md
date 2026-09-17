@@ -1,7 +1,7 @@
 ---
 title: 'Puzzling over warning signs'
 date: 'May 2015'
-body_class: 'bg-1'
+background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_10x_3.gif'
     width: 96
     height: 54
-permalink: /content/columns/2015/05/puzzling-over-warning-signs/
 ---
 
 Let me continue a topic from my column last month [in the Thames Valley Group Newsletter], namely traffic signs, which I do like to think I pay good attention to. I described an alarming evening journey from Hartley Wintney towards Reading: our car was suddenly surrounded by a herd of deer who were evidently under the impression that they had the right of way in crossing the road, at a speed not far short of ours along it. Later, on the internet in Google Street View, I scanned along the road and there, just outside the village, was a red-triangle deer-warning sign. But I had no memory of having seen it in the flesh (or do I mean in the metal?)...
@@ -38,5 +37,3 @@ It has only just occurred to me to see if I can find any of the above four signs
 A week later (going to trade in my Toyota Corolla and collect the Golf) I checked again, and reassured myself that it was the wrong sign. How - and how long ago - was such a mistake made? On the other hand, how did even a keen eye (for traffic signs) like mine then spot it? Anyway, I reported it to the local authority, they agreed with me that the sign was erroneous, and I hope the flyover now carries this correct one:-
 
 ![](../../assets/images/as_from_main_road.jpg)
-
-

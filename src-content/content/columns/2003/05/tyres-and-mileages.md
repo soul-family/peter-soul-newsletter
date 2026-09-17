@@ -1,7 +1,7 @@
 ---
 title: 'Tyres and mileages'
 date: 'May 2003'
-body_class: 'bg-4'
+background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -9,7 +9,6 @@ header_images:
   - src: 'a_16x.gif'
     width: 96
     height: 75
-permalink: /content/columns/2003/05/tyres-and-mileages/
 ---
 
 I can remember the exact place on a long straight road in Sussex where (in my previous car) all the digits on the odometer turned at the same time, to show 100,000. It was extraordinary to think that my Nissan Sunny had travelled precisely a hundred thousand miles to get from its showroom to here.
@@ -29,5 +28,3 @@ The two readings differed by no more than one-fortieth of a mile! In other words
 Back now to the first question: what is the effect on the odometer as the tread wears down - from 8 mm to 2 mm depth, say? This will certainly reduce the circumference of the tyre, by at least 2%, so you can expect your measured journey mileages to increase by this much over the life of the tyres.
 
 The question I can't answer is how accurate your odometer is now. For that you will need a ruler and a large-scale map to get the distance right, and a long straight road. There's one of these in Sussex.
-
-

@@ -1,7 +1,7 @@
 ---
 title: 'Old cars, new directions'
 date: 'April 2009'
-body_class: 'bg-4'
+background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_19x_5.gif'
     width: 96
     height: 75
-permalink: /content/columns/2009/04/old-cars-new-directions/
 ---
 
 What an enjoyable series of columns [in the Thames Valley Group Newsletter] is 'My First Car'! I've learnt from Bruce Thompson and Richard Porter that at Bristol University there must have been much motor-club activity of which I was quite unaware, when I was there just before them, in the early 60s. Me, I rode a single-gear bicycle everywhere for three years in that hilly city. The university physics department was at one of its highest points, hence I've never been fitter than I was then.

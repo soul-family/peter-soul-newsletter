@@ -1,7 +1,7 @@
 ---
 title: 'All in the mind'
 date: 'October 2008'
-body_class: 'bg-3'
+background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_10x_4.gif'
     width: 96
     height: 54
-permalink: /content/columns/2008/10/all-in-the-mind/
 ---
 
 A reader suggested that I write a column on "the fantastic capabilities of the brain, in routine driving situations." Over the years I have looked at several of its capabilities in relation to driving (and fantastic is not too strong a word for them), but I think it would be interesting now to try to survey everything that the brain does to keep you safe - and to put you at risk! - while you're at the wheel.

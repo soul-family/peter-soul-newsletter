@@ -1,7 +1,7 @@
 ---
 title: 'Witness statements, laid-back tricycles, stopping distances'
 date: 'May 2011'
-body_class: 'bg-3'
+background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_18x_3.gif'
     width: 96
     height: 75
-permalink: /content/columns/2011/05/witness-statements-laid-back-tricycles-stopping-distances/
 ---
 
 I have pointed out several times in these columns that much of what your eyes detect is ignored by the brain - and that much of what you think you see is invented by it! Concentrate (when you're driving) too hard on the car in front, and you will overlook things happening at a different distance, or in a different direction. Fail to go for regular eye-tests, in middle age at least, and you could discover (possibly too late to hang on to your driving licence) that an insidious disease such as glaucoma has been nibbling away at the peripheral field of view, while your brain was working hard to disguise the effects by 'filling in' for the blank areas of retina.

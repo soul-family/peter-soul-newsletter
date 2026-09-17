@@ -1,7 +1,7 @@
 ---
 title: 'Shuttered lamps, black ice, invisible horses'
 date: 'February 2004'
-body_class: 'bg-4'
+background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_9x_1.gif'
     width: 96
     height: 45
-permalink: /content/columns/2004/02/shuttered-lamps-black-ice-invisible-horses/
 ---
 
 A miscellaneous column this month - a selection of motoring puzzles and paradoxes, with explanations where I can think of them:

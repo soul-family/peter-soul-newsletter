@@ -1,7 +1,7 @@
 ---
 title: 'In the market for a car and three fuels'
 date: 'March 2013'
-body_class: 'bg-3'
+background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_10x_7.gif'
     width: 96
     height: 54
-permalink: /content/columns/2013/03/in-the-market-for-a-car-and-three-fuels/
 ---
 
 A rare scientific event is being planned for later in the year: I shall be setting out to find a newish car to buy - even though my trusty Corolla has clocked up only 110,000 miles, and recently had gearbox and exhaust overhauls. But why scientific? Because that's the manner in which I think I must face the tricky problem of making a purchase that will have to satisfy quite a number of specific needs, in a market I'm not exactly familiar with.

@@ -1,7 +1,7 @@
 ---
 title: 'La photo du jour'
 date: 'June 2010'
-body_class: 'bg-4'
+background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_21x_2.gif'
     width: 96
     height: 75
-permalink: /content/columns/2010/06/la-photo-du-jour/
 ---
 
 As I said in last month's column, Mrs S and I were able to travel by air to the S of France and back on schedule: the Icelandic volcano, whose name I daren't try to type, calmed down just in time. I read that while it was still fully active, scientists from Reading University and elsewhere launched a special weather-balloon from Scotland up into the ash cloud. An unexpected discovery was that the ash was electrostatically charged, in a way that seemed intrinsic to the material, rather than caused by local weather conditions or the volcano itself (hundreds of miles off).

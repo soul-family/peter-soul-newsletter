@@ -1,7 +1,7 @@
 ---
 title: 'The view from the footpath'
 date: 'May 2013'
-body_class: 'bg-7'
+background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_20_4.gif'
     width: 96
     height: 75
-permalink: /content/columns/2013/05/the-view-from-the-footpath/
 ---
 
 Mrs S and I are just back from a walking holiday: we started in France and finished in Spain, with our luggage being driven from hotel to hotel for us. You could say we crossed the Pyrenees, though in fact we were on the Mediterranean coast, where the mountains are mere hills (we also spent a day and night in the lovely little Spanish city of Girona). We booked the trip with [Inntravel](http://www.inntravel.co.uk/), and are regular customers of theirs. Every page of their brochure seems irresistible - until you realize that some routes are planned for walkers younger and fitter than we are!

@@ -1,7 +1,7 @@
 ---
 title: 'Matters arising from a battery, a column and an optical illusion'
 date: 'March 2015'
-body_class: 'bg-7'
+background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_9x_3.gif'
     width: 96
     height: 54
-permalink: /content/columns/2015/03/matters-arising-from-a-battery-a-column-and-an-optical-illusion/
 ---
 
 There may well be enough Matters Arising from last month's column to fill this one! Let's see how it goes:

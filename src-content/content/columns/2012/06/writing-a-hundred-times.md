@@ -1,7 +1,7 @@
 ---
 title: 'Writing a hundred times'
 date: 'June 2012'
-body_class: 'bg-8'
+background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_18x_5.gif'
     width: 96
     height: 75
-permalink: /content/columns/2012/06/writing-a-hundred-times/
 ---
 
 Believe it or not, this is my 100th physicist's column. If you have doubts (and internet access) you can survey them all at www.petersoul.co.uk. Extraordinarily, I've just come across the short first one from ten years ago, on cat's-eyes, reprinted in the current newsletter of a West Country IAM group: an unintended or intended anniversary tribute? Anyway, it's nice to know that hurried thoughts can have lasting value!

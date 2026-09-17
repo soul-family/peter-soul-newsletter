@@ -1,7 +1,7 @@
 ---
 title: 'A driverless tragedy, and a smartphone review'
 date: 'July 2018'
-body_class: 'bg-3'
+background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_8x_10.gif'
     width: 96
     height: 54
-permalink: /content/columns/2018/07/a-driverless-tragedy-and-a-smartphone-review/
 ---
 
 I signed off my last column, if you remember, by saying that for medical reasons I couldn't be sure of meeting Mr Editor's copy-deadline for this issue [of the Thames Valley Group Newsletter]. Well, here's a confession: I'm cheating rather, by starting this month's column while it is still last month! And as my hospital operation is more than a week off, there's a good chance that I shall fill my two pages in time, as well as finishing off other jobs while I have the energy.

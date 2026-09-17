@@ -1,7 +1,7 @@
 ---
 title: 'Things that might surprise you'
 date: 'February 2010'
-body_class: 'bg-8'
+background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_20_6.gif'
     width: 96
     height: 75
-permalink: /content/columns/2010/02/things-that-might-surprise-you/
 ---
 
 In a department store the other day, I almost fell over as I stepped on to a stationary escalator. I could see it wasn't moving, but I was unable to shake off the expectation (deeply ingrained in my brain, no doubt) that my foot would be carried forward. And then the climb up the steep escalator seemed so much more taxing than going up an ordinary flight of stairs would have been!

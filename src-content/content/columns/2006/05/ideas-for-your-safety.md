@@ -1,7 +1,7 @@
 ---
 title: 'Ideas for your safety'
 date: 'May 2006'
-body_class: 'bg-1'
+background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_9x_3.gif'
     width: 96
     height: 54
-permalink: /content/columns/2006/05/ideas-for-your-safety/
 ---
 
 Recently the*Sunday Times*invited its readers to suggest new motoring laws and regulations. It was an easy way of filling a page, of course, and I had seen most of the ideas before - confining lorries to the inside lanes of motorways, allowing left turns against a red light (when safe to do so), that sort of thing. But the best notion was saved for last: abolish all motoring laws and replace them with a single offence:_driving like a berk_.

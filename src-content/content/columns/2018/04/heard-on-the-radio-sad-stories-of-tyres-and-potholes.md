@@ -1,7 +1,7 @@
 ---
 title: "Heard on the radio ' sad stories of tyres and potholes"
 date: 'April 2018'
-body_class: 'bg-4'
+background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_1x_1.gif'
     width: 96
     height: 41
-permalink: /content/columns/2018/04/heard-on-the-radio-sad-stories-of-tyres-and-potholes/
 ---
 
 I can't believe that anyone else listens to the radio in quite the same way that I do! (I lend an ear to news and current affairs programmes and to classical music, but that's not what I mean at all). I start with*Radio Times*- which is wonderfully titled still, though of course it gives comprehensive coverage to TV channels as well. Within a day or two of its arrival I've looked through it and marked everything of interest. And for me the TV shows are far outnumbered by the radio programmes.

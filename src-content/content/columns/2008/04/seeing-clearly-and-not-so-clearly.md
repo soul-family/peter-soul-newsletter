@@ -1,7 +1,7 @@
 ---
 title: 'Seeing clearly and not so clearly'
 date: 'April 2008'
-body_class: 'bg-8'
+background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_21x_3.gif'
     width: 96
     height: 75
-permalink: /content/columns/2008/04/seeing-clearly-and-not-so-clearly/
 ---
 
 I'm not a follower of fashion - or if I am, then it's at a great distance. I have no wish to own the latest model of car or mobile phone. I'm not sure I need any sort of Ipod. And I would not want to change my large spectacle lenses for the small size that seems so popular nowadays. The purpose of glasses is to enable you to see clearly, so why restrict this assistance to a small field of view?

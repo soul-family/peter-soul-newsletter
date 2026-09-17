@@ -1,7 +1,7 @@
 ---
 title: 'Wasteful headlights, doubtful percentages, unhelpful indicators'
 date: 'May 2007'
-body_class: 'bg-7'
+background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_2x_1.gif'
     width: 96
     height: 43
-permalink: /content/columns/2007/05/wasteful-headlights-doubtful-percentages-unhelpful-indicators/
 ---
 
 After my last couple of columns both on the subject of light, I'm still thinking about this topic. I've pointed out before that the filament bulbs on your car convert electrical energy into light very inefficiently. When you also take into account the poor efficiency of generating the electricity under the bonnet, you discover that less than a hundredth of the energy in the extra petrol you burn (when your lights are switched on) is sent out in the form of light. All the rest is simply lost as heat.

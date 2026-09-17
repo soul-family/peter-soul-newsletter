@@ -1,7 +1,7 @@
 ---
 title: 'Hazard, risk and accident'
 date: 'July 2007'
-body_class: 'bg-1'
+background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_8x_4.gif'
     width: 96
     height: 54
-permalink: /content/columns/2007/07/hazard-risk-and-accident/
 ---
 
 As well as thinking about driving, physics, maths and related things, I enjoy musing on the meanings of words. English is rich in its vocabulary. Here's an example: what are the differences in meaning between*danger*,_peril_,_threat_,_hazard_,_risk_? In dictionaries they equate to each other, more or less, making up a set of synonyms (one of many that exist in English, and very useful to writers they are too, allowing us to repeat words less often). But each word also has its own shades of extra meaning, such as:_danger_= precariousness,_peril_= immediate danger,_threat_= an indication of danger,_hazard_= a source of danger,_risk_= the chances of danger. (I may test you on some of these later!)

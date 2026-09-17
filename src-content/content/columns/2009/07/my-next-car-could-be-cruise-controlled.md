@@ -1,7 +1,7 @@
 ---
 title: 'My next car could be cruise controlled...'
 date: 'July 2009'
-body_class: 'bg-3'
+background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_2x_1.gif'
     width: 96
     height: 43
-permalink: /content/columns/2009/07/my-next-car-could-be-cruise-controlled/
 ---
 
 I wonder what car I shall be driving next, in a few year's time, in place of my R-reg Corolla (with its possibly T-reg front wing and passenger door, which now both look rather older than the rest of the car, sadly) ... it could well be a model that's rolling off the production line currently, no doubt boasting many more distractions - bells and whistles, buttons and switches, functions and features - than I have to cope with now.

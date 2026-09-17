@@ -1,7 +1,7 @@
 ---
 title: 'Having second thoughts'
 date: 'February 2017'
-body_class: 'bg-4'
+background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_21x_3.gif'
     width: 96
     height: 75
-permalink: /content/columns/2017/02/having-second-thoughts/
 ---
 
 It sometimes happens that researchers and inventors come to regret an idea or discovery or invention of theirs. The classic example (though perhaps 'modern' would be a better word!) is Albert Einstein, whose theories of relativity and equation*E*=*mc*2first predicted and explained the colossal amounts of energy that could be released in nuclear reactions. Then in 1939 he co-signed a letter to US President Roosevelt urging him to support the development of nuclear weapons, for fear that Germany would otherwise achieve them first.

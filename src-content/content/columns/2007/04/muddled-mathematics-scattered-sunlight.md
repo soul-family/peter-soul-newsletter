@@ -1,7 +1,7 @@
 ---
 title: 'Muddled mathematics, scattered sunlight'
 date: 'April 2007'
-body_class: 'bg-5'
+background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_1x_3.gif'
     width: 96
     height: 41
-permalink: /content/columns/2007/04/muddled-mathematics-scattered-sunlight/
 ---
 
 I do try, in these columns, to disguise the fact that physics is firmly based on mathematics. On the other hand, motoring matters often involve numbers too, so perhaps I ought not to protect you from them so much! Let's see what you make of this news item I heard on Radio 4 last month: "Ministers are urging drivers to ease off the accelerator, cut down on revving the engine, clear the clutter to reduce weight and keep tyres at the correct pressure. It's claimed that the measures could cut CO2emissions from cars by 8% a year."

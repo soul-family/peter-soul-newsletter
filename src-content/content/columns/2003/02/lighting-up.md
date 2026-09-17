@@ -1,7 +1,7 @@
 ---
 title: 'Lighting up'
 date: 'February 2003'
-body_class: 'bg-3'
+background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_6.gif'
     width: 96
     height: 43
-permalink: /content/columns/2003/02/lighting-up/
 ---
 
 Imagine that your headlights failed on a dark night, but you had an ordinary 100 watt bulb which could be plugged in somehow. If you held it outside through the driver's window, would it light up the road ahead? Not very well, I think. Yet car headlamps (usually rated at 60W each when on full beam) can show up objects far into the distance, and may be seen miles away. This is the benefit we get from simply focusing most of the light into a beam by means of a curved reflector.

@@ -1,7 +1,7 @@
 ---
 title: "Tiny probabilities: of an accident ' and of your having been born!"
 date: 'June 2017'
-body_class: 'bg-5'
+background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_8x_9.gif'
     width: 96
     height: 54
-permalink: /content/columns/2017/06/tiny-probabilities-of-an-accident-and-of-your-having-been-born/
 ---
 
 This is the 150th column I have started, would you believe, under my 'trademark' heading. In the fifteen years since the first one, I've offered you a large number of words: by my very rough estimate, it's 130,000 or more! Where did they all come from? Or rather, where did all the*ideas*originate? That I can't tell you. The brain works in a mysterious way, connecting different things that it picks up.

@@ -1,7 +1,7 @@
 ---
 title: 'Turning wheel-nuts and corners'
 date: 'April 2004'
-body_class: 'bg-5'
+background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_10x_1.gif'
     width: 96
     height: 31
-permalink: /content/columns/2004/04/turning-wheel-nuts-and-corners/
 ---
 
 Old habits die hard. Every 3000 miles I jack the car up, spin the wheels (watching for any bulges in the tyres) and check for no play in the bearings. Then I take each wheel off, inspect the brakes and dig the little stones out of the tyre tread - just in case they are the visible bits of bigger ones. Curiously, there are always many more of these little stones in the rear tyres than in the front.

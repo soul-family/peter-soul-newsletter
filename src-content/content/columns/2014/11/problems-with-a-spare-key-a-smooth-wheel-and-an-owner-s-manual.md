@@ -1,7 +1,7 @@
 ---
 title: "Problems with a spare key, a smooth wheel and an owner's manual"
 date: 'November 2014'
-body_class: 'bg-8'
+background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_21x_5.gif'
     width: 96
     height: 75
-permalink: /content/columns/2014/11/problems-with-a-spare-key-a-smooth-wheel-and-an-owner-s-manual/
 ---
 
 I like to think of myself as a problem-solver as well as a physicist - though I must admit that with some problems I have to wait quite a while for the solution to come to me. Let me give you a couple of examples:

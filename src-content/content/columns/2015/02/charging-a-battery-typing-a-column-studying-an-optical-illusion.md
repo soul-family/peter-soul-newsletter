@@ -1,7 +1,7 @@
 ---
 title: 'Charging a battery, typing a column, studying an optical illusion'
 date: 'February 2015'
-body_class: 'bg-5'
+background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_2x_1.gif'
     width: 96
     height: 43
-permalink: /content/columns/2015/02/charging-a-battery-typing-a-column-studying-an-optical-illusion/
 ---
 
 I must admit that I like sticking to routine, and don't much enjoy 'change', particularly when it is going to cost me time in managing it and then adjusting to it. Sometimes, though, I can see a benefit: I might be able to make a story out of it! So this month, let me tell you about my experiences in upgrading a couple of pieces of technology.

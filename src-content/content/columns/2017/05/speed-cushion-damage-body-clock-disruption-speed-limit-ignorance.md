@@ -1,7 +1,7 @@
 ---
 title: 'Speed-cushion damage, body-clock disruption, speed-limit ignorance'
 date: 'May 2017'
-body_class: 'bg-3'
+background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_9x_3.gif'
     width: 96
     height: 54
-permalink: /content/columns/2017/05/speed-cushion-damage-body-clock-disruption-speed-limit-ignorance/
 ---
 
 I've covered many different topics during (very nearly) 15 years of writing these columns, and I have tried not to repeat myself! Every so often, though, it seems a good idea to look back and revisit one or two things I've written about previously that are still at the front of my mind, as I drive...

@@ -1,7 +1,7 @@
 ---
 title: 'Driving, breath-testing and hanging in France'
 date: 'May 2012'
-body_class: 'bg-1'
+background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_22x_7.gif'
     width: 79
     height: 42
-permalink: /content/columns/2012/05/driving-breath-testing-and-hanging-in-france/
 ---
 
 I bring you news from the South of France, where Mrs S and I are visiting my sister and brother-in-law. We are only a few miles from the foothills of the Pyrenees, and the mountain-tops are redecorated with snow every time it rains on us down below, which is some compensation. The papers announced today (1 May) that rain fell in this region on 28 out of the 30 days of April. However, I can report also that it was today we heard the first cuckoo of spring.

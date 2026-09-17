@@ -1,7 +1,7 @@
 ---
 title: 'First cars and fast cars'
 date: 'April 2010'
-body_class: 'bg-5'
+background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_18x_6.gif'
     width: 96
     height: 75
-permalink: /content/columns/2010/04/first-cars-and-fast-cars/
 ---
 
 Sometimes looking back can be rewarding. I've just been reading Heather Greves' article in the last Thames Valley Group newsletter, about her first car (a Morris 8). She ended by saying that her second one was a Morris Minor. Well, so was my**first car, as I mentioned here once before, though all I said was that one day I applied the jack to the correct place below the centre door-pillar and started turning it: the jack rose up but the car didn't...

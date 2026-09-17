@@ -1,7 +1,7 @@
 ---
 title: 'Superior schooling'
 date: 'June 2016'
-body_class: 'bg-4'
+background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_10x_3.gif'
     width: 96
     height: 54
-permalink: /content/columns/2016/06/superior-schooling/
 ---
 
 All my life, from university days until recently, I kept a finger lightly on the pulse of school education, taking a mild interest in some of its methods, trends and problems. Let me say right away that I have every sympathy with teachers, as they contend with pupils who have been insuffiently taught and inspired at a lower level, plus an influx of distracting (and in some ways harmful) smart-phones, and an ever-growing mountain of administration and red tape!

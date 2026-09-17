@@ -1,7 +1,7 @@
 ---
 title: 'Equitable car-sharing and unsuccessful advanced-recruiting'
 date: 'October 2018'
-body_class: 'bg-6'
+background: 'bg-6'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_6_9.gif'
     width: 96
     height: 54
-permalink: /content/columns/2018/10/equitable-car-sharing-and-unsuccessful-advanced-recruiting/
 ---
 
 Are some of you regular car-sharers, either daily to work or less often for other purposes? I've been in such arrangements myself over the years, though always with only one other driver at a time: obviously, it then doesn't matter if one of you is away sometimes - you simply alternate who drives, on the days that you are travelling together.

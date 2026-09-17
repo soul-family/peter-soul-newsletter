@@ -1,7 +1,7 @@
 ---
 title: 'Coasting to a halt'
 date: 'February 2011'
-body_class: 'bg-4'
+background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_6_5.gif'
     width: 96
     height: 54
-permalink: /content/columns/2011/02/coasting-to-a-halt/
 ---
 
 Life is too short (and the tasks that I enjoy, such as writing columns, too long) for me to want to watch TV just casually in case something of interest turns up. So I am indebted to the Editor of our Thames Valley Group newsletter for drawing my attention to an edition of*Top Gear*(BBC2) from last month.

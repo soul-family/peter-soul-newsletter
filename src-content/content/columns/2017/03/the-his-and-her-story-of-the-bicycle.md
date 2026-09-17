@@ -1,7 +1,7 @@
 ---
 title: 'The his-and-her-story of the bicycle'
 date: 'March 2017'
-body_class: 'bg-1'
+background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_1x_6.gif'
     width: 96
     height: 41
-permalink: /content/columns/2017/03/the-his-and-her-story-of-the-bicycle/
 ---
 
 I remember hearing a short radio programme last year on the history of the bicycle. It made such an impression on me that I have just now searched it out on iPlayer and listened to it again. The 'safe-to-ride' machine that we know today dates from around 1885, when the penny-farthing design was superseded: the two wheels became the same size, and the rider was able to reach the ground with his or her feet.

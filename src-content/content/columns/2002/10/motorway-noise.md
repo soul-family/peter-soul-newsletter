@@ -1,7 +1,7 @@
 ---
 title: 'Motorway noise'
 date: 'October 2002'
-body_class: 'bg-1'
+background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_9x.gif'
     width: 96
     height: 45
-permalink: /content/columns/2002/10/motorway-noise/
 ---
 
 Autumn: "season of mists and mellow fruitfulness" ... and the M4 roar! We live about three-quarters of a mile north of the motorway, and autumn seems to bring an increase in the number of days (or more often, nights) when the traffic is audible. Sometimes, if we are outside, it is like the sound of an enormous waterfall just out of sight.

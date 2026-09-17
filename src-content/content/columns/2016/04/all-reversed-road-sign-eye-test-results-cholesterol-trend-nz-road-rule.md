@@ -1,7 +1,7 @@
 ---
 title: 'All reversed: road-sign, eye-test results, cholesterol trend, NZ road rule'
 date: 'April 2016'
-body_class: 'bg-5'
+background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_9x_7.gif'
     width: 96
     height: 54
-permalink: /content/columns/2016/04/all-reversed-road-sign-eye-test-results-cholesterol-trend-nz-road-rule/
 ---
 
 This month I have some short stories to recount. Some of you [in the Thames Valley Group] will know where Littlewick Green is, even if you've never turned off the A4 Bath Road to visit this idyllic little village (just west of Maidenhead). In fact, two parallel roads lead off into it, meeting on the far side of the green: Jubilee Road and Coronation Road. One is marked on the main road by a single sign pointing to the village, the other by a pair of back-to-back signs.

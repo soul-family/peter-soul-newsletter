@@ -1,7 +1,7 @@
 ---
 title: 'Olympian achievements'
 date: 'September 2016'
-body_class: 'bg-8'
+background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_20_8.gif'
     width: 96
     height: 75
-permalink: /content/columns/2016/09/olympian-achievements/
 ---
 
 Are you still glowing from memories of watching the Rio Olympic Games (and likewise the Paralympics which, as I write, haven't yet begun)? If not, well, forgive me if I look back with a physicist's curiosity at some aspects of that fabulous fortnight. I've uncovered a few surprising facts! Here first is a simple question (the answer is below):_how long around is a 400 metre running track?_**

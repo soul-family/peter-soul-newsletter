@@ -1,7 +1,7 @@
 ---
 title: 'Trading up and saving space'
 date: 'July 2013'
-body_class: 'bg-1'
+background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_18x_7.gif'
     width: 96
     height: 75
-permalink: /content/columns/2013/07/trading-up-and-saving-space/
 ---
 
 You may remember that in my March and April columns I discussed the features that I hoped to find in my next car. The most important were auto-gears, so that Mrs S (used to her automatic Micra) could drive it too - and a genuine spare wheel: it was the alarming absence of the latter in newer cars that was pushing me to change my Toyota Corolla before it was too late. For 12 years she (the Corolla, I mean) was utterly loyal, but the time comes when you must face repaying this with a hard-hearted trade-in. I need to pause for a moment to think about the enormity of doing such a thing...

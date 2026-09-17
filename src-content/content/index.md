@@ -1,7 +1,6 @@
 ---
 title: 'Welcome'
-permalink: /content/
-body_class: 'bg-5'
+background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'
     width: 96

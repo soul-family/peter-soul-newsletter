@@ -1,7 +1,7 @@
 ---
 title: 'Instant flashing, French thinking, careless overtaking'
 date: 'November 2008'
-body_class: 'bg-8'
+background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_6_2.gif'
     width: 96
     height: 54
-permalink: /content/columns/2008/11/instant-flashing-french-thinking-careless-overtaking/
 ---
 
 Let me first revisit my July column, in which I complained about the effect on me of unusually shaped vehicle lights. They grab my attention in a way that distracts and annoys me. The reason that I gave was that our brains evolved to respond to all sorts of shapes and patterns (I suppose this was beneficial to us even in the simple life!).

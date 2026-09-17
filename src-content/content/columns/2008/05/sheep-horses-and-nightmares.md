@@ -1,7 +1,7 @@
 ---
 title: 'Sheep, horses and nightmares'
 date: 'May 2008'
-body_class: 'bg-3'
+background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_1x_1.gif'
     width: 96
     height: 41
-permalink: /content/columns/2008/05/sheep-horses-and-nightmares/
 ---
 
 Here is a question to which I'm hoping the answer is No: am I the only interfering busy-body on the roads? Let me explain. As I've suggested before, maybe it's because I'm a physicist, but when I see something 'out of order' and particularly if it is causing a traffic hazard I have a powerful urge to get it put right or made safe, or at least to give some sort of warning.

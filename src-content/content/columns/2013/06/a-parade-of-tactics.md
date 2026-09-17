@@ -1,7 +1,7 @@
 ---
 title: 'A parade of tactics'
 date: 'June 2013'
-body_class: 'bg-4'
+background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_22x_6.gif'
     width: 79
     height: 42
-permalink: /content/columns/2013/06/a-parade-of-tactics/
 ---
 
 All people who speak English do so in much the same way, sufficiently at least to be understood by each other (well, mostly). There are of course regional groups who have distinct uniform accents. Yet nearly everyone familiar to you has a voice individual enough for you to recognize them by (what a remarkable sign of your own brain-power this is, by the way).

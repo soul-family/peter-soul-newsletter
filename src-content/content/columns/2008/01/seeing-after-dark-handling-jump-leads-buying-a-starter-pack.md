@@ -1,7 +1,7 @@
 ---
 title: 'Seeing after dark, handling jump-leads, buying a starter-pack'
 date: 'January 2008'
-body_class: 'bg-7'
+background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_22x_3.gif'
     width: 79
     height: 42
-permalink: /content/columns/2008/01/seeing-after-dark-handling-jump-leads-buying-a-starter-pack/
 ---
 
 It's December as I start writing this column - probably the month when you are most aware of the shortness of daylight, before the winter fog, frost and occasional snow really arrive and add to all the other hazards of darkness on the road. If you're a driver, there is a simple test prescribed for your vision: you must be able to read a vehicle number-plate from a distance of 20 metres, in good daylight. I could write pages on how inadequate this test is as a measure of your ability to see clearly in all directions in any light. But for now I'm particularly concerned about how my eyes perform as it gets dark.

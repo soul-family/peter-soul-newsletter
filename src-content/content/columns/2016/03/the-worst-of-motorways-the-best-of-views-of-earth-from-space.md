@@ -1,7 +1,7 @@
 ---
 title: 'The worst of motorways, the best of views of Earth from space'
 date: 'March 2016'
-body_class: 'bg-3'
+background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_2x_1.gif'
     width: 96
     height: 43
-permalink: /content/columns/2016/03/the-worst-of-motorways-the-best-of-views-of-earth-from-space/
 ---
 
 Motorists who live in and around Reading can, I guess, be divided roughly into three groups: (1) those who use our short (4 miles) A329(M) motorway to go east to Bracknell and beyond, (2) those who turn off it halfway along, on to the M4, and (3) those who hardly use the road at all. Recently it was extensively redesigned, in favour of the second group of drivers (aiming for the M4). Me, I used to join the first lot once or twice a week (to Bracknell), but now I avoid the A329(M) if I possibly can.

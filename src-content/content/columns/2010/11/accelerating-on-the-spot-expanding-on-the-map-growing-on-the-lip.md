@@ -1,7 +1,7 @@
 ---
 title: 'Accelerating on the spot, expanding on the map, growing on the lip'
 date: 'November 2010'
-body_class: 'bg-5'
+background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_8x_7.gif'
     width: 96
     height: 54
-permalink: /content/columns/2010/11/accelerating-on-the-spot-expanding-on-the-map-growing-on-the-lip/
 ---
 
 Before this year runs out (our newsletter doesn't appear in December), here are some more follow-ups to previous columns. Early on in the year I discussed runaway acceleration. Later I was forwarded a personal account of such an event: "I've just suffered a spectacular uncommanded acceleration in my Volvo V70. I was in a multi-storey car park, reversing slowly into a space between two cars, using my mirrors either side, when suddenly my car accelerated backwards in a great smooth surge.

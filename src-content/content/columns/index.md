@@ -1,6 +1,6 @@
 ---
 title: 'Newsletter Columns'
-body_class: 'bg-2'
+background: 'bg-2'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -11,7 +11,6 @@ header_images:
   - src: 'a_3x.gif'
     width: 96
     height: 43
-permalink: /content/columns/index/
 ---
 
 - July 2002 - [Eyes in the dark](./2002/07/eyes-in-the-dark.md)

@@ -1,7 +1,7 @@
 ---
 title: 'Listening to my Corolla and inspecting a driving licence'
 date: 'April 2012'
-body_class: 'bg-4'
+background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_20_7.gif'
     width: 96
     height: 75
-permalink: /content/columns/2012/04/listening-to-my-corolla-and-inspecting-a-driving-licence/
 ---
 
 If you have absorbed all I've written about my Toyota Corolla in this column over the years (which I don't expect you to have done, of course), then you will know nearly as much about the car as I do. I confess that I have often referred to it, usually to illustrate some feature of vehicles that I was discussing. I've even mentioned its peculiarities just in order to fill a bit of space on the page. I acquired the Corolla nearly 11 years ago, at about the time I took an interest in advanced driving; I am sure its easy-to-drive qualities helped me through the advanced test!

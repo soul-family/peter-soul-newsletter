@@ -1,7 +1,7 @@
 ---
 title: 'The trials of diesel and of driverless'
 date: 'October 2015'
-body_class: 'bg-7'
+background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_18x_3.gif'
     width: 96
     height: 75
-permalink: /content/columns/2015/10/the-trials-of-diesel-and-of-driverless/
 ---
 
 The topic burning to be discussed this month almost calls for a black border around the page. Worse, I feel an urge to go out and cover up the insignias on my loyal and lovely car - and then to search back through previous columns and erase all references to its make and model. I'm even wondering what the future holds for any conventional sort of family car...

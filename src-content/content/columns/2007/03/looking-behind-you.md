@@ -1,7 +1,7 @@
 ---
 title: 'Looking behind you'
 date: 'March 2007'
-body_class: 'bg-3'
+background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_21x_3.gif'
     width: 96
     height: 75
-permalink: /content/columns/2007/03/looking-behind-you/
 ---
 
 As everyone knows, light travels in straight lines. If it didn't, driving (not to mention life) would be difficult, even dangerous. Straight roads might appear curved and vice versa. A vehicle could be approaching you from a different direction than the one in which you can see it coming. As for your headlights, they might seem to be reflecting off things straight ahead but in reality could be lighting up the road round a bend. (A benefit or not? I can't quite decide!)

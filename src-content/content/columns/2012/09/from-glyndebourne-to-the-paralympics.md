@@ -1,7 +1,7 @@
 ---
 title: 'From Glyndebourne to the Paralympics'
 date: 'September 2012'
-body_class: 'bg-5'
+background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_21x_3.gif'
     width: 96
     height: 75
-permalink: /content/columns/2012/09/from-glyndebourne-to-the-paralympics/
 ---
 
 It's been a unusual summer! On the road, for example, I'm sure motorists have been hooting at me more, or otherwise showing annoyance, for simply keeping to the speed limit or holding the correct lane for my intended route. I put it down to the (occasional) heat, and the Lipstick Red of my old Corolla which, even though fading, must be quite distinctive now among all the fashionable silvers, greys and blacks. I'm almost looking forward to changing one day to a car that's a less coloured rag to bullish drivers.

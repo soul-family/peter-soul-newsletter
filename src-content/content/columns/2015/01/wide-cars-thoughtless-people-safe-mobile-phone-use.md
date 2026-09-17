@@ -1,7 +1,7 @@
 ---
 title: 'Wide cars, thoughtless people, safe mobile-phone use'
 date: 'January 2015'
-body_class: 'bg-3'
+background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_1x_1.gif'
     width: 96
     height: 41
-permalink: /content/columns/2015/01/wide-cars-thoughtless-people-safe-mobile-phone-use/
 ---
 
 An article in the last*Advanced Driving*magazine brought an awkward fact to our attention: cars have been putting on weight - or more to the point, width. Some previously slim models such as the Mini have widened by 18 inches over the years (though the Mini did it, untypically, in one extraordinary burst of growth around 15 years ago, in becoming the MINI).

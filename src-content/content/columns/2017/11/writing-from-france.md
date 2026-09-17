@@ -1,7 +1,7 @@
 ---
 title: 'Writing from France'
 date: 'November 2017'
-body_class: 'bg-8'
+background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_22x_9.gif'
     width: 79
     height: 42
-permalink: /content/columns/2017/11/writing-from-france/
 ---
 
 I need to make a start on writing this month's column - but rather unexpectedly (as I shall explain) I find myself in France! I've pointed out one or two oddities of this lovely country before: the French refer to dipped headlights enigmatically as either*les codes*or*les feux de croisement*(fires at a crossroads?). On some main roads, annoyingly, the speed limit is fine-tuned to the extent of varying every kilometre or less, making it hard to keep track of it even with the help of repeater signs.

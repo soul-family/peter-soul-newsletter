@@ -1,7 +1,7 @@
 ---
 title: "Bottle-necks, pillow-humps, cat's-eyes, traffic-lights"
 date: 'July 2008'
-body_class: 'bg-7'
+background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_9x_3.gif'
     width: 96
     height: 54
-permalink: /content/columns/2008/07/bottle-necks-pillow-humps-cat-s-eyes-traffic-lights/
 ---
 
 I have no particular theme in mind this month, so I will offer you some random thoughts in order to clear them out of my cluttered-up brain:

@@ -1,7 +1,7 @@
 ---
 title: 'Roundabouts, M4 sightings, signs in pairs'
 date: 'May 2004'
-body_class: 'bg-7'
+background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_6_1.gif'
     width: 96
     height: 42
-permalink: /content/columns/2004/05/roundabouts-m4-sightings-signs-in-pairs/
 ---
 
 Here is a mixed bag of motoring oddities:

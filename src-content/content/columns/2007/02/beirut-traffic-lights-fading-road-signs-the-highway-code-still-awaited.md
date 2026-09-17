@@ -1,7 +1,7 @@
 ---
 title: 'Beirut traffic-lights, fading road-signs, the Highway Code still awaited'
 date: 'February 2007'
-body_class: 'bg-8'
+background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_19x_3.gif'
     width: 96
     height: 75
-permalink: /content/columns/2007/02/beirut-traffic-lights-fading-road-signs-the-highway-code-still-awaited/
 ---
 
 Sometimes at this point in the month I face a dilemma: whether to explore a new topic (there's always one simmering in my head) or update some previous discussions instead. Let's make this column an update.

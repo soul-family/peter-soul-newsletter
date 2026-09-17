@@ -1,7 +1,7 @@
 ---
 title: 'Consequences of punctures and worse'
 date: 'November 2012'
-body_class: 'bg-4'
+background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_2x_5.gif'
     width: 96
     height: 43
-permalink: /content/columns/2012/11/consequences-of-punctures-and-worse/
 ---
 
 Some recent motoring coverage in the media seems to me to call for intelligent comment (or however else you would like to describe it) in this column. The first thing is that it seems to have been noticed all of a sudden that certain models of car don't come with a spare wheel.

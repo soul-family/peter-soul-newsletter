@@ -1,7 +1,7 @@
 ---
 title: "What happens when you're shunted"
 date: 'November 2015'
-body_class: 'bg-4'
+background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_19x_6.gif'
     width: 96
     height: 75
-permalink: /content/columns/2015/11/what-happens-when-you-re-shunted/
 ---
 
 This diary begins on a dark evening in late September...

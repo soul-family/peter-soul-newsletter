@@ -1,7 +1,7 @@
 ---
 title: 'Arriving home, alarming silence, amplifying force'
 date: 'July 2011'
-body_class: 'bg-7'
+background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_21x_3.gif'
     width: 96
     height: 75
-permalink: /content/columns/2011/07/arriving-home-alarming-silence-amplifying-force/
 ---
 
 I must start this column by recording a 'milestone': in May, my Toyota Corolla clocked up 100,000 miles. At least, that's what the odometer showed ... as I said some years ago (recalling when my previous Nissan Sunny had performed the same eye-catching trick), the accuracy of a car's distance-measuring system is probably no better than one in a hundred, at a guess. This means that the 100,000 was possibly wrong by 500 miles either way.

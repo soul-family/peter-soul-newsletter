@@ -1,7 +1,7 @@
 ---
 title: 'Clarkson by moonlight'
 date: 'March 2011'
-body_class: 'bg-3'
+background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_20_4.gif'
     width: 96
     height: 75
-permalink: /content/columns/2011/03/clarkson-by-moonlight/
 ---
 
 I hesitate to launch another column with a look at an edition of*Top Gear*on BBC2, but a note in*Radio Times*caught my eye:*Jeremy Clarkson races the new Jaguar XJ against something even bigger and more powerful - the rotation of the earth itself.*Now the earth rotates from west to east, so evidently JC would be driving the other way and aiming to keep the sun steady in the sky.

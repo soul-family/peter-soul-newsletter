@@ -1,7 +1,7 @@
 ---
 title: 'Signs of madness'
 date: 'April 2014'
-body_class: 'bg-8'
+background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_10x_8.gif'
     width: 96
     height: 54
-permalink: /content/columns/2014/04/signs-of-madness/
 ---
 
 Is the world going slightly mad, or is it just me? I've gathered together several pieces of evidence for you to consider - but which answer do they support (the world, or me)? You can decide at the end of this column.

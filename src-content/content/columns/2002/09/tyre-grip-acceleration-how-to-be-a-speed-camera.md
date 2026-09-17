@@ -1,7 +1,7 @@
 ---
 title: 'Tyre grip, acceleration, how to be a speed camera'
 date: 'September 2002'
-body_class: 'bg-4'
+background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_2x.gif'
     width: 96
     height: 43
-permalink: /content/columns/2002/09/tyre-grip-acceleration-how-to-be-a-speed-camera/
 ---
 
 One of the basic laws of physics which drivers make use of all the time, even if they don't know it, is the connection between force and acceleration:_if a force acts on an object, then it will accelerate_. In other words its speed will steadily change (unless there is an equal force on it in the opposite direction, such as friction). Indeed, you can't have acceleration without a force.

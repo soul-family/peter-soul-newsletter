@@ -1,7 +1,7 @@
 ---
 title: 'Bad vibrations'
 date: 'May 2014'
-body_class: 'bg-3'
+background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_6_2.gif'
     width: 96
     height: 54
-permalink: /content/columns/2014/05/bad-vibrations/
 ---
 
 Spring has arrived, and so my afternoon siesta is now sometimes accompanied (for better or worse) by the sound of lawnmowers. Some are noisier than others, making me wonder if they are the sort with a single rotary blade and this has become unbalanced. It happens easily enough, when the blade encounters a stone and gets chipped. Mine is a voice of some experience, from 40 years of owning two small Flymo hover-mowers (in succession).

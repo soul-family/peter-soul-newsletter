@@ -1,7 +1,7 @@
 ---
 title: 'Anticipating the 2007 Highway Code'
 date: 'November 2006'
-body_class: 'bg-4'
+background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_22x_2.gif'
     width: 79
     height: 42
-permalink: /content/columns/2006/11/anticipating-the-2007-highway-code/
 ---
 
 The summer issue of the*Advanced Driving*magazine contained a fascinating survey of the ten editions of the Highway Code that have been published since it was launched in 1931. One surprising fact stood out among many: the Table of Typical Stopping Distances is unchanged from when it first appeared in 1946! Apart, that is, from metres being introduced and the table being extended from 50 up to 70 mph. Have there been no improvements at all in brakes, tyres or tarmac since the war? Not in the eyes of the Department for Transport.

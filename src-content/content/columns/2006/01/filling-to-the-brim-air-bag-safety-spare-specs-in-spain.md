@@ -1,7 +1,7 @@
 ---
 title: 'Filling to the brim, air-bag safety, spare specs in Spain'
 date: 'January 2006'
-body_class: 'bg-3'
+background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_19x_2.gif'
     width: 96
     height: 75
-permalink: /content/columns/2006/01/filling-to-the-brim-air-bag-safety-spare-specs-in-spain/
 ---
 
 The new year seems to be a good time to clear my mind of puzzles that were troubling me in the old one, by writing them down. First let's look at the tax-disc question raised by a reader in November (reacting to my column the month before): surely it's OK to change to the new disc some time before the end of the month in which the old one expires? I emailed the DVLA, who advised that you must display the current tax disc at all times when your car is on the road. If you don't, the police may pounce.

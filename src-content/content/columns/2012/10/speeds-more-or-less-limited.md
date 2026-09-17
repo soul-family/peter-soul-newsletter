@@ -1,7 +1,7 @@
 ---
 title: 'Speeds more or less limited'
 date: 'October 2012'
-body_class: 'bg-7'
+background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_1x_2.gif'
     width: 96
     height: 41
-permalink: /content/columns/2012/10/speeds-more-or-less-limited/
 ---
 
 Our range of speed limits here in the UK, already quite wide, is being further stretched. At the upper end, a year ago the government announced a public consultation on raising the motorway limit from 70 to 80 mph. The IAM immediately responded with a call for a full risk-assessment, in the form of a pilot study on one of the motorways that have a variable speed limit (such as the M25 in Surrey).

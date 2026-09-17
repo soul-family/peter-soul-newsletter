@@ -1,7 +1,7 @@
 ---
 title: 'Deer dodged, sun projected, speed regulated'
 date: 'April 2015'
-body_class: 'bg-4'
+background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_8x_8.gif'
     width: 96
     height: 54
-permalink: /content/columns/2015/04/deer-dodged-sun-projected-speed-regulated/
 ---
 
 Last month Mrs S and I experienced a couple of natural events, as you might call them, on roads in North Hants (though they needn't have happened to us there, particularly). On the first occasion I was driving from Hartley Wintney towards Reading on the B3011, just after dark. I can see now from the map that the road soon passes through Hazeley Heath, which is partly woodland.
@@ -44,5 +43,3 @@ Let's get back to motoring: I'm still puzzling over something that I reported he
 A second question is this: if regulating my own speed is better than letting cruise control to do it for me -- presumably because I then stay more focused on what's happening around me - what about the other self-controlling systems in my car, such as auto-wipers, auto-lights and even the auto-gears? Should I stop using these too? Are they all inducing me to relax and take my attention off the road?
 
 I suppose I could try to assess their effects on me somehow. But I'm not going to test cruise control on myself, after what I've read and reported! Perhaps readers who do use it would like to comment...
-
-

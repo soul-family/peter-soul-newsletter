@@ -1,7 +1,7 @@
 ---
 title: "Other drivers ' oncoming, on roundabouts, on your tail"
 date: 'January 2007'
-body_class: 'bg-1'
+background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_18x_3.gif'
     width: 96
     height: 75
-permalink: /content/columns/2007/01/other-drivers-oncoming-on-roundabouts-on-your-tail/
 ---
 
 It seems to me that while you are driving, you make and then break many a partnership. I don't mean your relationship with the occupant of the passenger seat (because naturally you should try to keep on good terms with your partner, observer or whoever is beside you). No, I'm thinking of encounters with all the other drivers on the road. Perhaps 'partnership' isn't the exact word, but you do share an aim with each of these people (if only briefly), which is to guide your vehicles along either the same piece of tarmac or adjacent pieces, making good progress but avoiding any impact - or even the worry that one might happen.

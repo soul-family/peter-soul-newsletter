@@ -1,7 +1,7 @@
 ---
 title: 'Unfazed birds, unrecognized warning-lights, unhelpful percentages'
 date: 'January 2014'
-body_class: 'bg-7'
+background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_2x_6.gif'
     width: 96
     height: 43
-permalink: /content/columns/2014/01/unfazed-birds-unrecognized-warning-lights-unhelpful-percentages/
 ---
 
 Let us consider some topics that I caught sight of last year, before they become absurdly old news. Actually, one item looked absurd even when it was new (but then we were in the middle of the August silly season):_Birds observe speed limits, even if motorists don't_. This was a rather confusing newspaper headline, over a story based on a report in a biology-research journal, by two Canadians working in France. Driving at a variety of speeds on country roads with speed limits that ranged widely from 20 to 110 km per hour, they measured - by calculation from speed and time - the distance ahead at which birds took flight to avoid being run over.

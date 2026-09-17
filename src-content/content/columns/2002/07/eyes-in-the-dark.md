@@ -1,7 +1,7 @@
 ---
 title: 'Eyes in the dark'
 date: 'July 2002'
-body_class: 'bg-7'
+background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_1x.gif'
     width: 96
     height: 41
-permalink: /content/columns/2002/07/eyes-in-the-dark/
 ---
 
 No, this is not a medical column - I am not a physician! A little knowledge of physics can help you understand better why some of the things around you look and behave the way they do. It certainly makes driving more interesting, so I want to try to illuminate your journeys with examples of physics "on the road" (without of course wishing to distract you from driving safely).

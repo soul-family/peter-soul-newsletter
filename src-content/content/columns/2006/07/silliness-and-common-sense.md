@@ -1,7 +1,7 @@
 ---
 title: 'Silliness and common sense'
 date: 'July 2006'
-body_class: 'bg-3'
+background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_10x_3.gif'
     width: 96
     height: 54
-permalink: /content/columns/2006/07/silliness-and-common-sense/
 ---
 
 Let me anticipate the silly season with a few examples of silliness I've seen or heard about already. Recently I stopped at traffic lights, alongside an empty bus-lane (also at red). A small motor-bike moved into the bus-lane, the rider clearly hoping to trigger the detector that lets buses go first. But he failed, and when I got the green light he stayed put. Silliness followed by some sense, at least.

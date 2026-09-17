@@ -1,7 +1,7 @@
 ---
 title: 'In a class of my own when driving or walking'
 date: 'January 2012'
-body_class: 'bg-3'
+background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_8x_2.gif'
     width: 96
     height: 54
-permalink: /content/columns/2012/01/in-a-class-of-my-own-when-driving-or-walking/
 ---
 
 I'm typing this on New Year's Eve ... when one should be thinking of suitable resolutions for the year ahead. Someone on Radio 4 this morning pointed out that the word*resolution*comes from a Latin verb meaning to loosen or release. So perhaps I ought to resolve to escape from habits that may not be serving me too well - for example, a tendency to want to finish one task before starting work on others.

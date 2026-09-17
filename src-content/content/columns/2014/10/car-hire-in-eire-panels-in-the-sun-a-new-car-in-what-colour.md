@@ -1,7 +1,7 @@
 ---
 title: 'Car hire in Eire, panels in the sun, a new car in what colour?'
 date: 'October 2014'
-body_class: 'bg-1'
+background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_19x_8.gif'
     width: 96
     height: 75
-permalink: /content/columns/2014/10/car-hire-in-eire-panels-in-the-sun-a-new-car-in-what-colour/
 ---
 
 First I must satisfy your curiosity - that's assuming you remember that at the end of last month's column I was soon to hire a manual-gear car in S Ireland and was wondering how I would cope with it, after more than a year of driving an automatic.

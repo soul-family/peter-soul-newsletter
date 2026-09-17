@@ -1,7 +1,7 @@
 ---
 title: 'The future of charging, the ease of lifting, a substitute for phoning'
 date: 'February 2018'
-body_class: 'bg-5'
+background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_19x_9.gif'
     width: 96
     height: 75
-permalink: /content/columns/2018/02/the-future-of-charging-the-ease-of-lifting-a-substitute-for-phoning/
 ---
 
 Looking back at my recent columns, I notice several topics that need updating! Let's start with electric cars (which I discussed only last month): I mentioned that public charging points for them would become more common. Naturally I was thinking of fixed terminals that you need to drive up to (probably having queued for a while). But now I've seen news of*mobile*charging units, to be imported from the United States by BP and installed on its forecourts for testing.

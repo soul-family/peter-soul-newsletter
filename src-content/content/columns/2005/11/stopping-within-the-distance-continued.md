@@ -1,7 +1,7 @@
 ---
 title: "Stopping within the distance ' continued"
 date: 'November 2005'
-body_class: 'bg-8'
+background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_18x_2.gif'
     width: 96
     height: 75
-permalink: /content/columns/2005/11/stopping-within-the-distance-continued/
 ---
 
 Here are some afterthoughts to [September's](./2005/09/stopping-within-the-distance.md)column on vehicle separation and stopping distances. You may have seen*University Challenge*soon afterwards on BBC2, in which the students were shown a pair of Thinking and Braking Distances from the table in the Highway Code and were asked what speed they corresponded to. The guesses from each team were hopelessly low! But then a further three pairs of distances were answered almost immediately with the correct speeds. I suspect that one bright young brain realized that the speed would be proportional to the Thinking Distance...

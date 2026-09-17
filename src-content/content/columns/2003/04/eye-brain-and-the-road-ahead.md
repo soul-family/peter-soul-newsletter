@@ -1,7 +1,7 @@
 ---
 title: 'Eye, brain and the road ahead'
 date: 'April 2003'
-body_class: 'bg-7'
+background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_22x.gif'
     width: 79
     height: 42
-permalink: /content/columns/2003/04/eye-brain-and-the-road-ahead/
 ---
 
 When you are watching TV, do you ever think what a miracle of technology it is, allowing you to see pictures from around the world without leaving your chair? Indeed so, but it's nothing compared with the 'natural' technology that is at work in your brain, enabling you to view and understand the TV picture - together with everything else around you.
@@ -28,5 +27,3 @@ At the wheel your gaze tends to be attracted along the road into the distance, p
 And then there is the effect of the blind spot I mentioned, in each eye: hold your right hand spread out (palm towards you) at about arm's length, look hard at the thumb, then cover your right eye with your left hand (or else just close it), and you will lose sight of at least part of a finger. You rely totally on your right eye to detect anything appearing in this particular direction - perhaps a dog wandering at the roadside - and similarly on the right eye, for things on the left.
 
 Hence the advice that we are given as advanced drivers: keep sweeping your gaze from side to side, just as you might do when*not*concentrating on a task. Then there is a good chance that you will see that dog clearly and in good time, instead of as a blur, or not at all. Don't be blind to Spot!
-
-

@@ -1,7 +1,7 @@
 ---
 title: 'Driving in and around Wales'
 date: 'May 2018'
-body_class: 'bg-1'
+background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_2x_7.gif'
     width: 96
     height: 43
-permalink: /content/columns/2018/05/driving-in-and-around-wales/
 ---
 
 I am having to start composing this column (with some difficulty, given the surroundings!) having arrived at the furthest corner of North Wales, on a big island: Anglesey. At any rate, it has twice the area of the Isle of Wight, though with barely half the population, which would explain the relatively traffic-free roads. Better still is the near-absence of potholes (this seemed to apply across N Wales too, as we drove).

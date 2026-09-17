@@ -1,7 +1,7 @@
 ---
 title: "Now you see it, now you don't"
 date: 'March 2004'
-body_class: 'bg-1'
+background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_8x_1.gif'
     width: 96
     height: 42
-permalink: /content/columns/2004/03/now-you-see-it-now-you-don-t/
 ---
 
 In [July](./2003/07/eye-brain-and-the-road-ahead-continued.md)last year I attempted a description of how the brain rapidly performs the complicated task of enabling you to 'see' what you are looking at. In brief: the tiny images captured by your eyes go through an extraordinary process of dissection, reassembly and matching against your visual memory. At the end of it, apparently without any mental effort and in the twinkling of an eye (!) you are able to identify every object in front of you, and work out exactly where it is and in what direction it might be moving.

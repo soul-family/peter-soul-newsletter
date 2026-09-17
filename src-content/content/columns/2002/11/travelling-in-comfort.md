@@ -1,7 +1,7 @@
 ---
 title: 'Travelling in comfort'
 date: 'November 2002'
-body_class: 'bg-7'
+background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_8x.gif'
     width: 96
     height: 44
-permalink: /content/columns/2002/11/travelling-in-comfort/
 ---
 
 A couple of months ago we looked at force and acceleration, and how much you rely on tyre grip to push the car forwards when you are accelerating, or backwards when braking, or even sideways (into the bend) when cornering.

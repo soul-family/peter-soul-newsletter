@@ -1,7 +1,7 @@
 ---
 title: 'Speedos and other meters'
 date: 'June 2003'
-body_class: 'bg-1'
+background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_18x.gif'
     width: 96
     height: 52
-permalink: /content/columns/2003/06/speedos-and-other-meters/
 ---
 
 Last month we looked at how the accuracy of your odometer depends on the state of your tyres. I concluded that the accuracy depends hardly at all on whether you keep the tyre pressures correct, but it will shift by about 2% during the tread-life of the tyres (the ones on the driving wheels, that is).

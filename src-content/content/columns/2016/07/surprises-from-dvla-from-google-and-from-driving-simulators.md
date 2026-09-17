@@ -1,7 +1,7 @@
 ---
 title: 'Surprises from DVLA, from Google and from driving simulators'
 date: 'July 2016'
-body_class: 'bg-3'
+background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_6_7.gif'
     width: 96
     height: 54
-permalink: /content/columns/2016/07/surprises-from-dvla-from-google-and-from-driving-simulators/
 ---
 
 I'm writing this column early in July, but already I seem to have fallen into a silly-season mood - reinforced by my having come across a Wikipedia page headed*Silly season*, which informed me that in many languages, the coming couple of months translate as "cucumber time". Apparently this phrase was even used in English, in the 1800s, to denote the slow season for tailors. Don't ask me why!

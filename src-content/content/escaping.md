@@ -1,7 +1,6 @@
 ---
 title: 'escaping'
-permalink: /content/escaping/
-body_class: 'bg-7'
+background: 'bg-7'
 ---
 
 This page is based on a BBC TV programme, an edition of*Horizon*in 2006 which I recorded and watched later. It was one of the best programmes I have seen - and one of the worst: best, for the well-presented expert advice it offered, and worst for the way this advice was mixed with images that would have put most people off staying with the programme! So here is the advice on its own. If you digest it, it might just save your life...

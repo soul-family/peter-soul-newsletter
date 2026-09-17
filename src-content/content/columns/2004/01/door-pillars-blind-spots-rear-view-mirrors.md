@@ -1,7 +1,7 @@
 ---
 title: 'Door pillars, blind spots, rear-view mirrors'
 date: 'January 2004'
-body_class: 'bg-7'
+background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_2x_1.gif'
     width: 96
     height: 43
-permalink: /content/columns/2004/01/door-pillars-blind-spots-rear-view-mirrors/
 ---
 
 The word*Information*puts more thoughts into my head than all the other headings in the System of Car Control, combined. The main channel for the information that we take in is of course our eyesight.

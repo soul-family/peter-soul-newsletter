@@ -1,7 +1,7 @@
 ---
 title: 'Position, speed, acceleration sense'
 date: 'November 2003'
-body_class: 'bg-5'
+background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_1x_1.gif'
     width: 96
     height: 41
-permalink: /content/columns/2003/11/position-speed-acceleration-sense/
 ---
 
 The five headings of the System of Car Control are written on every advanced driver's heart (or maybe on the back of the hand at least): Information, Position, Speed, Gear, Acceleration. Probably everyone thinks about this list in a slightly different way. Here's what a physicist thinks.

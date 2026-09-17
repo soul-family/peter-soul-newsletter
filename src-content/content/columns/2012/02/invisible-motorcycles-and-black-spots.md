@@ -1,7 +1,7 @@
 ---
 title: 'Invisible motorcycles and black spots'
 date: 'February 2012'
-body_class: 'bg-5'
+background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_10x_6.gif'
     width: 96
     height: 54
-permalink: /content/columns/2012/02/invisible-motorcycles-and-black-spots/
 ---
 
 It was a stimulating talk by Peter Rodger, IAM Chief Examiner, at the [Thames Valley Group] meeting in January! One of his questions was this: suppose at a T-junction you looked right, and saw*either*a lorry*or*a motorcycle, 100 metres away. If the actual speed of each was 30 mph, which one would appear to be approaching faster? It turned out that what he was really getting at was which one you would take more notice of. The answer was the lorry, of course. And the lesson drawn? Concentrate harder (than you might otherwise do) on assessing the speed of an approaching bike.

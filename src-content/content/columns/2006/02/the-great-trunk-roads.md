@@ -1,7 +1,7 @@
 ---
 title: 'The great trunk roads'
 date: 'February 2006'
-body_class: 'bg-5'
+background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_21x_2.gif'
     width: 96
     height: 75
-permalink: /content/columns/2006/02/the-great-trunk-roads/
 ---
 
 Looking back over 35 of these columns, I'm astonished to see that I've hardly ever mentioned maps, and then only in passing. The relationship between maps and the real world has always fascinated me. If I study the local map of a place before visiting it, I usually find myself thinking (when I arrive) how well the place matches the map - which is absurd, because the real marvel is how well the map-makers have done their job!

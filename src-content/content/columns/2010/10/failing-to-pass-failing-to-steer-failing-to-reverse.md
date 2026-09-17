@@ -1,7 +1,7 @@
 ---
 title: 'Failing to pass, failing to steer, failing to reverse'
 date: 'October 2010'
-body_class: 'bg-3'
+background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_9x_5.gif'
     width: 96
     height: 54
-permalink: /content/columns/2010/10/failing-to-pass-failing-to-steer-failing-to-reverse/
 ---
 
 It's like the end of an era. I acquired my Toyota Corolla Liftback (slightly elongated compared with the hatchback) in 2001: she was four years old, had done 29,000 miles, and was the newest and most costly vehicle I had ever bought. Her colour was Lipstick Red, though in recent years the make-up became a bit patchy. And with the car came free MOTs for life! Or at least, for her life with me - or do I mean my life with her?

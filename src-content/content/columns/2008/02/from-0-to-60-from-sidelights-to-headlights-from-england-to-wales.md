@@ -1,7 +1,7 @@
 ---
 title: 'From 0 to 60, from sidelights to headlights, from England to Wales'
 date: 'February 2008'
-body_class: 'bg-4'
+background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_18x_4.gif'
     width: 96
     height: 75
-permalink: /content/columns/2008/02/from-0-to-60-from-sidelights-to-headlights-from-england-to-wales/
 ---
 
 This month, questions and (some) answers. First, a brain-teaser: let's suppose your car can - and does - go from 0 to 60 in ten seconds. How much journey time does this save you, compared with relaxing a bit and taking instead say twenty seconds over the acceleration (and then continuing on as before, at 60 or whatever speed the road dictates)? You will find the answer at the end of this column.

@@ -1,7 +1,7 @@
 ---
 title: 'Anniversary thoughts'
 date: 'June 2007'
-body_class: 'bg-4'
+background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_9x_4.gif'
     width: 96
     height: 54
-permalink: /content/columns/2007/06/anniversary-thoughts/
 ---
 
 Here is a warning I should have received five years ago: "Does it occur to you, as you start to write your first column as a physicist, that in June 2007 you could be on to your*fiftieth*(or fifty-first if you count an earlier piece on speed-limit absurdities)? Ten columns a year, most of them filling two newsletter pages, will surely bore your readers and exhaust you - not to mention your knowledge of the bits of physics that are at all relevant to driving. Don't do it!"

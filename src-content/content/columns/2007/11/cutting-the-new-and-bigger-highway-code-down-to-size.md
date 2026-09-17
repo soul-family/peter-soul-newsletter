@@ -1,7 +1,7 @@
 ---
 title: 'Cutting the new and bigger Highway Code down to size'
 date: 'November 2007'
-body_class: 'bg-5'
+background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_20_4.gif'
     width: 96
     height: 75
-permalink: /content/columns/2007/11/cutting-the-new-and-bigger-highway-code-down-to-size/
 ---
 
 Let us hail the arrival of the 2007 Highway Code! For a start, it's 50% thicker than the previous edition, so it contains 50% more information, yes? Well, not quite. There are fewer lines per page, and fewer words per line. Also, three pages advertise other publications from the Driving Standards Agency, and four blank sides are provided on which you can write your own rules of the road, shopping lists and so on.

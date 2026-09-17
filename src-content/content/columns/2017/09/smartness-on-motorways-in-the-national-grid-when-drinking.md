@@ -1,7 +1,7 @@
 ---
 title: "Smartness ' on motorways, in the national grid, when drinking"
 date: 'September 2017'
-body_class: 'bg-4'
+background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_6_8.gif'
     width: 96
     height: 54
-permalink: /content/columns/2017/09/smartness-on-motorways-in-the-national-grid-when-drinking/
 ---
 
 At the start of the summer I was thinking of filling this September column with a survey of silly-season stories, as I've sometimes done before. But instead, the season has produced an extraordinary stream of sensible, significant, and surprising stories - possibly enough to see me through to the end of the year!

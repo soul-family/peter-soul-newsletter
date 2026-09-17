@@ -1,7 +1,7 @@
 ---
 title: 'Writing from Ireland'
 date: 'October 2003'
-body_class: 'bg-3'
+background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_25.gif'
     width: 131
     height: 77
-permalink: /content/columns/2003/10/writing-from-ireland/
 ---
 
 Previously when we have visited Eire we've taken a flight over and hired a car there, sometimes arranging to return it to a different airport to allow a longer tour. This year we decided to take our own car and head straight for our favourite corner, the far south-west. If you are tempted to do the same sometime, the easy way is to sail overnight on the Swansea-Cork ferry - avoiding the occasions when it uses the more distant Pembroke instead (because of the tide, I believe).

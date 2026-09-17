@@ -1,7 +1,7 @@
 ---
 title: 'Stopping within the distance'
 date: 'September 2005'
-body_class: 'bg-1'
+background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_20_2.gif'
     width: 96
     height: 75
-permalink: /content/columns/2005/09/stopping-within-the-distance/
 ---
 
 In each of my last two columns I mentioned stopping distances, in passing. This month let's stop and give them a closer look. It's an important topic, so stay with me if you can. I'll assume you have a copy of the Highway Code within reach, with its diagram of Typical Stopping Distances - if not, then view the [Highway Code stopping distances table](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/312249/the-highway-code-typical-stopping-distances.pdf).

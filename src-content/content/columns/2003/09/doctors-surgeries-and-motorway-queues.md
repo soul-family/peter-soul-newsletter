@@ -1,7 +1,7 @@
 ---
 title: "Doctors' surgeries and motorway queues"
 date: 'September 2003'
-body_class: 'bg-8'
+background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_21x.gif'
     width: 96
     height: 58
-permalink: /content/columns/2003/09/doctors-surgeries-and-motorway-queues/
 ---
 
 Dr Rachel Hooke [a fellow columnist] recently came up with a remarkable list of similarities between the progress of patients through the NHS and the flow of traffic on the roads - an additional consultant in a hospital is like opening up a new road or bypass, and so on. She ended by wondering if a physicist might have any thoughts on these matters.

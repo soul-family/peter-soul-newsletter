@@ -1,7 +1,7 @@
 ---
 title: 'Speeding up and slowing down'
 date: 'September 2008'
-body_class: 'bg-4'
+background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_8x_5.gif'
     width: 96
     height: 54
-permalink: /content/columns/2008/09/speeding-up-and-slowing-down/
 ---
 
 I don't know if what I write stays with you for long, after you have read it, but some things certainly stay in my own head, worrying away until I feel I have to focus on them again. Last February, I compared accelerating from 0 to 60 in twenty seconds with doing it in ten (then staying at 60 mph). I calculated that the difference was just five seconds' journey time. So my advice was: take it easy!

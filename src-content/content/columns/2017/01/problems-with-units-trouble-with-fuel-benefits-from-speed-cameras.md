@@ -1,7 +1,7 @@
 ---
 title: 'Problems with units, trouble with fuel, benefits from speed cameras'
 date: 'January 2017'
-body_class: 'bg-7'
+background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_19x_2.gif'
     width: 96
     height: 75
-permalink: /content/columns/2017/01/problems-with-units-trouble-with-fuel-benefits-from-speed-cameras/
 ---
 
 Well, another year has rolled by, leaving me with various stories (relating to physics or motoring) which I didn't have space to cover within my ten columns in 2016. This first one teaches a lesson that scientists and others learn the hard way sometimes. And it might have affected a few of you: last August it was revealed that a "small number" of households and businesses, maybe 10,000, had been receiving erroneous gas bills, some for up to 15 years!

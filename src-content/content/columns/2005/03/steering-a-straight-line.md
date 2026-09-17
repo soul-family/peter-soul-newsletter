@@ -1,7 +1,7 @@
 ---
 title: 'Steering a straight line'
 date: 'March 2005'
-body_class: 'bg-8'
+background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_2x.gif'
     width: 96
     height: 43
-permalink: /content/columns/2005/03/steering-a-straight-line/
 ---
 
 Some scientists must live and work in a perpetual dilemma. If they are to be respected and understood by the non-scientific public, then they must attempt to explain to the public what science is all about, in simple terms. But a few scientific words at least will have to be included. If one of these words or phrases is fancied by non-scientists and starts to be used widely, its meaning will very likely be altered - making science even harder to explain the next time!

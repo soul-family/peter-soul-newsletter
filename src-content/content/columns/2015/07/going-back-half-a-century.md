@@ -1,7 +1,7 @@
 ---
 title: 'Going back half a century'
 date: 'July 2015'
-body_class: 'bg-3'
+background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_20_8.gif'
     width: 96
     height: 75
-permalink: /content/columns/2015/07/going-back-half-a-century/
 ---
 
 I feel that I am in a double time-warp, possibly even a triple one. Yesterday (as I write) I returned to the University of Warwick to help celebrate the 50th birthday of its Physics Department, where I arrived as a postgraduate student in the autumn of 1965. In fact the whole university is celebrating its half-century during this year, but yesterday was the turn of physics.

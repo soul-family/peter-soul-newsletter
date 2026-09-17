@@ -1,7 +1,7 @@
 ---
 title: 'Bulb failure and success, fuel consumption and comprehension'
 date: 'February 2014'
-body_class: 'bg-4'
+background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_9x_6.gif'
     width: 96
     height: 54
-permalink: /content/columns/2014/02/bulb-failure-and-success-fuel-consumption-and-comprehension/
 ---
 
 Which items in a car are critical for your safety? Tyres and brakes, certainly. And after these, the lighting, I would say. If I notice a vehicle with a rear light or brake light out of action, I feel that I must take any safe opportunity to tell the driver. Incredibly, sometimes you even see two brake lights missing, out of three: how many months since they were checked? And why hasn't anyone else done the decent thing (and also the self-preserving thing, if you want a clear warning that the car in front is braking) and let the driver know that he or she is two lights down, with one to go (after which you will get no warning at all)? As for driving with a failed headlight, the excuse for this can't be that I wasn't aware of it, officer. It must be that the garage is booked up solid for another fortnight, sorry.

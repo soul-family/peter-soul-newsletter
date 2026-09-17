@@ -1,7 +1,7 @@
 ---
 title: 'Screens large and small'
 date: 'November 2016'
-body_class: 'bg-5'
+background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_18x_3.gif'
     width: 96
     height: 75
-permalink: /content/columns/2016/11/screens-large-and-small/
 ---
 
 I've mentioned before that Mrs S and I attend a weekly French class: the lessons begin with a test in which we are each given a word (on a card) from the previous week, and have to define it, for the others to guess at. I don't very often manage to recall or guess other people's words, but at least I can usually come up with an intriguing or, more likely, obscure definition for my own! The other week it was*dsuet*(you may have come across the related English word 'desuetude'). Here's what I said:_Mon mot est un adjectif qui, peut-tre, dcrit certains de mes ides et habitudes._**

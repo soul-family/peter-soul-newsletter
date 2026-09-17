@@ -1,7 +1,7 @@
 ---
 title: 'When not to cross the road'
 date: 'October 2016'
-body_class: 'bg-3'
+background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_22x_8.gif'
     width: 79
     height: 42
-permalink: /content/columns/2016/10/when-not-to-cross-the-road/
 ---
 
 How often does it happen that you're driving along a local road and you see a familiar face on the pavement looking in your direction, so you give its owner a wave or perhaps a toot on the horn - but you get no equivalent response? Conversely, how many times have you been walking along when you saw the lift of a hand from a driver, but you had no idea who it was (unless maybe you recognized the car)?

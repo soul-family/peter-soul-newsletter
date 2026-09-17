@@ -1,7 +1,7 @@
 ---
 title: 'Reacting to amber'
 date: 'June 2005'
-body_class: 'bg-7'
+background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_10x_2.gif'
     width: 96
     height: 54
-permalink: /content/columns/2005/06/reacting-to-amber/
 ---
 
 This month, let's pay some attention to traffic lights. First a couple of quick questions: what is the meaning of a (non-flashing) amber traffic light? And how long does it stay illuminated? The answers, when I checked them, rather surprised me - they are at the end of this column.

@@ -1,7 +1,7 @@
 ---
 title: 'Potential energy, green cars, high technology'
 date: 'September 2006'
-body_class: 'bg-5'
+background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_6_3.gif'
     width: 96
     height: 54
-permalink: /content/columns/2006/09/potential-energy-green-cars-high-technology/
 ---
 
 Glancing back at some of my columns so far this year, I see one or two loose ends that perhaps need tidying up! In March I mentioned Potential Energy as one of the many forms of energy that come from the fuel burnt in the engine of your car. PE is what the car acquires by going uphill, against the pull of gravity.

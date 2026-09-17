@@ -1,7 +1,7 @@
 ---
 title: 'Hatching, entering, exiting, escaping'
 date: 'June 2009'
-body_class: 'bg-8'
+background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_1x_5.gif'
     width: 96
     height: 41
-permalink: /content/columns/2009/06/hatching-entering-exiting-escaping/
 ---
 
 If I put down some questions that are niggling me, perhaps they will go away...

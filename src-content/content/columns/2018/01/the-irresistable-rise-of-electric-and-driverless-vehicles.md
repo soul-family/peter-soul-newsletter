@@ -1,7 +1,7 @@
 ---
 title: 'The irresistable rise of electric and driverless vehicles'
 date: 'January 2018'
-body_class: 'bg-3'
+background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_18x_3.gif'
     width: 96
     height: 75
-permalink: /content/columns/2018/01/the-irresistable-rise-of-electric-and-driverless-vehicles/
 ---
 
 Thinking back to 2002 when I started writing these columns, it astonishes me how many news stories and other items I've come across, just in the last few months, that would have made little sense to me back then, a mere 15 years or so ago! In the November newsletter [of our Thames Valley Group] alone, there was mention of the DSG twin-clutch automatic gearbox, which first appeared in 2003 (and I love it on my Golf) - and of stop-start systems, which automatically cut and restart the engine as needed, when you're in a queue.

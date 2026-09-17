@@ -1,7 +1,7 @@
 ---
 title: 'Saving petrol and other things'
 date: 'June 2015'
-body_class: 'bg-8'
+background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_6_5.gif'
     width: 96
     height: 54
-permalink: /content/columns/2015/06/saving-petrol-and-other-things/
 ---
 
 Among the news releases from the IAM in last month's [Thames Valley Group] newsletter, did you notice some startling statistics? An information request to Highways England (HE, though until recently the Highways Agency, HA) had revealed that in 2014 there were*more than\**440,000*lane-closures on motorways and primary A-roads - closures all sanctioned by HE (I mean HA), presumably.
@@ -40,5 +39,3 @@ When I went out to inspect the 'paint', I was relieved to find that it wiped off
 We had hardly thought that a single bird could be the culprit. And even though there's a lake opposite with a heron or two on it, we've never experienced this trouble on or near the road before. Is it that fish-ponds in neighbours' gardens have suddenly become an attraction for these impressive birds?
 
 Going back to last month's group newsletter, one item of news from the IAM was most encouraging: its Mature Drivers Assessment scheme enables senior motorists to have a drive with an IAM assessor - and out of 558 participants, "36% took the assessment because their reaction times were decreasing". Well! As far as I know, it's never before been recognized that some people become more alert and quicker to react, as they get older. Maybe the reason is that after they retire they are able to catch up on their sleep, and are therefore wider awake when driving. Alternatively, though, it could have been just an IAM misprint: "decreasing", instead of "worsening"...
-
-

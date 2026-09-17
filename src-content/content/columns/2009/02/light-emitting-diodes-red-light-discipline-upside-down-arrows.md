@@ -1,7 +1,7 @@
 ---
 title: 'Light-emitting diodes, red-light discipline, upside-down arrows'
 date: 'February 2009'
-body_class: 'bg-5'
+background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_22x_4.gif'
     width: 79
     height: 42
-permalink: /content/columns/2009/02/light-emitting-diodes-red-light-discipline-upside-down-arrows/
 ---
 
 This month, several things I've written about in recent columns are still on my mind:

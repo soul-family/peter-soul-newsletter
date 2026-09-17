@@ -1,7 +1,7 @@
 ---
 title: 'Signs of blue'
 date: 'January 2009'
-body_class: 'bg-1'
+background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_20_5.gif'
     width: 96
     height: 75
-permalink: /content/columns/2009/01/signs-of-blue/
 ---
 
 As I drive along, I do try to notice and make sense of anything unusual (which, after all, is how these columns often first take shape!). But there's something I became aware of only gradually, last year. I'm referring to the blue signs that you now see every few hundred yards along motorways, and on some other roads too I believe.

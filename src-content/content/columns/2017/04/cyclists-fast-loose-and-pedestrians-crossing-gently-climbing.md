@@ -1,7 +1,7 @@
 ---
 title: 'Cyclists fast & loose, and pedestrians crossing & gently climbing'
 date: 'April 2017'
-body_class: 'bg-8'
+background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_2x_5.gif'
     width: 96
     height: 43
-permalink: /content/columns/2017/04/cyclists-fast-loose-and-pedestrians-crossing-gently-climbing/
 ---
 
 After my column last month on bicycles, let's turn our attention to their riders: it seems to me that cyclists divide themselves naturally into two groups. The first are those with a life-wish, which they demonstrate by wearing helmets, making themselves clearly visible, and evidently being familiar with the Highway Code. The other lot possess a death-wish, or apparently so.

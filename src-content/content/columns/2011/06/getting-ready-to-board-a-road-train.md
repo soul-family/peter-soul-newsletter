@@ -1,7 +1,7 @@
 ---
 title: 'Getting ready to board a road train'
 date: 'June 2011'
-body_class: 'bg-5'
+background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_19x_6.gif'
     width: 96
     height: 75
-permalink: /content/columns/2011/06/getting-ready-to-board-a-road-train/
 ---
 
 I do believe this is the 90th column that I've composed for these pages [in the Thames Valley Group Newsletter] - at a rate, somehow, of ten a year. But how do you react to the notion that if and when my 190th column appears, you could be reading it (either on paper or on a screen) at the wheel of your car in the course of a journey? For that matter, I could be*writing*it while on the road to somewhere, just occasionally glancing up (for inspiration) at the traffic passing by. I'm talking about real cruise control here, with both your speed and your steering being managed automatically.

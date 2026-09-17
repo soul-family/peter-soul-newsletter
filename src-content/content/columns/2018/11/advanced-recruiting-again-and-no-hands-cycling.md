@@ -1,7 +1,7 @@
 ---
 title: 'Advanced-recruiting again, and no-hands cycling'
 date: 'November 2018'
-body_class: 'bg-4'
+background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_20_7.gif'
     width: 96
     height: 75
-permalink: /content/columns/2018/11/advanced-recruiting-again-and-no-hands-cycling/
 ---
 
 As I rounded off last month's column with a discussion of why the great majority of drivers are reluctant to reach for the benefits of an advanced course, I never guessed that this would be a main topic aired at our monthly [Thames Valley Group] meeting a couple of weeks later. Or that the guest speaker would be Mike Quinton, the new Chief Executive Officer of IAM RoadSmart. When I did learn that our top man was coming, I couldn't resist attending the meeting myself.

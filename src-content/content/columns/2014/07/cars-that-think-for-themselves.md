@@ -1,7 +1,7 @@
 ---
 title: 'Cars that think for themselves'
 date: 'July 2014'
-body_class: 'bg-7'
+background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_22x_2.gif'
     width: 79
     height: 42
-permalink: /content/columns/2014/07/cars-that-think-for-themselves/
 ---
 
 Regular readers may remember that last year I changed my 1997 (manual) Toyota Corolla for a 2010 automatic VW Golf. Actually, it was quite a surprise to discover how many areas of a car had become automated during the 13 years: the auto-gearbox was the least of it (almost)! So I've been thinking about some of the systems that govern themselves, in a modern vehicle (or in mine anyway).

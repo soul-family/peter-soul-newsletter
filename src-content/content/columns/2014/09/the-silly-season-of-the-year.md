@@ -1,7 +1,7 @@
 ---
 title: 'The silly-season of the year'
 date: 'September 2014'
-body_class: 'bg-4'
+background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_18x_3.gif'
     width: 96
     height: 75
-permalink: /content/columns/2014/09/the-silly-season-of-the-year/
 ---
 
 Sometimes a September column almost seems to write itself, if the summer has generated an above-average flow of silly-season stories...

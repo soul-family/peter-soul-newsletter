@@ -1,7 +1,7 @@
 ---
 title: 'John Humphrys, Robbie the Robot, Ludwig van Beethoven'
 date: 'March 2012'
-body_class: 'bg-7'
+background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_6_6.gif'
     width: 96
     height: 54
-permalink: /content/columns/2012/03/john-humphrys-robbie-the-robot-ludwig-van-beethoven/
 ---
 
 During the first*Mastermind*of this month on BBC2, the question was asked: "Unless otherwise stated, what's the speed limit outside built-up areas, for cars and motorbikes, on ordinary single-carriageway roads in Britain?" This was of course part of the general-knowledge round, not the specialist one (I can't imagine anyone volunteering to expose their possible ignorance of the Highway Code quite as publicly as that - it's bad enough having to do so in a driving test). The contestant's answer was a rapid-fire "70!". Let's hope that John Humphrys' equally quick correction to 60 was taken on board by viewers, because all the evidence is that the NSL sign is regarded by many drivers (perfectly reasonably, in my view, given the design of it) as indicating No Speed Limit at all.

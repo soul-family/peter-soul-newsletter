@@ -1,7 +1,7 @@
 ---
 title: "Headaches, Moir' patterns, road layouts"
 date: 'September 2004'
-body_class: 'bg-5'
+background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_22x_1.gif'
     width: 79
     height: 37
-permalink: /content/columns/2004/09/headaches-moir-patterns-road-layouts/
 ---
 
 Here is a selection of motoring mysteries:

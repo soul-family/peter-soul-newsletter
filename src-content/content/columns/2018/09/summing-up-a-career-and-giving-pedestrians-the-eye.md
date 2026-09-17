@@ -1,7 +1,7 @@
 ---
 title: 'Summing up a career, and giving pedestrians the eye'
 date: 'September 2018'
-body_class: 'bg-5'
+background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_10x_10.gif'
     width: 96
     height: 54
-permalink: /content/columns/2018/09/summing-up-a-career-and-giving-pedestrians-the-eye/
 ---
 
 [If you are reading this immediately after my previous column, labelled July but written in June, you may be pleased to know (and I'm certainly pleased to tell you) that I have recovered well from my operation at the end of June, with just a few months of mild chemotherapy to face now.]

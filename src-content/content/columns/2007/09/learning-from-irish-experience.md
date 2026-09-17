@@ -1,7 +1,7 @@
 ---
 title: 'Learning from Irish experience'
 date: 'September 2007'
-body_class: 'bg-8'
+background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_10x_3.gif'
     width: 96
     height: 54
-permalink: /content/columns/2007/09/learning-from-irish-experience/
 ---
 
 Every once in a while, I look back and realize that I've learnt a few things recently that might usefully be passed on. Let's start with ferrying your car across the Irish Sea, to what is surely one of the most attractive countries within easy reach (and not just because they speak English and drive on the left!). I first reported on this journey in [October 2003](./2003/10/writing-from-ireland.md)after we had travelled overnight each way, fairly comfortably, on the Swansea-Cork ferry. Unfortunately this route hasn't been operating in 2007. According to their website, "We were unable to obtain a suitable vessel." No mention of what happened to the one we sailed on...

@@ -1,7 +1,7 @@
 ---
 title: 'Misting across, warming up, cooling down'
 date: 'March 2014'
-body_class: 'bg-1'
+background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_8x_2.gif'
     width: 96
     height: 54
-permalink: /content/columns/2014/03/misting-across-warming-up-cooling-down/
 ---
 
 I am a simple physicist. What I mean is that I often think in terms of simple physics - school physics, if you like - when trying to understand (for myself) or explain (to you) some phenomenon or other. University-level physics seems much less helpful for this purpose, but fortunately much of my school physics and maths has stayed in my head, for half a century and more.

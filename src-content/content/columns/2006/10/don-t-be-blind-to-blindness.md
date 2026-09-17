@@ -1,7 +1,7 @@
 ---
 title: "Don't be blind to blindness"
 date: 'October 2006'
-body_class: 'bg-7'
+background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_20_3.gif'
     width: 96
     height: 75
-permalink: /content/columns/2006/10/don-t-be-blind-to-blindness/
 ---
 
 It was back in March 2004 that I last wrote about the eyes and the brain. I said that your subconscious brain regards many of the details captured by your eyes as unimportant, and so it's rubbing them out all the time, before you can consciously 'see' them. Otherwise, the brain would be overloaded with them beyond endurance! Also, it cleverly fills in some of the gaps in your view of the scene ahead. For example, everyone has a blind spot in each eye: in your left eye it's just to the left of where you're looking, and in your right it's to the right. But you never notice these gaps normally, because your brain covers them up.

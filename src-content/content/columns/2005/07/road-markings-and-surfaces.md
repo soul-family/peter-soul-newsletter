@@ -1,7 +1,7 @@
 ---
 title: 'Road markings and surfaces'
 date: 'July 2005'
-body_class: 'bg-4'
+background: 'bg-4'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_6_2.gif'
     width: 96
     height: 54
-permalink: /content/columns/2005/07/road-markings-and-surfaces/
 ---
 
 The greater the distance I drive in a day, the more the pressure builds up. The next day it starts only a little lower than at the end of yesterday's journey - and then rises again. The only way to prevent an explosion is to install a safety valve and then use it to relieve the pressure at regular intervals.

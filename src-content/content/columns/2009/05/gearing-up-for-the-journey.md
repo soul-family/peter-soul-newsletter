@@ -1,7 +1,7 @@
 ---
 title: 'Gearing up for the journey'
 date: 'May 2009'
-body_class: 'bg-1'
+background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_21x_4.gif'
     width: 96
     height: 75
-permalink: /content/columns/2009/05/gearing-up-for-the-journey/
 ---
 
 It is quite a while since I mentioned the System of Car Control:_Information_,_Position_,_Speed_,_Gear_,_Acceleration_- the sequence that advanced drivers should be muttering under their breath as they approach any road hazard and then travel through it or past it.

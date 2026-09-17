@@ -1,7 +1,7 @@
 ---
 title: 'Over-working the brain'
 date: 'January 2003'
-body_class: 'bg-8'
+background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_10x.gif'
     width: 96
     height: 31
-permalink: /content/columns/2003/01/over-working-the-brain/
 ---
 
 I am fascinated by how the brain takes in information and then decides what to do about it. As I look at the street ahead, the retinas of my eyes receive tiny images - jerky, upside-down, and mostly fuzzy. From these, my brain constructs a detailed, ever-changing, three-dimensional picture of my surroundings. Then it predicts the paths of vehicles, pedestrians, dogs etc and decides whether or not they will get in the way, as it controls and navigates a highly complicated machine from A to B.

@@ -1,7 +1,7 @@
 ---
 title: 'Seven sorts of sense'
 date: 'March 2008'
-body_class: 'bg-1'
+background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_19x_4.gif'
     width: 96
     height: 75
-permalink: /content/columns/2008/03/seven-sorts-of-sense/
 ---
 
 This month I am going to talk sense. I mean I want to discuss different sorts of sense. As drivers, one that we all need of course is*road\**sense*. I can remember acquiring a little piece of this at the age of seven or eight. My father and I sometimes cycled together along a quiet road and then took a right exit at an ordinary roundabout. One day he pointed out that we really ought to be passing the other two exits first, instead of heading straight for the third! This came back to me recently when, driving over a wide roundabout, I passed a young man on a bicycle zooming the other way, on my side of the central island.

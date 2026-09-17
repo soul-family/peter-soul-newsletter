@@ -1,7 +1,7 @@
 ---
 title: 'Controlling traffic, lowering premiums, reducing horizons'
 date: 'October 2011'
-body_class: 'bg-1'
+background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_2x_1.gif'
     width: 96
     height: 43
-permalink: /content/columns/2011/10/controlling-traffic-lowering-premiums-reducing-horizons/
 ---
 
 I had no space last month to mention (or maybe remind you of) a couple of Jeremy Clarkson's comments on electric cars in the*Top Gear*programme I was talking about. He said: "These cars are not the future, but they do bring us to where the future lies." I'm not sure if this is profound, or a platitude.

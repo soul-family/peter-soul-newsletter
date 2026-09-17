@@ -1,7 +1,7 @@
 ---
 title: 'Technologies of the present and the future'
 date: 'October 2017'
-body_class: 'bg-1'
+background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_20_9.gif'
     width: 96
     height: 75
-permalink: /content/columns/2017/10/technologies-of-the-present-and-the-future/
 ---
 
 All eyes ought to be on the city of Honolulu near the end of this month, when a new regulation comes into force there: the Distracted Walking Law. Pedestrians seen crossing the road while gazing at a hand-held screen will be fined $15 minimum, rising possibly to $99 for repeat offenders. The aim is to cut the number of injuries resulting from this habit, which is put at more than 1000 a year within the United States.

@@ -1,7 +1,7 @@
 ---
 title: 'Sliding hither and thither'
 date: 'June 2006'
-body_class: 'bg-8'
+background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_8x_3.gif'
     width: 96
     height: 54
-permalink: /content/columns/2006/06/sliding-hither-and-thither/
 ---
 
 This month my mind is on friction, the force that your tyres use for gripping the road as you steer or accelerate or brake or negotiate a hill. A dull topic? Not if you stick with me! Friction (in physics and in motoring) behaves like this: when two surfaces are being pushed across one another they grip together, resisting the force that is trying to make them slide - but only up to a limit.

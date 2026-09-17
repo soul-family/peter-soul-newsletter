@@ -1,7 +1,7 @@
 ---
 title: 'Hatching to the left of us...'
 date: 'January 2010'
-body_class: 'bg-1'
+background: 'bg-1'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_6_2.gif'
     width: 96
     height: 54
-permalink: /content/columns/2010/01/hatching-to-the-left-of-us/
 ---
 
 I like to think I am tidy-minded. I try to keep my to-do lists in neat piles - and the same goes for the paperwork on the floor that some of the lists refer to. Then in the corner there's a box of various broken items, waiting to be glued back together. Next to it are several boxes containing things out of our old kitchen that we can't find space for in the newly installed one, even though it's bigger!

@@ -1,7 +1,7 @@
 ---
 title: 'Stereoscopic sights'
 date: 'May 2010'
-body_class: 'bg-5'
+background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_18x_6.gif'
     width: 96
     height: 75
-permalink: /content/columns/2010/05/stereoscopic-sights/
 ---
 
 As you read this [in the Thames Valley Group Newsletter] Mrs S and I have, I hope, just returned from a week in the South of France, staying with my sister and husband who live close to the Pyrenees. As I write this, before packing to depart, I am trying to banish thoughts of the Icelandic volcano (which could disrupt flights again) and recall instead the mountains down south. And they in turn are making me think - rather loosely - about what you might see when you are gazing at hills anywhere.

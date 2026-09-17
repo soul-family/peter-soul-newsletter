@@ -1,7 +1,7 @@
 ---
 title: "Electric cars ' charging ahead"
 date: 'April 2011'
-body_class: 'bg-8'
+background: 'bg-8'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_22x_6.gif'
     width: 79
     height: 42
-permalink: /content/columns/2011/04/electric-cars-charging-ahead/
 ---
 
 Another issue of*Advanced Driving*magazine: another article on electric cars! The last two pieces didn't tell us much of electrical and other scientific interest but instead, as I said in my January column, focused on how such vehicles drive and how they might look in the future (these things matter, of course, but not greatly to me). The heading to this latest article is more promising:*THE BIG SWITCH ... ending our addiction to oil ... could a network of battery exchange stations and charging points be the answer?*Well, I would say it's got to be, because there's no prospect soon of increasing the range of an electric car (or rather, its fully charged battery) much beyond 100 miles. But let's read on.

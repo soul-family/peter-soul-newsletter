@@ -1,7 +1,7 @@
 ---
 title: 'Assessing risk on the roads and elsewhere'
 date: 'October 2013'
-body_class: 'bg-3'
+background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_21x_3.gif'
     width: 96
     height: 75
-permalink: /content/columns/2013/10/assessing-risk-on-the-roads-and-elsewhere/
 ---
 
 If I say that I weigh my words, you will know what I mean. But if I say I also weigh other people's words, I shall need to explain! Firstly, my collection of books (not to mention Mrs S's own collection) fills 19 metres of shelf length, and I know I'll never live long enough to read or reread everything I want to. So I aim to avoid bookshops - and when that fails, I try hard to resist buying yet another book, succumbing only if the number of words in a tempting one is out of proportion to the price. This adds one more tome to my reading-list, but I can't help it.

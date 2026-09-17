@@ -1,7 +1,7 @@
 ---
 title: 'Induced oscillations, overlooked hazards, a corrected sign'
 date: 'October 2009'
-body_class: 'bg-7'
+background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_8x_6.gif'
     width: 96
     height: 54
-permalink: /content/columns/2009/10/induced-oscillations-overlooked-hazards-a-corrected-sign/
 ---
 
 If I glance back at my 'writings' so far (all 72 of them), several themes emerge. The main one, I hope, is that physics can illuminate the world of motoring and help us to drive more knowledgably, and possibly more safely. At first I thought I would soon run out of topics to discuss - how wrong I was!

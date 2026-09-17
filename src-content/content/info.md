@@ -1,7 +1,6 @@
 ---
 title: 'Information on advanced driving'
-permalink: /content/info/
-body_class: 'bg-1'
+background: 'bg-1'
 header_images:
   - src: 'a_15x.gif'
     width: 96

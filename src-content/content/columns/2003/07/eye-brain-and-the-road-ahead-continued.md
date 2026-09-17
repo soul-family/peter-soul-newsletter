@@ -1,7 +1,7 @@
 ---
 title: "Eye, brain and the road ahead ' continued"
 date: 'July 2003'
-body_class: 'bg-7'
+background: 'bg-7'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_19x.gif'
     width: 96
     height: 61
-permalink: /content/columns/2003/07/eye-brain-and-the-road-ahead-continued/
 ---
 
 Back in [April](./2003/04/eye-brain-and-the-road-ahead.md)I started to describe to you how we actually 'see' what we are looking at. I got as far as the image of the scene in front of you that is projected upside-down (as in a camera) onto the back surface of each eye - the retina. You may find the rest of the story hard to believe.

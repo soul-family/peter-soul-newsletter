@@ -1,7 +1,7 @@
 ---
 title: 'Cars evolving into computers, for better or worse'
 date: 'July 2012'
-body_class: 'bg-3'
+background: 'bg-3'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_19x_7.gif'
     width: 96
     height: 75
-permalink: /content/columns/2012/07/cars-evolving-into-computers-for-better-or-worse/
 ---
 
 It was an entertaining and instructive talk that we had from Steve Collis on vehicle electronics - their past, present and future - at last month's meeting [of the Thames Valley Group]. My general reaction to it, afterwards, was this: with cars becoming highly computerized, isn't it fortunate that they don't crash (electronically speaking or otherwise) nearly as often as the average computer does! But on the other hand, with all or most PCs having a 'System Restore' function which often enables you to switch the machine back to the good working state it was in*before*it broke down, isn't it unfortunate that cars generally require expensive repairs to achieve this same end...

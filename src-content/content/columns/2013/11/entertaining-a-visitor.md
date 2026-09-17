@@ -1,7 +1,7 @@
 ---
 title: 'Entertaining a visitor'
 date: 'November 2013'
-body_class: 'bg-5'
+background: 'bg-5'
 header_images:
   - src: 'a_12x.gif'
     width: 96
@@ -12,7 +12,6 @@ header_images:
   - src: 'a_1x_1.gif'
     width: 96
     height: 41
-permalink: /content/columns/2013/11/entertaining-a-visitor/
 ---
 
 Hello, nice of you to call in. Yes, that's my new Golf out there, or rather, my nearly-four-years-old Golf. She's clever - or tries to be. Watch this: from indoors, if I hold down the unlock-button on the key, all the windows wind down together, as far as I want. When I found this feature in the manual, I thought: what a brilliant idea in hot weather, saving me having to go out to let air into the car.
