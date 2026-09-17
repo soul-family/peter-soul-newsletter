@@ -16,7 +16,7 @@ header_images:
 permalink: /content/columns/2005/09/stopping-within-the-distance/
 ---
 
-In each of my last two columns I mentioned stopping distances, in passing. This month let's stop and give them a closer look. It's an important topic, so stay with me if you can. I'll assume you have a copy of the Highway Code within reach, with its diagram of Typical Stopping Distances - if not, then view the[Highway Code stopping distances table](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/312249/the-highway-code-typical-stopping-distances.pdf).
+In each of my last two columns I mentioned stopping distances, in passing. This month let's stop and give them a closer look. It's an important topic, so stay with me if you can. I'll assume you have a copy of the Highway Code within reach, with its diagram of Typical Stopping Distances - if not, then view the [Highway Code stopping distances table](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/312249/the-highway-code-typical-stopping-distances.pdf).
 
 As you can see, Stopping D = Thinking D + Braking D. The physics surrounding this is not difficult (for me, anyway!). The TD assumes you have a reaction time of 2/3 of a second, before you actually apply the brakes. The BD then assumes that while you are braking you will cut about 15 mph from your speed each second. So stopping from 60 mph (in an emergency) should take you four seconds, plus the two-thirds.
 

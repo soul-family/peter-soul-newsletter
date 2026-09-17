@@ -16,7 +16,7 @@ header_images:
 permalink: /content/columns/2014/06/going-round-the-bend/
 ---
 
-I do try to round these columns off neatly and avoid leaving any loose ends, when writing them [for the Thames Valley Group Newsletter, ten times a year]. Nevertheless, as I start again for the 120th(!) time I'm wondering if anything from the past 12 years might need adding to. So I have taken a look back through the archive (see[www.petersoul.co.uk](http://www.petersoul.co.uk)if you want to do the same) and I've found several topics worth expanding upon...
+I do try to round these columns off neatly and avoid leaving any loose ends, when writing them [for the Thames Valley Group Newsletter, ten times a year]. Nevertheless, as I start again for the 120th(!) time I'm wondering if anything from the past 12 years might need adding to. So I have taken a look back through the archive (see [www.petersoul.co.uk](http://www.petersoul.co.uk)if you want to do the same) and I've found several topics worth expanding upon...
 
 In only my second column, I bravely attempted to explain that when travelling round a roundabout (and whether or not at a steady speed) your car is*all the time accelerating sideways\**towards the centre*, which requires a force (in that direction) just as much as when you're more obviously accelerating - or braking - on the straight. And in each situation, the force is of course the grip between road and tyres. Let's now go on to consider wider bends and higher speeds.
 

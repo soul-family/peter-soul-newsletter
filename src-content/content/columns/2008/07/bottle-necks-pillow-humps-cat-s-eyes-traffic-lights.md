@@ -44,7 +44,7 @@ This seems to be advising that on a long green I should slow right down, just in
 
 Your response to that one may not be in my favour ... OK then, if the lights happen to be*red*as I approach the next junction then maybe I shall be able to make up some of the time lost, by slowing down early and keeping some momentum (in other words, doing what Peter Rodger seemed to be advising, but on a different colour). Because if I can manage to arrive at the line just after green appears, I shall gain a substantial and perfectly legal head start on myself (and others) - and, if you think about it, I shall save some fuel too.
 
-[See my[February 2009](../2009/2009-02-light-emitting-diodes-red-light-discipline-upside-down-arrows.md)column for further discussion of this manoeuvre.]
+[See my [February 2009](./2009/02/light-emitting-diodes-red-light-discipline-upside-down-arrows.md)column for further discussion of this manoeuvre.]
 
 I see that a theme has gradually emerged this month after all: looking, seeing and reacting!
 

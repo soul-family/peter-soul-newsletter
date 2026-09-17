@@ -24,7 +24,7 @@ The other item that catches my eye ... well, here's a question: ordinary indicat
 
 A distraction? Well, LED lamps in action always seem to attract my attention more than they need to, so they are a distraction to me! And especially so with certain models of car (don't ask me which) that have LED brake-lights but ordinary filament winkers, or maybe the other way round - it's as if the manufacturer set out to upgrade the vehicle but only had time to do half the job before the relaunch.
 
-[See my[February 2009](../2009/2009-02-light-emitting-diodes-red-light-discipline-upside-down-arrows.md)column for further discussion of LED lighting.]
+[See my [February 2009](./2009/02/light-emitting-diodes-red-light-discipline-upside-down-arrows.md)column for further discussion of LED lighting.]
 
 In September I described an example of 'over-regulation' by the French (their seemingly microscopic adjustments of the speed limit to the local condition of the road). Then in October I discussed the brain. These two topics connected in my head later when I came across an amusing illustration of how French thought-processes differ from ours. Most*citoyens*carry a card stating their blood group, and certainly they are obliged to obtain one before undergoing an operation.
 

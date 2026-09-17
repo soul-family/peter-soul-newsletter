@@ -20,9 +20,9 @@ Mrs S and I attend a weekly French class. For reasons I won't go into right now,
 
 We often play this game, except that usually our teacher hands out words on cards, and then calls on us to describe or define them on the spot. I like to start enigmatically and then give more obvious clues. Not that any of us are fluent French speakers! The trick, when stuck for a French word, is to mutter the English one at the teacher who then prompts you with the French, to keep you going.
 
-Anyway, as her eye fell on me last week, I suddenly thought of something I could describe fairly easily - my Toyota, a 1997 Corolla as you may remember from previous columns. So: "_Mon objet a quatre_[muttered at the teacher: wings?]_ailes. L'une est d'une couleur diffrent que les autres._" (Yes, you may remember too that one wing is sadly faded.)
+Anyway, as her eye fell on me last week, I suddenly thought of something I could describe fairly easily - my Toyota, a 1997 Corolla as you may remember from previous columns. So: "_Mon objet a quatre_ [muttered at the teacher: wings?]_ailes. L'une est d'une couleur diffrent que les autres._" (Yes, you may remember too that one wing is sadly faded.)
 
-"_Je suis trs content de dire que l'acclrateur de mon objet_[does not stick?]_ne se coince pas, et_[the brakes?]_les freins marchent bien,_[unlike?]_pas comme quelques autres objets du mme nom_." At which point, of course, there was a cry of "Toyota!" from some of the others.
+"_Je suis trs content de dire que l'acclrateur de mon objet_ [does not stick?]_ne se coince pas, et_ [the brakes?]_les freins marchent bien,_ [unlike?]_pas comme quelques autres objets du mme nom_." At which point, of course, there was a cry of "Toyota!" from some of the others.
 
 This suggests that the company's recent car-recall problems were in their minds as well as in mine. I have to admit though that all along, my main rather selfish thought has been that I'm glad my car is a dozen years old and not five or less, like all the models that were subject to recall. But now, to enable me to continue with this topic, I've been investigating how the Toyota story developed.
 

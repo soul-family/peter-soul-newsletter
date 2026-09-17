@@ -24,7 +24,7 @@ Perhaps you have noticed what happens when you move around in front of a pair of
 
 What the mirrors are doing is cleverly reflecting every ray of light exactly back in the direction that it came from. This is how cat's-eyes work, though they are actually made from a solid piece of glass with the three reflecting surfaces at the back. On your car the red rear reflectors (if you look at one closely) are panels of tiny plastic cat's-eyes, again with the angled surfaces at the back.
 
-[Correction: glass cat's-eyes are (effectively at least) spheres and don't have flat surfaces at the back ' as I eventually admitted in[September 2013](../2013/2013-09-brighter-cat-s-eyes-and-a-brighter-street.md).]
+[Correction: glass cat's-eyes are (effectively at least) spheres and don't have flat surfaces at the back ' as I eventually admitted in [September 2013](./2013/09/brighter-cat-s-eyes-and-a-brighter-street.md).]
 
 Number plates, road signs and reflective clothing have coatings on them which contain either these mirror triangles (in microscopic size) or else tiny round glass beads, which can also do the reflecting-back-to-you trick.
 

@@ -16,7 +16,7 @@ header_images:
 permalink: /content/columns/2003/07/eye-brain-and-the-road-ahead-continued/
 ---
 
-Back in[April](../2003/2003-04-eye-brain-and-the-road-ahead.md)I started to describe to you how we actually 'see' what we are looking at. I got as far as the image of the scene in front of you that is projected upside-down (as in a camera) onto the back surface of each eye - the retina. You may find the rest of the story hard to believe.
+Back in [April](./2003/04/eye-brain-and-the-road-ahead.md)I started to describe to you how we actually 'see' what we are looking at. I got as far as the image of the scene in front of you that is projected upside-down (as in a camera) onto the back surface of each eye - the retina. You may find the rest of the story hard to believe.
 
 A hundred million cells in each retina react to the light by sending electrical signals into several parts of the brain. Each part has a different basic job to do: sensing movement, recognizing all the colours in the image, detecting lines at different angles, locating the boundaries between light and dark areas, and so on. Let's call this the first stage of visualizing.
 

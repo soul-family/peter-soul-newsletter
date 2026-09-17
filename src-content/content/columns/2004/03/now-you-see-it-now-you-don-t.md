@@ -16,13 +16,13 @@ header_images:
 permalink: /content/columns/2004/03/now-you-see-it-now-you-don-t/
 ---
 
-In[July](../2003/2003-07-eye-brain-and-the-road-ahead-continued.md)last year I attempted a description of how the brain rapidly performs the complicated task of enabling you to 'see' what you are looking at. In brief: the tiny images captured by your eyes go through an extraordinary process of dissection, reassembly and matching against your visual memory. At the end of it, apparently without any mental effort and in the twinkling of an eye (!) you are able to identify every object in front of you, and work out exactly where it is and in what direction it might be moving.
+In [July](./2003/07/eye-brain-and-the-road-ahead-continued.md)last year I attempted a description of how the brain rapidly performs the complicated task of enabling you to 'see' what you are looking at. In brief: the tiny images captured by your eyes go through an extraordinary process of dissection, reassembly and matching against your visual memory. At the end of it, apparently without any mental effort and in the twinkling of an eye (!) you are able to identify every object in front of you, and work out exactly where it is and in what direction it might be moving.
 
 Well, not quite. To keep the story short I missed out a couple of surprising facts. Firstly, the subconscious brain ignores a great deal of the information from the eyes, particularly if it seems confusing or unimportant. Secondly, much of what you think you see is actually being invented by the brain to fill gaps and to try to make better sense of the picture.
 
 Let's consider the inventing first: are you aware of the sizeable blind spot in each of your eyes? No, because the 'holes' are cleverly filled in with whatever colour is in view around them!
 
-Even when you close your left eye, say, you will only notice the blind spot in the right eye if it covers some small object and makes it vanish (this will be just to the right of where you are actually looking - see my[April 2003](../2003/2003-04-eye-brain-and-the-road-ahead.md)column).
+Even when you close your left eye, say, you will only notice the blind spot in the right eye if it covers some small object and makes it vanish (this will be just to the right of where you are actually looking - see my [April 2003](./2003/04/eye-brain-and-the-road-ahead.md)column).
 
 A different sort of in-filling occurs if you are on the road and the front and rear ends of another car happen to be visible on either side of your door pillar. Immediately (with luck) the brain will recognize them as a complete vehicle and you can then predict its path relative to your own car, as if it was in full view. This is not just common sense but a real achievement of brain-power.
 
