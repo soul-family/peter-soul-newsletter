@@ -9,6 +9,8 @@
   <body class="{{ page.background }}">
     {% include header.html %}
     <div class="page-layout">
+      <button class="sidebar-toggle" aria-label="Open menu" onclick="document.querySelector('.left-sidebar').classList.add('is-open'); document.querySelector('.sidebar-overlay').classList.add('is-open');">☰</button>
+      <div class="sidebar-overlay" onclick="document.querySelector('.left-sidebar').classList.remove('is-open'); document.querySelector('.sidebar-overlay').classList.remove('is-open');"></div>
       {% include navigation.html %}
       <main class="content-column">
         {% if page.date %}
@@ -64,6 +66,27 @@
           </p>
         </footer>
       </main>
+      <aside class="right-sidebar" aria-label="Supplementary">
+        {% if page.date %}
+        {% endif %}
+      </aside>
     </div>
+    <script>
+      (function() {
+        var list = document.querySelector('.columns-list');
+        if (!list) return;
+        var items = list.querySelectorAll('li');
+        var lastYear = null;
+        for (var i = 0; i < items.length; i++) {
+          var text = items[i].textContent || '';
+          var match = text.match(/^(\d{4})/);
+          var year = match ? match[1] : null;
+          if (year && year !== lastYear && lastYear !== null) {
+            items[i].classList.add('year-group');
+          }
+          if (year) lastYear = year;
+        }
+      })();
+    </script>
   </body>
 </html>
