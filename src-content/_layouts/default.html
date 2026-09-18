@@ -1,6 +1,6 @@
 ---
 ---
-
+---
 <!doctype html>
 <html lang="en">
   <head>
@@ -11,12 +11,57 @@
     <div class="page-layout">
       {% include navigation.html %}
       <main class="content-column">
+        {% if page.date %}
+          {% assign date_parts = page.date | split: '/' %}
+          {% assign year = date_parts[0] %}
+          {% assign month = date_parts[1] %}
+          {% capture month_name %}{% case month %}{% when '01' %}January{% when '02' %}February{% when '03' %}March{% when '04' %}April{% when '05' %}May{% when '06' %}June{% when '07' %}July{% when '08' %}August{% when '09' %}September{% when '10' %}October{% when '11' %}November{% when '12' %}December{% endcase %}{% endcapture %}
+          <nav class="post-pagination">
+            {% if page.previous %}
+              <a href="{{ page.previous.url | relative_url }}" class="pagination-arrow previous" title="{{ page.previous.title }}">&larr;</a>
+            {% endif %}
+            <span class="pagination-date">{{ month_name }} {{ year }}</span>
+            {% if page.next %}
+              <a href="{{ page.next.url | relative_url }}" class="pagination-arrow next" title="{{ page.next.title }}">&rarr;</a>
+            {% endif %}
+          </nav>
+        {% endif %}
         <h2 class="post-title">{{ page.title }}</h2>
-        {% if page.date %} {% assign date_parts = page.date | split: '/' %} {% assign year = date_parts[0] %} {% assign month = date_parts[1] %} {% capture month_name %}{% case month %}{% when '01' %}January{% when '02' %}February{% when '03' %}March{% when '04' %}April{% when '05' %}May{% when '06' %}June{% when '07' %}July{% when '08' %}August{% when '09' %}September{% when '10' %}October{% when '11' %}November{% when '12' %}December{% endcase %}{% endcapture %}
-        <p class="post-date">{{ month_name }} {{ year }}</p>
-        {% endif %} {{ content }}
+        {{ content }}
+        {% if page.date %}
+          <nav class="post-pagination-bottom">
+            {% if page.previous %}
+              <div class="pagination-previous">
+                <a href="{{ page.previous.url | relative_url }}">&larr; Previous</a>
+                <span class="pagination-meta">
+                  {% assign prev_date_parts = page.previous.date | split: '/' %}
+                  {% assign prev_year = prev_date_parts[0] %}
+                  {% assign prev_month = prev_date_parts[1] %}
+                  {% capture prev_month_name %}{% case prev_month %}{% when '01' %}January{% when '02' %}February{% when '03' %}March{% when '04' %}April{% when '05' %}May{% when '06' %}June{% when '07' %}July{% when '08' %}August{% when '09' %}September{% when '10' %}October{% when '11' %}November{% when '12' %}December{% endcase %}{% endcapture %}
+                  {{ prev_month_name }} {{ prev_year }} - {{ page.previous.title }}
+                </span>
+              </div>
+            {% endif %}
+            {% if page.next %}
+              <div class="pagination-next">
+                <a href="{{ page.next.url | relative_url }}">Next &rarr;</a>
+                <span class="pagination-meta">
+                  {% assign next_date_parts = page.next.date | split: '/' %}
+                  {% assign next_year = next_date_parts[0] %}
+                  {% assign next_month = next_date_parts[1] %}
+                  {% capture next_month_name %}{% case next_month %}{% when '01' %}January{% when '02' %}February{% when '03' %}March{% when '04' %}April{% when '05' %}May{% when '06' %}June{% when '07' %}July{% when '08' %}August{% when '09' %}September{% when '10' %}October{% when '11' %}November{% when '12' %}December{% endcase %}{% endcapture %}
+                  {{ next_month_name }} {{ next_year }} - {{ page.next.title }}
+                </span>
+              </div>
+            {% endif %}
+          </nav>
+        {% endif %}
+        <footer class="content-column-footer">
+          <p class="license">The contents of the website are licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.</p>
+        </footer>
       </main>
     </div>
-    {% include footer.html %}
   </body>
 </html>
+
+
