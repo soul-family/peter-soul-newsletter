@@ -9,8 +9,12 @@
   <body class="{{ page.background }}">
     {% include header.html %}
     <div class="page-layout">
-      <button class="sidebar-toggle" aria-label="Open menu" onclick="document.querySelector('.left-sidebar').classList.add('is-open'); document.querySelector('.sidebar-overlay').classList.add('is-open');">☰</button>
-      <div class="sidebar-overlay" onclick="document.querySelector('.left-sidebar').classList.remove('is-open'); document.querySelector('.sidebar-overlay').classList.remove('is-open');"></div>
+      <button
+        class="sidebar-toggle"
+        aria-label="Open menu"
+        onclick="toggleSidebar()"
+      >&#9776;</button>
+      <div class="sidebar-overlay" onclick="toggleSidebar()"></div>
       {% include navigation.html %}
       <main class="content-column">
         {% if page.date %}
@@ -58,21 +62,16 @@
             {% endif %}
           </nav>
         {% endif %}
-        <footer class="content-column-footer">
-          <p class="license">
-            The contents of the website are licensed under a
-            <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>
-            .
-          </p>
-        </footer>
+        {% include footer.html %}
       </main>
-      <aside class="right-sidebar" aria-label="Supplementary">
-        {% if page.date %}
-        {% endif %}
-      </aside>
     </div>
     <script>
-      (function() {
+      function toggleSidebar() {
+        document.querySelector('.left-sidebar').classList.toggle('is-open');
+        document.querySelector('.sidebar-overlay').classList.toggle('is-open');
+      }
+
+      (function () {
         var list = document.querySelector('.columns-list');
         if (!list) return;
         var items = list.querySelectorAll('li');

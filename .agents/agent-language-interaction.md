@@ -23,8 +23,7 @@ Every AI interaction should preserve, organize, and spread knowledge - never los
 
 ### Documentation
 
-| Self-containment | Each file must work standalone | No "see other file" without summary |
-| Provenance | Track where each item came from | [EXTRACTED - line 45] |
+| Self-containment | Each file must work standalone | No "see other file" without summary |  | Provenance | Track where each item came from | [EXTRACTED - line 45] |
 
 ## Communication Style in Non-Author Contents
 
