@@ -54,7 +54,7 @@ Completed work tasks moved from the todo-next.md file.
 ## v1.0.0 Modernisation
 
 - T-7: Separate each tree branch into own folder with index pages
-- T-8: Add credits page
+- T-8: Add about page
 - T-38: Update to modern HTML standards
 - T-42: Modernise to HTML5
 - T-43: Update contact information on the pages

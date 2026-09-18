@@ -45,7 +45,7 @@ Tasks are grouped by conceptual phase. The set of active phases may grow or shri
 | Phase | Focus |
 | --- | --- |
 | Inventory | Public branches, assets, sources, and privacy boundaries |
-| Structure | Branch folders, index page, credits, and relative links |
+| Structure | Branch folders, index page, about |
 | Skills & Tools | AI activity, verification, scripts, and guidance |
 | Privacy | Contact protection and living-person data safeguards |
 | Verification | Links, images, HTML, accessibility, and offline browsing |
