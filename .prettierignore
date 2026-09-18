@@ -1,0 +1,3 @@
+# Jekyll/Liquid templates — Prettier's HTML formatter breaks Liquid tags
+src-content/_layouts/**/*.html
+src-content/_includes/**/*.html

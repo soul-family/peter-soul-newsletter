@@ -62,10 +62,10 @@ All sessions used free/uncosted models. Token counts are tracked for analysis bu
 
 | Tier | Words | Estimated Time | Request Count | % of Total |
 | --- | --- | --- | --- | --- |
-| 1�9 words (Quick command) | 536 | 2010s | N/A | 26% |
-| 10�49 words (Short task) | 7150 | 17160s |  | 57% |
-| 50�199 words (Medium task) | 7100 | 12780s |  | 14% |
-| 200�499 words (Detailed task) | 3900 | 4680s |  | 3% |
+| 1–9 words (Quick command) | 536 | 2010s | N/A | 26% |
+| 10–49 words (Short task) | 7150 | 17160s |  | 57% |
+| 50–199 words (Medium task) | 7100 | 12780s |  | 14% |
+| 200–499 words (Detailed task) | 3900 | 4680s |  | 3% |
 | 500+ words (Extensive task) | 1200 | 1200s |  | 0% |
 | **Total** | - | - | **506** | 100% |
 
