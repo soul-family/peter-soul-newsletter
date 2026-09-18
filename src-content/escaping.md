@@ -1,5 +1,5 @@
 ---
-title: 'escaping'
+title: 'Escaping advice'
 background: 'bg-7'
 ---
 
