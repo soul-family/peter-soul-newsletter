@@ -6,7 +6,7 @@
   <head>
     {% include head.html %}
   </head>
-  <body class="{{ page.background }}">
+  <body>
     <div class="page-layout">
       <div class="sidebar-overlay" onclick="toggleSidebar()"></div>
 
@@ -69,7 +69,6 @@
         {% endif %}
         {% include footer.html %}
       </main>
-      <aside class="right-sidebar"></aside>
     </div>
     <script>
       function toggleSidebar() {
@@ -82,15 +81,34 @@
           layout.classList.remove('sidebar-open');
           overlay.classList.remove('is-open');
           toggle.innerHTML = '\u2192';
+          localStorage.setItem('sidebarCollapsed', 'true');
+        } else {
+          sidebar.classList.add('is-open');
+          layout.classList.add('sidebar-open');
+          overlay.classList.add('is-open');
+          toggle.innerHTML = '\u2190';
+          localStorage.setItem('sidebarCollapsed', 'false');
+        }
+      }
+
+      (function () {
+        var sidebar = document.querySelector('.left-sidebar');
+        var layout = document.querySelector('.page-layout');
+        var overlay = document.querySelector('.sidebar-overlay');
+        var toggle = document.querySelector('.sidebar-toggle');
+        var collapsed = localStorage.getItem('sidebarCollapsed');
+        if (collapsed === 'true') {
+          sidebar.classList.remove('is-open');
+          layout.classList.remove('sidebar-open');
+          overlay.classList.remove('is-open');
+          toggle.innerHTML = '\u2192';
         } else {
           sidebar.classList.add('is-open');
           layout.classList.add('sidebar-open');
           overlay.classList.add('is-open');
           toggle.innerHTML = '\u2190';
         }
-      }
 
-      (function () {
         var list = document.querySelector('.columns-list');
         if (!list) return;
         var items = list.querySelectorAll('li');
