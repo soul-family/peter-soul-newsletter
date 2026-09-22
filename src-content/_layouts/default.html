@@ -7,16 +7,21 @@
     {% include head.html %}
   </head>
   <body class="{{ page.background }}">
-    {% include header.html %}
     <div class="page-layout">
-      <button
-        class="sidebar-toggle"
-        aria-label="Open menu"
-        onclick="toggleSidebar()"
-      >&#9776;</button>
       <div class="sidebar-overlay" onclick="toggleSidebar()"></div>
+
       {% include navigation.html %}
       <main class="content-column">
+        <header class="page-header">
+          <h1 class="site-title"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+          {% if page.header_images %}
+            <div class="header-images">
+              {% for img in page.header_images %}
+                <img src="{{ site.baseurl }}/assets/images/autogen/{{ img.src }}" width="{{ img.width }}" height="{{ img.height }}" alt="" />
+              {% endfor %}
+            </div>
+          {% endif %}
+        </header>
         {% if page.date %}
           {% assign date_parts = page.date | split: '/' %}
           {% assign year = date_parts[0] %}
@@ -64,11 +69,25 @@
         {% endif %}
         {% include footer.html %}
       </main>
+      <aside class="right-sidebar"></aside>
     </div>
     <script>
       function toggleSidebar() {
-        document.querySelector('.left-sidebar').classList.toggle('is-open');
-        document.querySelector('.sidebar-overlay').classList.toggle('is-open');
+        var layout = document.querySelector('.page-layout');
+        var sidebar = document.querySelector('.left-sidebar');
+        var overlay = document.querySelector('.sidebar-overlay');
+        var toggle = document.querySelector('.sidebar-toggle');
+        if (sidebar.classList.contains('is-open')) {
+          sidebar.classList.remove('is-open');
+          layout.classList.remove('sidebar-open');
+          overlay.classList.remove('is-open');
+          toggle.innerHTML = '\u2192';
+        } else {
+          sidebar.classList.add('is-open');
+          layout.classList.add('sidebar-open');
+          overlay.classList.add('is-open');
+          toggle.innerHTML = '\u2190';
+        }
       }
 
       (function () {
