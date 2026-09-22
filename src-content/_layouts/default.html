@@ -50,7 +50,9 @@
           {% endif %}
         </nav>
         <h2 class="post-title">{{ page.title }}</h2>
-        {{ content }}
+        <div class="post-content">
+          {{ content }}
+        </div>
         {% if page.date %}
           <nav class="post-pagination-bottom">
             {% if page.previous %}
