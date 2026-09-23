@@ -1,0 +1,9 @@
+<div class="sidebar-brand">
+  <a href="{{ site.baseurl }}/">
+    <img height="124" width="98" src="{{ site.baseurl }}/assets/images/peter-soul.gif" alt="self" />
+  </a>
+</div>
+<nav class="sidebar-nav">
+  {% capture nav_md %}{% include_relative sidebar.md %}{% endcapture %}
+  {{ nav_md | markdownify }}
+</nav>

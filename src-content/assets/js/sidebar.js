@@ -23,30 +23,30 @@
   }
 
   function collapseSidebar() {
-    document.querySelector('.layout-wrapper').classList.add('sidebar-expanded');
+    document.querySelector('.layout-wrapper').classList.remove('sidebar-expanded');
     setCookie('sidebarState', 'collapsed', 365);
   }
 
   function expandSidebar() {
-    document.querySelector('.layout-wrapper').classList.remove('sidebar-expanded');
+    document.querySelector('.layout-wrapper').classList.add('sidebar-expanded');
     setCookie('sidebarState', 'expanded', 365);
   }
 
   window.toggleSidebar = function () {
     var wrapper = document.querySelector('.layout-wrapper');
-    var isCollapsed = wrapper.classList.toggle('sidebar-expanded');
-    setCookie('sidebarState', isCollapsed ? 'collapsed' : 'expanded', 365);
+    var isExpanded = wrapper.classList.toggle('sidebar-expanded');
+    setCookie('sidebarState', isExpanded ? 'expanded' : 'collapsed', 365);
   };
 
   function init() {
     var wrapper = document.querySelector('.layout-wrapper');
     var savedState = getCookie('sidebarState');
-    var startCollapsed = isMobile() ? true : (savedState === 'collapsed');
+    var startCollapsed = savedState === 'collapsed';
 
     if (startCollapsed) {
-      wrapper.classList.add('sidebar-expanded');
-    } else {
       wrapper.classList.remove('sidebar-expanded');
+    } else {
+      wrapper.classList.add('sidebar-expanded');
     }
 
     if (isMobile()) {
