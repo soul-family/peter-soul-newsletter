@@ -37,20 +37,7 @@
       </div>
     </aside>
     <main class="main-content">
-       <h1 class="site-title"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
-          {% if page.header_images %}
-            <div class="header-images">
-              {% for img in page.header_images %}
-                <img
-                  src="{{ site.baseurl }}/assets/images/autogen/{{ img.src }}"
-                  width="{{ img.width }}"
-                  height="{{ img.height }}"
-                  alt=""
-                />
-              {% endfor %}
-            </div>
-          {% endif %}
-        </header>
+        {% include footer.html %}
         {% if page.date %}
           <nav class="post-pagination">
             {% if page.previous %}
