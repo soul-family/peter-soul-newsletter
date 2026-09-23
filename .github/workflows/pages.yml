@@ -38,10 +38,10 @@ jobs:
         env:
           JEKYLL_ENV: production
 
-      - name: Post-process HTML links
+      - name: Fix markdown links to directory URLs
         run: |
-          find _site -name "*.html" -type f -exec sed -i 's/\.md"/"/g' {} +
-          find _site -name "*.html" -type f -exec sed -i "s/\.md'/'/g" {} +
+          find _site -name "*.html" -type f -exec sed -i 's|\.md"|/"|g' {} +
+          find _site -name "*.html" -type f -exec sed -i "s|\.md'|/'|g" {} +
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
