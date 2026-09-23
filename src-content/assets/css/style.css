@@ -105,11 +105,10 @@ img {
 /* --- Layout --- */
 .layout-wrapper {
   display: grid;
-  grid-template-columns: 50px 1fr;
+  grid-template-columns: 250px 1fr;
   gap: 0;
-  max-width: 990px;
+  max-width: 1050px;
   min-height: 100vh;
-  margin: 0 auto;
   transition: grid-template-columns 0.2s ease 0.2s;
 }
 
@@ -128,7 +127,6 @@ img {
   background: var(--sidebar-bg);
   border-right: 1px solid #ddd;
   padding: 0.75rem;
-  width: 250px;
 }
 
 /* Colored strip visible when sidebar is collapsed */
@@ -172,7 +170,6 @@ img {
   font-weight: normal;
   font-size: 1.7em;
   margin: 0;
-  text-align: center;
 }
 
 .site-title a {
@@ -265,17 +262,24 @@ img {
   cursor: default;
 }
 
-/* --- Page header --- */
-.page-header {
-  padding: 10px 20px;
+.sidebar-design{
+  min-height:100vh;
+  100px;
 }
 
-.page-header .header-images {
+.header-images {
   display: flex;
+  flex-direction:column;
   justify-content: space-evenly;
   align-items: center;
   gap: 10px;
   margin-top: 10px;
+}
+
+
+/* --- Page header --- */
+.page-header {
+  padding: 10px 20px;
 }
 
 .page-header .header-images img {

@@ -18,11 +18,21 @@
 </head>
 <body>
   <div class="layout-wrapper">
-    <aside class="sidebar {{ page.background }}">
+    <aside class="sidebar">
       <button class="sidebar-toggle" aria-label="Toggle menu" onclick="toggleSidebar()"></button>
       <div class="sidebar-content">
         {% include navigation.html %}
+      </div>      
+      <div class="sidebar-design {{ page.background }}"> 
+        {% if page.header_images %}
+        <div class="header-images">
+          {% for img in page.header_images %}
+          <img src="{{ site.baseurl }}/assets/images/autogen/{{ img.src }}" width="{{ img.width }}" height="{{ img.height }}" alt="" />
+          {% endfor %}
+        </div>
+        {% endif %}
       </div>
+     
     </aside>
     <main class="main-content">
       {% include header.html %}

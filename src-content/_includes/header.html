@@ -1,17 +1,5 @@
 <header class="site-header">
-  <div class="header-image">
-    <a href="{{ site.baseurl }}/">
-      <img height="124" width="98" src="{{ site.baseurl }}/assets/images/peter-soul.gif" alt="self" />
-    </a>
-  </div>
-  <div class="header">
+  <div class="header">                                                                                                                                                                                                                                  
     <h1 class="site-title"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
-    {% if page.header_images %}
-    <div class="header-images">
-      {% for img in page.header_images %}
-      <img src="{{ site.baseurl }}/assets/images/autogen/{{ img.src }}" width="{{ img.width }}" height="{{ img.height }}" alt="" />
-      {% endfor %}
-    </div>
-    {% endif %}
   </div>
 </header>
