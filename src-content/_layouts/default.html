@@ -37,29 +37,43 @@
       </div>
     </aside>
     <main class="main-content">
-          {% if page.date %}
-            <nav class="post-pagination">
-              {% if page.previous %}
-                <a
-                  href="{{ page.previous.url | relative_url }}"
-                  class="pagination-arrow previous"
-                  title="{{ page.previous.title }}"
-                  >&larr;
-                </a>
-              {% endif %}
-              {% if page.date %}
-                <span class="pagination-date">{{ month_name }} {{ year }}</span>
-              {% endif %}
-              {% if page.next %}
-                <a
-                  href="{{ page.next.url | relative_url }}"
-                  class="pagination-arrow next"
-                  title="{{ page.next.title }}"
-                  >&rarr;
-                </a>
-              {% endif %}
-            </nav>
+       <h1 class="site-title"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+          {% if page.header_images %}
+            <div class="header-images">
+              {% for img in page.header_images %}
+                <img
+                  src="{{ site.baseurl }}/assets/images/autogen/{{ img.src }}"
+                  width="{{ img.width }}"
+                  height="{{ img.height }}"
+                  alt=""
+                />
+              {% endfor %}
+            </div>
           {% endif %}
+        </header>
+        {% if page.date %}
+          <nav class="post-pagination">
+            {% if page.previous %}
+              <a
+                href="{{ page.previous.url | relative_url }}"
+                class="pagination-arrow previous"
+                title="{{ page.previous.title }}"
+                >&larr;
+              </a>
+            {% endif %}
+            {% if page.date %}
+              <span class="pagination-date">{{ month_name }} {{ year }}</span>
+            {% endif %}
+            {% if page.next %}
+              <a
+                href="{{ page.next.url | relative_url }}"
+                class="pagination-arrow next"
+                title="{{ page.next.title }}"
+                >&rarr;
+              </a>
+            {% endif %}
+          </nav>
+        {% endif %}
         <h2 class="post-title">{{ page.title }}</h2>
         <div class="post-content">
          {{ content }}
