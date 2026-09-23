@@ -24,4 +24,4 @@ External links (e.g., `https://creativecommons.org/licenses/by-nc-sa/4.0/`) must
 
 ## Navigation Files
 
-The sidebar navigation is controlled by `_includes/sidebar.md`, which uses root-relative URLs.
+The sidebar navigation is controlled by `_includes/navigation.md`, which uses root-relative URLs.
