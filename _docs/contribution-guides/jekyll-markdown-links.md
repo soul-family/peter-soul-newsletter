@@ -24,12 +24,4 @@ External links (e.g., `https://creativecommons.org/licenses/by-nc-sa/4.0/`) must
 
 ## Navigation Files
 
-The sidebar navigation is controlled by `_includes/sidebar.md`, which uses root-relative URLs (e.g., `https://www.petersoul.co.uk/columns/`):
-
-```markdown
-* [Home](/)
-* [Newsletter](/columns/)
-* [Advanced driving](/advanced-driving/)
-```
-
-The legacy `_includes/navigation.md` file is retained but not actively used by the layout.
+The sidebar navigation is controlled by `_includes/sidebar.md`, which uses root-relative URLs.
