@@ -14,7 +14,7 @@ header_images:
     height: 54
 ---
 
-Every once in a while, I look back and realize that I've learnt a few things recently that might usefully be passed on. Let's start with ferrying your car across the Irish Sea, to what is surely one of the most attractive countries within easy reach (and not just because they speak English and drive on the left!). I first reported on this journey in [October 2003](./2003/10/writing-from-ireland.md)after we had travelled overnight each way, fairly comfortably, on the Swansea-Cork ferry. Unfortunately this route hasn't been operating in 2007. According to their website, "We were unable to obtain a suitable vessel." No mention of what happened to the one we sailed on...
+Every once in a while, I look back and realize that I've learnt a few things recently that might usefully be passed on. Let's start with ferrying your car across the Irish Sea, to what is surely one of the most attractive countries within easy reach (and not just because they speak English and drive on the left!). I first reported on this journey in [October 2003](../../../2003/10/writing-from-ireland.md)after we had travelled overnight each way, fairly comfortably, on the Swansea-Cork ferry. Unfortunately this route hasn't been operating in 2007. According to their website, "We were unable to obtain a suitable vessel." No mention of what happened to the one we sailed on...
 
 [From 2010 the route was operating again, on a different vessel, but then in 2012 was permanently closed.]
 

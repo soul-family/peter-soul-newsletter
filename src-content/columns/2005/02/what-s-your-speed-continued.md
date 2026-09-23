@@ -14,7 +14,7 @@ header_images:
     height: 41
 ---
 
-First, a footnote to last [October's](./2004/10/what-s-your-speed.md)column on the difficulties of judging the speeds of other vehicles: I forgot to mention a trick which could almost have come straight out of a physics textbook. If I want to measure the speed of a steadily moving object, all I need to know are the times when it passes one position and then again another, a certain distance on. The point is that I don't have to be watching the thing all the way - just at the start and the finish.
+First, a footnote to last [October's](../../../2004/10/what-s-your-speed.md)column on the difficulties of judging the speeds of other vehicles: I forgot to mention a trick which could almost have come straight out of a physics textbook. If I want to measure the speed of a steadily moving object, all I need to know are the times when it passes one position and then again another, a certain distance on. The point is that I don't have to be watching the thing all the way - just at the start and the finish.
 
 And it's much the same when you are on the road: if you want to check how fast another car is approaching yours from any direction, try glancing at it, then deliberately looking away (in another useful direction, perhaps!) and then looking at it again. You should find that you get just as good an idea of the other car's speed as if you had stared at it the whole time.
 

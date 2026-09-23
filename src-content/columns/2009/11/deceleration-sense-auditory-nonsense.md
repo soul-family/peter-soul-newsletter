@@ -16,7 +16,7 @@ header_images:
 
 A dozen years ago we gave our bathroom a complete renovation, or rather, an expert fitter did. Then recently the kitchen had the same treatment. Each time, a thought struck me: how is it that one person can apply so well a pair of 'opposite' skills, namely destruction (breaking up a cast-iron bath, or taking down a brick wall) and construction (creating a perfectly smooth plaster surface, or applying wall tiles in exact regularity)? You would think they required totally different mindsets!
 
-What has this got to do with motoring? Only that it occurred to me that I adopt opposing mindsets myself, in a small way, when I aim first to accelerate briskly - having been assured (see my [September 2008](./2008/09/speeding-up-and-slowing-down.md)column) that this burns petrol more efficiently - and then to decelerate gently and therefore early, because again this saves fuel.
+What has this got to do with motoring? Only that it occurred to me that I adopt opposing mindsets myself, in a small way, when I aim first to accelerate briskly - having been assured (see my [September 2008](../../../2008/09/speeding-up-and-slowing-down.md)column) that this burns petrol more efficiently - and then to decelerate gently and therefore early, because again this saves fuel.
 
 OK, if I gain a few seconds of journey-time in the speeding up I may well lose them again in the slowing down, but I guess my overall progress is no worse than that of an average driver who mainly keeps to the speed limit (a contradiction in terms, I know).
 

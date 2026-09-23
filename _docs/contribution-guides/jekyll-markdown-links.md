@@ -24,4 +24,6 @@ External links (e.g., `https://creativecommons.org/licenses/by-nc-sa/4.0/`) must
 
 ## Navigation Files
 
-The sidebar navigation is controlled by `_includes/navigation.md`, which uses root-relative URLs.
+The sidebar navigation is controlled by `_includes/navigation.html`. Most links use the `.md` convention (e.g., `columns.md`, `advanced-driving.md`), which the GitHub Action converts to directory URLs with trailing slashes (`columns/`, `advanced-driving/`).
+
+**Exception:** The Home link uses `{{ site.baseurl }}/` (which resolves to `/`) instead of `index.md`, because with `permalink: pretty` the homepage is served at `/` not `/index/`.
