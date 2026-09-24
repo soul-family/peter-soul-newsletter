@@ -137,6 +137,8 @@ img {
   overflow-x: hidden;
   background: var(--sidebar-bg);
   padding: 10px 0;
+  padding: 5px;
+  display: flex;
 }
 
 
@@ -261,11 +263,6 @@ img {
   border-radius: 3px;
   pointer-events: none;
   cursor: default;
-}
-
-.sidebar-design{
-  min-height:100vh;
-  
 }
 
 .header-images {
