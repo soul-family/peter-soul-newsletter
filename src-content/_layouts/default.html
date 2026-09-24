@@ -54,6 +54,10 @@
         {% endif %}
       {% endfor %}
       {% if page.date %}
+        {% assign date_parts = page.date | split: '/' %}
+        {% assign year = date_parts[0] %}
+        {% assign month = date_parts[1] %}
+        {% capture month_name %}{% include month_name.html month=month %}{% endcapture %}
         <nav class="post-pagination">
           {% if prev_page %}
             <a
@@ -62,11 +66,6 @@
               title="{{ prev_page.title }}"
               >&larr;</a>
           {% endif %}
-          {% assign date_parts = page.date | split: '/' %}
-          {% assign year = date_parts[0] %}
-          {% assign month = date_parts[1] %}
-          {% capture month_name %}{% include month_name.html month=month %}{% endcapture %}
-          <span class="pagination-date">{{ month_name }} {{ year }}</span>
           {% if next_page %}
             <a
               href="{{ next_page.url | relative_url }}"
@@ -74,9 +73,12 @@
               title="{{ next_page.title }}"
               >&rarr;</a>
           {% endif %}
+          <span class="pagination-date">{{ month_name }} {{ year }}</span>
+          <h2 class="post-title">{{ page.title }}</h2>
         </nav>
+      {% else %}
+        <h2 class="post-title">{{ page.title }}</h2>
       {% endif %}
-      <h2 class="post-title">{{ page.title }}</h2>
       <div class="post-content">
         {{ content }}
       </div>

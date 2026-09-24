@@ -288,6 +288,7 @@ img {
 .main-content {
   min-width: 0;
   padding: 10px 20px;
+  border-right: 4px solid #cc9966;
 }
 
 .post-title {
@@ -304,21 +305,34 @@ img {
   background: #fff;
   display: flex;
   flex-wrap: wrap;
-  align-items: left;
-  margin-bottom: 1em;
   align-items: center;
+  margin-bottom: 1em;
   padding-top: 0.5em;
   border-bottom: 1px solid #eee;
+  gap: 0.5rem;
 }
 
 .post-pagination .pagination-arrow {
   color: rgb(148, 62, 4);
   text-decoration: none;
   font-size: large;
+  flex-shrink: 0;
 }
 
 .post-pagination .pagination-arrow:hover {
   text-decoration: underline;
+}
+
+.post-pagination .post-title {
+  margin: 0;
+  flex: 1;
+  min-width: 0;
+}
+
+.post-pagination .pagination-date {
+  flex-shrink: 0;
+  color: #666;
+  font-size: 0.95em;
 }
 
 
