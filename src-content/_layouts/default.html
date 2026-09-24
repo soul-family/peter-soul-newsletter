@@ -80,42 +80,6 @@
       <div class="post-content">
         {{ content }}
       </div>
-      {% if page.date and (prev_page or next_page) %}
-        <nav class="post-pagination-bottom">
-          {% if prev_page %}
-            <div class="pagination-previous">
-              <a href="{{ prev_page.url | relative_url }}">&larr; Previous</a>
-              <span class="pagination-meta">
-                {% if prev_page.date %}
-                  {% assign prev_date_parts = prev_page.date | split: '/' %}
-                  {% assign prev_year = prev_date_parts[0] %}
-                  {% assign prev_month = prev_date_parts[1] %}
-                  {% capture prev_month_name %}{% include month_name.html month=prev_month %}{% endcapture %}
-                  {{ prev_month_name }} {{ prev_year }} - {{ prev_page.title }}
-                {% else %}
-                  {{ prev_page.title }}
-                {% endif %}
-              </span>
-            </div>
-          {% endif %}
-          {% if next_page %}
-            <div class="pagination-next">
-              <a href="{{ next_page.url | relative_url }}">Next &rarr;</a>
-              <span class="pagination-meta">
-                {% if next_page.date %}
-                  {% assign next_date_parts = next_page.date | split: '/' %}
-                  {% assign next_year = next_date_parts[0] %}
-                  {% assign next_month = next_date_parts[1] %}
-                  {% capture next_month_name %}{% include month_name.html month=next_month %}{% endcapture %}
-                  {{ next_month_name }} {{ next_year }} - {{ next_page.title }}
-                {% else %}
-                  {{ next_page.title }}
-                {% endif %}
-              </span>
-            </div>
-          {% endif %}
-        </nav>
-      {% endif %}
       {% include footer.html %}
     </main>
   </div>
