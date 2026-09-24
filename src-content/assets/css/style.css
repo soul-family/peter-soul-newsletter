@@ -298,10 +298,17 @@ img {
 
 /* --- Post pagination (top) --- */
 .post-pagination {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: #fff;
   display: flex;
   flex-wrap: wrap;
   align-items: left;
   margin-bottom: 1em;
+  align-items: center;
+  padding-top: 0.5em;
+  border-bottom: 1px solid #eee;
 }
 
 .post-pagination .pagination-arrow {
