@@ -65,7 +65,7 @@
               class="pagination-arrow previous"
               title="{{ prev_page.title }}"
               >&larr;</a>
-          {% endif %}
+          {% endif %} 
           {% if next_page %}
             <a
               href="{{ next_page.url | relative_url }}"
@@ -73,8 +73,9 @@
               title="{{ next_page.title }}"
               >&rarr;</a>
           {% endif %}
-          <span class="pagination-date">{{ month_name }} {{ year }}</span>
-          <h2 class="post-title">{{ page.title }}</h2>
+          <h2 class="post-title">
+            {{ month_name }} {{ year }} - {{ page.title }}
+          </h2>
         </nav>
       {% else %}
         <h2 class="post-title">{{ page.title }}</h2>

@@ -1,5 +1,5 @@
 ---
-title: 'About, contact and license'
+title: 'About'
 background: 'bg-1'
 header_images:
   - src: 'a_15x.gif'
@@ -7,7 +7,13 @@ header_images:
     height: 56
 ---
 
-## Original welcome text
+## Contact
+
+This archive preserves the original website published by Peter Soul at www.petersoul.co.uk. The original author is no longer available, but enquiries relating to the archive can be made through his daughter.
+
+For archive-related enquiries, please email: vicki.soul + peter.soul [at] gmail [dot] com
+
+## By Peter
 
 This website contains the columns that I've been writing since July 2002 for the newsletter of the Thames Valley Group of Advanced Motorists. When I started, I had only a handful of topics in mind. I never guessed that nearly 17 years later I would still be writing on the oddities of motoring (with other topics creeping in sometimes!) as seen through a physicist's eye. Sadly though, I've decided that this month's (2019 March) column will be my last.
 
@@ -19,10 +25,4 @@ If you are not an advanced driver yourself, take a look at the [Advanced driving
 
 ## License
 
-The contents of the website with the family tree are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (https://creativecommons.org/licenses/by-nc-sa/4.0/). You are free to share and adapt this material for non-commercial purposes, provided you give appropriate credit to the original authors and indicate if changes were made.
-
-## Contact
-
-This archive preserves the original website published by Peter Soul at www.petersoul.co.uk. The original author is no longer available, but enquiries relating to the archive can be made through his daughter.
-
-For archive-related enquiries, please email: vicki.soul + peter.soul [at] gmail [dot] com
+The contents of the website with the family tree are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License [](https://creativecommons.org/licenses/by-nc-sa/4.0/). You are free to share and adapt this material for non-commercial purposes, provided you give appropriate credit to the original authors and indicate if changes were made.
