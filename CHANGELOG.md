@@ -4,6 +4,38 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), and this
 
 > **Contribution rules**: All entries must follow `_docs/contribution-guides/shared/adding-text.md` file for rules.
 
+## [v1.8.0]
+
+### Added
+
+- Two-column layout with collapsible left sidebar (300px expanded / 50px collapsed)
+- External sidebar.js (IIFE pattern) with cookie-persisted toggle state
+- Navigation via sidebar.md + markdownify pattern in navigation.html
+- Custom Liquid pagination for column articles (sorting site.pages by date)
+- Sticky post pagination with format: {←} {→} {Month Year} {Post Title}
+- External link indicator (↗) via CSS ::after pseudo-element
+- GitHub Action sed step converting .md links to directory URLs
+- _docs/contribution-guides/jekyll-markdown-links.md documenting .md link convention
+- Column cross-reference paths fixed for correct resolution after Jekyll build
+
+### Changed
+
+- Restructured from content/ to columns/ flat structure (168 articles)
+- Removed right sidebar entirely; header images moved to sidebar-design
+- Main content: 4px right border in original color (#07038d)
+- Front page column list reversed (newest first, oldest bottom)
+- Grid transition-delay sequencing for smooth collapse/expand animations
+- Sidebar toggle moved inside <aside> as .sidebar-toggle with ▶/◀ icons
+- Site title centered; .sidebar-expander button removed
+- collections config removed; retained collections_dir: "src-content"
+
+### Fixed
+
+- Column article cross-references: ./YYYY/MM/ → ../../../YYYY/MM/
+- Home link uses {{ site.baseurl }}/ instead of index.md for pretty permalinks
+- Pagination prev/next arrows correctly positioned left of date/title
+- External links only marked on public site via CSS (not HTML modification)
+
 ## [v1.7.0]
 
 ### Added
@@ -199,7 +231,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), and this
 - User guides for requesting and submitting archive updates
 - Multi-user access documentation with permission levels
 - Updated archive to modern HTML5 standards while preserving original content
-- Family tree folder structure with per-tree folders and shared credits page
+- Family tree folder structure with per-tree folders
 - Progressive index pages for all preparation commits
 - Date-aware backup and commit preparation verification
 - AI transparency logging with structured audit trail

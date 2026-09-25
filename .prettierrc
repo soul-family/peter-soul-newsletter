@@ -6,6 +6,7 @@
   "singleQuote": true,
   "htmlWhitespaceSensitivity": "ignore",
   "endOfLine": "lf",
+  "plugins": ["@shopify/prettier-plugin-liquid"],
   "overrides": [
     {
       "files": "*.html",

@@ -23,6 +23,7 @@ import sys
 
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), 'shared'))
 from config_loader import load_session_ids
+from session_utils import get_repo_root, get_repo_name
 
 
 def calculate_checksum(path):
@@ -95,7 +96,9 @@ def verify_database(db_path, developer_id=None, script_dir=None):
         for row in cursor.fetchall():
             sid, directory = row
             if directory and '_www_' not in directory:
-                if '_Vicki_documents/website - petersoul.co.uk' in directory or 'website - petersoul.co.uk' in directory:
+                repo_root = get_repo_root()
+                repo_name = get_repo_name()
+                if repo_root and (repo_root in directory or repo_name in directory):
                     issues.append(f"Exposed project path in session {sid}.directory: {directory}")
     except sqlite3.Error as e:
         issues.append(f"Path check failed: {e}")

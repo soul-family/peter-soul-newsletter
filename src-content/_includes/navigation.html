@@ -1,5 +1,11 @@
-<aside class="left-sidebar">
-  {% for item in site.data.navigation %}
-  <p><a href="{{ item.url | relative_url }}">{{ item.text }}</a></p>
-  {% endfor %}
-</aside>
+<div class="sidebar-brand">
+  <a href="{{ site.baseurl }}/">
+    <img height="124" width="98" src="{{ site.baseurl }}/assets/images/peter-soul.gif" alt="self" />
+  </a>
+</div>
+<nav class="sidebar-nav">
+  <a href="{{ site.baseurl }}/">Newsletter</a>
+  <a href="{{ site.baseurl }}/advanced-driving.md">Advanced driving</a>
+  <a href="{{ site.baseurl }}/escaping.md">Escaping advice</a>
+  <a href="{{ site.baseurl }}/about.md">About</a>
+</nav>

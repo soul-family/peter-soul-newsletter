@@ -11,7 +11,7 @@
 1. Created separated folders for family tree branches and updated navigation.
 2. Verified attribution and retained only final documentation.
 
-**Result:** Family tree content separated with updated navigation and credits attribution.
+**Result:** Family tree content separated with updated navigation.
 
 ## Interaction: Project review and inconsistency audit
 

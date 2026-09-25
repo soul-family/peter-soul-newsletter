@@ -1,0 +1,3 @@
+# Jekyll/Liquid templates — Prettier's Liquid plugin flattens multi-line tags
+src-content/_layouts/**/*.html
+src-content/_includes/**/*.html

@@ -1,22 +1,91 @@
----
----
-
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    {% include head.html %}
-  </head>
-  <body class="{{ page.body_class }}">
-    {% include header.html %}
-    <div class="page-layout">
-      {% include navigation.html %}
-      <main class="content-column">
-        <h2 class="post-title">{{ page.title }}</h2>
-        {% if page.date %}
-        <p class="post-date">{{ page.date }}</p>
-        {% endif %} {{ content }}
-      </main>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>
+    {{ page.title }}
+    {% if page.date %}
+      {% assign date_parts = page.date | split: '/' %}
+      {% assign year = date_parts[0] %}
+      {% assign month = date_parts[1] %}
+      {% capture month_name %}{% include month_name.html month=month %}{% endcapture %}
+      - {{ month_name }} {{ year }}
+    {% endif %}
+    - {{ site.title }}
+  </title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}" />
+</head>
+<body>
+  <div class="layout-wrapper">
+    <aside class="sidebar">
+      <button class="sidebar-toggle" aria-label="Toggle menu" onclick="toggleSidebar()"></button>
+      <div class="sidebar-content">
+        {% include navigation.html %}
+      </div> 
+    </aside>     
+    <div class="sidebar-design {{ page.background }}"> 
+      {% if page.header_images %}
+      <div class="header-images">
+        {% for img in page.header_images %}
+        <img src="{{ site.baseurl }}/assets/images/autogen/{{ img.src }}" width="{{ img.width }}" height="{{ img.height }}" alt="" />
+        {% endfor %}
+      </div>
+      {% endif %}
     </div>
-    {% include footer.html %}
-  </body>
+    
+    <main class="main-content">
+      {% include header.html %}
+      {% assign sorted_pages = site.pages | sort: 'date' %}
+      {% assign prev_page = nil %}
+      {% assign next_page = nil %}
+      {% assign found = false %}
+      {% for p in sorted_pages %}
+        {% if p.url == page.url %}
+          {% assign found = true %}
+        {% endif %}
+        {% if p.date and p.url and p.url != page.url %}
+          {% if found == false %}
+            {% assign prev_page = p %}
+          {% endif %}
+          {% if found == true and next_page == nil %}
+            {% assign next_page = p %}
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+      {% if page.date %}
+        {% assign date_parts = page.date | split: '/' %}
+        {% assign year = date_parts[0] %}
+        {% assign month = date_parts[1] %}
+        {% capture month_name %}{% include month_name.html month=month %}{% endcapture %}
+        <nav class="post-pagination">
+          {% if prev_page %}
+            <a
+              href="{{ prev_page.url | relative_url }}"
+              class="pagination-arrow previous"
+              title="{{ prev_page.title }}"
+              >&larr;</a>
+          {% endif %} 
+          {% if next_page %}
+            <a
+              href="{{ next_page.url | relative_url }}"
+              class="pagination-arrow next"
+              title="{{ next_page.title }}"
+              >&rarr;</a>
+          {% endif %}
+          <h2 class="post-title">
+            {{ month_name }} {{ year }} - {{ page.title }}
+          </h2>
+        </nav>
+      {% else %}
+        <h2 class="post-title">{{ page.title }}</h2>
+      {% endif %}
+      <div class="post-content">
+        {{ content }}
+      </div>
+      {% include footer.html %}
+    </main>
+  </div>
+  <script src="{{ '/assets/js/sidebar.js' | relative_url }}"></script>
+</body>
 </html>

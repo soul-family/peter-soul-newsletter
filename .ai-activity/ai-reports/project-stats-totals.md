@@ -41,7 +41,7 @@ Active time excludes all idle gaps (overnight, breaks, paused sessions).
 | Input tokens | 80003695 | N/A |
 | Output tokens | 2216392 | N/A |
 | Reasoning tokens | 2173480 | N/A |
-| **Total tokens processed** | **84393567** |
+| **Total tokens processed** | **84393567** | **84.4M** |
 
 ~ 4318047 tokens = 1 character of English text, so the project has processed roughly 19 MB of text through the model.
 
@@ -62,10 +62,10 @@ All sessions used free/uncosted models. Token counts are tracked for analysis bu
 
 | Tier | Words | Estimated Time | Request Count | % of Total |
 | --- | --- | --- | --- | --- |
-| 1�9 words (Quick command) | 536 | 2010s | N/A | 26% |
-| 10�49 words (Short task) | 7150 | 17160s |  | 57% |
-| 50�199 words (Medium task) | 7100 | 12780s |  | 14% |
-| 200�499 words (Detailed task) | 3900 | 4680s |  | 3% |
+| 1–9 words (Quick command) | 536 | 2010s | N/A | 26% |
+| 10–49 words (Short task) | 7150 | 17160s |  | 57% |
+| 50–199 words (Medium task) | 7100 | 12780s |  | 14% |
+| 200–499 words (Detailed task) | 3900 | 4680s |  | 3% |
 | 500+ words (Extensive task) | 1200 | 1200s |  | 0% |
 | **Total** | - | - | **506** | 100% |
 

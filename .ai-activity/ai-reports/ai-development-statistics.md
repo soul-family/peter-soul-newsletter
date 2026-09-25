@@ -2,9 +2,7 @@
 
 Human-readable report of AI development activity across the archive project. This report aggregates the raw data from the session statistics JSON files into a presentation suitable for project stakeholders, contributors, and external collaborators.
 
-**Source data**: `.ai-activity/ai-sessions/` 
-**Generated**: 2026-09-03
-**Reporting period**: 2026-07-31 to 2026-09-03
+**Source data**: `.ai-activity/ai-sessions/` **Generated**: 2026-09-03 **Reporting period**: 2026-07-31 to 2026-09-03
 
 ## Executive Summary
 

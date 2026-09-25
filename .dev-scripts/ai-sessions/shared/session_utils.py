@@ -197,8 +197,9 @@ def generate_path_variations(base_path, replacement='_www_'):
             variations.append((c_backslash, replacement))
         variations.append((json_form, replacement))
 
-    if '_Vicki_documents' in base_path and base_path != '_Vicki_documents':
-        variations.append(('_Vicki_documents', replacement))
+    repo_parent = os.path.basename(os.path.dirname(get_repo_root()))
+    if repo_parent and repo_parent in base_path and base_path != repo_parent:
+        variations.append((repo_parent, replacement))
 
     seen = set()
     unique = []

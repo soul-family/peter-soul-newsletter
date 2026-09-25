@@ -54,7 +54,7 @@ Completed work tasks moved from the todo-next.md file.
 ## v1.0.0 Modernisation
 
 - T-7: Separate each tree branch into own folder with index pages
-- T-8: Add credits page
+- T-8: Add about page
 - T-38: Update to modern HTML standards
 - T-42: Modernise to HTML5
 - T-43: Update contact information on the pages
@@ -162,3 +162,13 @@ Completed work tasks moved from the todo-next.md file.
 - T-170: Remove unused Jekyll layouts (home.html, minimal.html)
 - T-171: Fix column file permalinks to match reorganized {year}/{month}/{title}.md structure
 - T-172: Fix columns index links to match reorganized folder structure
+
+## v2.0.0 Modernization
+
+- T-16: Add licence info to website
+- T-39: Create reusable page templates (header, footer, sidebar)
+- T-40: Separate template logic from content (markdown text format)
+- T-41: Page-specific visual customization (markdown meta data)
+- T-65: Sitemap is the sidebar navigation
+- T-64: Review authorship, copyright, attribution, licence documentation and public information
+- T-140: source references and citation guide
