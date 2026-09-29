@@ -14,7 +14,7 @@ header_images:
     height: 75
 ---
 
-Believe it or not, this is my 100th physicist's column. If you have doubts (and internet access) you can survey them all at www.petersoul.co.uk. Extraordinarily, I've just come across the short first one from ten years ago, on cat's-eyes, reprinted in the current newsletter of a West Country IAM group: an unintended or intended anniversary tribute? Anyway, it's nice to know that hurried thoughts can have lasting value!
+Believe it or not, this is my 100th physicist's column. If you have doubts (and internet access) you can survey them all at my website. Extraordinarily, I've just come across the short first one from ten years ago, on cat's-eyes, reprinted in the current newsletter of a West Country IAM group: an unintended or intended anniversary tribute? Anyway, it's nice to know that hurried thoughts can have lasting value!
 
 Back in July 2002, my ideas for further topics would hardly have filled another couple of columns. Yet right now I have enough jotted down to last me another year at least. One reason why the collection has steadily grown is that I often start the page with a mention of something that's not on the list - which then takes me (and you) down a path I never expected to explore. And as a result, I freely admit, I have learnt a lot myself.
 

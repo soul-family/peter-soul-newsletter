@@ -18,19 +18,19 @@ It's been a unusual summer! On the road, for example, I'm sure motorists have be
 
 In August, Mrs S and I went to the cinema to see a superb performance of Mozart's*The Marriage of Figaro*, relayed live from Glyndebourne. By the way, did you know that many cinemas now offer selections of operas, ballets, plays and other events, coming direct from national and international stages? It's better than being in the front row of the stalls! But unless you search the websites, you're unlikely to find out about these screenings. Here are some links:
 
-[www.apollocinemas.com/whats-happening.aspx](http://www.apollocinemas.com/whats-happening.aspx)
+[apollocinemas.com/whats-happening.aspx](http://apollocinemas.com/whats-happening.aspx)
 
-[www.cineworld.co.uk/whatson?cinema=all](http://www.cineworld.co.uk/whatson?cinema=all)
+[cineworld.co.uk/whatson?cinema=all](http://cineworld.co.uk/whatson?cinema=all)
 
-[www.empirecinemas.co.uk/?page=artssynopsis](http://www.empirecinemas.co.uk/?page=artssynopsis)
+[empirecinemas.co.uk/?page=artssynopsis](http://empirecinemas.co.uk/?page=artssynopsis)
 
-[www.odeon.co.uk/fanatic/odeon-plus/](http://www.odeon.co.uk/fanatic/odeon-plus/)
+[odeon.co.uk/fanatic/odeon-plus/](http://odeon.co.uk/fanatic/odeon-plus/)
 
-[www.picturehouses.co.uk/News/](http://www.picturehouses.co.uk/News/)
+[picturehouses.co.uk/News/](http://picturehouses.co.uk/News/)
 
-[www.showcasecinemas.co.uk/events/arts-and-events](http://www.showcasecinemas.co.uk/events/arts-and-events)
+[showcasecinemas.co.uk/events/arts-and-events](http://showcasecinemas.co.uk/events/arts-and-events)
 
-[www.myvue.com/special-events/nowbooking](http://www.myvue.com/special-events/nowbooking)
+[myvue.com/special-events/nowbooking](http://myvue.com/special-events/nowbooking)
 
 On with my story: before*Figaro*started we were shown a short film about the opera house, including a proud mention of its new wind turbine which is supposedly able to provide all the electricity needed on-site (given the wind, of course). The commentary then continued: "The Glyndebourne Festival, which runs for three and a half months, uses roughly 800,000 kilowatts of power." I nearly fell off my seat.
 

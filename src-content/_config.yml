@@ -2,7 +2,6 @@
 title: "A Physicist Writes..."
 description: "Newsletter columns by Peter Soul"
 baseurl: ""
-url: "https://www.petersoul.co.uk"
 markdown: kramdown
 permalink: pretty
 defaults:

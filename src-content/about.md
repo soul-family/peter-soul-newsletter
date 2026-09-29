@@ -9,7 +9,7 @@ header_images:
 
 ## Contact
 
-This archive preserves the original website published by Peter Soul at www.petersoul.co.uk. The original author is no longer available, but enquiries relating to the archive can be made through his daughter.
+This archive preserves the original website published by Peter Soul. The original author is no longer available, but enquiries relating to the archive can be made through his daughter.
 
 For archive-related enquiries, please email: vicki.soul + peter.soul [at] gmail [dot] com
 

@@ -32,7 +32,7 @@ The other group consisted of screen-aids, notably satnav and the reverse-gear ca
 
 Last month, if you recall, I wrote*watch this space*, because a parliamentary Bill to ban coach tyres over ten years old was scheduled to be debated, after many delays (it arose from a fatal accident in 2012). But yet again, this didn't happen. However, there were some related developments last year, I've discovered:
 
-> The campaign to ban such tyres, named simply Tyred (with a website<u>www.tyred.org.uk</u>), won a Northern Marketing Award for Best Not-for-Profit Campaign.
+> The campaign to ban such tyres, named simply Tyred (with a website<u>tyred.org.uk</u>), won a Northern Marketing Award for Best Not-for-Profit Campaign.
 
 > The Dept for Transport announced new guidelines to operators of heavy vehicles, strongly advising that tyres more than ten years old should not be used except on rear axles as part of a twin-tyre combination. (This same 'discouragement' had in fact been issued to coach operators in 2013, following the accident.)
 
