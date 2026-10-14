@@ -20,13 +20,13 @@ In August, Mrs S and I went to the cinema to see a superb performance of Mozart'
 
 [apollocinemas.com/whats-happening.aspx](http://apollocinemas.com/whats-happening.aspx)
 
-[cineworld.co.uk/whatson?cinema=all](http://cineworld.co.uk/whatson?cinema=all)
+[cineworld.co.uk/whatson?cinema=all](https://www.cineworld.co.uk/films/?cinema=all)
 
-[empirecinemas.co.uk/?page=artssynopsis](http://empirecinemas.co.uk/?page=artssynopsis)
+[empirecinemas.co.uk/?page=artssynopsis](https://www.omniplexcinemas.co.uk/)
 
 [odeon.co.uk/fanatic/odeon-plus/](http://odeon.co.uk/fanatic/odeon-plus/)
 
-[picturehouses.co.uk/News/](http://picturehouses.co.uk/News/)
+[picturehouses.co.uk/News/](https://www.picturehouses.com/)
 
 [showcasecinemas.co.uk/events/arts-and-events](http://showcasecinemas.co.uk/events/arts-and-events)
 
