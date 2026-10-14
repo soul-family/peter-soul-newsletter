@@ -52,7 +52,7 @@ I can report now that Mrs S and I travelled by air to the S of France and back o
 
 The images are set out below (starting with views of the Pyrenees) in two blocks: smaller for easy 'parallel' viewing, like the first pair of Corollas were above, and then larger and swapped over for crossways viewing as I've just described (and if this works for you, don't forget to zoom in on the pictures too). I hope you will be able to appreciate the solidness as vividly as I can.
 
-Finally, if you*have*managed to see these pictures in 3D, you might enjoy following up something else I've tried: a Google-images search for "stereo pairs" ([Google Images](http://images.google.com/)). Of the huge number of results, some are arranged for parallel viewing and some for crossways. (If you happen to view any stereo pair by the wrong method, the 3D effect will seem to be back to front, or at least not solid.)
+Finally, if you*have*managed to see these pictures in 3D, you might enjoy following up something else I've tried: a Google-images search for "stereo pairs" ([Google Images](https://images.google.com/)). Of the huge number of results, some are arranged for parallel viewing and some for crossways. (If you happen to view any stereo pair by the wrong method, the 3D effect will seem to be back to front, or at least not solid.)
 
 <u>Parallel pairs</u>(put face close to screen, then lean back):
 

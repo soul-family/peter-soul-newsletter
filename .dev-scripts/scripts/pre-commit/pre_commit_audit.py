@@ -174,7 +174,7 @@ def check_doc_links():
             links = link_pattern.findall(content)
             
             for text, link in links:
-                if link.startswith('http://') or link.startswith('https://'):
+                if link.startswith('https://') or link.startswith('https://'):
                     continue
                 
                 if link.startswith('#'):

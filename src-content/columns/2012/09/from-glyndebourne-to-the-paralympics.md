@@ -18,19 +18,19 @@ It's been a unusual summer! On the road, for example, I'm sure motorists have be
 
 In August, Mrs S and I went to the cinema to see a superb performance of Mozart's*The Marriage of Figaro*, relayed live from Glyndebourne. By the way, did you know that many cinemas now offer selections of operas, ballets, plays and other events, coming direct from national and international stages? It's better than being in the front row of the stalls! But unless you search the websites, you're unlikely to find out about these screenings. Here are some links:
 
-[apollocinemas.com/whats-happening.aspx](http://apollocinemas.com/whats-happening.aspx)
+[apollocinemas.com/whats-happening.aspx](https://apollocinemas.com/whats-happening.aspx)
 
 [cineworld.co.uk/whatson?cinema=all](https://www.cineworld.co.uk/films/?cinema=all)
 
 [empirecinemas.co.uk/?page=artssynopsis](https://www.omniplexcinemas.co.uk/)
 
-[odeon.co.uk/fanatic/odeon-plus/](http://odeon.co.uk/fanatic/odeon-plus/)
+[odeon.co.uk/fanatic/odeon-plus/](https://odeon.co.uk/fanatic/odeon-plus/)
 
 [picturehouses.co.uk/News/](https://www.picturehouses.com/)
 
-[showcasecinemas.co.uk/events/arts-and-events](http://showcasecinemas.co.uk/events/arts-and-events)
+[showcasecinemas.co.uk/events/arts-and-events](https://showcasecinemas.co.uk/events/arts-and-events)
 
-[myvue.com/special-events/nowbooking](http://myvue.com/special-events/nowbooking)
+[myvue.com/special-events/nowbooking](https://myvue.com/special-events/nowbooking)
 
 On with my story: before*Figaro*started we were shown a short film about the opera house, including a proud mention of its new wind turbine which is supposedly able to provide all the electricity needed on-site (given the wind, of course). The commentary then continued: "The Glyndebourne Festival, which runs for three and a half months, uses roughly 800,000 kilowatts of power." I nearly fell off my seat.
 

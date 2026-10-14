@@ -57,7 +57,7 @@ a:hover {
 }
 
 /* --- External links --- */
-a[href^="http://"]::after,
+a[href^="https://"]::after,
 a[href^="https://"]::after {
   content: " ↗";
   font-size: 0.85em;
@@ -135,6 +135,7 @@ img {
   overflow-x: hidden;
   border-right: 1px solid #ddd;
   padding: 0.75rem;
+  z-index: 10;
 }
 
 .sidebar-design {
@@ -165,8 +166,24 @@ img {
   opacity: 0;
   pointer-events: none;
   transition: opacity 0.2s ease 0s;   
-   min-width: 250px;
-    overflow: hidden;
+  min-width: 250px;
+  overflow: hidden;
+}
+
+/* Hover behavior for collapsed sidebar - show as floating overlay */
+.layout-wrapper:not(.sidebar-expanded) .sidebar:hover .sidebar-content {
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  top: 0;
+  left: 50px;
+  width: 250px;
+  height: 100vh;
+  background: var(--sidebar-bg);
+  padding: 0.75rem;
+  z-index: 1000;
+  box-shadow: 2px 0 8px rgba(0, 0, 0, 0.1);
+  transition: opacity 0.2s ease 0.1s;
 }
 
 .main-content {
@@ -434,6 +451,7 @@ hr {
     top: 0;
     width: 180px;
     padding: 0.75rem;
+    z-index: 10;
   }
 
   .main-content {
