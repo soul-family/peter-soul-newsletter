@@ -18,13 +18,16 @@
 </head>
 <body>
   <div class="layout-wrapper">
-    <aside class="sidebar">
-      <button class="sidebar-toggle" aria-label="Toggle menu" onclick="toggleSidebar()"></button>
-      <div class="sidebar-content">
-        {% include navigation.html %}
-      </div> 
-    </aside>     
-    
+    <div class="sidebar-right sidebar-design {{ page.background }}">
+      {% if page.header_images %}
+      <div class="header-images">
+        {% for img in page.header_images %}
+        <img src="{{ site.baseurl }}/assets/images/autogen/{{ img.src }}" width="{{ img.width }}" height="{{ img.height }}" alt="" />
+        {% endfor %}
+      </div>
+      {% endif %}
+    </div>
+
     <main class="main-content">
       {% include header.html %}
       {% assign sorted_pages = site.pages | sort: 'date' %}
@@ -92,15 +95,12 @@
       </nav>
       {% include footer.html %}
     </main>
-    <div class="sidebar-right sidebar-design {{ page.background }}">
-      {% if page.header_images %}
-      <div class="header-images">
-        {% for img in page.header_images %}
-        <img src="{{ site.baseurl }}/assets/images/autogen/{{ img.src }}" width="{{ img.width }}" height="{{ img.height }}" alt="" />
-        {% endfor %}
-      </div>
-      {% endif %}
-    </div>
+    <aside class="sidebar">
+      <button class="sidebar-toggle" aria-label="Toggle menu" onclick="toggleSidebar()"></button>
+      <div class="sidebar-content">
+        {% include navigation.html %}
+      </div> 
+    </aside>     
   </div>
   <script src="{{ '/assets/js/sidebar.js' | relative_url }}"></script>
 </body>

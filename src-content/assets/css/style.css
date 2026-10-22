@@ -115,7 +115,7 @@ img {
 /* --- Layout --- */
 .layout-wrapper {
   display: grid;
-  grid-template-columns: 50px 1fr 200px;
+  grid-template-columns: 200px 1fr 50px;
   gap: 0;
   max-width: 1200px;
   min-height: 100vh;
@@ -123,7 +123,7 @@ img {
 }
 
 .layout-wrapper.sidebar-expanded {
-  grid-template-columns: 180px 1fr 200px;
+  grid-template-columns: 200px 1fr 180px;
   transition: grid-template-columns 0.2s ease 0s;
 }
 
@@ -133,7 +133,7 @@ img {
   align-self: start;
   height: 100vh;
   overflow: visible;
-  border-right: 1px solid #ddd;
+  border-left: 1px solid #ddd;
   padding: 0.5rem;
   z-index: 20;
 }
@@ -174,7 +174,7 @@ img {
   pointer-events: none;
   position: absolute;
   top: 0;
-  left: 50px;
+  right: 50px;
   width: 250px;
   height: 100vh;
   background: var(--nav-panel-bg);
@@ -182,7 +182,7 @@ img {
   overflow-y: auto;
   overflow-x: hidden;
   z-index: 1000;
-  box-shadow: 2px 0 8px rgba(0, 0, 0, 0.1);
+  box-shadow: -2px 0 8px rgba(0, 0, 0, 0.1);
   transition: opacity 0.2s ease 0s;
 }
 
@@ -263,22 +263,22 @@ img {
 .sidebar .sidebar-toggle {
   position: absolute;
   top: 0.5rem;
-  right: -16px;
+  left: -16px;
   z-index: 100;
   width: 32px;
   height: 32px;
   background: #fff;
   border: 1px solid #ddd;
-  border-radius: 0 4px 4px 0;
-  box-shadow: 2px 0 4px rgba(0, 0, 0, 0.1);
+  border-radius: 4px 0 0 4px;
+  box-shadow: -2px 0 4px rgba(0, 0, 0, 0.1);
   margin: 0;
 }
 
 .sidebar-expanded .sidebar-toggle {
-  border-radius: 4px 0 0 4px;
-  right: auto;
-  left: 180px;
-  box-shadow: -2px 0 4px rgba(0, 0, 0, 0.1);
+  border-radius: 0 4px 4px 0;
+  left: auto;
+  right: -16px;
+  box-shadow: 2px 0 4px rgba(0, 0, 0, 0.1);
 }
 
 /* --- Navigation --- */
@@ -557,29 +557,33 @@ hr {
   margin: 1.5em 0;
 }
 
-/* --- Secondary sidebar (right) --- */
+/* --- Secondary sidebar (now left) --- */
 .sidebar-right {
   position: sticky;
   top: 0;
   align-self: start;
   height: 100vh;
-  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
 }
 
 /* --- Responsive --- */
 @media (max-width: 1024px) {
   .layout-wrapper {
-    grid-template-columns: 50px 1fr 150px;
+    grid-template-columns: 150px 1fr 50px;
   }
 
   .layout-wrapper.sidebar-expanded {
-    grid-template-columns: 180px 1fr 150px;
+    grid-template-columns: 150px 1fr 180px;
   }
 }
 
 @media (max-width: 720px) {
   .layout-wrapper {
-    grid-template-columns: 50px 1fr 60px;
+    grid-template-columns: 60px 1fr 50px;
+  }
+
+  .layout-wrapper.sidebar-expanded {
+    grid-template-columns: 60px 1fr 180px;
   }
 
   .layout-wrapper.sidebar-expanded {
