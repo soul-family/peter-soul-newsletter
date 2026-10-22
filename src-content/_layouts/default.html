@@ -17,90 +17,91 @@
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}" />
 </head>
 <body>
+  <header class="topbar">
+    {% include navigation.html %}
+  </header>
   <div class="layout-wrapper">
-    <div class="sidebar-right sidebar-design {{ page.background }}">
-      {% if page.header_images %}
-      <div class="header-images">
-        {% for img in page.header_images %}
-        <img src="{{ site.baseurl }}/assets/images/autogen/{{ img.src }}" width="{{ img.width }}" height="{{ img.height }}" alt="" />
-        {% endfor %}
+    <div class="left-bar">
+      <div class="profile-image">
+        <a href="{{ site.baseurl }}/">
+          <img height="124" width="98" src="{{ site.baseurl }}/assets/images/peter-soul.gif" alt="self" />
+        </a>
       </div>
-      {% endif %}
+      <div class="header-images">
+        {% if page.header_images %}
+          {% for img in page.header_images %}
+          <img src="{{ site.baseurl }}/assets/images/autogen/{{ img.src }}" width="{{ img.width }}" height="{{ img.height }}" alt="" />
+          {% endfor %}
+        {% endif %}
+      </div>
     </div>
 
     <main class="main-content">
-      {% include header.html %}
-      {% assign sorted_pages = site.pages | sort: 'date' %}
-      {% assign prev_page = nil %}
-      {% assign next_page = nil %}
-      {% assign found = false %}
-      {% for p in sorted_pages %}
-        {% if p.url == page.url %}
-          {% assign found = true %}
+      <div class="post-body">
+        {% if page.date %}
+          {% assign date_parts = page.date | split: '/' %}
+          {% assign year = date_parts[0] %}
+          {% assign month = date_parts[1] %}
+          {% capture month_name %}{% include month_name.html month=month %}{% endcapture %}
+          <nav class="post-pagination">
+            <div class="post-nav-arrows">
+              {% assign sorted_pages = site.pages | sort: 'date' %}
+              {% assign prev_page = nil %}
+              {% assign next_page = nil %}
+              {% assign found = false %}
+              {% for p in sorted_pages %}
+                {% if p.url == page.url %}
+                  {% assign found = true %}
+                {% endif %}
+                {% if p.date and p.url and p.url != page.url %}
+                  {% if found == false %}
+                    {% assign prev_page = p %}
+                  {% endif %}
+                  {% if found == true and next_page == nil %}
+                    {% assign next_page = p %}
+                  {% endif %}
+                {% endif %}
+              {% endfor %}
+              {% if prev_page %}
+                <a href="{{ prev_page.url | relative_url }}" class="pagination-arrow previous" title="{{ prev_page.title }}">&larr; {{ prev_page.title }}</a>
+              {% endif %}
+              {% if next_page %}
+                <a href="{{ next_page.url | relative_url }}" class="pagination-arrow next" title="{{ next_page.title }}">&rarr; {{ next_page.title }}</a>
+              {% endif %}
+            </div>
+            <h2 class="post-title">
+              {{ month_name }} {{ year }} - {{ page.title }}
+            </h2>
+          </nav>
+        {% else %}
+          <h2 class="post-title">{{ page.title }}</h2>
         {% endif %}
-        {% if p.date and p.url and p.url != page.url %}
-          {% if found == false %}
-            {% assign prev_page = p %}
+        <div class="post-content">
+          {{ content }}
+        </div>
+        <nav class="post-footer-nav">
+          {% if prev_page %}
+            <a href="{{ prev_page.url | relative_url }}" class="footer-nav-link prev">
+              <span class="footer-nav-arrow">&larr;</span>
+              <span class="footer-nav-title">{{ prev_page.title }}</span>
+            </a>
           {% endif %}
-          {% if found == true and next_page == nil %}
-            {% assign next_page = p %}
+          {% if next_page %}
+            <a href="{{ next_page.url | relative_url }}" class="footer-nav-link next">
+              <span class="footer-nav-title">{{ next_page.title }}</span>
+              <span class="footer-nav-arrow">&rarr;</span>
+            </a>
           {% endif %}
-        {% endif %}
-      {% endfor %}
-      {% if page.date %}
-        {% assign date_parts = page.date | split: '/' %}
-        {% assign year = date_parts[0] %}
-        {% assign month = date_parts[1] %}
-        {% capture month_name %}{% include month_name.html month=month %}{% endcapture %}
-        <nav class="post-pagination">
-          <div class="post-nav-arrows">
-            {% if prev_page %}
-              <a
-                href="{{ prev_page.url | relative_url }}"
-                class="pagination-arrow previous"
-                title="{{ prev_page.title }}"
-                >&larr; {{ prev_page.title }}</a>
-            {% endif %}
-            {% if next_page %}
-              <a
-                href="{{ next_page.url | relative_url }}"
-                class="pagination-arrow next"
-                title="{{ next_page.title }}"
-                >&rarr; {{ next_page.title }}</a>
-            {% endif %}
-          </div>
-          <h2 class="post-title">
-            {{ month_name }} {{ year }} - {{ page.title }}
-          </h2>
         </nav>
-      {% else %}
-        <h2 class="post-title">{{ page.title }}</h2>
-      {% endif %}
-      <div class="post-content">
-        {{ content }}
       </div>
-      <nav class="post-footer-nav">
-        {% if prev_page %}
-          <a href="{{ prev_page.url | relative_url }}" class="footer-nav-link prev">
-            <span class="footer-nav-arrow">&larr;</span>
-            <span class="footer-nav-title">{{ prev_page.title }}</span>
-          </a>
-        {% endif %}
-        {% if next_page %}
-          <a href="{{ next_page.url | relative_url }}" class="footer-nav-link next">
-            <span class="footer-nav-title">{{ next_page.title }}</span>
-            <span class="footer-nav-arrow">&rarr;</span>
-          </a>
-        {% endif %}
-      </nav>
-      {% include footer.html %}
     </main>
-    <aside class="sidebar">
-      <button class="sidebar-toggle" aria-label="Toggle menu" onclick="toggleSidebar()"></button>
-      <div class="sidebar-content">
-        {% include navigation.html %}
-      </div> 
-    </aside>     
+
+    <div class="right-content">
+      <h3 class="newsletter-heading">Columns</h3>
+      <ul class="newsletter-list">
+        {% include newsletter_list.html %}
+      </ul>
+    </div>
   </div>
   <script src="{{ '/assets/js/sidebar.js' | relative_url }}"></script>
 </body>

@@ -67,7 +67,14 @@
     setCookie('sidebarState', isExpanded ? 'expanded' : 'collapsed', 365);
   }
 
-  window.toggleSidebar = toggleSidebar;
+  window.toggleNav = function () {
+  var nav = document.querySelector('.topbar-nav');
+  if (nav) {
+    nav.classList.toggle('expanded');
+  }
+};
+
+window.toggleSidebar = toggleSidebar;
 
   function autoCollapseOnCompact() {
     var wrapper = getWrapper();
