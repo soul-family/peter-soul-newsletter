@@ -8,7 +8,7 @@ body {
   font-family: Tahoma, Verdana, Arial, Helvetica, Sans-serif;
   font-size: 1rem;
   line-height: 1.6;
-  color: #07038d;
+  color: #000080;
   background: #fff;
 }
 
@@ -82,7 +82,7 @@ img {
   overflow-y: auto;
   overflow-x: hidden;
   background: var(--sidebar-bg);
-  padding: 10px;
+  padding: 5px 5px 5px 5px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -92,7 +92,7 @@ img {
 
 .left-bar .profile-image {
   margin-bottom: 0.5rem;
-  padding: 5px;
+  padding: 0;
 }
 
 .left-bar .profile-image img {
@@ -125,11 +125,11 @@ img {
 .sidebar-nav a.nav-current {
   font-weight: bold;
   color: #000;
-  border-bottom: 2px solid #000;
   background: transparent;
   border-radius: 0;
   pointer-events: none;
   cursor: default;
+  border: none;
 }
 
 .left-bar .header-images {
@@ -290,25 +290,37 @@ img {
   margin: 0 0 0.6em;
   padding: 0;
   line-height: 1.3;
-  display: flex;
-  gap: 0.5rem;
-  align-items: baseline;
+  display: inline;
 }
 
 .nl-date {
   color: #666;
   font-size: 0.85rem;
   white-space: nowrap;
-  flex-shrink: 0;
 }
 
 .nl-title {
   color: rgb(148, 62, 4);
   text-decoration: none;
-  flex: 1;
 }
 
 .nl-title:hover { text-decoration: underline; }
+
+.right-content-footer {
+  margin-top: 2em;
+  padding-top: 1em;
+  border-top: 1px solid #ddd;
+  font-size: 0.85rem;
+  color: #999;
+}
+
+.right-content-footer .license {
+  text-align: left;
+}
+
+.right-content-footer a {
+  color: rgb(148, 62, 4);
+}
 
 /* --- Footer --- */
 .content-column-footer {

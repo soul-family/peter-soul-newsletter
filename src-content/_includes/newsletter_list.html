@@ -1,4 +1,5 @@
-{% for post in site.pages %}
+{% assign sorted_pages = site.pages | sort: 'date' | reverse %}
+{% for post in sorted_pages %}
   {% if post.date %}
     {% assign date_parts = post.date | split: '/' %}
     {% assign year = date_parts[0] %}
