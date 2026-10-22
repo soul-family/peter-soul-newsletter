@@ -4,6 +4,6 @@
     {% assign year = date_parts[0] %}
     {% assign month = date_parts[1] %}
     {% capture month_name %}{% include month_name.html month=month %}{% endcapture %}
-    <li><a href="{{ post.url | relative_url }}">{{ year }} {{ month_name }} - {{ post.title }}</a></li>
+    <li><span class="nl-date">{{ year }} {{ month_name }}</span> <a href="{{ post.url | relative_url }}" class="nl-title">{{ post.title }}</a></li>
   {% endif %}
 {% endfor %}

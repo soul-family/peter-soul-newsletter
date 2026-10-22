@@ -19,9 +19,6 @@
 <body>
   <div class="layout-wrapper">
     <div class="left-bar">
-      <div class="site-title">
-        <a href="{{ site.baseurl }}/">{{ site.title }}</a>
-      </div>
       <div class="profile-image">
         <a href="{{ site.baseurl }}/">
           <img height="124" width="98" src="{{ site.baseurl }}/assets/images/peter-soul.gif" alt="self" />
@@ -41,15 +38,18 @@
 
     <main class="main-content">
       <div class="post-body">
+        <h1 class="site-title-body">{{ site.title }}</h1>
         {% if page.date %}
           {% assign date_parts = page.date | split: '/' %}
           {% assign year = date_parts[0] %}
           {% assign month = date_parts[1] %}
           {% capture month_name %}{% include month_name.html month=month %}{% endcapture %}
         {% endif %}
-        <h2 class="post-title">
-          {% if page.date %}{{ month_name }} {{ year }} - {% endif %}{{ page.title }}
-        </h2>
+        <div class="post-title-bar">
+          <h2 class="post-title">
+            {% if page.date %}{{ month_name }} {{ year }} - {% endif %}{{ page.title }}
+          </h2>
+        </div>
         <div class="post-content">
           {{ content }}
         </div>
