@@ -8,7 +8,7 @@ body {
   font-family: Tahoma, Verdana, Arial, Helvetica, Sans-serif;
   font-size: 1rem;
   line-height: 1.6;
-  color: #000080;
+  color: #000008;
   background: #fff;
 }
 
@@ -82,12 +82,13 @@ img {
   overflow-y: auto;
   overflow-x: hidden;
   background: var(--sidebar-bg);
-  padding: 5px 5px 5px 5px;
+  padding: 0 5px 5px 5px;
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 10px;
   border-right: 1px solid #ddd;
+  margin: 0;
 }
 
 .left-bar .profile-image {
@@ -245,9 +246,10 @@ img {
   height: 100vh;
   overflow-y: auto;
   overflow-x: hidden;
-  padding: 1rem;
+  padding: 0 1rem 1rem 1rem;
   background: #fafafa;
   border-left: 1px solid #ddd;
+  margin: 0;
 }
 
 .right-content-header {
@@ -257,7 +259,7 @@ img {
   z-index: 5;
   padding: 0.5rem 0;
   border-bottom: 1px solid #ddd;
-  margin-bottom: 0.5rem;
+  margin: 0 0 0.5rem 0;
   display: flex;
   align-items: center;
   justify-content: space-between;
