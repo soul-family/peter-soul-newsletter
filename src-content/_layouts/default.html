@@ -17,16 +17,19 @@
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}" />
 </head>
 <body>
-  <header class="topbar">
-    {% include navigation.html %}
-  </header>
   <div class="layout-wrapper">
     <div class="left-bar">
+      <div class="site-title">
+        <a href="{{ site.baseurl }}/">{{ site.title }}</a>
+      </div>
       <div class="profile-image">
         <a href="{{ site.baseurl }}/">
           <img height="124" width="98" src="{{ site.baseurl }}/assets/images/peter-soul.gif" alt="self" />
         </a>
       </div>
+      <nav class="sidebar-nav">
+        {% include navigation.html %}
+      </nav>
       <div class="header-images">
         {% if page.header_images %}
           {% for img in page.header_images %}
@@ -43,43 +46,32 @@
           {% assign year = date_parts[0] %}
           {% assign month = date_parts[1] %}
           {% capture month_name %}{% include month_name.html month=month %}{% endcapture %}
-          <nav class="post-pagination">
-            <div class="post-nav-arrows">
-              {% assign sorted_pages = site.pages | sort: 'date' %}
-              {% assign prev_page = nil %}
-              {% assign next_page = nil %}
-              {% assign found = false %}
-              {% for p in sorted_pages %}
-                {% if p.url == page.url %}
-                  {% assign found = true %}
-                {% endif %}
-                {% if p.date and p.url and p.url != page.url %}
-                  {% if found == false %}
-                    {% assign prev_page = p %}
-                  {% endif %}
-                  {% if found == true and next_page == nil %}
-                    {% assign next_page = p %}
-                  {% endif %}
-                {% endif %}
-              {% endfor %}
-              {% if prev_page %}
-                <a href="{{ prev_page.url | relative_url }}" class="pagination-arrow previous" title="{{ prev_page.title }}">&larr; {{ prev_page.title }}</a>
-              {% endif %}
-              {% if next_page %}
-                <a href="{{ next_page.url | relative_url }}" class="pagination-arrow next" title="{{ next_page.title }}">&rarr; {{ next_page.title }}</a>
-              {% endif %}
-            </div>
-            <h2 class="post-title">
-              {{ month_name }} {{ year }} - {{ page.title }}
-            </h2>
-          </nav>
-        {% else %}
-          <h2 class="post-title">{{ page.title }}</h2>
         {% endif %}
+        <h2 class="post-title">
+          {% if page.date %}{{ month_name }} {{ year }} - {% endif %}{{ page.title }}
+        </h2>
         <div class="post-content">
           {{ content }}
         </div>
+        {% if page.date %}
         <nav class="post-footer-nav">
+          {% assign sorted_pages = site.pages | sort: 'date' %}
+          {% assign prev_page = nil %}
+          {% assign next_page = nil %}
+          {% assign found = false %}
+          {% for p in sorted_pages %}
+            {% if p.url == page.url %}
+              {% assign found = true %}
+            {% endif %}
+            {% if p.date and p.url and p.url != page.url %}
+              {% if found == false %}
+                {% assign prev_page = p %}
+              {% endif %}
+              {% if found == true and next_page == nil %}
+                {% assign next_page = p %}
+              {% endif %}
+            {% endif %}
+          {% endfor %}
           {% if prev_page %}
             <a href="{{ prev_page.url | relative_url }}" class="footer-nav-link prev">
               <span class="footer-nav-arrow">&larr;</span>
@@ -93,11 +85,15 @@
             </a>
           {% endif %}
         </nav>
+        {% endif %}
       </div>
     </main>
 
     <div class="right-content">
-      <h3 class="newsletter-heading">Columns</h3>
+      <div class="right-content-header">
+        <h3 class="newsletter-heading">Columns</h3>
+        <button class="right-sidebar-toggle" aria-label="Toggle newsletter list" onclick="toggleRightSidebar()">☰</button>
+      </div>
       <ul class="newsletter-list">
         {% include newsletter_list.html %}
       </ul>

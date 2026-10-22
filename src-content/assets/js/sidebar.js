@@ -74,6 +74,13 @@
   }
 };
 
+window.toggleRightSidebar = function () {
+  var rightContent = document.querySelector('.right-content');
+  if (rightContent) {
+    rightContent.classList.toggle('open');
+  }
+};
+
 window.toggleSidebar = toggleSidebar;
 
   function autoCollapseOnCompact() {
