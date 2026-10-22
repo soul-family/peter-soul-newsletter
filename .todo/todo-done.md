@@ -159,9 +159,10 @@ Completed work tasks moved from the todo-next.md file.
 - T-169: Replace generic "here" links with descriptive link text in info page
 - T-51: Remove right sidebar: photo to header left, car to header right, car designs to left siderbar
 - T-143: Implement Github Actions for generating static website on Github Pages
-- T-170: Remove unused Jekyll layouts (home.html, minimal.html)
+- T-170: Remove unused Jekyll page layouts
 - T-171: Fix column file permalinks to match reorganized {year}/{month}/{title}.md structure
 - T-172: Fix columns index links to match reorganized folder structure
+
 
 ## v2.0.0 Modernization
 
@@ -172,3 +173,11 @@ Completed work tasks moved from the todo-next.md file.
 - T-65: Sitemap is the sidebar navigation
 - T-64: Review authorship, copyright, attribution, licence documentation and public information
 - T-140: source references and citation guide
+- T-173: Restructure the site to a two column layout with a collapsible left sidebar
+- T-174: Move sidebar toggle inside the sidebar and persist its state in a cookie
+- T-175: Move sidebar navigation to a markdown file rendered through the markdownify filter
+- T-176: Add custom pagination for column articles sorted by publication date
+- T-177: Review all external links and replace discontinued destinations with equivalent pages
+- T-178: Add a links page collecting the external references used by the columns
+- T-179: Move the design sidebar to the right of the main content
+- T-180: Collapse the left sidebar automatically on tablet and small screens with hover and click to open

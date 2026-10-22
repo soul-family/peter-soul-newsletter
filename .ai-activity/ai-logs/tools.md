@@ -39,3 +39,5 @@
 | Pattern search | Locate duplicate task states, implementation-specific log details, and stale references |
 | Automated repository audit | Verify todos, documentation links, transparency, changelog, and session statistics |
 | Changelog promotion | Move completed release entries into the current version and clear pending entries |
+| Destination reachability check | Confirm every external reference still resolves and carries the expected subject matter |
+| Published path resolution | Confirm internal references resolve once the site is published with directory-style URLs |

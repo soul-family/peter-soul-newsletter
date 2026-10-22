@@ -2,8 +2,10 @@
 
 ## Navigation
 
-- **Blog posts** - open `content/columns/` to browse posts by date
-- **Links** - open `content/columns/index.html`
+- **Blog posts** - open `src-content/columns/` to browse posts by date
+- **Column index** - open `src-content/columns/index.html` for a year-grouped list of every column
+- **Links** - open `src-content/links.html` for the external websites referred to across the columns
+- **Sidebar** - the collapsible left sidebar carries the main pages, and each column ends with previous and next links in publication order
 
 ## Understanding Dates
 
@@ -15,7 +17,7 @@ Click any image to view it at full size. Some family tree pages include thumbnai
 
 ## External Links
 
-Links to external websites open in a new tab or window. The archive does not maintain or control external content.
+Links to external websites open in a new tab or window, marked with an arrow. The archive does not maintain or control external content. Where a destination has moved, the link points to the page that carries the same information, and the destinations are collected on the links page.
 
 ## Browser Compatibility
 

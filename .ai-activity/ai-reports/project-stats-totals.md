@@ -2,26 +2,26 @@
 
 Aggregated AI development metrics across all AI co-developer sessions for the archive project. Source: per-database stats files in `.ai-activity/ai-sessions/`.
 
-Generated: 2026-09-12T16:03:08.800960
+Generated: 2026-10-21T13:02:00.000000
 
 ## Project Totals
 
 | Metric | Value |
 | --- | --- |
-| Sessions | 34 |
-| User requests | 506 |
-| Messages | 8472 |
-| Parts | 33325 |
-| User words typed | 17828 |
-| Average words per request | 35 |
+| Sessions | 38 |
+| User requests | 509 |
+| Messages | 8631 |
+| Parts | 33968 |
+| User words typed | 19696 |
+| Average words per request | 38 |
 
 ## Active Time
 
 | Component | Seconds | Human |
 | --- | --- | --- |
-| AI processing | 270747 | 75h 12m |
-| User activity | 346845 | 96h 20m |
-| **Total active** | **617592** | **171h 33m** |
+| AI processing | 273720 | 76h 2m |
+| User activity | 350160 | 97h 16m |
+| **Total active** | **623880** | **173h 19m** |
 
 Active time excludes all idle gaps (overnight, breaks, paused sessions).
 
@@ -29,25 +29,25 @@ Active time excludes all idle gaps (overnight, breaks, paused sessions).
 
 | Phase | Component | Seconds | Human |
 | --- | --- | --- | --- |
-| Input | Writing prompts | 37815 | 10h 30m |
-| Input | Waiting for AI | 5060 | 1h 24m |
-| Output | Reviewing AI responses | 212890 | 59h 8m |
-| Output | Verifying AI work | 91080 | 25h 18m |
+| Input | Writing prompts | 39600 | 11h 0m |
+| Input | Waiting for AI | 5040 | 1h 24m |
+| Output | Reviewing AI responses | 212440 | 59h 24m |
+| Output | Verifying AI work | 92720 | 25h 27m |
 
 ## Token Usage
 
 | Type | Count | Human |
 | --- | --- | --- |
-| Input tokens | 80003695 | N/A |
-| Output tokens | 2216392 | N/A |
-| Reasoning tokens | 2173480 | N/A |
-| **Total tokens processed** | **84393567** | **84.4M** |
+| Input tokens | 81075745 | N/A |
+| Output tokens | 2236212 | N/A |
+| Reasoning tokens | 2208264 | N/A |
+| **Total tokens processed** | **85520221** | **85.5M** |
 
-~ 4318047 tokens = 1 character of English text, so the project has processed roughly 19 MB of text through the model.
+~ 4318047 tokens = 1 character of English text, so the project has processed roughly 19.8 MB of text through the model.
 
 ## Thinking Length
 
-The model generated **9,017,270 characters** of visible reasoning text across all sessions.
+The model generated **9,155,165 characters** of visible reasoning text across all sessions.
 
 ## Cost
 
@@ -62,12 +62,12 @@ All sessions used free/uncosted models. Token counts are tracked for analysis bu
 
 | Tier | Words | Estimated Time | Request Count | % of Total |
 | --- | --- | --- | --- | --- |
-| 1–9 words (Quick command) | 536 | 2010s | N/A | 26% |
-| 10–49 words (Short task) | 7150 | 17160s |  | 57% |
+| 1–9 words (Quick command) | 560 | 2010s | N/A | 26% |
+| 10–49 words (Short task) | 7150 | 17160s |  | 56% |
 | 50–199 words (Medium task) | 7100 | 12780s |  | 14% |
-| 200–499 words (Detailed task) | 3900 | 4680s |  | 3% |
+| 200–499 words (Detailed task) | 3900 | 4680s |  | 4% |
 | 500+ words (Extensive task) | 1200 | 1200s |  | 0% |
-| **Total** | - | - | **506** | 100% |
+| **Total** | - | - | **509** | 100% |
 
 Most user requests are short tasks. Only a small percentage of requests exceed 200 words, indicating focused, task-oriented interaction rather than long-form prompting.
 
@@ -108,7 +108,13 @@ Most user requests are short tasks. Only a small percentage of requests exceed 2
 | ses_f9e4b2f73ffe2vJfeGwtI3NvOr | kilo-code | 6m | 25m | 1 |
 | ses_f9736de9fffeU6wXWYAt8KzOsa | kilo-code | 8m | 27m | 3 |
 | ses_f9394dcc8ffelgFA7YR0vFIAdE | kilo-code | 17m | 22m | 1 |
-| ses_f6e514a6fffe0SSs7q30uSdr2e | kilo-code | 41m | 3h 20m | 12 |
+| ses_f6e514a6fffe0SSs7q30uSdr2e | kilo-code | 51m | 3h 29m | 13 |
+| ses_f5b898c60ffe2uyrOxjs0Tl9m1 | kilo-code | 8m | 17m | 1 |
+| ses_f5b6e5be5ffeulSKtTaWa8X3gZ | kilo-code | 3m | 10m | 1 |
+| ses_f5b6887acffe58MxSdvDJOdQCh | kilo-code | 34m | 18m | 1 |
+| ses_f5b2cc3deffeu8SQoW4txHOX0i | kilo-code | 12m | 20m | 1 |
+| ses_f5b0a9568ffey8mONTMMKfVhE9 | kilo-code | 5m | 15m | 1 |
+| ses_f5adca766ffeNDWE9UlhRz0TPa | kilo-code | 2m | 14m | 1 |
 
 ## Observations
 

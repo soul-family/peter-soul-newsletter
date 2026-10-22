@@ -16,21 +16,15 @@ header_images:
 
 It's been a unusual summer! On the road, for example, I'm sure motorists have been hooting at me more, or otherwise showing annoyance, for simply keeping to the speed limit or holding the correct lane for my intended route. I put it down to the (occasional) heat, and the Lipstick Red of my old Corolla which, even though fading, must be quite distinctive now among all the fashionable silvers, greys and blacks. I'm almost looking forward to changing one day to a car that's a less coloured rag to bullish drivers.
 
-In August, Mrs S and I went to the cinema to see a superb performance of Mozart's*The Marriage of Figaro*, relayed live from Glyndebourne. By the way, did you know that many cinemas now offer selections of operas, ballets, plays and other events, coming direct from national and international stages? It's better than being in the front row of the stalls! But unless you search the websites, you're unlikely to find out about these screenings. Here are some links:
+In August, Mrs S and I went to the cinema to see a superb performance of Mozart's*The Marriage of Figaro*, relayed live from Glyndebourne. By the way, did you know that many cinemas now offer selections of operas, ballets, plays and other events, coming direct from national and international stages? It's better than being in the front row of the stalls! But unless you search the websites, you're unlikely to find out about these screenings. 
 
-[apollocinemas.com/whats-happening.aspx](https://apollocinemas.com/whats-happening.aspx)
-
-[cineworld.co.uk/whatson?cinema=all](https://www.cineworld.co.uk/films/?cinema=all)
-
-[empirecinemas.co.uk/?page=artssynopsis](https://www.omniplexcinemas.co.uk/)
-
-[odeon.co.uk/fanatic/odeon-plus/](https://odeon.co.uk/fanatic/odeon-plus/)
-
-[picturehouses.co.uk/News/](https://www.picturehouses.com/)
-
-[showcasecinemas.co.uk/events/arts-and-events](https://showcasecinemas.co.uk/events/arts-and-events)
-
-[myvue.com/special-events/nowbooking](https://myvue.com/special-events/nowbooking)
+https://en.wikipedia.org/wiki/Cinema_of_the_United_Kingdom
+https://www.cineworld.co.uk/films/?cinema=all
+https://www.omniplexcinemas.co.uk/
+https://odeon.co.uk
+https://www.picturehouses.com/
+https://www.showcasecinemas.co.uk/
+https://www.myvue.com/
 
 On with my story: before*Figaro*started we were shown a short film about the opera house, including a proud mention of its new wind turbine which is supposedly able to provide all the electricity needed on-site (given the wind, of course). The commentary then continued: "The Glyndebourne Festival, which runs for three and a half months, uses roughly 800,000 kilowatts of power." I nearly fell off my seat.
 

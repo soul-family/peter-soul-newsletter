@@ -393,3 +393,48 @@
 2. Replaced generic links with descriptive text based on destination page titles.
 
 **Result:** External links use descriptive text instead of generic "here" text.
+
+## Interaction: Two column layout with collapsible sidebar
+
+**Time:** 2026-10-21
+
+**Task:** Restructure the site around a collapsible left sidebar and give column articles publication date pagination.
+
+**Actions:**
+
+1. Introduced a two column layout with a collapsible left sidebar and an external script that remembers its state.
+2. Rendered the sidebar navigation from markdown so the menu can be edited as content.
+3. Added publication date pagination for column articles and combined the arrows with the date and title.
+4. Corrected cross reference paths between column articles and the home link so they resolve after the build.
+
+**Result:** The site presents a collapsible left sidebar beside the main content, and column articles link to their neighbours in publication order.
+
+## Interaction: External link review and links page
+
+**Time:** 2026-10-21
+
+**Task:** Check every external destination in the archive, replace discontinued pages with equivalents, and publish the references as a links page.
+
+**Actions:**
+
+1. Extracted every external destination and checked each one, distinguishing genuine failures from sites that answer automated requests with a refusal.
+2. Replaced destinations whose subject matter is now carried by another page, including a project site that changed hands and now serves unrelated content.
+3. Built a links page grouping the external references by subject, and added it to the navigation ahead of the about page.
+4. Extended the build workflow so external destinations open in a new tab with a safe link relationship.
+
+**Result:** All external destinations resolve to pages carrying the same information, and the references are available to readers from a single links page.
+
+## Interaction: Design sidebar placement and tablet behaviour
+
+**Time:** 2026-10-21
+
+**Task:** Place the design sidebar to the right of the main content and make the left sidebar usable on tablet and small screens.
+
+**Actions:**
+
+1. Moved the design sidebar from the left of the layout to the right of the main content and adjusted the surrounding borders.
+2. Collapsed the left sidebar automatically on tablet and small screens, opening it as a floating panel on hover.
+3. Added a pinned state for tablet screens so a click holds the panel open while browsing.
+4. Adjusted the column widths and breakpoints so the main content keeps a readable measure on every screen size.
+
+**Result:** The design imagery sits to the right of the article text, and the left sidebar collapses on smaller screens while remaining reachable by hover or by clicking to keep it open.

@@ -24,15 +24,6 @@
         {% include navigation.html %}
       </div> 
     </aside>     
-    <div class="sidebar-design {{ page.background }}"> 
-      {% if page.header_images %}
-      <div class="header-images">
-        {% for img in page.header_images %}
-        <img src="{{ site.baseurl }}/assets/images/autogen/{{ img.src }}" width="{{ img.width }}" height="{{ img.height }}" alt="" />
-        {% endfor %}
-      </div>
-      {% endif %}
-    </div>
     
     <main class="main-content">
       {% include header.html %}
@@ -59,20 +50,22 @@
         {% assign month = date_parts[1] %}
         {% capture month_name %}{% include month_name.html month=month %}{% endcapture %}
         <nav class="post-pagination">
-          {% if prev_page %}
-            <a
-              href="{{ prev_page.url | relative_url }}"
-              class="pagination-arrow previous"
-              title="{{ prev_page.title }}"
-              >&larr;</a>
-          {% endif %} 
-          {% if next_page %}
-            <a
-              href="{{ next_page.url | relative_url }}"
-              class="pagination-arrow next"
-              title="{{ next_page.title }}"
-              >&rarr;</a>
-          {% endif %}
+          <div class="post-nav-arrows">
+            {% if prev_page %}
+              <a
+                href="{{ prev_page.url | relative_url }}"
+                class="pagination-arrow previous"
+                title="{{ prev_page.title }}"
+                >&larr; {{ prev_page.title }}</a>
+            {% endif %}
+            {% if next_page %}
+              <a
+                href="{{ next_page.url | relative_url }}"
+                class="pagination-arrow next"
+                title="{{ next_page.title }}"
+                >&rarr; {{ next_page.title }}</a>
+            {% endif %}
+          </div>
           <h2 class="post-title">
             {{ month_name }} {{ year }} - {{ page.title }}
           </h2>
@@ -83,9 +76,31 @@
       <div class="post-content">
         {{ content }}
       </div>
+      <nav class="post-footer-nav">
+        {% if prev_page %}
+          <a href="{{ prev_page.url | relative_url }}" class="footer-nav-link prev">
+            <span class="footer-nav-arrow">&larr;</span>
+            <span class="footer-nav-title">{{ prev_page.title }}</span>
+          </a>
+        {% endif %}
+        {% if next_page %}
+          <a href="{{ next_page.url | relative_url }}" class="footer-nav-link next">
+            <span class="footer-nav-title">{{ next_page.title }}</span>
+            <span class="footer-nav-arrow">&rarr;</span>
+          </a>
+        {% endif %}
+      </nav>
       {% include footer.html %}
     </main>
-    <div class="sidebar-right sidebar-design {{ page.background }}"></div>
+    <div class="sidebar-right sidebar-design {{ page.background }}">
+      {% if page.header_images %}
+      <div class="header-images">
+        {% for img in page.header_images %}
+        <img src="{{ site.baseurl }}/assets/images/autogen/{{ img.src }}" width="{{ img.width }}" height="{{ img.height }}" alt="" />
+        {% endfor %}
+      </div>
+      {% endif %}
+    </div>
   </div>
   <script src="{{ '/assets/js/sidebar.js' | relative_url }}"></script>
 </body>

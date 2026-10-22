@@ -34,7 +34,7 @@ In a similar vein, there are occasions (for example: when arriving at an ordinar
 
 Last month, you may remember, I wanted to know if the 100 metre marker posts on either side of the M25 were allowed to get gradually out step as the motorway was laid out around London, from Dartford. The geometry of circles told me that the shift ought to be more than 200 metres by the end of the motorway (ie, when it arrives at Thurrock). Only later did it occur to me to look at aerial photos of the M25 on the internet.
 
-The best ones I found were 'Bird's Eye' images at [multimap.com](https://multimap.com): vivid perspective landscape views from all four compass points. But alas, their resolution isn't quite sufficient to reveal the posts. So I would still be interested in any observations from Thurrock!
+The best ones I found were 'Bird's Eye' images at Multimap website (acquired by Microsoft in 2007 and Bird's Eye imagery available at [bing.com/maps](https://www.bing.com/maps/search?style=3d) and is used in the 3D cities): vivid perspective landscape views from all four compass points. But alas, their resolution isn't quite sufficient to reveal the posts. So I would still be interested in any observations from Thurrock!
 
 [I now know the answer to the M25 marker question, and will reveal it in a later column.]
 

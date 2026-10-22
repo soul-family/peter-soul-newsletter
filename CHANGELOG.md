@@ -4,7 +4,28 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), and this
 
 > **Contribution rules**: All entries must follow `_docs/contribution-guides/shared/adding-text.md` file for rules.
 
-## [v1.8.0]
+
+## [v2.0.0]
+
+### Added
+
+- Links page collecting the external websites referred to across the columns
+- Navigation entry for the links page ahead of the about page
+- External links open in a new tab with a safe link relationship
+- Floating navigation panel that opens on hover when the sidebar is collapsed
+- Pinned navigation state for tablet screens where the panel stays open
+
+### Changed
+
+- Design sidebar moved to the right of the main content
+- Main content border moved to the left edge beside the design sidebar
+- Left sidebar collapses automatically on tablet and small screens
+- Discontinued external destinations replaced with pages carrying the same information
+
+### Fixed
+
+- Broken external links replaced with working equivalents
+- Design sidebar background no longer overridden by the right sidebar rule
 
 ### Added
 

@@ -82,6 +82,13 @@ Since the initial migration, we've strengthened the archive's foundation:
 - **Quality checks** - Automated validation of links, dates, and formatting
 - **Long-term preservation** - Strategies for keeping the archive accessible for decades
 
+### Presentation
+
+- Collapsible navigation with a floating panel on smaller screens
+- Design artwork placed alongside the article text for a two-sided reading surface
+- Previous and next links in publication order at the top of every column
+- External references collected on a single links page and kept working over time
+
 ## What's Coming Next
 
 ### Better Presentation
