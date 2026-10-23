@@ -9,17 +9,25 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), and this
 
 ### Added
 
+- Add year-grouped column listing with month badges and year navigation
+- Add newsletter access from mobile navigation
+- Add arrow-only pagination in the title bar
 - Add immediate in-page navigation that updates the reading area while the surrounding sidebars stay in place
 - Add a distinct colour for each column, shown on hover and carried into the left sidebar while reading
 
 ### Changed
 
+- Link the site title to home and reverse left sidebar header images
+- Move GitHub Pages workflow to dev storage and optimise post-processing
+- Restructure right sidebar for easier year and month browsing
 - Present the archive introduction on the front page and streamline the navigation
 - Sort the column list by publication date with the date above each title
 
 ### Fixed
 
+- Correct missing spaces around emphasis and links across content
 - Give the active navigation entry a clean, borderless appearance
+- Keep sidebars in place with immediate in-page navigation and clean active states
 
 ## [v2.0.0]
 

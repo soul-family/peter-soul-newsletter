@@ -27,6 +27,8 @@
 | task | Launch subagents for parallel exploration or code generation |
 | Partial document navigation | Swaps the reading area while preserving the surrounding navigation and sidebars |
 | Deterministic colour assignment | Gives each archive item a distinct hue that carries into the active page styling |
+| Year-grouped archive listing | Organises columns by year and month for faster scanning with year-jump navigation |
+| Content spacing correction | Normalises spacing around emphasis and links for consistent rendering |
 
 **Notes:**
 

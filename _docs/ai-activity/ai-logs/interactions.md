@@ -455,4 +455,20 @@
 
 **Result:** Navigation feels immediate, the front page carries the full archive introduction, and each column has a recognisable colour that carries through to the sidebar.
 
+## Interaction: Layout refinement and content spacing
+
+**Time:** 2026-10-23
+
+**Task:** Refine layout - link site title to home, reverse left sidebar images, move pagination to arrow-only links in the title bar, restructure the right sidebar into year-grouped lists with month badges and year jumps, add newsletter to mobile nav, move GitHub workflow out of source and optimise it, and fix missing spaces around emphasis and links.
+
+**Actions:**
+
+1. Linked the site title to home and reversed the order of header images in the left sidebar.
+2. Moved column pagination into the sticky title bar as arrow-only links and removed the bottom pagination.
+3. Rebuilt the right sidebar as year-grouped lists with three-letter month badges, sticky year headers, a year jump bar highlighting the active year by post colour, and added a newsletter link in the left nav for mobile.
+4. Moved the GitHub Pages workflow to dev storage and restored an optimised workflow, deduplicating post-processing steps.
+5. Fixed missing spaces around emphasis and links across columns.
+
+**Result:** Navigation and pagination are more compact, the archive list is easier to browse by year and month, and spacing around emphasis and links is corrected.
+
 **Commit:** `800861891083d566bca4a7f206c81301c819ce7d` - Vicki Soul, 2026-10-23 - Add: in-page navigation, front-page introduction, and column colour coding
