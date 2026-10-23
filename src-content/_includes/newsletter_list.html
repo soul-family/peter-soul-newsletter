@@ -5,6 +5,13 @@
     {% assign year = date_parts[0] %}
     {% assign month = date_parts[1] %}
     {% capture month_name %}{% include month_name.html month=month %}{% endcapture %}
-    <li><span class="nl-date">{{ year }} {{ month_name }}</span> <a href="{{ post.url | relative_url }}" class="nl-title">{{ post.title }}</a></li>
+    {% assign hue = forloop.rindex0 | times: 137 | modulo: 360 %}
+    <li class="nl-item{% if post.url == page.url %} nl-current{% endif %}" style="--nl-color: hsl({{ hue }}, 60%, 80%);">
+      <span class="nl-date">{{ year }} {{ month_name }}</span>
+      <a href="{{ post.url | relative_url }}" class="nl-title">
+        <span class="nl-dot" aria-hidden="true"></span>
+        <span class="nl-text">{{ post.title }}</span>
+      </a>
+    </li>
   {% endif %}
 {% endfor %}

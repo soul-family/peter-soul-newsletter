@@ -17,8 +17,19 @@
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}" />
 </head>
 <body>
+  {% assign chronological_pages = site.pages | sort: 'date' %}
+  {% assign current_index = nil %}
+  {% for p in chronological_pages %}
+    {% if p.url == page.url %}
+      {% assign current_index = forloop.index0 %}
+    {% endif %}
+  {% endfor %}
+  {% assign current_hue = nil %}
+  {% if page.date and current_index %}
+    {% assign current_hue = current_index | times: 137 | modulo: 360 %}
+  {% endif %}
   <div class="layout-wrapper">
-    <div class="left-bar {{ page.background }}">
+    <div class="left-bar {{ page.background }}"{% if current_hue %} style="--sidebar-bg: hsl({{ current_hue }}, 60%, 80%);"{% endif %}>
       <div class="profile-image">
         <a href="{{ site.baseurl }}/">
           <img height="124" width="98" src="{{ site.baseurl }}/assets/images/peter-soul.gif" alt="self" />
@@ -106,5 +117,6 @@
     </div>
   </div>
   <script src="{{ '/assets/js/sidebar.js' | relative_url }}"></script>
+  <script src="{{ '/assets/js/app.js' | relative_url }}"></script>
 </body>
 </html>

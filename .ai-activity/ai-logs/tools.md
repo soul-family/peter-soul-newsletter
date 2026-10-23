@@ -25,6 +25,8 @@
 | sqlite3 | Query and back up AI co-developer session database tables |
 | agent_manager | Orchestrate multiple AI sessions in parallel worktrees |
 | task | Launch subagents for parallel exploration or code generation |
+| Partial document navigation | Swaps the reading area while preserving the surrounding navigation and sidebars |
+| Deterministic colour assignment | Gives each archive item a distinct hue that carries into the active page styling |
 
 **Notes:**
 

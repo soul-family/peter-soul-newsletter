@@ -5,6 +5,22 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), and this
 > **Contribution rules**: All entries must follow `_docs/contribution-guides/shared/adding-text.md` file for rules.
 
 
+## [v2.0.1]
+
+### Added
+
+- Add immediate in-page navigation that updates the reading area while the surrounding sidebars stay in place
+- Add a distinct colour for each column, shown on hover and carried into the left sidebar while reading
+
+### Changed
+
+- Present the archive introduction on the front page and streamline the navigation
+- Sort the column list by publication date with the date above each title
+
+### Fixed
+
+- Give the active navigation entry a clean, borderless appearance
+
 ## [v2.0.0]
 
 ### Added

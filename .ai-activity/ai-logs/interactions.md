@@ -438,3 +438,19 @@
 4. Adjusted the column widths and breakpoints so the main content keeps a readable measure on every screen size.
 
 **Result:** The design imagery sits to the right of the article text, and the left sidebar collapses on smaller screens while remaining reachable by hover or by clicking to keep it open.
+
+## Interaction: Single-container navigation and column colour coding
+
+**Time:** 2026-10-23
+
+**Task:** Keep the sidebars in place while article content changes, consolidate the archive introduction onto the front page, simplify navigation, and give each column a distinct colour cue.
+
+**Actions:**
+
+1. Added lightweight client-side page loading so only the central reading area changes while the sidebars remain in place, with browser history and page titles kept in sync.
+2. Moved the archive's contact, author and license text onto the front page and streamlined the sidebar navigation.
+3. Marked the current navigation entry without an underline or border.
+4. Reworked the column list so entries are ordered by publication date, with the date on its own line above the title.
+5. Gave each column a distinct colour, shown as a dot on hover and as the left sidebar background while that column is open.
+
+**Result:** Navigation feels immediate, the front page carries the full archive introduction, and each column has a recognisable colour that carries through to the sidebar.

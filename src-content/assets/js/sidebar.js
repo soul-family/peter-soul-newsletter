@@ -132,32 +132,7 @@ window.toggleSidebar = toggleSidebar;
       }
       resizeTimer = setTimeout(handleResize, 150);
     });
-
-    markCurrentPage();
-  }
-
-  function normalizePath(path) {
-    if (path !== '/' && path.endsWith('/')) {
-      return path.slice(0, -1);
-    }
-    return path;
-  }
-
-  function markCurrentPage() {
-    var currentPath = normalizePath(window.location.pathname);
-    var navLinks = document.querySelectorAll('.sidebar-nav a[href]');
-    for (var i = 0; i < navLinks.length; i++) {
-      var link = navLinks[i];
-      var href = link.getAttribute('href');
-      var linkPath = normalizePath(new URL(href, window.location.origin).pathname);
-      if (currentPath === linkPath) {
-        link.classList.add('nav-current');
-        link.removeAttribute('href');
-        link.style.pointerEvents = 'none';
-        link.style.cursor = 'default';
-      }
-    }
-  }
+i  }
 
   init();
 })();
