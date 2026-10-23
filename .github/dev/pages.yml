@@ -2,8 +2,7 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches:
-      - main
+    branches: [main]
 
 permissions:
   contents: read
@@ -29,7 +28,7 @@ jobs:
 
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v4
+        uses: actions/configure-pages@v5
 
       - name: Build Jekyll site
         run: |
@@ -38,17 +37,11 @@ jobs:
         env:
           JEKYLL_ENV: production
 
-      - name: Fix markdown links to directory URLs
+      - name: Post-process HTML
         run: |
-          find _site -name "*.html" -type f -exec sed -i 's|\.md"|/"|g' {} +
-          find _site -name "*.html" -type f -exec sed -i "s|\.md'|/'|g" {} +
-
-      - name: Add target _blank to external links
-        run: |
-          find _site -name "*.html" -type f -exec perl -pi -e 's/<a href="(https?:[^"]*)"(?![^>]*target)/<a href="$1" target="_blank" rel="noopener noreferrer"/g' {} +
-          find _site -name "*.html" -type f -exec perl -pi -e "s/<a href='(https?:[^']*)'(?![^>]*target)/<a href='\1' target=\"_blank\" rel=\"noopener noreferrer\"/g" {} +
-
- 
+          find _site -name "*.html" -type f -print0 | xargs -0 sed -i 's|\.md"|/"|g; s|\.md'"'"'|/'"'"'|g'
+          find _site -name "*.html" -type f -print0 | xargs -0 perl -pi -e 's/<a href="(https?:[^"]*)"(?![^>]*target)/<a href="$1" target="_blank" rel="noopener noreferrer"/g'
+          find _site -name "*.html" -type f -print0 | xargs -0 perl -pi -e "s/<a href='(https?:[^']*)'(?![^>]*target)/<a href='\''$1'\'' target=\"_blank\" rel=\"noopener noreferrer\"/g"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
