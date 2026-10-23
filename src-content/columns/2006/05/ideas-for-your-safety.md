@@ -14,7 +14,7 @@ header_images:
     height: 54
 ---
 
-Recently the*Sunday Times*invited its readers to suggest new motoring laws and regulations. It was an easy way of filling a page, of course, and I had seen most of the ideas before - confining lorries to the inside lanes of motorways, allowing left turns against a red light (when safe to do so), that sort of thing. But the best notion was saved for last: abolish all motoring laws and replace them with a single offence:_driving like a berk_.
+Recently the *Sunday Times *invited its readers to suggest new motoring laws and regulations. It was an easy way of filling a page, of course, and I had seen most of the ideas before - confining lorries to the inside lanes of motorways, allowing left turns against a red light (when safe to do so), that sort of thing. But the best notion was saved for last: abolish all motoring laws and replace them with a single offence:_driving like a berk_.
 
 What a splendid idea! The proposer offered a couple of examples: driving at 90 on an empty motorway in good conditions would be OK, but driving at 90 on the M62 in fog in the rush hour -*guilty!*Parking a large car neatly but slightly over the lines would be OK, but causing hold-ups in a multi-story by not going straight to the top where there's always space -*guilty!*I'm sure you can think of other situations too where simple common sense would be much the best adjudicator of whether someone's driving behaviour was good or bad.
 
@@ -30,7 +30,7 @@ If this doesn't reduce the accident rate significantly, then I suggest that all 
 
 Some drivers would no doubt continue to behave irresponsibly by exceeding the limit. Even so, I propose removing all speed humps and tables, which must be doing untold damage not only to suspension systems but also (and more worryingly) to everyone's tyres. Instead, what's needed is a pair of linked cameras at each end of any road where there is a speeding problem. When a number-plate was recognized as having travelled from one end to the other too quickly (depending on the speed limit) a penalty would be automatic.
 
-The occasional temporary camera half-way along a road would catch the smart aleck who might decide to do a ton most of the way and then wait a while for time to catch up with him, before passing the camera at the far end. One can even imagine speed limits abolished and intelligent cameras erected, programmed to detect*driving like a berk*(see above).
+The occasional temporary camera half-way along a road would catch the smart aleck who might decide to do a ton most of the way and then wait a while for time to catch up with him, before passing the camera at the far end. One can even imagine speed limits abolished and intelligent cameras erected, programmed to detect *driving like a berk*(see above).
 
 But all this is mere tinkering with the problem of how to raise driving standards. Learning to drive should be organized as a compulsory progression through several levels and tests (just like ordinary education), each one rewarding the student with more freedom to drive - at higher speeds, after dark, on motorways and so on - rising to the present advanced-motorist standard.
 

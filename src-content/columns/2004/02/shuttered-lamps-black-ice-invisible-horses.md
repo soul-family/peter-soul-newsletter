@@ -22,7 +22,7 @@ Then recently I realized that shuttered lights are always just beyond another un
 
 On a very wet and busy motorway, why does the visibility to the rear sometimes seem much better than to the front - maybe even deceiving you into thinking that your rear fog-lamp isn't needed, when it very likely is? The answer is probably a combination of factors, including other vehicles' headlights (behind you) being brighter than the rear lamps ahead, while your own headlights are reflecting back at you off the misty spray.
 
-A physics puzzle: how is it that frost and even icy patches can form on the road when the air temperature is still a degree or two above freezing? Answer: when there is no wind, often what happens is that the ground cools by radiating heat up into a clear sky, while the air (being a good insulator against*conducted*heat) stays warmer.
+A physics puzzle: how is it that frost and even icy patches can form on the road when the air temperature is still a degree or two above freezing? Answer: when there is no wind, often what happens is that the ground cools by radiating heat up into a clear sky, while the air (being a good insulator against *conducted *heat) stays warmer.
 
 When there is a dry breeze but the ground is wet, a different effect is possible - water evaporates from the surface of a puddle, but in order to become vapour it may extract so much heat energy from the remaining liquid that the puddle freezes.
 

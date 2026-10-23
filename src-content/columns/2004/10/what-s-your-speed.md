@@ -18,7 +18,7 @@ Information ... that vital flow which governs your driving and keeps you safe on
 
 When you are on the move and looking at other vehicles ahead or behind or alongside, you are constantly assessing their speed relative to yours, especially if they are coming steadily closer. You can sense exactly how long you have got before contact (if neither of you take avoiding action, that is).
 
-However, this relative speed is a very different thing from*absolute*speed, which is the rate at which you are actually moving along the road. I find this sometimes much harder to guess at (before checking the speedometer). On a narrow road I tend to overestimate my true speed, while on a wide one the opposite happens. This is to be expected because the further away the roadside is, the more slowly it will be sliding across my field of view.
+However, this relative speed is a very different thing from *absolute *speed, which is the rate at which you are actually moving along the road. I find this sometimes much harder to guess at (before checking the speedometer). On a narrow road I tend to overestimate my true speed, while on a wide one the opposite happens. This is to be expected because the further away the roadside is, the more slowly it will be sliding across my field of view.
 
 But even looking at the speedometer doesn't give you anything like a proper sense of how fast you and other vehicles are travelling. It's a long time since I had to wait beside the hard shoulder of a motorway but from what I remember, that is the place to begin appreciating what 70+ mph really means.
 

@@ -23,7 +23,7 @@ Hot sun on the tyres will add another pound or two, and so will sustained drivin
 
 Anyway, there's no doubt that the mileage readings are going to be all over the place, depending on how much of the tyre is flat against the road. I decided to demonstrate this with a simple experiment, measuring the same journey of about four miles twice, changing the pressures by four pounds in between.
 
-The two readings differed by no more than one-fortieth of a mile! In other words, an odometer is consistent to rather*better*than one part in a hundred, when there are moderate changes in tyre pressure. This was quite a surprise but, on thinking about it, the reason must be that even though the apparent radius of the tyre may vary a bit, its circumference stays constant as it measures out the road.
+The two readings differed by no more than one-fortieth of a mile! In other words, an odometer is consistent to rather *better *than one part in a hundred, when there are moderate changes in tyre pressure. This was quite a surprise but, on thinking about it, the reason must be that even though the apparent radius of the tyre may vary a bit, its circumference stays constant as it measures out the road.
 
 Back now to the first question: what is the effect on the odometer as the tread wears down - from 8 mm to 2 mm depth, say? This will certainly reduce the circumference of the tyre, by at least 2%, so you can expect your measured journey mileages to increase by this much over the life of the tyres.
 

@@ -16,7 +16,7 @@ header_images:
 
 This month my mind is on friction, the force that your tyres use for gripping the road as you steer or accelerate or brake or negotiate a hill. A dull topic? Not if you stick with me! Friction (in physics and in motoring) behaves like this: when two surfaces are being pushed across one another they grip together, resisting the force that is trying to make them slide - but only up to a limit.
 
-This maximum grip depends on (1) the state of the two surfaces, and (2) how much*downward*force is pressing them together. So the heavier your car is, the more tyre grip will be available to brake with. But don't forget you will need the extra braking force because the car is heavier. This is why the Stopping Distances in the Highway Code apply equally to all vehicles (in theory).
+This maximum grip depends on (1) the state of the two surfaces, and (2) how much *downward *force is pressing them together. So the heavier your car is, the more tyre grip will be available to brake with. But don't forget you will need the extra braking force because the car is heavier. This is why the Stopping Distances in the Highway Code apply equally to all vehicles (in theory).
 
 What you ought to worry about is item (1), the state of your tyres and the road. This can make the grip vary from almost as much as you will ever need, down to almost zero. I needn't go into details, I'm sure. But I do want to try to explain how it is that your four tyres won't always be gripping the road equally.
 
@@ -24,7 +24,7 @@ Think first about braking: this effectively transfers some of the weight of the 
 
 Next, think about steering: on a tight bend, the outer two tyres (front and rear) are bearing the greater load and therefore supplying most of the sideways grip that you need to get round. Now suppose you make the mistake of braking sharply (while on the bend): I don't believe any braking system is able to allow for a left-right difference in grip, like it can between front and rear. If one wheel locks up, extra stress will be put on the other tyres. [Footnote: even though I mention ABS (Antiskid Braking System) below, I forgot that it does of course detect and allow for left-right differences in grip when it's preventing individual wheels from locking!]
 
-If two or more wheels start to slide, you will be in real difficulties. The point to remember is that the available grip between each tyre and the road has to cover both the steering force*and*the braking force. Hence the rule: don't brake while you are cornering. And the more slippery the road surface, the sooner you will get into trouble if you do...
+If two or more wheels start to slide, you will be in real difficulties. The point to remember is that the available grip between each tyre and the road has to cover both the steering force *and *the braking force. Hence the rule: don't brake while you are cornering. And the more slippery the road surface, the sooner you will get into trouble if you do...
 
 Which reminds me that I didn't say why my mind is on friction and tyre grip. It's because I've just fulfilled a vow I made here more than a year ago, by spending a morning on the skid-pan at Castle Combe! It was three hours of terrific fun, plus expert instruction and the invaluable experience of what different skids feel like and practising how to escape them.
 

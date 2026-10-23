@@ -18,7 +18,7 @@ If I glance back at my 'writings' so far (all 72 of them), several themes emerge
 
 Let me start another one. Many objects (solid or otherwise) have their own natural frequency of oscillation or resonance. Think of a stretched string or similar: you can pluck it to make it sound a note, but more interestingly it will resonate on its own (ie, unplucked) to something nearby that's vibrating at that same rate. Or indeed it can pick up any one of a whole series of frequencies: twice its natural one, or three times, and so on. (It can even oscillate at several of these frequencies at once, but let's not get too involved.)
 
-Tension doesn't necessarily have to be applied. On a ship once, I noticed a long thin chain hanging across a gangway. The vibration from the engine down below was shaking it with an oscillation split into*thirteen sections*(looking like <><><><>but with curves), showing that the engine speed happened to be exactly 13 times the natural frequency of the loose chain. A magical sight, to a physicist!
+Tension doesn't necessarily have to be applied. On a ship once, I noticed a long thin chain hanging across a gangway. The vibration from the engine down below was shaking it with an oscillation split into *thirteen sections*(looking like <><><><>but with curves), showing that the engine speed happened to be exactly 13 times the natural frequency of the loose chain. A magical sight, to a physicist!
 
 Or imagine a panel (can you guess where I'm leading?), fixed around its edge but free to move in the middle. This too will resonate to various external frequencies. So it's no surprise, really, that the engine of a car can induce anything slightly loose on the vehicle to vibrate, when the frequency is right.
 
@@ -26,13 +26,13 @@ It occurred to me to ask a person in the know if manufacturers have to go to som
 
 Physics isn't the only science capable of illuminating motoring, I must admit. I've mentioned before that one model of car looks much like another these days. This is surely analagous to convergent evolution in biology: different species acquiring similar features in response to facing the same conditions and needing to adapt to them!
 
-Another theme I have explored over the years is that of the eye and the brain and optical illusions. I've learnt quite a bit while writing about such things. I was familiar with many illusions before, but less so with what caused them - nor did I quite realize how relevant this topic is to driving: the fact is, not only may you fail to take in much of what should be visible on the road ahead of you, but some of what you*think*you see is pure imagination.
+Another theme I have explored over the years is that of the eye and the brain and optical illusions. I've learnt quite a bit while writing about such things. I was familiar with many illusions before, but less so with what caused them - nor did I quite realize how relevant this topic is to driving: the fact is, not only may you fail to take in much of what should be visible on the road ahead of you, but some of what you *think *you see is pure imagination.
 
 I feel that every driver should be aware of the dangers that can arise from this. The more you focus on an approaching hazard, for example, the more likely it is that you will overlook something else important at a different distance or in another direction. Or rather, your eyes may see it but your brain won't tell you about it. So: keep your attention moving around.
 
 As for more general aspects of driving, I hesitate (a little) to lecture on them unless I can apply some scientific thinking. A while ago I unearthed two big numbers, from different sources: in 2005 the total annual distance driven in Great Britain was 300 billion miles, while nearly 500,000 vehicles met with accidents. Dividing one number by the other tells us that the average driver has just one accident in more than 600,000 miles.
 
-No wonder people think they are safe at the wheel! They don't realize that combining this tiny chance of trouble with the large potential*consequences*of an accident actually puts themselves (and others) at serious risk.
+No wonder people think they are safe at the wheel! They don't realize that combining this tiny chance of trouble with the large potential *consequences *of an accident actually puts themselves (and others) at serious risk.
 
 And so we get drivers doing such plainly dangerous things as adjusting a sat-nav while on the move (this is now, apparently, a bigger cause of accidents than using a mobile phone), or controlling the wheel with just the palm of a hand - though I guess in the latter case their 'defence' might be that at least they can always steer instantly in either direction in an emergency, unlike people who are in the habit of cornering with one hand gripping the opposite side of the wheel.
 

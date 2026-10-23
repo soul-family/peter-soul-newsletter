@@ -26,4 +26,4 @@ At the wheel your gaze tends to be attracted along the road into the distance, p
 
 And then there is the effect of the blind spot I mentioned, in each eye: hold your right hand spread out (palm towards you) at about arm's length, look hard at the thumb, then cover your right eye with your left hand (or else just close it), and you will lose sight of at least part of a finger. You rely totally on your right eye to detect anything appearing in this particular direction - perhaps a dog wandering at the roadside - and similarly on the right eye, for things on the left.
 
-Hence the advice that we are given as advanced drivers: keep sweeping your gaze from side to side, just as you might do when*not*concentrating on a task. Then there is a good chance that you will see that dog clearly and in good time, instead of as a blur, or not at all. Don't be blind to Spot!
+Hence the advice that we are given as advanced drivers: keep sweeping your gaze from side to side, just as you might do when *not *concentrating on a task. Then there is a good chance that you will see that dog clearly and in good time, instead of as a blur, or not at all. Don't be blind to Spot!

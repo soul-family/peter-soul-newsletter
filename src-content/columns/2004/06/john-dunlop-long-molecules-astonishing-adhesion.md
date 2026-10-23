@@ -24,7 +24,7 @@ Now a tyre is always slightly flattened against the road (if it was pumped up ha
 
 We can look at it another way: imagine you are having to push a vehicle along a smooth level road, out of gear, brakes off - why is a fair amount of effort required to keep it moving? A large part of the answer is the friction between those molecules in the rubber.
 
-The technical name for what you are pushing against is*rolling resistance*. According to a recent test report on tyres from a consumers' organization, with some brands your fuel consumption will be up to 6% higher than with others, because of their higher resistance to rolling.
+The technical name for what you are pushing against is *rolling resistance* . According to a recent test report on tyres from a consumers' organization, with some brands your fuel consumption will be up to 6% higher than with others, because of their higher resistance to rolling.
 
 I have since worked out something that the report didn't mention: this 6% difference in mpg adds up to something like the cost of four tyres, over their lifetime mileage. In other words, by switching from the brand that wastes the most amount of your money in heat to the one that wastes the least, you could save enough to pay for the tyres themselves!
 

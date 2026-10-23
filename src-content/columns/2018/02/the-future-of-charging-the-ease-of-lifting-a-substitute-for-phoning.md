@@ -14,7 +14,7 @@ header_images:
     height: 75
 ---
 
-Looking back at my recent columns, I notice several topics that need updating! Let's start with electric cars (which I discussed only last month): I mentioned that public charging points for them would become more common. Naturally I was thinking of fixed terminals that you need to drive up to (probably having queued for a while). But now I've seen news of*mobile*charging units, to be imported from the United States by BP and installed on its forecourts for testing.
+Looking back at my recent columns, I notice several topics that need updating! Let's start with electric cars (which I discussed only last month): I mentioned that public charging points for them would become more common. Naturally I was thinking of fixed terminals that you need to drive up to (probably having queued for a while). But now I've seen news of *mobile *charging units, to be imported from the United States by BP and installed on its forecourts for testing.
 
 Except that being mobile, they won't need to be installed - hence there will some cost-saving (for BP) from the start. And not only can the charger be wheeled across to your car, but it could also be moved to another site, or even to a vehicle that has run out of juice on the road.
 
@@ -24,7 +24,7 @@ The National Grid should be in favour of this (fairly new) piece of equipment, a
 
 It would be feasible for any business with a staff car-park to invest in some mobile chargers, detailing off an employee to manage them. Though this points to the main uncertainty about their future everywhere: will the cost of an attendant's time outweigh the savings from convenience of installation and use?
 
-By coincidence, on the newspaper page where I first read about mobile chargers was a report of a project to make use of those electric vehicles that*are*plugged directly into a mains charging-point. Focusing first on firms with electric fleets, the idea is to use their batteries as storage for the National Grid.
+By coincidence, on the newspaper page where I first read about mobile chargers was a report of a project to make use of those electric vehicles that *are *plugged directly into a mains charging-point. Focusing first on firms with electric fleets, the idea is to use their batteries as storage for the National Grid.
 
 A big problem for the grid has always been how to balance supply and demand, in the absence of any sizeable storage capacity. But with thousands (and soon millions) of vehicle batteries being plugged in for charging, why not employ them at the same time for supporting the grid when, say, wind and sun power are in short supply? All that's required is a control system to ensure that each battery still ends up fully charged - and an inverter-box, like the one that's fed by the solar panels on your roof for changing their DC output to AC.
 
@@ -36,7 +36,7 @@ In my October column I described another American product: the EksoVest, which I
 
 But I can definitely see something to worry about in the news of a more powerful design of 'exoskeleton' that is being developed for American soldiers by Lockheed: this version is battery-powered, weighs 12 kg and fits the body from the waist down - boosting leg-power by "up to 27 times" when, for example, heavy loads need to be carried uphill.
 
-A British expert was quoted as saying that there was also "huge potential for the UK military." One imagines our brave lads clanking over hilly terrain a bit like the Martians in*War of the Worlds*. But suppose that halfway up a long slope they pause to check their kit... and find that the batteries are almost flat. What are they supposed to do then: phone the BP Forecourt Airborne Recharging Service?
+A British expert was quoted as saying that there was also "huge potential for the UK military." One imagines our brave lads clanking over hilly terrain a bit like the Martians in *War of the Worlds* . But suppose that halfway up a long slope they pause to check their kit... and find that the batteries are almost flat. What are they supposed to do then: phone the BP Forecourt Airborne Recharging Service?
 
 Lastly, you may recall that I've discussed smart-phones several times recently. Perish the thought that I was deliberately presenting arguments to justify my reluctance to acquire one of these small screens myself! But anyone can see that their addictiveness (for drivers, cyclists and pedestrians) causes accidents and near-misses, and that their users, whether indoors or out, are effectively cut off from their surroundings.
 

@@ -14,7 +14,7 @@ header_images:
     height: 54
 ---
 
-Among the news releases from the IAM in last month's [Thames Valley Group] newsletter, did you notice some startling statistics? An information request to Highways England (HE, though until recently the Highways Agency, HA) had revealed that in 2014 there were*more than\**440,000*lane-closures on motorways and primary A-roads - closures all sanctioned by HE (I mean HA), presumably.
+Among the news releases from the IAM in last month's [Thames Valley Group] newsletter, did you notice some startling statistics? An information request to Highways England (HE, though until recently the Highways Agency, HA) had revealed that in 2014 there were *more than\**440,000 *lane-closures on motorways and primary A-roads - closures all sanctioned by HE (I mean HA), presumably.
 
 Vehicle breakdowns were by far the biggest cause, numerically, at 41% of the total. The second-largest item in the list was planned roadworks, but at only 14%. And therefore the IAM castigated people who didn't maintain their cars properly, thus putting lives at risk.
 
@@ -24,7 +24,7 @@ And for many drivers, of course, time is money: what an appalling waste it is of
 
 You may rightly guess that I dislike any sort of waste! As an example, on the road as I approach a roundabout or other 'obstruction', always in my mind is the petrol I can save by lifting my foot early, hence having to brake less - in other words, converting less fuel finally into totally wasted heat.
 
-Do I overdo this? Possibly. But I like to think (a) that it counterbalances other drivers who race up and then brake hard at the last minute, and (b) that I can make up for any time lost, by afterwards accelerating away briskly, which is I believe the most efficient way, fuel-wise, of getting back up to speed. (Incidentally, it's also a way of clarifying the intentions of a driver behind who you sense may be a tail-gater: if you succeed in putting a gap between you, and you're now up at the speed limit, then he/she will have to*exceed*the limit by some margin in order to close the gap again.)
+Do I overdo this? Possibly. But I like to think (a) that it counterbalances other drivers who race up and then brake hard at the last minute, and (b) that I can make up for any time lost, by afterwards accelerating away briskly, which is I believe the most efficient way, fuel-wise, of getting back up to speed. (Incidentally, it's also a way of clarifying the intentions of a driver behind who you sense may be a tail-gater: if you succeed in putting a gap between you, and you're now up at the speed limit, then he/she will have to *exceed *the limit by some margin in order to close the gap again.)
 
 Anyway, everyone has to strike their own balance between wasting something, and inconveniencing themselves by not wasting it! Though once you've got into the habit of economizing, the 'inconvenience' soon seems unimportant. Here at home we keep jugs beside the taps, downstairs and upstairs, for collecting the hot-tap run-off while the water is warming up; it then gets used later for rinsing. To us it's absurd to be pouring mains water, which costs money to produce, straight down the drain. (Some might even take the view that toilet-flushing with quantities of purified mains water is wasteful of it...)
 

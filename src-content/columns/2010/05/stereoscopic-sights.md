@@ -16,7 +16,7 @@ header_images:
 
 As you read this [in the Thames Valley Group Newsletter] Mrs S and I have, I hope, just returned from a week in the South of France, staying with my sister and husband who live close to the Pyrenees. As I write this, before packing to depart, I am trying to banish thoughts of the Icelandic volcano (which could disrupt flights again) and recall instead the mountains down south. And they in turn are making me think - rather loosely - about what you might see when you are gazing at hills anywhere.
 
-Your two eyes (if I can assume they are working well) capture tiny, slightly shifted images of the scene in front of you. These are merged by an astonishing feat of brain-work into a clear 3D view, in which things appear to you not only solid but also at definite distances (see my [July 2003](../../../2003/07/eye-brain-and-the-road-ahead-continued.md)column for more on this).
+Your two eyes (if I can assume they are working well) capture tiny, slightly shifted images of the scene in front of you. These are merged by an astonishing feat of brain-work into a clear 3D view, in which things appear to you not only solid but also at definite distances (see my [July 2003](../../../2003/07/eye-brain-and-the-road-ahead-continued.md) column for more on this).
 
 But because your eyes are only about 6 cm apart, stereo vision can only operate like this up to a distance of around 100 metres from you. So everything further off ought to look flat, as if it was painted on a backdrop. Yet very often it doesn't: you find you can tell the relative distances of further objects fairly easily. How is this so? It's that clever brain again, taking in clues such as the light and shade on things, their apparent size, and how they fit into the perspective of the scene.
 
@@ -26,9 +26,9 @@ There's a motoring connection coming! First, you're probably aware that if you l
 
 Now let me magnify the parallax hugely by driving you past some hills: looking to the side as we build up speed, you can see the nearer slopes apparently moving past faster than the further ones. And as a result you should find you are actually able to visualize some of the hills now as distant solid objects. I always enjoy this experience, especially down among the Pyrenees. Alas, you can't do so if you're the driver!
 
-Thinking about hills reminds me also of the first (and possibly finest) walking holiday that Mrs S and I went on, nine years ago, following winding footpaths while our luggage was transported for us. This too was in the South of France, and some of the stopping-points were*bastides*: medieval fortified hill-top villages.
+Thinking about hills reminds me also of the first (and possibly finest) walking holiday that Mrs S and I went on, nine years ago, following winding footpaths while our luggage was transported for us. This too was in the South of France, and some of the stopping-points were *bastides* : medieval fortified hill-top villages.
 
-The average daily trek was only about ten miles, but each one felt as ambitious and rewarding as a day's driving would have been, anywhere. On our first day of progress, the bastide we had left kept coming into view again between other lesser hills (sometimes behind us, sometimes on the left or right), as if repeating an*au revoir*. But nothing compared with seeing the village of Cordes sur Ciel, as we rounded a slope. Some lucky photographers have caught it rising up out of surrounding mist. But even without this it took our breath away ... as did the final climb up to it!
+The average daily trek was only about ten miles, but each one felt as ambitious and rewarding as a day's driving would have been, anywhere. On our first day of progress, the bastide we had left kept coming into view again between other lesser hills (sometimes behind us, sometimes on the left or right), as if repeating an *au revoir* . But nothing compared with seeing the village of Cordes sur Ciel, as we rounded a slope. Some lucky photographers have caught it rising up out of surrounding mist. But even without this it took our breath away ... as did the final climb up to it!
 
 And thinking about walking reminds me that I notice a curious difference between journeys on foot and by car: after any long walk, I can recall all its twists and turns and features for days (and some of them for much longer). But after a drive, much less detail seems to stay in the mind, even if the route was a familiar one.
 
@@ -38,7 +38,7 @@ On holiday I naturally take photos to reinforce the memories, and indeed I've be
 
 StartFragment![](../../../assets/images/car_R_r_.jpg) ![](../../../assets/images/car_L_r_.jpg) [Just for the record, nearly all of what follows was not included in the original newsletter column.]
 
-It may not work for everyone, but here's how to view my Corolla (not to mention several gardens) in 3D: hold your face close to the screen with a car in front of each eye, relax both eyes, and then lean away slowly back to reading distance. If you have managed to keep the left eye focused on the left photo, and the right on the right, you should be aware of*three*pictures - the centre one being stereoscopic. This isn't my cleverness but your brain's, as it works on the images, like I said at the start (though it might take the eyes and brain a few seconds fully to lock into the solidity of the picture).
+It may not work for everyone, but here's how to view my Corolla (not to mention several gardens) in 3D: hold your face close to the screen with a car in front of each eye, relax both eyes, and then lean away slowly back to reading distance. If you have managed to keep the left eye focused on the left photo, and the right on the right, you should be aware of *three *pictures - the centre one being stereoscopic. This isn't my cleverness but your brain's, as it works on the images, like I said at the start (though it might take the eyes and brain a few seconds fully to lock into the solidity of the picture).
 
 I'm assuming, by the way, that your PC monitor is displaying each photo about 6 cm wide. If they are larger/smaller, it will help if you reduce/enlarge them: holding the CTRL key down and pressing - or + should do the trick (if you want to be sure of resetting the display exactly afterwards, click Page or View, then Zoom).
 
@@ -52,7 +52,7 @@ I can report now that Mrs S and I travelled by air to the S of France and back o
 
 The images are set out below (starting with views of the Pyrenees) in two blocks: smaller for easy 'parallel' viewing, like the first pair of Corollas were above, and then larger and swapped over for crossways viewing as I've just described (and if this works for you, don't forget to zoom in on the pictures too). I hope you will be able to appreciate the solidness as vividly as I can.
 
-Finally, if you*have*managed to see these pictures in 3D, you might enjoy following up something else I've tried: a Google-images search for "stereo pairs" ([Google Images](https://images.google.com/)). Of the huge number of results, some are arranged for parallel viewing and some for crossways. (If you happen to view any stereo pair by the wrong method, the 3D effect will seem to be back to front, or at least not solid.)
+Finally, if you *have *managed to see these pictures in 3D, you might enjoy following up something else I've tried: a Google-images search for "stereo pairs" ([Google Images](https://images.google.com/)). Of the huge number of results, some are arranged for parallel viewing and some for crossways. (If you happen to view any stereo pair by the wrong method, the 3D effect will seem to be back to front, or at least not solid.)
 
 <u>Parallel pairs</u>(put face close to screen, then lean back):
 

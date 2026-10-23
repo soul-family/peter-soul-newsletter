@@ -30,7 +30,7 @@ Recently I've had my first opportunity to study closely a new-style two-part dri
 
 Two more instructions are: "This document [the sheet] ... should be kept safely," and: "Both [card and sheet] should be produced when required." So, after a lifetime of driving, I still don't know whether a licence should be stored away at home or carried around ready to show to people on demand.
 
-The next thing that stands out is the heading*Provisional Entitlement*(on the sheet). This suggests that your new licence is merely an interim document while DVLA works out exactly what categories of vehicle you are qualified to drive. Actually I suspect the letters under the heading are categories one could*learn*to drive under, without having to make a special application.
+The next thing that stands out is the heading *Provisional Entitlement*(on the sheet). This suggests that your new licence is merely an interim document while DVLA works out exactly what categories of vehicle you are qualified to drive. Actually I suspect the letters under the heading are categories one could *learn *to drive under, without having to make a special application.
 
 As for the groups that you are permitted to drive on your own already, it's only when the card is turned over that these (or two of them) become clear. At least, I assume that's the meaning of the outlines of a car, and a car plus a trailer, printed on the back. Though I notice that the trailer isn't attached to its car...
 

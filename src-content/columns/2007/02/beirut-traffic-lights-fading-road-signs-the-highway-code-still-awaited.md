@@ -28,7 +28,7 @@ As for my glaucoma: after I informed the DVLA about it, they sent me to have my 
 
 Last month I surveyed various ways in which you interact with other drivers. Something I didn't mention was the simple hand-wave you give when someone lets you go first. But suppose it's the other way round and you've let another car go first - do you then find yourself lifting your hand in a friendly reply to the wave? I used to, every time, until I realized recently that the drivers aren't generally looking at me but instead are concentrating on the gap that I'm allowing them through. So now I don't often bother to wave back.
 
-In November I argued that the Braking Distances in the current Highway Code should be reduced, but the Thinking Distances need to be increased (by a larger amount, I ought to say). It was encouraging to see the Winter issue of*Advanced Driving*recommending the same, even if rather half-heartedly.
+In November I argued that the Braking Distances in the current Highway Code should be reduced, but the Thinking Distances need to be increased (by a larger amount, I ought to say). It was encouraging to see the Winter issue of *Advanced Driving *recommending the same, even if rather half-heartedly.
 
 Also in November I looked through the Highway Code for oddities and omissions, hoping that some at least might be addressed in the new edition (due out in a month or two). Here's another item for the list, under the heading of mini-roundabouts: "All vehicles MUST pass round the central marking except large vehicles which are physically incapable of doing so." Yet we all know mini-roundabouts with a centre blob that you can't possibly avoid however short your car is. But has there ever been a prosecution for this offence?
 

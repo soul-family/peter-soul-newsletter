@@ -18,18 +18,23 @@
 </head>
 <body>
   {% assign chronological_pages = site.pages | sort: 'date' %}
-  {% assign current_index = nil %}
+  {% assign reverse_pages = chronological_pages | reverse %}
+  {% assign prev_page = nil %}
+  {% assign next_page = nil %}
+  {% assign found = false %}
   {% for p in chronological_pages %}
-    {% if p.url == page.url %}
-      {% assign current_index = forloop.index0 %}
+    {% if p.date and p.url %}
+      {% if p.url == page.url %}
+        {% assign found = true %}
+      {% elsif found == false %}
+        {% assign prev_page = p %}
+      {% elsif found == true and next_page == nil %}
+        {% assign next_page = p %}
+      {% endif %}
     {% endif %}
   {% endfor %}
-  {% assign current_hue = nil %}
-  {% if page.date and current_index %}
-    {% assign current_hue = current_index | times: 137 | modulo: 360 %}
-  {% endif %}
   <div class="layout-wrapper">
-    <div class="left-bar {{ page.background }}"{% if current_hue %} style="--sidebar-bg: hsl({{ current_hue }}, 60%, 80%);"{% endif %}>
+    <div class="left-bar {{ page.background }}">
       <div class="profile-image">
         <a href="{{ site.baseurl }}/">
           <img height="124" width="98" src="{{ site.baseurl }}/assets/images/peter-soul.gif" alt="self" />
@@ -40,7 +45,7 @@
       </nav>
       <div class="header-images">
         {% if page.header_images %}
-          {% for img in page.header_images %}
+          {% for img in page.header_images reversed %}
           <img src="{{ site.baseurl }}/assets/images/autogen/{{ img.src }}" width="{{ img.width }}" height="{{ img.height }}" alt="" />
           {% endfor %}
         {% endif %}
@@ -49,7 +54,7 @@
 
     <main class="main-content">
       <div class="post-body">
-        <h1 class="site-title-body">{{ site.title }}</h1>
+        <h1 class="site-title-body"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
         {% if page.date %}
           {% assign date_parts = page.date | split: '/' %}
           {% assign year = date_parts[0] %}
@@ -60,50 +65,40 @@
           <h2 class="post-title">
             {% if page.date %}{{ month_name }} {{ year }} - {% endif %}{{ page.title }}
           </h2>
+          {% if page.date %}
+          <nav class="post-title-nav" aria-label="Column pagination">
+            {% if prev_page %}
+              <a href="{{ prev_page.url | relative_url }}" class="title-nav-link prev" title="{{ prev_page.title | escape }}" aria-label="Previous column: {{ prev_page.title | escape }}">&larr;</a>
+            {% endif %}
+            {% if next_page %}
+              <a href="{{ next_page.url | relative_url }}" class="title-nav-link next" title="{{ next_page.title | escape }}" aria-label="Next column: {{ next_page.title | escape }}">&rarr;</a>
+            {% endif %}
+          </nav>
+          {% endif %}
         </div>
         <div class="post-content">
           {{ content }}
         </div>
-        {% if page.date %}
-        <nav class="post-footer-nav">
-          {% assign sorted_pages = site.pages | sort: 'date' %}
-          {% assign prev_page = nil %}
-          {% assign next_page = nil %}
-          {% assign found = false %}
-          {% for p in sorted_pages %}
-            {% if p.url == page.url %}
-              {% assign found = true %}
-            {% endif %}
-            {% if p.date and p.url and p.url != page.url %}
-              {% if found == false %}
-                {% assign prev_page = p %}
-              {% endif %}
-              {% if found == true and next_page == nil %}
-                {% assign next_page = p %}
-              {% endif %}
-            {% endif %}
-          {% endfor %}
-          {% if prev_page %}
-            <a href="{{ prev_page.url | relative_url }}" class="footer-nav-link prev">
-              <span class="footer-nav-arrow">&larr;</span>
-              <span class="footer-nav-title">{{ prev_page.title }}</span>
-            </a>
-          {% endif %}
-          {% if next_page %}
-            <a href="{{ next_page.url | relative_url }}" class="footer-nav-link next">
-              <span class="footer-nav-title">{{ next_page.title }}</span>
-              <span class="footer-nav-arrow">&rarr;</span>
-            </a>
-          {% endif %}
-        </nav>
-        {% endif %}
       </div>
     </main>
 
     <div class="right-content">
       <div class="right-content-header">
         <h3 class="newsletter-heading">Columns</h3>
-        <button class="right-sidebar-toggle" aria-label="Toggle newsletter list" onclick="toggleRightSidebar()">☰</button>
+        <nav class="year-jump" aria-label="Jump to a year">
+          {% assign seen_years = '|' %}
+          {% for p in reverse_pages %}
+            {% if p.date %}
+              {% assign year = p.date | split: '/' | first %}
+              {% assign year_key = '|' | append: year | append: '|' %}
+              {% unless seen_years contains year_key %}
+                <a href="#nl-year-{{ year }}">{{ year }}</a>
+                {% assign seen_years = seen_years | append: year | append: '|' %}
+              {% endunless %}
+            {% endif %}
+          {% endfor %}
+        </nav>
+        <button class="right-sidebar-toggle" aria-label="Toggle newsletter list" onclick="toggleRightSidebar()">&#9776;</button>
       </div>
       <ul class="newsletter-list">
         {% include newsletter_list.html %}

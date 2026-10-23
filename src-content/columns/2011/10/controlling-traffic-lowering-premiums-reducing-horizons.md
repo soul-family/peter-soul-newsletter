@@ -14,7 +14,7 @@ header_images:
     height: 43
 ---
 
-I had no space last month to mention (or maybe remind you of) a couple of Jeremy Clarkson's comments on electric cars in the*Top Gear*programme I was talking about. He said: "These cars are not the future, but they do bring us to where the future lies." I'm not sure if this is profound, or a platitude.
+I had no space last month to mention (or maybe remind you of) a couple of Jeremy Clarkson's comments on electric cars in the *Top Gear *programme I was talking about. He said: "These cars are not the future, but they do bring us to where the future lies." I'm not sure if this is profound, or a platitude.
 
 And then he produced the idea - his or someone else's - of supplying electric vehicles (when in transit) the same way dodgems and continental trains are powered: from a suitable current-supplying conductor suspended above the carriageway. Fantastical? Of course: for one thing, the road surface would have to be made conducting also. But at least there would be no need for the vehicles to carry a large, heavy and range-limiting battery (just a small one to get you into your driveway). Though as JC pointed out, it would also give the authorities almost complete control over the movement of traffic!
 
@@ -22,7 +22,7 @@ Like everyone, surely, I dislike having to search out and then pay for insurance
 
 So I was pleased when (on good recommendation) I switched to the agents IAM Surety first for car and then for house insurance, and found that the initial premiums they obtained seemed competitive and the renewal figures not much higher. At last: a broker that consistently found you the 'best rate'.
 
-And then this summer, just before I was due to renew the house cover, a insurer new to me supplied a quote which (after adjustment to match the cover more closely) came in at*half*the IAM Surety renewal premium. When I explained my dilemma to them, they rapidly recalculated (or the insurance company did) and offered me renewal at 30% below their previous figure, as well as increasing the contents cover at my request. Very nice of them, and I accepted.
+And then this summer, just before I was due to renew the house cover, a insurer new to me supplied a quote which (after adjustment to match the cover more closely) came in at *half *the IAM Surety renewal premium. When I explained my dilemma to them, they rapidly recalculated (or the insurance company did) and offered me renewal at 30% below their previous figure, as well as increasing the contents cover at my request. Very nice of them, and I accepted.
 
 But my eyes are now slightly wider open. OK, house insurance is more complex than motor insurance, certainly for us and no doubt for the insurer too. But I am having to think exactly what to do about renewing my car insurance later this month...
 

@@ -1,17 +1,31 @@
 {% assign sorted_pages = site.pages | sort: 'date' | reverse %}
+{% assign current_year = nil %}
 {% for post in sorted_pages %}
   {% if post.date %}
     {% assign date_parts = post.date | split: '/' %}
     {% assign year = date_parts[0] %}
     {% assign month = date_parts[1] %}
     {% capture month_name %}{% include month_name.html month=month %}{% endcapture %}
-    {% assign hue = forloop.rindex0 | times: 137 | modulo: 360 %}
-    <li class="nl-item{% if post.url == page.url %} nl-current{% endif %}" style="--nl-color: hsl({{ hue }}, 60%, 80%);">
-      <span class="nl-date">{{ year }} {{ month_name }}</span>
-      <a href="{{ post.url | relative_url }}" class="nl-title">
-        <span class="nl-dot" aria-hidden="true"></span>
-        <span class="nl-text">{{ post.title }}</span>
-      </a>
-    </li>
+    {% assign month_short = month_name | strip | slice: 0, 3 | upcase %}
+    {% if year != current_year %}
+      {% if current_year %}
+            </ul>
+          </li>
+      {% endif %}
+          <li class="nl-year-group" id="nl-year-{{ year }}">
+            <h4 class="nl-year-header">{{ year }}</h4>
+            <ul class="nl-year-list">
+      {% assign current_year = year %}
+    {% endif %}
+              <li class="nl-item{% if post.url == page.url %} nl-current{% endif %}">
+                <a href="{{ post.url | relative_url }}" class="nl-title" title="{{ post.title | escape }}">
+                  <span class="nl-month {{ post.background }}">{{ month_short }}</span>
+                  <span class="nl-text">{{ post.title }}</span>
+                </a>
+              </li>
   {% endif %}
 {% endfor %}
+{% if current_year %}
+            </ul>
+          </li>
+{% endif %}

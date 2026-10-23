@@ -28,7 +28,7 @@ But compare them with what some other motorists do ... I'm rarely more nervous t
 
 Here's another way you could group motorists: I will happily take criticism or comments on my driving - like any advanced driver, I guess. After all, that's the way we got there. But how do you suggest to most other drivers that they have acquired habits that are putting them, and other road-users, in unnecessary danger? It's one of the great taboos.
 
-I suppose this is because when you're at the wheel the car becomes an extension of yourself, and so the way you drive becomes as sensitive an issue as, well, BO! But the big question is this: are unsafe*vehicles*or unsafe*drivers*potentially the worse road hazard? Just as much as the MOT, surely, we need its equivalent, a regular Motorists' Ableness Check: the MAC, perhaps?
+I suppose this is because when you're at the wheel the car becomes an extension of yourself, and so the way you drive becomes as sensitive an issue as, well, BO! But the big question is this: are unsafe *vehicles *or unsafe *drivers *potentially the worse road hazard? Just as much as the MOT, surely, we need its equivalent, a regular Motorists' Ableness Check: the MAC, perhaps?
 
 Glancing at my July column, I'm reminded that I wrote it in rather a hurry, just before getting ready for what proved to be a most enjoyable holiday in Fife. We went by train up to Kirkcaldy where we hired a car (booked in advance). As with previous driving holidays, let me share some learning-experiences with you.
 
