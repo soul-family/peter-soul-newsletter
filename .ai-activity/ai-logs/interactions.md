@@ -454,3 +454,5 @@
 5. Gave each column a distinct colour, shown as a dot on hover and as the left sidebar background while that column is open.
 
 **Result:** Navigation feels immediate, the front page carries the full archive introduction, and each column has a recognisable colour that carries through to the sidebar.
+
+**Commit:** `800861891083d566bca4a7f206c81301c819ce7d` - Vicki Soul, 2026-10-23 - Add: in-page navigation, front-page introduction, and column colour coding
