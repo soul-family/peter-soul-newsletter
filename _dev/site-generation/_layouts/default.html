@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>
+    {{ page.title }}
+    {% if page.date %}
+      {% assign date_parts = page.date | split: '/' %}
+      {% assign year = date_parts[0] %}
+      {% assign month = date_parts[1] %}
+      {% capture month_name %}{% include month_name.html month=month %}{% endcapture %}
+      - {{ month_name }} {{ year }}
+    {% endif %}
+    - {{ site.title }}
+  </title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}" />
+</head>
+<body>
+  {% assign chronological_pages = site.pages | sort: 'date' %}
+  {% assign reverse_pages = chronological_pages | reverse %}
+  {% assign prev_page = nil %}
+  {% assign next_page = nil %}
+  {% assign found = false %}
+  {% for p in chronological_pages %}
+    {% if p.date and p.url %}
+      {% if p.url == page.url %}
+        {% assign found = true %}
+      {% elsif found == false %}
+        {% assign prev_page = p %}
+      {% elsif found == true and next_page == nil %}
+        {% assign next_page = p %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+  <div class="layout-wrapper">
+    <div class="left-bar {{ page.background }}">
+      <div class="profile-image">
+        <a href="{{ site.baseurl }}/">
+          <img height="124" width="98" src="{{ site.baseurl }}/assets/images/peter-soul.gif" alt="self" />
+        </a>
+      </div>
+      <nav class="sidebar-nav">
+        {% include navigation.html %}
+      </nav>
+      <div class="header-images">
+        {% if page.header_images %}
+          {% for img in page.header_images reversed %}
+          <img src="{{ site.baseurl }}/assets/images/autogen/{{ img.src }}" width="{{ img.width }}" height="{{ img.height }}" alt="" />
+          {% endfor %}
+        {% endif %}
+      </div>
+    </div>
+
+    <main class="main-content">
+      <div class="post-body">
+        <h1 class="site-title-body"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+        {% if page.date %}
+          {% assign date_parts = page.date | split: '/' %}
+          {% assign year = date_parts[0] %}
+          {% assign month = date_parts[1] %}
+          {% capture month_name %}{% include month_name.html month=month %}{% endcapture %}
+        {% endif %}
+        <div class="post-title-bar">
+          <h2 class="post-title">
+            {% if page.date %}{{ month_name }} {{ year }} - {% endif %}{{ page.title }}
+          </h2>
+          {% if page.date %}
+          <nav class="post-title-nav" aria-label="Column pagination">
+            {% if prev_page %}
+              <a href="{{ prev_page.url | relative_url }}" class="title-nav-link prev" title="{{ prev_page.title | escape }}" aria-label="Previous column: {{ prev_page.title | escape }}">&larr;</a>
+            {% endif %}
+            {% if next_page %}
+              <a href="{{ next_page.url | relative_url }}" class="title-nav-link next" title="{{ next_page.title | escape }}" aria-label="Next column: {{ next_page.title | escape }}">&rarr;</a>
+            {% endif %}
+          </nav>
+          {% endif %}
+        </div>
+        <div class="post-content">
+          {{ content }}
+        </div>
+      </div>
+    </main>
+
+    <div class="right-content">
+      <div class="right-content-header">
+        <h3 class="newsletter-heading">Columns</h3>
+        <nav class="year-jump" aria-label="Jump to a year">
+          {% assign seen_years = '|' %}
+          {% for p in reverse_pages %}
+            {% if p.date %}
+              {% assign year = p.date | split: '/' | first %}
+              {% assign year_key = '|' | append: year | append: '|' %}
+              {% unless seen_years contains year_key %}
+                <a href="#nl-year-{{ year }}">{{ year }}</a>
+                {% assign seen_years = seen_years | append: year | append: '|' %}
+              {% endunless %}
+            {% endif %}
+          {% endfor %}
+        </nav>
+        <button class="right-sidebar-toggle" aria-label="Toggle newsletter list" onclick="toggleRightSidebar()">&#9776;</button>
+      </div>
+      <ul class="newsletter-list">
+        {% include newsletter_list.html %}
+      </ul>
+      <footer class="right-content-footer">
+        <p class="license">
+          Website license: 
+          <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+        </p>
+      </footer>
+    </div>
+  </div>
+  <script src="{{ '/assets/js/sidebar.js' | relative_url }}"></script>
+  <script src="{{ '/assets/js/app.js' | relative_url }}"></script>
+</body>
+</html>
