@@ -26,6 +26,13 @@ jobs:
           ruby-version: '3.3'
           bundler-cache: true
 
+      - name: Prepare source
+        run: |
+          rm -rf _site_build
+          mkdir -p _site_build
+          cp -r SRC_CONTENT/. _site_build/
+          cp -r _dev/site-generation/source/. _site_build/
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
@@ -33,7 +40,7 @@ jobs:
       - name: Build Jekyll site
         run: |
           bundle install
-          bundle exec jekyll build --source SRC_CONTENT --baseurl "${{ steps.pages.outputs.base_path }}"
+          bundle exec jekyll build --source _site_build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
 
